@@ -1,0 +1,62 @@
+2016-07-19 23:45:09,108 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-19 23:45:09,109 INFO      * Restarting with stat
+2016-07-19 23:45:09,355 WARNING   * Debugger is active!
+2016-07-19 23:45:09,359 INFO      * Debugger pin code: 294-815-374
+2016-07-19 23:45:34,008 INFO     ***************************
+2016-07-19 23:45:34,009 INFO     List is in the following mongo collection:
+2016-07-19 23:45:34,009 INFO     grief-corpus-only-syn-unq-order-1
+2016-07-19 23:45:34,018 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:34,141 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-19 23:45:34,141 INFO     [u'heartache', u'brokenheartedness', u'heartbreak', u'negative stimulus', u'sorrow']
+2016-07-19 23:45:34,141 INFO     =====END FLAT LIST=====
+2016-07-19 23:45:34,141 INFO     Length of list is:
+2016-07-19 23:45:34,142 INFO     5
+2016-07-19 23:45:34,142 INFO     Length of setlist is:
+2016-07-19 23:45:34,142 INFO     5
+2016-07-19 23:45:34,142 INFO     ***************************
+2016-07-19 23:45:34,142 INFO     ***************************
+2016-07-19 23:45:34,142 INFO     List is in the following mongo collection:
+2016-07-19 23:45:34,142 INFO     grief-corpus-only-syn-unq-order-2
+2016-07-19 23:45:34,146 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:34,266 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:34,388 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:34,512 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:34,646 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:34,768 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-19 23:45:34,769 INFO     [u'heartache', u'stimulation', u'negative stimulus', u'regret', u'stimulus', u'sorrow', u'grieve', u'sadness', u'rue', u'grief', u'brokenheartedness', u'heartbreak', u'sorrowfulness', u'input', u'suffer', u'ruefulness', u'stimulant', u'unhappiness']
+2016-07-19 23:45:34,769 INFO     =====END FLAT LIST=====
+2016-07-19 23:45:34,769 INFO     Length of list is:
+2016-07-19 23:45:34,769 INFO     26
+2016-07-19 23:45:34,770 INFO     Length of setlist is:
+2016-07-19 23:45:34,770 INFO     18
+2016-07-19 23:45:34,770 INFO     ***************************
+2016-07-19 23:45:34,770 INFO     ***************************
+2016-07-19 23:45:34,770 INFO     List is in the following mongo collection:
+2016-07-19 23:45:34,770 INFO     grief-corpus-only-syn-unq-order-3
+2016-07-19 23:45:34,772 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:34,897 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:35,028 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:35,154 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:35,282 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:35,400 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:35,520 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:35,646 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:35,773 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:35,899 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:36,018 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:36,144 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:36,265 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:36,383 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:36,501 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:36,621 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:36,746 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:36,867 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:45:36,985 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-19 23:45:36,985 INFO     [u'suffer', u'herbaceous plant', u'sexual practice', u'rousing', u'brook', u'comprehend', u'input', u'mournfulness', u'put up', u'stick out', u'get', u'perceive', u'bear', u'sexual activity', u'uncheerfulness', u'insert', u'input signal', u'stimulus', u'signal', u'herb of grace', u'excitant', u'lose', u'ruthfulness', u'regret', u'afflict', u'grieve', u'sex', u'brokenheartedness', u'street', u'gloominess', u'heartache', u'worsen', u'lean', u'stimulant drug', u'abide', u'tend', u'sustain', u'digest', u'natural action', u'be', u'run', u'herb', u'sorrow', u'activity', u'component', u'rue', u'countenance', u'let', u'aggrieve', u'ache', u'infix', u'incline', u'receive', u'experience', u'stand', u'permit', u'action', u'undergo', u'feel', u'ruefulness', u'sorrowfulness', u'miss', u'unhappiness', u'decline', u'support', u'stimulation', u'natural process', u'negative stimulus', u'stomach', u'foreplay', u'hurt', u'grief', u'signaling', u'constituent', u'sign', u'spirit', u'tolerate', u'see', u'emotional state', u'sadness', u'endure', u'meet', u'lugubriousness', u'feeling', u'drug', u'have', u'arousal', u'information', u'repent', u'heartbreak', u'go through', u'stimulant', u'be given', u'introduce', u'sex activity', u'refuse', u'element', u'inform', u'allow', u'enter', u'Ruta graveolens']
+2016-07-19 23:45:36,985 INFO     =====END FLAT LIST=====
+2016-07-19 23:45:36,985 INFO     Length of list is:
+2016-07-19 23:45:36,986 INFO     162
+2016-07-19 23:45:36,986 INFO     Length of setlist is:
+2016-07-19 23:45:36,986 INFO     101
+2016-07-19 23:45:36,986 INFO     ***************************
+2016-07-19 23:45:36,988 INFO     127.0.0.1 - - [19/Jul/2016 23:45:36] "POST /corpus/y HTTP/1.1" 200 -
