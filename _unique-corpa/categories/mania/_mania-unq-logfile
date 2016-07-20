@@ -1,0 +1,82 @@
+2016-07-19 23:35:54,296 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-19 23:35:54,296 INFO      * Restarting with stat
+2016-07-19 23:35:54,543 WARNING   * Debugger is active!
+2016-07-19 23:35:54,545 INFO      * Debugger pin code: 294-815-374
+2016-07-19 23:36:17,506 INFO     ***************************
+2016-07-19 23:36:17,506 INFO     List is in the following mongo collection:
+2016-07-19 23:36:17,506 INFO     mania-corpus-only-syn-unq-order-1
+2016-07-19 23:36:17,517 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:17,674 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-19 23:36:17,674 INFO     [u'major affective disorder', u'emotional disturbance', u'cacoethes', u'affective disorder', u'irrational motive', u'passion', u'emotional disorder', u'manic disorder']
+2016-07-19 23:36:17,674 INFO     =====END FLAT LIST=====
+2016-07-19 23:36:17,674 INFO     Length of list is:
+2016-07-19 23:36:17,674 INFO     8
+2016-07-19 23:36:17,675 INFO     Length of setlist is:
+2016-07-19 23:36:17,675 INFO     8
+2016-07-19 23:36:17,675 INFO     ***************************
+2016-07-19 23:36:17,675 INFO     ***************************
+2016-07-19 23:36:17,675 INFO     List is in the following mongo collection:
+2016-07-19 23:36:17,676 INFO     mania-corpus-only-syn-unq-order-2
+2016-07-19 23:36:17,679 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:17,839 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:17,981 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:18,138 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:18,277 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:18,414 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:18,581 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:18,712 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:18,850 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-19 23:36:18,850 INFO     [u'major affective disorder', u'motivation', u'love', u'sexual desire', u'cacoethes', u'affective disorder', u'motive', u'irrational motive', u'Passion', u'need', u'eros', u'emotionalism', u'disturbance', u'folie', u'mental disturbance', u'emotional disturbance', u'passionateness', u'passion', u'warmth', u'object', u'concupiscence', u'heat', u'mania', u'Passion of Christ', u'emotional disorder', u'desire', u'psychological disorder', u'rage', u'emotionality', u'suffering', u'excruciation', u'physical attraction', u'agony', u'mental disorder', u'feeling']
+2016-07-19 23:36:18,850 INFO     =====END FLAT LIST=====
+2016-07-19 23:36:18,850 INFO     Length of list is:
+2016-07-19 23:36:18,850 INFO     65
+2016-07-19 23:36:18,851 INFO     Length of setlist is:
+2016-07-19 23:36:18,851 INFO     35
+2016-07-19 23:36:18,851 INFO     ***************************
+2016-07-19 23:36:18,851 INFO     ***************************
+2016-07-19 23:36:18,851 INFO     List is in the following mongo collection:
+2016-07-19 23:36:18,851 INFO     mania-corpus-only-syn-unq-order-3
+2016-07-19 23:36:18,853 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:18,986 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:19,113 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:19,244 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:19,372 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:19,501 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:19,628 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:19,757 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:19,887 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:20,024 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:20,157 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:20,303 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:20,434 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:20,570 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:20,712 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:20,846 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:20,982 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:21,106 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:21,234 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:21,369 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:21,508 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:21,648 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:21,786 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:21,916 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:22,047 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:22,174 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:22,303 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:22,444 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:22,576 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:22,722 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:22,855 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:22,985 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:23,122 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:23,252 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:23,381 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-19 23:36:23,511 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-19 23:36:23,511 INFO     [u'ignite', u'major affective disorder', u'oestrus', u'impression', u'do it', u'have a go at it', u'move', u'warmheartedness', u'necessitate', u'misery', u'lie with', u'dearest', u'miserableness', u'touch', u'madness', u'flavor', u'lovingness', u'eros', u'sexual practice', u'disturbance', u'fight', u'hump', u'get it on', u'state', u'spirit', u'feel', u'theme', u'score', u'fad', u'beloved', u'bespeak', u'wretchedness', u'high temperature', u'hope', u'hurly burly', u'do', u'roll in the hay', u'motivating', u'torture', u'couple', u'jazz', u'behave', u'melodic theme', u'anger', u'objective', u'sexual activity', u'mania', u'suffering', u'know', u'trouble', u'physical object', u'condition', u'target', u'desire', u'necessary', u'like', u'psychological feature', u'ire', u'bonk', u'race', u'pauperism', u'concupiscence', u'tactile sensation', u'crucifixion', u'hotness', u'disorder', u'essential', u'somaesthesia', u'enjoy', u'requirement', u'ruffle', u'energy', u'ambiance', u'sexual love', u'sex', u'motive', u'heat energy', u'grammatical constituent', u'arouse', u'Passion', u'look', u'dear', u'hoo-hah', u'human action', u'emotionalism', u'trust', u'be intimate', u'scrap', u'interference', u'content', u'touch sensation', u'mate', u'passion', u'tendency', u'woe', u'painfulness', u'alter', u'movement', u'be', u'noise', u'have sex', u'belief', u'ambience', u'get laid', u'activity', u'modify', u'mental object', u'angriness', u'poverty', u'craze', u'furore', u'ask', u'somesthesia', u'fondness', u'raise', u'change state', u'warmness', u'violence', u'ramp', u'have it away', u'rut', u'motion', u'turn', u'enkindle', u'physical attraction', u'act', u'hoo-ha', u'estrus', u'making love', u'penury', u'emotion', u'intuition', u'love', u'physiological condition', u'render', u'erotic love', u'human activity', u'sexual desire', u'affective disorder', u'cult', u'irrational motive', u'thought', u'make love', u'inclination', u'intuitive feeling', u'utility', u'caring', u'atmosphere', u'perturbation', u'temperature', u'hot up', u'have intercourse', u'passionateness', u'motility', u'storm', u'heating plant', u'furor', u'postulate', u'tactual sensation', u'warmth', u'loved one', u'wish', u'impoverishment', u'fire', u'trait', u'idea', u'change', u'disruption', u'heat', u'wake', u'poorness', u'emotional disorder', u'demand', u'provide', u'constituent', u'requisite', u'heating system', u'have it off', u'physiological state', u'involve', u'cognitive content', u'flavour', u'psychological disorder', u'rage', u'Greek deity', u'require', u'bed', u'love life', u'aim', u'distress', u'somatesthesia', u'torturing', u'lover', u'kindle', u'mental disorder', u'feeling', u'Eros', u'supply', u'motivation', u'fashion', u'motif', u'agitation', u'fury', u'request', u'disapprove', u'cacoethes', u'heating', u'honey', u'affray', u'elicit', u'torment', u'sleep with', u'want', u'need', u'provoke', u'fire up', u'call for', u'manic disorder', u'screw', u'choler', u'end', u'goal', u'tone', u'copulate', u'folie', u'mental disturbance', u'commotion', u'emotional disturbance', u'indigence', u'musical theme', u'take', u'reject', u'affectionateness', u'smell', u'eff', u'evoke', u'status', u'to-do', u'pain', u'combat', u'physical entity', u'kerfuffle', u'object', u'inflame', u'Passion of Christ', u'somatic sensation', u'necessity', u'sex activity', u'pair', u'fighting', u'hurt', u'hurting', u'flutter', u'fray', u'pauperization', u'heat up', u'emotionality', u'upset', u'bang', u'make out', u'stir up', u'excruciation', u'arousal', u'quest', u'lovemaking', u'perception', u'agony', u'opinion', u'notion', u'furnish']
+2016-07-19 23:36:23,511 INFO     =====END FLAT LIST=====
+2016-07-19 23:36:23,512 INFO     Length of list is:
+2016-07-19 23:36:23,512 INFO     429
+2016-07-19 23:36:23,512 INFO     Length of setlist is:
+2016-07-19 23:36:23,512 INFO     270
+2016-07-19 23:36:23,512 INFO     ***************************
+2016-07-19 23:36:23,514 INFO     127.0.0.1 - - [19/Jul/2016 23:36:23] "POST /corpus/y HTTP/1.1" 200 -
