@@ -1,0 +1,62 @@
+2016-07-20 23:43:13,832 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-20 23:43:13,833 INFO      * Restarting with stat
+2016-07-20 23:43:14,092 WARNING   * Debugger is active!
+2016-07-20 23:43:14,097 INFO      * Debugger pin code: 294-815-374
+2016-07-20 23:43:15,874 INFO     ***************************
+2016-07-20 23:43:15,874 INFO     List is in the following mongo collection:
+2016-07-20 23:43:15,874 INFO     patience-corpus-only-syn-unq-order-1
+2016-07-20 23:43:15,882 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:16,010 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-20 23:43:16,010 INFO     [u'card game', u'good nature', u'cards', u'forbearance', u'solitaire', u'longanimity']
+2016-07-20 23:43:16,010 INFO     =====END FLAT LIST=====
+2016-07-20 23:43:16,010 INFO     Length of list is:
+2016-07-20 23:43:16,010 INFO     6
+2016-07-20 23:43:16,010 INFO     Length of setlist is:
+2016-07-20 23:43:16,010 INFO     6
+2016-07-20 23:43:16,010 INFO     ***************************
+2016-07-20 23:43:16,010 INFO     ***************************
+2016-07-20 23:43:16,010 INFO     List is in the following mongo collection:
+2016-07-20 23:43:16,010 INFO     patience-corpus-only-syn-unq-order-2
+2016-07-20 23:43:16,012 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:16,136 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:16,271 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:16,397 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:16,519 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:16,639 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:16,760 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-20 23:43:16,760 INFO     [u'precious stone', u'thrush', u'patience', u'forbearance', u'Pezophaps solitaria', u'jewel', u'holdup', u'good nature', u'delay', u'card game', u'game', u'columbiform bird', u'disposition', u'temperament', u'cards', u'longanimity', u'gem']
+2016-07-20 23:43:16,760 INFO     =====END FLAT LIST=====
+2016-07-20 23:43:16,760 INFO     Length of list is:
+2016-07-20 23:43:16,760 INFO     23
+2016-07-20 23:43:16,761 INFO     Length of setlist is:
+2016-07-20 23:43:16,761 INFO     17
+2016-07-20 23:43:16,761 INFO     ***************************
+2016-07-20 23:43:16,761 INFO     ***************************
+2016-07-20 23:43:16,761 INFO     List is in the following mongo collection:
+2016-07-20 23:43:16,761 INFO     patience-corpus-only-syn-unq-order-3
+2016-07-20 23:43:16,763 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:16,887 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:17,022 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:17,141 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:17,261 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:17,387 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:17,509 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:17,634 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:17,756 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:17,878 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:18,000 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:18,132 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:18,259 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:18,377 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:18,502 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:18,633 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:18,761 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:43:18,885 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-20 23:43:18,885 INFO     [u'decelerate', u'muffin', u'attitude', u'adjustment', u'feat', u'tendency', u'occupation', u'caper', u'slow', u'disposal', u'treasure', u'hold up', u'score', u'vocaliser', u'suspension', u'alter', u'someone', u'somebody', u'hold back', u'good nature', u'break', u'mental attitude', u'vocalizer', u'biz', u'oscine bird', u'gem', u'recreation', u'frolic', u'meat', u'heist', u'readjustment', u'time lag', u'game equipment', u'robbery', u'activity', u'inclination', u'slow down', u'interruption', u'art', u'jewellery', u'precious stone', u'back', u'holdup', u'individual', u'line of work', u'fine art', u'hold off', u'jewelry', u'secret plan', u'crystal', u'ornament', u'gage', u'beautify', u'gemstone', u'solitaire', u'business', u'nature', u'modify', u'candidiasis', u'postponement', u'job', u'pause', u'disposition', u'change', u'wait', u'stone', u'animate being', u'punt', u'gambol', u'mortal', u'longanimity', u'bejewel', u'armed robbery', u'columbiform bird', u'patience', u'exploit', u'registration', u'wager', u'plot', u'gallinaceous bird', u'brute', u'strategy', u'scheme', u'gallinacean', u'singer', u'embellish', u'competition', u'bet on', u'temperament', u'line', u'hold', u'effort', u'grace', u'intermission', u'soul', u'forbearance', u'decorate', u'cards', u'fauna', u'property', u'bet', u'adorn', u'monilia disease', u'deed', u'check', u'contest', u'emotionalism', u'stake', u'detain', u'delay', u'card game', u'animal', u'stickup', u'oscine', u'creature', u'play', u'moniliasis', u'stay', u'beast', u'diversion', u'vocalist', u'inactivity', u'retard', u'romp', u'emotionality', u'slow up', u'Pezophaps solitaria', u'jewel', u'game', u'person', u'quick bread']
+2016-07-20 23:43:18,886 INFO     =====END FLAT LIST=====
+2016-07-20 23:43:18,886 INFO     Length of list is:
+2016-07-20 23:43:18,886 INFO     162
+2016-07-20 23:43:18,886 INFO     Length of setlist is:
+2016-07-20 23:43:18,886 INFO     131
+2016-07-20 23:43:18,886 INFO     ***************************
+2016-07-20 23:43:18,887 INFO     127.0.0.1 - - [20/Jul/2016 23:43:18] "POST /corpus/y HTTP/1.1" 200 -
