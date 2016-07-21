@@ -1,0 +1,338 @@
+2016-07-20 23:41:38,005 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-20 23:41:38,005 INFO      * Restarting with stat
+2016-07-20 23:41:38,243 WARNING   * Debugger is active!
+2016-07-20 23:41:38,248 INFO      * Debugger pin code: 294-815-374
+2016-07-20 23:41:47,552 INFO     ***************************
+2016-07-20 23:41:47,552 INFO     List is in the following mongo collection:
+2016-07-20 23:41:47,552 INFO     grace-corpus-only-syn-unq-order-1
+2016-07-20 23:41:47,560 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:47,682 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-20 23:41:47,682 INFO     [u'deck', u'beneficence', u'gracility', u'prayer', u'correctitude', u'propriety', u'ornament', u'state', u'beautify', u'seemliness', u'Grace', u'petition', u'be', u'state of grace', u'blessing', u'modify', u'embellish', u'good nature', u'gracefulness', u'grace of God', u'change', u'goodwill', u'thanksgiving', u'orison', u'alter', u'Greek deity', u'properness', u'free grace', u'decorate', u'good will', u'saving grace', u'adorn']
+2016-07-20 23:41:47,682 INFO     =====END FLAT LIST=====
+2016-07-20 23:41:47,682 INFO     Length of list is:
+2016-07-20 23:41:47,682 INFO     32
+2016-07-20 23:41:47,683 INFO     Length of setlist is:
+2016-07-20 23:41:47,683 INFO     32
+2016-07-20 23:41:47,683 INFO     ***************************
+2016-07-20 23:41:47,683 INFO     ***************************
+2016-07-20 23:41:47,683 INFO     List is in the following mongo collection:
+2016-07-20 23:41:47,683 INFO     grace-corpus-only-syn-unq-order-2
+2016-07-20 23:41:47,686 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:47,810 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:47,932 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:48,053 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:48,174 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:48,294 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:48,420 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:48,546 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:48,680 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:48,804 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:48,929 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:49,050 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:49,174 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:49,293 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:49,413 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:49,534 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:49,652 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:49,776 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:49,904 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:50,031 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:50,160 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:50,280 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:50,407 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:50,530 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:50,658 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:50,785 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:50,918 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:51,036 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:51,162 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:51,286 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:51,407 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:51,528 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:51,648 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-20 23:41:51,648 INFO     [u'represent', u'deck', u'ornament', u'move', u'vary', u'rest', u'give tongue to', u'commute', u'relation', u'go', u'utter', u'deity', u'wearable', u'worship', u'exchange', u'Be', u'Thanksgiving Day', u'divinity', u'fit', u'supplicant', u'dramatize', u'embody', u'lard', u'spirit', u'better', u'platform', u'add', u'asking', u'pack of cards', u'bespeak', u'beryllium', u'alter', u'petition', u'good', u'magnify', u'government', u'beat', u'propose', u'express', u'Thanksgiving', u'nation', u'symbolise', u'modification', u'quest', u'chemical phenomenon', u'state of matter', u'difference', u'religious text', u'public holiday', u'embroider', u'posture', u'bedeck', u'metallic element', u'sterilise', u'exaggerate', u'edit', u'alteration', u'orison', u'Greek deity', u'properness', u'honor', u'free grace', u'saving grace', u'castrate', u'friendliness', u'Grace', u'commonwealth', u'desexualise', u'interchange', u'occurrence', u'dump', u'set up', u'gracility', u'packet', u'immortal', u'constitute', u'demeanor', u'State', u'cost', u'result', u'make up', u'follow', u'ameliorate', u'thing', u'event', u'clothe', u'article of clothing', u'god', u'State Department', u'religious writing', u'remain', u'verbalize', u'content', u'state', u'beautify', u'desexualize', u'atomic number 4', u'political entity', u'conduct', u'vesture', u'appeal', u'issue', u'falsify', u'ornamentation', u'refer', u'be', u'use up', u'state of grace', u'subject matter', u'honour', u'knock down', u'modify', u'metal', u'United States Department of State', u'dramatise', u'behaviour', u'good will', u'qualify', u'wear', u'disposition', u'hard currency', u'approval', u'outfit', u'stand for', u'change', u'improve', u'unsex', u'convert', u'substance', u'administrative district', u'emotional state', u'country', u'political unit', u'equal', u'benevolence', u'hyperbolize', u'verbalise', u'natural event', u'personify', u'action', u'benediction', u'pack', u'hyerbolise', u'artefact', u'fix', u'replace', u'interpolate', u'typify', u'submit', u'sacred text', u'good luck', u'message', u'correctitude', u'desex', u'habiliment', u'demeanour', u'coin', u'transfer', u'support', u'beneficence', u'body politic', u'good fortune', u'occupy', u'live', u'spay', u'get dressed', u'religious person', u'upshot', u'carriage', u'tell', u'overdraw', u'porch', u'equip', u'feast day', u'blessing', u'artifact', u'approving', u'gracefulness', u'prettify', u'locomote', u'intangible asset', u'sacred writing', u'temperament', u'luckiness', u'deepen', u'fancify', u'grace', u'amplify', u'national holiday', u'fete day', u'amend', u'neuter', u'executive department', u'cash', u'coldcock', u'meliorate', u'territorial division', u'intangible', u'decorate', u'behavior', u'shift', u'posit', u'res publica', u'outcome', u'fit out', u'aggrandize', u'adorn', u'bearing', u'blow up', u'glucinium', u'redact', u'symbolize', u'attribute', u'overstate', u'deck of cards', u'denote', u'decoration', u'say', u'exist', u'goodness', u'prayer', u'clothing', u'dress', u'call for', u'regime', u'put forward', u'floor', u'suggest', u'travel', u'switch', u'sterilize', u'pad', u'take', u'boon', u'seemliness', u'advise', u'Department of State', u'bedight', u'province', u'effect', u'stay', u'occurrent', u'consequence', u'postulation', u'entreaty', u'embellish', u'authorities', u'grace of God', u'aggrandise', u'good nature', u'land', u'legal holiday', u'happening', u'goodwill', u'administrative division', u'invest', u'arrange', u'variety', u'request', u'thanksgiving', u'hard cash', u'propriety', u'deportment', u'supplication', u'DoS', u'reward', u'comprise']
+2016-07-20 23:41:51,649 INFO     =====END FLAT LIST=====
+2016-07-20 23:41:51,649 INFO     Length of list is:
+2016-07-20 23:41:51,649 INFO     409
+2016-07-20 23:41:51,649 INFO     Length of setlist is:
+2016-07-20 23:41:51,649 INFO     267
+2016-07-20 23:41:51,649 INFO     ***************************
+2016-07-20 23:41:51,649 INFO     ***************************
+2016-07-20 23:41:51,650 INFO     List is in the following mongo collection:
+2016-07-20 23:41:51,650 INFO     grace-corpus-only-syn-unq-order-3
+2016-07-20 23:41:51,653 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:51,794 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:51,919 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:52,040 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:52,155 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:52,279 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:52,399 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:52,518 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:52,640 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:52,764 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:52,888 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:53,013 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:53,133 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:53,253 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:53,374 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:53,504 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:53,627 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:53,748 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:53,870 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:53,993 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:54,114 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:54,239 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:54,368 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:54,498 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:54,619 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:54,742 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:54,864 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:54,988 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:55,113 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:55,238 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:55,358 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:55,475 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:55,598 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:55,733 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:55,852 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:55,990 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:56,123 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:56,258 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:56,389 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:56,528 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:56,664 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:56,791 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:56,930 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:57,059 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:57,201 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:57,330 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:57,459 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:57,588 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:57,724 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:57,866 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:57,996 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:58,127 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:58,269 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:58,409 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:58,545 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:58,679 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:58,812 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:58,942 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:59,071 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:59,203 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:59,333 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:59,463 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:59,595 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:59,727 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:41:59,867 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:00,003 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:00,135 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:00,272 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:00,408 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:00,533 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:00,666 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:00,791 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:00,916 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:01,041 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:01,169 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:01,305 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:01,427 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:01,549 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:01,670 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:01,792 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:01,915 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:02,039 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:02,165 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:02,288 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:02,412 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:02,532 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:02,652 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:02,776 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:02,912 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:03,036 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:03,151 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:03,274 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:03,400 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:03,528 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:03,659 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:03,778 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:03,905 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:04,024 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:04,146 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:04,267 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:04,390 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:04,517 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:04,644 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:04,769 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:04,892 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:05,012 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:05,134 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:05,258 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:05,385 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:05,498 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:05,620 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:05,746 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:05,864 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:05,982 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:06,107 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:06,234 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:06,354 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:06,484 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:06,612 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:06,734 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:06,861 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:06,986 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:07,107 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:07,236 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:07,356 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:07,478 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:07,602 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:07,726 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:07,844 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:07,970 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:08,104 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:08,228 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:08,353 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:08,474 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:08,599 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:08,721 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:08,844 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:08,966 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:09,083 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:09,204 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:09,332 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:09,466 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:09,588 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:09,711 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:09,836 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:09,976 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:10,128 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:10,256 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:10,374 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:10,500 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:10,620 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:10,740 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:10,859 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:10,983 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:11,108 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:11,229 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:11,352 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:11,482 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:11,604 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:11,726 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:11,848 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:11,970 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:12,090 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:12,211 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:12,335 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:12,459 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:12,594 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:12,717 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:12,846 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:12,972 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:13,100 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:13,223 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:13,345 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:13,472 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:13,610 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:13,729 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:13,853 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:13,973 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:14,123 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:14,244 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:14,372 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:14,493 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:14,615 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:14,738 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:14,864 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:14,992 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:15,115 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:15,245 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:15,372 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:15,492 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:15,615 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:15,742 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:15,867 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:15,992 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:16,110 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:16,239 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:16,366 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:16,496 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:16,622 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:16,747 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:16,868 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:16,991 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:17,112 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:17,234 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:17,354 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:17,476 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:17,597 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:17,722 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:17,849 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:17,969 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:18,094 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:18,223 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:18,355 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:18,475 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:18,597 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:18,718 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:18,840 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:18,960 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:19,084 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:19,205 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:19,331 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:19,452 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:19,578 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:19,709 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:19,834 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:19,961 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:20,088 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:20,212 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:20,333 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:20,452 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:20,574 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:20,696 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:20,813 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:20,956 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:21,084 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:21,210 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:21,337 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:21,467 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:21,584 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:21,708 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:21,828 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:21,945 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:22,070 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:22,195 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:22,323 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:22,447 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:22,572 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:22,696 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:22,813 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:22,937 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:23,061 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:23,185 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:23,311 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:23,439 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:23,564 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:23,688 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:23,808 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:23,939 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:24,062 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:24,189 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:24,324 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:24,451 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:24,571 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:24,696 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:24,816 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:24,939 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:25,059 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-20 23:42:25,187 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-20 23:42:25,187 INFO     [u'limited', u'temperament', u'hitch', u'lie with', u'sleep', u'heart and soul', u'payoff', u'liveliness', u'calculate', u'swan', u'outwit', u'swap', u'coition', u'stick out', u'rise', u'distort', u'redact', u'affect', u'cut down', u'bring down', u'embroider', u'disturb', u'exaggerate', u'laurels', u'psychological feature', u'throw a fit', u'solution', u'delegate', u'endorse', u'clothes', u'mending', u'charter', u'overdo', u'force', u"make up one's mind", u'give notice', u'conk out', u'direct', u'pulse', u'conniption', u'persuade', u'channelize', u'prosody', u'enounce', u'employ', u'equilibrise', u'political entity', u'conduct', u'natural covering', u'conjure', u'set down', u'succumb', u'cut back', u'applier', u'pay off', u'residual', u'localisation', u'pursuit', u'path', u'rescript', u'pass away', u'dry', u'substance', u'pop the question', u'cause to be perceived', u'study', u'outride', u'verbalise', u'personify', u'permit', u'secure', u'replace', u'fancy up', u'total', u'circumvent', u'unit', u'plot', u'motivate', u"woman's clothing", u'plod', u'foster', u'strike', u'survive', u'care', u'type', u'tell', u'breathe', u'expose', u'ascribe', u'warp', u'cut through', u'hole', u'hold', u'circumstances', u'shoot', u'decoration', u'gear up', u'join', u'room', u'pursue', u'work', u'install', u'carry on', u'territorial dominion', u'endow', u'aggrandize', u'set off', u'inhere in', u'quiver', u'estate', u'give', u'blue-pencil', u'involve', u'currency', u'story', u'attract', u'secern', u'seal off', u'end', u'turn', u'provide', u'verify', u'travel', u'feature', u'enquire', u'significance', u'answer', u'fudge', u'classify', u'construe', u'abstraction', u'utilise', u'mess', u'lot', u'lay', u'inactivity', u'purchase', u'attempt', u'underprice', u'immediate payment', u'pulsate', u'maintain', u'enter', u'filming', u'operate', u'order', u'broider', u'deck', u'ensnare', u'vary', u'digest', u'musical accompaniment', u'fit', u'supplicant', u'fix', u'get it on', u'writing', u'better', u'computer system', u'fall out', u'bespeak', u'take in', u'overcome', u'pay back', u'roost', u'break', u'band', u'bang', u'confute', u'point out', u'meat', u'explode', u'properness', u'tucker out', u'musical time', u"lose one's temper", u'mean', u'fortuity', u'interruption', u'rest period', u'concord', u'garment', u'displacement', u'combust', u'line of work', u'ameliorate', u'extract', u'ring', u'whip', u'clothe', u'contend', u'geographical region', u'decree', u'god', u'animal group', u'content', u'reciprocation', u'adapt', u'surprise', u'get laid', u'bestow', u'entrap', u'kit', u'substantiation', u'government issue', u'change state', u'heading', u'renew', u'written document', u'take out', u'symbolize', u'fill out', u'recite', u'John Cash', u'organize', u'render', u'restrict', u'instruct', u'plurality', u'deplete', u'ride out', u'sacred text', u'enumerate', u'ditch', u'immovable', u'tot', u'motility', u'abridge', u'upshot', u'postulate', u'farming', u'tog', u'garble', u'railway car', u'natural process', u'overdraw', u'serve', u'make a motion', u'embellish', u'digs', u'tack together', u'incur', u'gambler', u'lather', u'branch of knowledge', u'outlay', u'target', u'go forth', u'nominate', u'desexualise', u'coldcock', u'project', u'matter', u'encase', u'endure', u'espouse', u'feeling', u'acquisition', u'fashion', u'resultant role', u'effectuate', u'wagerer', u'get dressed', u'enjoin', u'manner', u'rhythmic pattern', u'accompany', u'seek', u'operate on', u'strength', u'realm', u'laden', u'create from raw stuff', u'hatch', u'transmit', u'bread and butter', u'Supreme Being', u'coiffure', u'taxonomic category', u'object', u'coif', u'mouth', u'reverence', u'utilize', u'coin', u'morality', u'padding', u'singer', u'don', u'camp', u'metal', u'dog', u'laurel wreath', u'flog', u'notion', u'confederation', u'incorporate', u'anatomical structure', u'ending', u'give tongue to', u'earth', u'arrive', u'appealingness', u'be active', u'adoration', u'acquit', u'divinity', u'social control', u'bust', u'spiritual being', u'mend', u'announce', u'wearing', u'do', u'distribute', u'toll', u'stop', u'raiment', u'baffle', u'talk over', u'cadence', u'X', u'public holiday', u'comply', u'artificer', u'covering', u'shape', u'turn up', u'release', u'mien', u'postiche', u'life principle', u'wipe out', u'traverse', u'imitate', u'result', u'change of location', u'fail', u'nub', u'subject', u'heraldic bearing', u'accede', u'capacity', u'government activity', u'sail', u'score', u'write out', u'disprove', u'discipline', u'accord', u'personate', u'extend', u'nature', u'modify', u'weary', u'good will', u'carry through', u'wear', u'medallion', u'improve', u'hours', u'ill temper', u'accident', u'graven image', u'country', u'pith', u'argue', u'give rise', u'tone', u'abbreviate', u'human activity', u'nonconformist', u'aftermath', u'speak', u'bewilder', u'regenerate', u'erect', u'advert', u'Carry Nation', u'interpret', u'interest', u'play along', u'idol', u'passenger car', u'participant role', u'life', u'sprightliness', u'come after', u'feast day', u'legal principle', u'deepen', u'trash dump', u'commerce', u'affirm', u'unmentionable', u'originate', u'air', u'aim', u'suppose', u'itinerary', u'aid', u'balance', u'have', u'smorgasbord', u'draw off', u'recuperate', u'characterize', u'conk', u'Tell', u'disappear', u'perform', u'suggest', u'make', u'undergarment', u'let loose', u'instrument of punishment', u'adult male', u'swell', u'displace', u'opportunity', u'stick around', u'diverseness', u'noesis', u'benignity', u'appease', u'dry land', u'think of', u'wheeled vehicle', u'repose', u'board game', u'semantic role', u'harmonise', u'identify', u'political system', u'endue', u'flooring', u'vibration', u'ease', u'character', u'jaunt', u'federal office', u'hap', u'demasculinise', u'designate', u'disagreement', u'judge', u'Thanksgiving Day', u'sort out', u'specie', u'gift', u'hunt', u'military operation', u'come down', u'reassign', u'state of affairs', u'right', u'deal', u'people', u'edit out', u'physical phenomenon', u'animate', u'work out', u'proceeding', u'apprize', u'fox', u'pick up', u'William Tell', u'track', u'asking', u'core', u'pose', u'check over', u'enunciate', u'shifting', u'substitution', u'peer', u'post', u'stand for', u'face pack', u'go out', u'political unit', u'let out', u'choke', u'multifariousness', u'hyperbolize', u'stay put', u'commit', u'curry', u'croak', u'mixture', u'presence', u'puzzle', u'horizontal surface', u'down', u'ADHD', u'coitus', u'journeying', u'crowd', u'diggings', u'medal', u'support', u'suffice', u'payment', u'editor', u'way', u'tamp', u'head', u'salmagundi', u'form', u'offer', u'inking pad', u'analyse', u'surveil', u'inactiveness', u'ADD', u'outfox', u'disembodied spirit', u'misinform', u'flavour', u'check up on', u'military action', u'executive department', u'adore', u'decorate', u'bide', u'emit', u'delete', u'trim', u'toss', u'abstract', u'crumble', u'exist', u'chastity', u'prayer', u'signification', u'mold', u'check', u'regime', u'solicitation', u'floor', u'enclothe', u'republic', u'demesne', u'papers', u'depot', u'hang on', u'hero-worship', u'intend', u'favorable reception', u'polity', u'journey', u'intent', u'award', u'authorities', u'grace of God', u'trick up', u'happening', u'assume', u'make out', u'tog out', u'accolade', u'fasten', u'blend in', u'coach', u'pass on', u'gussy up', u'impression', u"Earth's surface", u'invent', u'livelihood', u'snip', u'shimmy', u'land site', u'sexual practice', u'discoverer', u'raise up', u'cast away', u'hump', u'vex', u'amaze', u'charge', u'compensate', u'rhythm', u'beryllium', u'persevere', u'busy', u'federation', u'advantage', u'good nature', u'cook', u'word', u'exact', u'sterilise', u'level', u'die', u'invade', u'leave', u'cut across', u'settle', u'rewrite man', u'saving grace', u'pass judgment', u'round', u'intercommunicate', u'look up', u'occurrence', u'oscillation', u'be', u'dealing', u'agitate', u'trading floor', u'cost', u'stupefy', u'wear out', u'subsist', u'beat up', u'move around', u'substitute', u'be intimate', u'assistance', u'appeal', u'satisfy', u'supporting', u'hug drug', u'transportation', u'foliage', u'honour', u'fluke', u'supplying', u'launchpad', u'exemption', u'line up', u'institute', u'shift', u'petitioner', u"catch one's breath", u'detonate', u'conciliate', u'locomotion', u'wear down', u'pillow', u'win over', u'emerge', u'recounting', u'love', u'defer', u'legal proceeding', u'thrum', u'fake', u'surmount', u'attention deficit disorder', u'make love', u'transplant', u'subject matter', u'concoct', u'prove', u'pusher', u'beneficence', u'good fortune', u'live', u'look into', u'meliorate', u'stomach', u'validity', u'approving', u'XTC', u'virtue', u'realty', u'hold still for', u'effort', u'inhabit', u'entrepot', u'transferral', u'befuddle', u'soul', u'get out', u'printing', u'go bad', u'hard currency', u'plump', u'pickle', u'heart', u'figure', u'attribute', u'have it away', u'topic', u'stroke', u'purity', u'clothing', u'occur', u'tilt', u'buckle under', u'offspring', u'write', u'put away', u'gather up', u'chuck out', u'recline', u'deteriorate', u'map', u'jazz', u'produce', u'political science', u'sex activity', u'sound out', u'grow', u'man', u'reposition', u'take a breather', u'remember', u'commodity', u'emotionality', u'applicant', u'hit the roof', u'propriety', u'switch', u'patronise', u'deposit', u'deceive', u'bunk', u'talk', u'entity', u'take exception', u'recoup', u'pitch', u'equip', u'deity', u'worship', u'tendency', u'relegate', u'epitomise', u'platform', u'thump', u'mail', u'Grace', u'petition', u'tote up', u'equipage', u'fling', u'nation', u'idolise', u'provision', u'hall', u'bedevil', u'accommodate', u'execute', u'sublimate', u'give out', u'cognition', u'component part', u'stick to', u'bring out', u'bedight', u'mintage', u'revere', u'mould', u'domain', u'narration', u'supplant', u'happen', u'benefaction', u'reviser', u'counterchange', u'canvas', u'accomplish', u'concur', u'shoot down', u'intercourse', u'horse-drawn vehicle', u'stoppage', u'abide', u'increase', u'extrapolate', u'send word', u'ingathering', u'intermit', u'military capability', u'metallic element', u'circumscribe', u'correct', u'inaction', u'dumbfound', u'divergence', u'governing', u'editor in chief', u'plea', u'remainder', u'delude', u'patronage', u'emotional state', u'load down', u'toss out', u'motion', u'initiate', u'mesh', u'place', u'rewriter', u'edible fat', u'think', u'emotion', u'wad', u'force out', u'recusant', u'periodical', u'carry', u'message', u'open', u'shake up', u'interchange', u'district', u'burst', u'indicate', u'assort', u'finding', u'straighten out', u'sexual morality', u'cite', u'get into', u'world organization', u'artifact', u'fixate', u'crevice', u'government department', u'copy', u'specify', u'inventor', u'sailing', u'rival', u'require', u'electric switch', u'rural area', u'posit', u'outcome', u'pulsation', u'give way', u'gathering', u'register', u'buy the farm', u'stay on', u'say', u'liven up', u'large number', u'rent', u'recover', u'lead on', u'litigate', u'simulacrum', u'offering', u'animation', u'take', u'fracture', u'objective', u'responsibility', u'go through', u'impairment', u'switching', u'channel', u'conform to', u'trace', u'attractiveness', u'price', u'compress', u'declare oneself', u'entreaty', u'inspirit', u'lay out', u'allege', u'remonstrate', u'adopt', u'drive', u'deportment', u'corroborate', u'perch', u'redactor', u'tumefy', u'show', u'cheat', u'throw away', u'shoe', u'sum up', u'ground', u'fibre', u'desex', u'machinate', u'proportion', u're-create', u'slog', u'patch up', u'invocation', u'ball over', u'dispute', u'get', u'beatnik', u'financial backing', u'counsel', u'go to', u'outlet', u'sex act', u'reveal', u'resource', u'consist', u'outperform', u'yield', u'primp', u'kernel', u'final result', u'gracility', u'seat', u'relative', u'doings', u'seal', u'habilitate', u'concern', u'suffer', u'commutation', u'incite', u'ornament', u'label', u'put out', u'add up', u'wasteyard', u'import', u'turn out', u'castrate', u'dream up', u'deliver', u'stay in place', u'style', u'countenance', u'invite', u'aggrandise', u'come', u'stun', u'pertain', u'paroxysm', u'mixed bag', u'contract', u'tumesce', u'belie', u'get going', u'workplace', u'railway', u'adorn', u'department of the federal government', u'backpack', u'exploit', u'learning', u'endeavor', u'watch over', u'favourable reception', u'boat', u'teddy', u'wobble', u'get back', u'legal holiday', u'relatedness', u'get hold of', u'come forth', u'direction', u'enable', u'gist', u'system of rules', u'persist', u'capableness', u'observe', u'declaration', u'restorative', u'spirit', u'case', u'amend', u'straighten', u'cast', u'conveyance', u'hyperkinetic syndrome', u'bowdlerise', u'situation', u'region', u'natural event', u'residuum', u'baby buggy', u'vest', u'physical process', u'computing system', u'soil', u'disk operating system', u'heterogeneousness', u'good', u'return', u"blow one's stack", u'property', u'worry', u'develop', u'ADP system', u'doctor', u'keep an eye on', u'pay', u'tour', u'trip', u'pad', u'telephone exchange', u'document', u'exhaust', u'finish', u'see', u'physical entity', u'assist', u'postulation', u'work over', u'vocalist', u'vantage', u'dress up', u'recital', u'suppliant', u'miscellany', u'termination', u'model', u'judicial principle', u'political platform', u'dimension', u'do it', u'rest', u'blow out of the water', u'cease', u'wearing apparel', u'touch', u'think about', u'flavor', u'death', u'hint', u'sterilize', u'improvement', u'pile', u'lade', u'roll in the hay', u'read', u'bow', u'symbolise', u'traffic', u'mob', u'secernate', u'supervene upon', u'rear', u'commove', u'fortune', u'come about', u'subscribe', u'smell', u'orison', u'deviate', u'engross', u'reenforcement', u'Din Land', u'hit the ceiling', u'fulfil', u'monetary value', u'pronounce', u'pursuance', u'glucinium', u'bonk', u'get the better of', u'lend', u'pioneer', u'exit', u'situate', u'ornamentation', u'refer', u'business', u'intimate', u'hold out', u'communicate', u'assemble', u'throw', u'emasculate', u'central', u'package', u"flip one's wig", u'check out', u'mail boat', u'stand', u'equalize', u'act', u'happy chance', u'luck', u'backup', u'hard cash', u'even up', u'communication', u'image', u'garb', u'have on', u'determine', u'strip', u'prepare', u'paraphernalia', u'qualifying', u'relocation', u'start', u'lop', u'suss out', u'outmatch', u'back up', u'press out', u'potpourri', u'gibe', u'complete', u'fixture', u'lodgings', u'betoken', u'fig out', u'fancify', u'amplify', u'regimen', u'indorse', u'tog up', u'rage', u'fabricate', u'impute', u'periodic event', u'carnal knowledge', u'agree', u'describe', u'censor', u'resultant', u'examine', u'put across', u'politics', u'deed', u'call for', u'film', u'fill', u'appurtenance', u'storage', u'ingroup', u'field', u'immunity', u'think up', u'deviation', u'blessing', u'field of study', u'separate', u'symbol', u'overreach', u'recognise', u'requester', u'funding', u'fix up', u'assets', u'neuter', u'invest', u'fit out', u'groom', u'unsex', u'keep up', u'apparel', u'expenditure', u'resolution', u'sexual congress', u'represent', u'consider', u'spring up', u'commute', u'large indefinite quantity', u'welfare', u'follow', u'launch pad', u'hunting', u'drive home', u'rubbish dump', u'tail', u'program', u'solicit', u'go ballistic', u'sustain', u'heterogeneity', u'sound', u'parcel', u'sexual activity', u'group action', u'decide', u'ticket', u'difference', u'fag', u'condition', u'induct', u'keep going', u'celebrity', u'call down', u'invigorate', u'adjust', u'duty period', u'vanquish', u'sit down', u'set up', u'cash', u'rate', u'design', u'make up', u'pass', u'canvass', u'state of grace', u'misrepresent', u'scissure', u'ribbon', u'residue', u'sue', u'sum', u'localization', u'lurch', u'verbalize', u'crush', u'atomic number 4', u'falsify', u'multitude', u'movement', u'speech act', u'empower', u'component', u'dramatise', u'United States Department of State', u'behaviour', u'electrical switch', u'relaxation', u'equilibrize', u'bring up', u'arena', u'search', u'tamp down', u'administrative district', u'disinfect', u'experience', u'summate', u'permutation', u'action', u'delapidate', u'call forth', u'depart', u'vie', u'waste-yard', u'uprise', u'capital', u'put', u'sanction', u'have kittens', u'establish', u'select', u'proceed', u'enliven', u'indispose', u'care for', u'trounce', u'governance', u'preen', u'garnish', u'intumesce', u'flap', u'line', u'fend for', u'stick', u'sacred writing', u'ADPS', u'have it off', u'kibosh', u'national holiday', u'include', u'fete day', u'deck out', u'chisel', u'channelise', u'remain', u'learn', u'scramble', u'compare', u'prompt', u'fall apart', u'intravenous injection', u'accept', u'sphere', u'asseverate', u'arise', u'phrase', u'dress', u'publicise', u'demasculinize', u'concept', u'enlarge', u'stir', u'even out', u'plant', u'okay', u'whirl', u'check into', u'work party', u'subscribe to', u'coat', u'documentation', u'minimal brain damage', u'departure', u'fig up', u'mislead', u'inquire', u'shore', u'trick out', u'cast out', u'deterioration', u'run through', u'DoS', u'bushel', u'help', u'essence', u'trade', u'attitude', u'paper', u'brio', u'snuff it', u'change integrity', u'drop dead', u'fissure', u'put together', u'eunuch', u'posture', u'pram', u'alter', u'eternal sleep', u'someone', u'somebody', u'seeking', u'motley', u'propose', u'invigoration', u'chemical phenomenon', u'compound', u'speculate', u'association', u'political program', u'load up', u'capability', u'touch on', u'found', u'formulate', u'reduce', u'idea', u'benefit', u'undertake', u'operation', u'thing', u'event', u'Greek deity', u'embellishment', u'article of clothing', u'prink', u'publish', u'research', u'chopine', u'equate', u'desexualize', u'issue', u'chemical element', u'take place', u'fiber', u'solvent', u'belief', u'circumstance', u'go after', u'knock down', u'real estate', u'guess', u'difficulty', u'run low', u'base', u'disposition', u'clique', u'ask', u'teach', u'swop', u'beginning', u'give in', u'fiat', u'lodge in', u'take aback', u'launch', u'packet boat', u'give-and-take', u'accumulation', u'relation back', u'sicken', u'consequence', u'heartbeat', u'undergo', u'assign', u'go over', u'purport', u'feel', u'relate', u'number', u'notify', u'wages', u'fill up', u'weapons platform', u'differ', u'international organisation', u'construct', u'sexual relation', u'bailiwick', u'religious person', u'store', u'lease', u'pare', u'statement', u'discombobulate', u'aver', u'part', u'differentiate', u'rifle', u'translation', u'personal manner', u'grace', u'kind', u'fit in', u'kettle of fish', u'nitty-gritty', u'imply', u'hike', u'declare', u'do work', u'postdate', u'reparation', u'God', u'overstate', u'attention deficit hyperactivity disorder', u'put up', u'carry-over', u'plump for', u'sell', u'lie', u'have a fit', u'severalize', u'transference', u'dumpsite', u'comportment', u'travel back and forth', u'build', u'legal action', u'seemliness', u'brace', u'eff', u'relief', u'province', u'play', u'go on', u'coterie', u'reckon', u'perambulator', u'charm', u'plan', u'pack together', u'rip off', u'diversify', u'reward', u'goodwill', u'cover', u'takings', u'organise', u'blend', u'phenomenon', u'restore', u'consult', u'area', u'readjustment', u'relation', u'find', u'occupation', u'get up', u'eat up', u'piece of writing', u'symptom', u'pack of cards', u'circle', u'even off', u'hit', u'take after', u'invoke', u'chase after', u'Thanksgiving', u'obtain', u'remedy', u'frock', u'intensify', u'get across', u'alteration', u'remove', u'federal department', u'supercede', u'activity', u'launching pad', u'locating', u'landed estate', u'set', u'signify', u'dump', u'jade', u'sex', u'poetic rhythm', u'venerate', u'individual', u'bare', u'bark', u'change of state', u'pull down', u'famous person', u'come out', u'social unit', u'transferee', u'bettor', u'bring together', u'mailboat', u'succeed', u'tramp', u'distinguish', u'last', u'reverse', u'lash', u'whole', u'pushchair', u'reside', u'consume', u'supply', u'terra firma', u'correctitude', u'bolster', u'raise', u'have in mind', u'create', u'acceptance', u'inkpad', u'change', u'miscellanea', u'territory', u'mercantilism', u'switch over', u'fund', u'understand', u'demand', u'deport', u'heighten', u'conjure up', u'conception', u'look', u'beat out', u'tolerate', u'pace', u'confederacy', u'behavior', u'carry out', u'guide', u'pack', u'kingdom', u'pound', u'paint a picture', u'backing', u'cook up', u'comport', u'wash up', u'confound', u'ecstasy', u'ready', u'rig', u'vanish', u'domiciliation', u'chase', u'fate', u'put on', u'belong', u'shorten', u'garbage dump', u'Nation', u'modification', u'advise', u'conflict', u'heraldry', u'moment', u'put forward', u'purpose', u'pick out', u'assortment', u'expend', u'supersede', u'inflate', u'military posture', u'theology', u'person', u'hash out', u'withdraw', u'spend', u'comprise', u'endeavour', u'quarters', u'foreshorten', u'couch', u'wearable', u'tidy up', u'push down', u'cut', u'tablet', u'alternate', u'put down', u'transfer of training', u'punter', u'location', u'armorial bearing', u'harmonize', u'transformation', u'format', u'evaluate', u'characterise', u'indite', u'aggregation', u'mental attitude', u'quest', u'jibe', u'cleft', u'change by reversal', u'emergence', u'signal', u'collect', u'continue', u'OS', u'back', u'leafage', u'large indefinite amount', u'palm', u'instal', u'battalion', u'decision', u'supporting structure', u'throw out', u'pen', u'behave', u'getup', u'slash', u'lard', u'natural action', u'inclination', u'standing', u'run', u'subject area', u'cushioning', u'recumb', u'respite', u'divest', u'puff up', u'vesture', u'prohibitionist', u'trade good', u'block', u'repair', u'ensue', u'break down', u'good luck', u'convulsion', u'numerate', u'submit', u'occupy', u'spay', u'suit', u'analyze', u'minimal brain dysfunction', u'manufacture', u'plunge', u'perplex', u'sleep with', u'tally', u'gracefulness', u'plume', u'square away', u'deck up', u'go-cart', u'mystify', u'travelling', u'ticktack', u'commercialism', u'difference of opinion', u'incase', u'divinity fudge', u'bodily property', u'taxonomic group', u'turnout', u'kick the bucket', u'reconcile', u'corrective', u'judicial doctrine', u'motion-picture photography', u'influence', u'deprive', u'live on', u'bear on', u'rally', u'military issue', u'clean up', u'fixing', u'international organization', u'express mail', u'abide by', u'income', u'forge', u'bad temper', u'confine', u'Department of State', u'revision', u'draw', u'pureness', u'Cash', u'resign', u'meaning', u'recurrent event', u'structure', u'land', u'trail', u'confirm', u'orbit', u'stir up', u'make full', u'measure up', u'stroller', u'disco biscuit', u'evidence', u'effigy', u'fag out', u'proposition', u'baby carriage', u'gang', u'go', u'adjustment', u'compact', u'compose', u'disposal', u'send', u'grammatical gender', u'ambience', u'metal money', u'gravel', u'pad of paper', u'nonplus', u'telling', u'physical object', u'arrange', u'bedeck', u'sexual intercourse', u'gender', u'shock', u'global organization', u'try', u'free grace', u'transmutation', u'car', u'outdo', u'cast aside', u'friendliness', u'assemblage', u'go game', u'crop', u'fly off the handle', u'State', u'traveling', u'append', u'outsmart', u'religious writing', u'create verbally', u'attire', u'pass over', u'body', u'stance', u'exchange', u'keep abreast', u'quell', u'bowdlerize', u'let', u'res publica', u'run short', u'geographic region', u'convert', u'engage', u'receive', u'metre', u'benevolence', u'survey', u'defeat', u'opinion', u'honor', u'fulfill', u'claim', u'win', u'manage', u'egress', u'work shift', u'rede', u'apply', u'depute', u'manipulate', u'superordinate', u'subject field', u'use', u'stipulate', u'take up', u'financial support', u'thin out', u'sort', u'Land', u'bodily structure', u'solid ground', u'porch', u'trait', u'impress', u'dealings', u'train', u'intangible asset', u'complex body part', u'recount', u'cognitive content', u'consort', u'challenge', u'human action', u'archer', u'musical notation', u'meet', u'nurture', u'proof', u'control', u'edict', u'tap', u'process', u'lock', u'taxon', u'tag', u'ingest', u'slip', u'supernatural being', u'voice', u'weaken', u'pass off', u'syndrome', u'democracy', u'sit', u'emotionalism', u'written matter', u'patronize', u'delay', u'Edwin Herbert Land', u'stock', u'exemplify', u'cristal', u'express', u'attend', u'visual aspect', u'watch', u'go away', u'come to', u'collection', u'tack', u'fatigue', u'marrow', u'get over', u'prettify', u'overdress', u'administrative division', u'correspond', u'element', u'budge', u'supplication', u'allow', u'alloy', u'presuppose', u'furnish', u'social science', u'move', u'meter', u'toss away', u'written material', u'vocaliser', u'superior', u'decay', u'progeny', u'hang in', u'dispose', u'equalise', u'methylenedioxymethamphetamine', u'acres', u'choose', u'underpin', u'way out', u'holiday', u'footslog', u'junction', u'actuate', u'spell', u'muddle', u'mention', u'vocalizer', u'consumer goods', u'Adam', u'kindness', u'edit', u'programme', u'mode', u'commonwealth', u'variegate', u'remediate', u'ambiance', u'constitute', u'vital principle', u'intangible', u'measure', u'bay', u'category', u'defend', u'State Department', u'impart', u'cause', u'give voice', u'Johnny Cash', u'perish', u'expurgate', u'dwell', u'swell up', u'body forth', u'strap', u'faulting', u'set ashore', u'interaction', u'bowman', u'substantiate', u'route', u'wear thin', u'yarn', u'keep', u'conversation', u'mortal', u'benediction', u'crowd together', u'give chase', u'incarnate', u'confuse', u'scene', u'sack', u'quality', u'publication', u'chance event', u'system', u'body politic', u'attach', u'attack', u'flip-flop', u'circulate', u'cash in', u'shell', u'form of government', u'gear', u'acquire', u'higher-up', u'accompaniment', u'simulate', u'luckiness', u'coinage', u'prune', u'beg', u'bed', u'limiting', u'arouse', u'embody', u'spiritedness', u'exhibit', u'dress out', u'blow up', u'clip', u'fluctuation', u'tidy', u'deck of cards', u'outstrip', u'need', u'tell apart', u'screw', u'stick with', u'depict', u'inform', u'plunk for', u'apprise', u'mechanism', u'issuing', u'neaten', u'cozen', u'look at', u'cipher', u'counterbalance', u'device', u'musical rhythm', u'class', u'crew', u'get even', u'request', u'thanksgiving', u'proceedings', u'rig out', u'affair', u'atmosphere', u'terminate', u'add together', u'bring', u'industrialist', u'utter', u'fear', u'feat', u'pause', u'typewrite', u'knowledge', u'tire', u'MDMA', u'dramatize', u'give-up the ghost', u'jam', u'outwear', u'gratify', u'righteousness', u'handle', u'commendation', u'means', u'beat', u'coiffe', u'rack up', u'hire', u'bear', u'create from raw material', u'have sex', u'operating system', u'puff out', u'hold on', u'transposition', u'stamp pad', u'geographic area', u'intermission', u'stuff', u'tot up', u'contain', u'action at law', u'frame', u'packet', u'body structure', u'dislodge', u'reinforce', u'railroad track', u'destiny', u'travel along', u'diverge', u'state', u'beautify', u'depicted object', u'launch area', u'use up', u'avow', u'opening', u'indue', u'transpose', u'interpolate', u'job', u'key', u'approval', u'outfit', u'action mechanism', u'tantrum', u'drum', u'military strength', u'equal', u'assure', u'admit', u'careen', u'puff', u'tire out', u'ticktock', u'railroad', u'brook', u'predication', u'wonder', u'walk', u'typify', u'respect', u'shift key', u'hold up', u'treat', u'qualify', u'take on', u'diversity', u'living quarters', u'assert', u'controller', u'locomote', u'suspension', u'pass around', u'present', u'bear out', u'cypher', u'appearance', u'value', u'territorial division', u'fault', u'railroad car', u'pop off', u'wear off', u'hairpiece', u'bring about', u'site', u'surface', u'sustenance', u'equilibrate', u'halt', u'capture', u'MBD', u"flip one's lid", u'cross', u'wangle', u'world organisation', u'infer', u'practice', u'absorb', u'spirit up', u'effect', u'occurrent', u'issuance', u'variety show', u'compeer', u'expand', u'tucker', u'retard', u'transaction', u'center', u'trudge', u'approve', u'variety', u'thought', u'welt', u'position', u'publicize', u'inwardness', u'load', u'sheaf', u'take away', u'have a go at it', u'necessitate', u'storey', u'evince', u'surpass', u'real property', u'detain', u'permute', u'wear upon', u'Be', u'bracing', u'take aim', u'cinematography', u'religious text', u'hyerbolise', u'point', u'O.K.', u'discuss', u'arrest', u'add', u'crack', u'reason', u'match', u'railcar', u'magnify', u'government', u'grammatical relation', u'open up', u'know', u'burden', u'state of matter', u'tick', u'name', u'geographical area', u'vivification', u'automatic data processing system', u'contentedness', u'Carry Amelia Moore Nation', u'become', u'replacement', u'decease', u'exceed', u'drop', u'glare', u'propel', u'get rid of', u'change over', u'immortal', u'demeanor', u'convey', u'expressage', u'liking', u'transport', u'geological fault', u'leaf', u'congress', u'lead', u'public transport', u'evoke', u'outgo', u'copulation', u'false hair', u'catch up with', u'inner circle', u'obey', u'eternal rest', u'mental object', u'expire', u'variation', u'narrate', u'stage', u'throng', u'shipping', u'idolize', u'swear', u'dominion', u'epitomize', u'fuddle', u'discard', u'revise', u'artefact', u'severalise', u'put in', u'rectify', u'articulate', u'registration', u'demeanour', u"cash in one's chips", u'transfer', u'have intercourse', u'put back', u'granting immunity', u'function', u'buy', u'storehouse', u'volume', u'basketball play', u'construction', u'attach to', u'assail', u'furbish up', u'eat', u'count', u'mint', u'compute', u'denominate', u'flip', u'reinforcement', u'record', u'carriage', u'convince', u'limit', u'enthrone', u'piece', u'display', u'bearing', u'habiliment', u'devise', u'recognize', u'contribute', u'denote', u'last out', u'goodness', u'natural phenomenon', u'proceeds', u'blow a fuse', u'flummox', u'repay', u'chemise', u'activeness', u'boon', u'liven', u'conclusion', u'pass along', u'living', u'bundle', u'stay', u'chance', u'quietus', u'knuckle under', u'appoint', u'validness', u'portion', u'compete', u'determination', u'validation']
+2016-07-20 23:42:25,188 INFO     =====END FLAT LIST=====
+2016-07-20 23:42:25,188 INFO     Length of list is:
+2016-07-20 23:42:25,188 INFO     4835
+2016-07-20 23:42:25,188 INFO     Length of setlist is:
+2016-07-20 23:42:25,188 INFO     2289
+2016-07-20 23:42:25,188 INFO     ***************************
+2016-07-20 23:42:25,189 INFO     127.0.0.1 - - [20/Jul/2016 23:42:25] "POST /corpus/y HTTP/1.1" 200 -
