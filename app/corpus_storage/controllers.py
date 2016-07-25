@@ -1,6 +1,7 @@
 from flask import jsonify
 import json
 import requests
+import ast
 
 from datetime import datetime
 
@@ -83,5 +84,11 @@ def get_storage_object(collection, for_web):
 
 def save_storage_object(collection):
     result = get_storage_object(collection, False)
+    mcs = mongo_corpus_storage.db['lingustic-affects'].find({'word': collection})
+    # mcs
+    # print ast.literal_eval(dumps(mcs))
+    if len(ast.literal_eval(dumps(mcs))) > 0:
+        mongo_corpus_storage.db['lingustic-affects'].remove({'word': collection})
     mongo_corpus_storage.db['lingustic-affects'].insert_one(result)
+
     return "Saved!"
