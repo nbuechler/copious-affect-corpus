@@ -53,6 +53,9 @@ This object is stored in a collection, and is gernerated from the information st
 '''
 _for_collection_with_order
 '''
+
+all_affects = ['acceptance', 'admiration', 'affection', 'amusement', 'anger', 'anticipation', 'anxiety', 'appraisal', 'appreciation', 'arousal', 'arrogance', 'awe', 'blame', 'boredom', 'calmness', 'compassion', 'compromise', 'concern', 'confidence', 'confusion', 'contempt', 'contentment', 'curiosity', 'denial', 'depression', 'desire', 'despair', 'dimension', 'disappointment', 'disgust', 'dissonance', 'distress', 'dread', 'ecstasy', 'edginess', 'embarrassment', 'enjoyment', 'enthusiasm', 'envy', 'eroticism', 'excitement', 'exuberance', 'fear', 'grace', 'gratification', 'gratitude', 'grief', 'happiness', 'harmony', 'hate', 'hope', 'humility', 'indifference', 'interest', 'irritation', 'jealousy', 'joy', 'love', 'lunacy', 'lust', 'mania', 'melancholy', 'pain', 'panic', 'patience', 'perturbation', 'pity', 'pleasure', 'pride', 'rage', 'relief', 'remorse', 'reproach', 'resentment', 'resignation', 'sadness', 'satisfaction', 'shame', 'shock', 'stress', 'surprise', 'triumph', 'trust', 'wonder', 'worry']
+
 def get_mongo_corpus(collection, order):
     return dumps(mongo_corpus.db[collection + '-corpus-only-syn-unq-order-' + order].find())
 
@@ -85,10 +88,15 @@ def get_storage_object(collection, for_web):
 def save_storage_object(collection):
     result = get_storage_object(collection, False)
     mcs = mongo_corpus_storage.db['lingustic-affects'].find({'word': collection})
-    # mcs
-    # print ast.literal_eval(dumps(mcs))
     if len(ast.literal_eval(dumps(mcs))) > 0:
         mongo_corpus_storage.db['lingustic-affects'].remove({'word': collection})
     mongo_corpus_storage.db['lingustic-affects'].insert_one(result)
-
     return "Saved!"
+
+'''
+_for_all_collections
+'''
+def save_all_storage_objects():
+    #TODO: Error handling, like what happens if this fails!?
+    
+    return "Saved All Affects!"

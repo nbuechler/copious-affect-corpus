@@ -40,3 +40,10 @@ def get_complete_object(collection):
 @corpus_storage.route('/save_complete_object/<collection>/')
 def save_complete_object(collection):
     return controllers.save_storage_object(collection)
+
+'''
+_for_all_collections
+'''
+@corpus_storage.route('/save_complete_object/all/')
+def save_all_complete_object():
+    return controllers.save_all_storage_objects()
