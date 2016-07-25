@@ -35,6 +35,11 @@ python app/runserver.py 5000
 * pymongo==2.9.3
 
 
+# List of affects for this to data
+```
+acceptance, admiration, affection, amusement, anger, anticipation, anxiety, appraisal, appreciation, arousal, arrogance, awe, blame, boredom, calmness, compassion, compromise, concern, confidence, confusion, contempt, contentment, curiosity, denial, depression, desire, despair, dimension, disappointment, disgust, dissonance, distress, dread, ecstasy, edginess, embarrassment, enjoyment, enthusiasm, envy, eroticism, excitement, exuberance, fear, grace, gratification, gratitude, grief, happiness, harmony, hate, hope, humility, indifference, interest, irritation, jealousy, joy, love, lunacy, lust, mania, melancholy, pain, panic, patience, perturbation, pity, pleasure, pride, rage, relief, remorse, reproach, resentment, resignation, sadness, satisfaction, shame, shock, stress, surprise, triumph, trust, wonder, worry
+```
+
 # CREDITS
 ```
 To build a corpus ('Be Excellent to Each Other')
