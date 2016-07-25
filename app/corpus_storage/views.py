@@ -36,3 +36,7 @@ _for_collection
 def get_complete_object(collection):
     for_web = True
     return controllers.get_storage_object(collection, for_web)
+
+@corpus_storage.route('/save_complete_object/<collection>/')
+def save_complete_object(collection):
+    return controllers.save_storage_object(collection)

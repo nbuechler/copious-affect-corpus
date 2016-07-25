@@ -62,7 +62,7 @@ def get_flat_lists(collection, order, for_web):
     if for_web:
         return dumps(set(flat_lists))
     else:
-        return set(flat_lists)
+        return list(set(flat_lists))
 
 '''
 _for_collection
@@ -81,6 +81,7 @@ def get_storage_object(collection, for_web):
     else:
         return storage_object
 
-def save_storage_object(collection, for_web):
+def save_storage_object(collection):
     result = get_storage_object(collection, False)
     mongo_corpus_storage.db['lingustic-affects'].insert_one(result)
+    return "Saved!"
