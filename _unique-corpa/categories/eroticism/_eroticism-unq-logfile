@@ -1,0 +1,64 @@
+2016-07-24 22:21:27,568 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 22:21:27,568 INFO      * Restarting with stat
+2016-07-24 22:21:27,814 WARNING   * Debugger is active!
+2016-07-24 22:21:27,820 INFO      * Debugger pin code: 294-815-374
+2016-07-24 22:21:32,506 INFO     ***************************
+2016-07-24 22:21:32,506 INFO     List is in the following mongo collection:
+2016-07-24 22:21:32,506 INFO     eroticism-corpus-only-syn-unq-order-1
+2016-07-24 22:21:32,515 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:32,652 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-24 22:21:32,653 INFO     [u'sexiness', u'erotism', u'sexual desire', u'sexual arousal', u'physical attraction', u'amorousness', u'concupiscence', u'amativeness', u'eros']
+2016-07-24 22:21:32,653 INFO     =====END FLAT LIST=====
+2016-07-24 22:21:32,653 INFO     Length of list is:
+2016-07-24 22:21:32,653 INFO     9
+2016-07-24 22:21:32,653 INFO     Length of setlist is:
+2016-07-24 22:21:32,653 INFO     9
+2016-07-24 22:21:32,653 INFO     ***************************
+2016-07-24 22:21:32,653 INFO     ***************************
+2016-07-24 22:21:32,653 INFO     List is in the following mongo collection:
+2016-07-24 22:21:32,653 INFO     eroticism-corpus-only-syn-unq-order-2
+2016-07-24 22:21:32,655 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:32,784 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:32,915 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:33,039 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:33,166 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:33,297 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:33,416 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:33,542 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:33,656 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:33,775 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-24 22:21:33,775 INFO     [u'eroticism', u'sexiness', u'love', u'enamoredness', u'erotism', u'sexual desire', u'sexual arousal', u'Greek deity', u'Eros', u'physical attraction', u'amorousness', u'concupiscence', u'arousal', u'desire', u'amativeness', u'eros']
+2016-07-24 22:21:33,775 INFO     =====END FLAT LIST=====
+2016-07-24 22:21:33,775 INFO     Length of list is:
+2016-07-24 22:21:33,776 INFO     54
+2016-07-24 22:21:33,776 INFO     Length of setlist is:
+2016-07-24 22:21:33,776 INFO     16
+2016-07-24 22:21:33,776 INFO     ***************************
+2016-07-24 22:21:33,776 INFO     ***************************
+2016-07-24 22:21:33,776 INFO     List is in the following mongo collection:
+2016-07-24 22:21:33,777 INFO     eroticism-corpus-only-syn-unq-order-3
+2016-07-24 22:21:33,778 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:33,914 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:34,053 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:34,170 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:34,295 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:34,415 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:34,539 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:34,670 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:34,795 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:34,912 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:35,035 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:35,152 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:35,294 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:35,413 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:35,533 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:35,662 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-24 22:21:35,781 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-24 22:21:35,782 INFO     [u'eroticism', u'enjoy', u'trust', u'love', u'physiological condition', u'do it', u'sexual desire', u'have a go at it', u'sexual love', u'sex', u'honey', u'arousal', u'lie with', u'dearest', u'sleep with', u'enamoredness', u'dear', u'deity', u'make love', u'wakefulness', u'tendency', u'amativeness', u'sexiness', u'screw', u'sexual practice', u'change of state', u'sexual activity', u'be intimate', u'want', u'copulate', u'rousing', u'god', u'hump', u'get it on', u'have intercourse', u'stimulation', u'mate', u'bang', u'beloved', u'inclination', u'bespeak', u'passion', u'eros', u'immortal', u'couple', u'eff', u'lovemaking', u'loved one', u'roll in the hay', u'object', u'bed', u'foreplay', u'get laid', u'jazz', u'wish', u'have sex', u'lover', u'hope', u'know', u'amorousness', u'sex activity', u'pair', u'divinity', u'score', u'have it off', u'emotion', u'physiological state', u'desire', u'like', u'erotism', u'call for', u'Greek deity', u'erotic love', u'sexual arousal', u'request', u'have it away', u'make out', u'love life', u'bonk', u'quest', u'physical attraction', u'concupiscence', u'feeling', u'making love', u'Eros']
+2016-07-24 22:21:35,782 INFO     =====END FLAT LIST=====
+2016-07-24 22:21:35,782 INFO     Length of list is:
+2016-07-24 22:21:35,782 INFO     151
+2016-07-24 22:21:35,782 INFO     Length of setlist is:
+2016-07-24 22:21:35,782 INFO     85
+2016-07-24 22:21:35,782 INFO     ***************************
+2016-07-24 22:21:35,783 INFO     127.0.0.1 - - [24/Jul/2016 22:21:35] "POST /corpus/y HTTP/1.1" 200 -
