@@ -33,7 +33,7 @@ mongo_corpus = PyMongo(app, config_prefix='MONGOCORPUS')
 '''
 
 '''
-The aim of corpus_builder.py is to build a corpus of synonyms around a primary word.
+The aim of corpus_builder python files are to build a corpus of synonyms around a primary word.
 
 i.e.
 Affect (order-0)
