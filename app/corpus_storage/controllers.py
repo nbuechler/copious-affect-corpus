@@ -98,5 +98,6 @@ _for_all_collections
 '''
 def save_all_storage_objects():
     #TODO: Error handling, like what happens if this fails!?
-    
+    for affect in all_affects:
+        save_storage_object(affect)
     return "Saved All Affects!"
