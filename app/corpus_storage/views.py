@@ -17,10 +17,22 @@ def controller_default():
 def get_raw_corpus_collection(collection):
     return 'Remember to specifiy an order to get back data for collection: ' + collection
 
+'''
+_for_collection_with_order
+'''
 @corpus_storage.route('/raw_corpus_collection/<collection>/<order>/')
-def get_raw_corpus_collection_with_order(collection, order):
-    return controllers.get_mongo_corpus_collection_with_order(collection, order)
+def get_raw_corpus(collection, order):
+    return controllers.get_mongo_corpus(collection, order)
 
 @corpus_storage.route('/raw_corpus_collection/<collection>/<order>/flat_list')
-def get_flat_lists_for_collection_with_order(collection, order):
-    return controllers.get_flat_lists_for_collection_with_order(collection, order)
+def get_flat_lists(collection, order):
+    for_web = True
+    return controllers.get_flat_lists(collection, order, for_web)
+
+'''
+_for_collection
+'''
+@corpus_storage.route('/complete_object/<collection>/')
+def get_complete_object(collection):
+    for_web = True
+    return controllers.get_storage_object(collection, for_web)

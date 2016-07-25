@@ -49,11 +49,38 @@ This object is stored in a collection, and is gernerated from the information st
 
 '''
 
-def get_mongo_corpus_collection_with_order(collection, order):
+'''
+_for_collection_with_order
+'''
+def get_mongo_corpus(collection, order):
     return dumps(mongo_corpus.db[collection + '-corpus-only-syn-unq-order-' + order].find())
 
-def get_flat_lists_for_collection_with_order(collection, order):
+def get_flat_lists(collection, order, for_web):
     flat_lists = []
     for doc in mongo_corpus.db[collection + '-corpus-only-syn-unq-order-' + order].find():
         flat_lists += (doc['flat_list'])
-    return dumps(set(flat_lists))
+    if for_web:
+        return dumps(set(flat_lists))
+    else:
+        return set(flat_lists)
+
+'''
+_for_collection
+'''
+def get_storage_object(collection, for_web):
+    # TODO: Make so it can take more than the 3
+    storage_object = {
+                      "word": collection,
+                      "utc": datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3],
+                      "order-1": get_flat_lists(collection, '1', False),
+                      "order-2": get_flat_lists(collection, '2', False),
+                      "order-3": get_flat_lists(collection, '3', False),
+                     }
+    if for_web:
+        return dumps(storage_object)
+    else:
+        return storage_object
+
+def save_storage_object(collection, for_web):
+    result = get_storage_object(collection, False)
+    mongo_corpus_storage.db['lingustic-affects'].insert_one(result)
