@@ -1,0 +1,97 @@
+2016-07-26 01:06:11,333 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-26 01:06:11,334 INFO      * Restarting with stat
+2016-07-26 01:06:11,579 WARNING   * Debugger is active!
+2016-07-26 01:06:11,584 INFO      * Debugger pin code: 294-815-374
+2016-07-26 01:06:14,605 INFO     ***************************
+2016-07-26 01:06:14,605 INFO     List is in the following mongo collection:
+2016-07-26 01:06:14,605 INFO     modesty-corpus-only-syn-unq-order-1
+2016-07-26 01:06:14,612 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:14,738 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 01:06:14,738 INFO     [u'propriety', u'modestness', u'properness', u'decency', u'correctitude', u'reserve']
+2016-07-26 01:06:14,738 INFO     =====END FLAT LIST=====
+2016-07-26 01:06:14,738 INFO     Length of list is:
+2016-07-26 01:06:14,738 INFO     6
+2016-07-26 01:06:14,738 INFO     Length of setlist is:
+2016-07-26 01:06:14,738 INFO     6
+2016-07-26 01:06:14,738 INFO     ***************************
+2016-07-26 01:06:14,738 INFO     ***************************
+2016-07-26 01:06:14,739 INFO     List is in the following mongo collection:
+2016-07-26 01:06:14,739 INFO     modesty-corpus-only-syn-unq-order-2
+2016-07-26 01:06:14,742 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:14,864 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:14,991 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:15,115 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:15,239 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:15,365 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:15,483 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 01:06:15,484 INFO     [u'modesty', u'armed services', u'demeanor', u'appropriate', u'reservation', u'correctitude', u'call for', u'substitute', u'jock', u'demeanour', u'taciturnity', u'inexpensiveness', u'propriety', u'portion', u'book', u'war machine', u'conduct', u'bespeak', u'backlog', u'set aside', u'behavior', u'military machine', u'indefinite quantity', u'accumulation', u'territorial division', u'behaviour', u'reticence', u'quest', u'decency', u'second-stringer', u'hold', u'military reserve', u'armed forces', u'earmark', u'moderateness', u'administrative district', u'administrative division', u'uncommunicativeness', u'athlete', u'reasonableness', u'request', u'keep back', u'withhold', u'properness', u'deportment', u'stockpile', u'allot', u'allow', u'military', u'reputability', u'assign', u'respectability']
+2016-07-26 01:06:15,484 INFO     =====END FLAT LIST=====
+2016-07-26 01:06:15,484 INFO     Length of list is:
+2016-07-26 01:06:15,484 INFO     74
+2016-07-26 01:06:15,484 INFO     Length of setlist is:
+2016-07-26 01:06:15,484 INFO     52
+2016-07-26 01:06:15,485 INFO     ***************************
+2016-07-26 01:06:15,485 INFO     ***************************
+2016-07-26 01:06:15,485 INFO     List is in the following mongo collection:
+2016-07-26 01:06:15,485 INFO     modesty-corpus-only-syn-unq-order-3
+2016-07-26 01:06:15,487 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:15,610 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:15,742 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:15,876 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:16,003 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:16,127 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:16,249 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:16,372 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:16,504 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:16,633 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:16,758 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:16,879 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:16,999 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:17,137 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:17,270 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:17,403 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:17,526 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:17,647 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:17,768 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:17,897 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:18,019 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:18,147 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:18,281 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:18,409 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:18,531 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:18,654 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:18,775 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:18,899 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:19,026 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:19,146 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:19,271 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:19,398 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:19,519 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:19,644 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:19,767 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:19,891 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:20,014 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:20,137 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:20,258 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:20,383 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:20,507 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:20,624 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:20,749 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:20,875 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:21,009 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:21,136 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:21,259 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:21,382 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:21,508 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:21,628 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:21,756 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:21,879 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:06:22,011 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 01:06:22,011 INFO     [u'pass on', u'consider', u'content', u'handgrip', u'calculate', u'hunting', u'swan', u'dubiousness', u'tail', u'asking', u'solicit', u'include', u'fill-in', u'incapacitate', u'parcel', u'dispense', u'detention', u'rationality', u'clench', u'physical object', u'condition', u'specify', u'level', u'harbor', u'conceive', u'leave', u'delegate', u'plausibleness', u'reputability', u'accumulation', u'assemblage', u'prevent', u'force', u'direct', u'cost', u'pass', u'substitute', u'employ', u'sub', u'section', u'religious writing', u'cell', u'conduct', u'net', u'speech act', u'tenability', u'degree', u'exchange', u'component', u'understanding', u'behaviour', u'backup man', u'entertain', u'let', u'pursuit', u'change', u'wait', u'search', u'substance', u'administrative district', u'experience', u'amount', u'set apart', u'permit', u'action', u'military', u'stand-in', u'pause', u'claim', u'manage', u'grade', u'replace', u'put', u'Book', u'reckon', u'marker', u'apply', u'depute', u'select', u'set back', u'dole out', u'apportionment', u'Holy Writ', u'disenable', u'captivate', u'charge', u'doubt', u'step-up', u'tell', u'entrance', u'afford', u'trait', u'ascribe', u'trail', u'train', u'sacred writing', u'stylemark', u'hold', u'cargo area', u'circumstances', u'athlete', u'jail cell', u'net profit', u'shelve', u'carry on', u'territorial dominion', u"al-Qur'an", u'control', u'defer', u'tap', u'figure', u'give', u'attribute', u'share', u'accept', u'involve', u'tag', u'cargo deck', u'provide', u'verify', u'ledger', u'delay', u'enquire', u'earnings', u'gather up', u'have got', u'allotment', u'product', u'military machine', u'use', u'come to', u'collection', u'plausibility', u'disable', u'give up', u'stand firm', u'stronghold', u'refuse', u'administrative division', u'bind', u'register', u'think', u'propriety', u'hold in', u'allot', u'allow', u'enter', u'serving', u'consent', u'move', u'seizing', u'utilize', u'beguile', u'recoup', u'jock', u'wiseness', u'group', u'hold up', u'production', u'restrain', u'choose', u'bespeak', u'suspension', u'alter', u'petition', u'halt', u'seeking', u'accrual', u'break', u'conquer', u'Good Book', u'accumulate', u'religious text', u'enamor', u'administer', u'execute', u'clutch', u'component part', u'appropriate', u'properness', u'touch on', u'stock', u'jockstrap', u'luck', u'prison cell', u'interruption', u'Word of God', u'concord', u'supplant', u'measure', u'enclosure', u'taciturnity', u'concur', u'utilise', u'profit', u'defend', u'increase', u'sustain', u'small indefinite amount', u'postpone', u'book of account', u'prorogue', u'Word', u'go after', u'contain', u'incertitude', u'reason', u'net income', u'ask', u'estimate', u'care', u'allocation', u'pass judgment', u'small indefinite quantity', u'keep', u'prehension', u'qualification', u'mete out', u'retain', u'assign', u'give chase', u'suspend', u'saving', u'feel', u'relate', u'pick out', u'preservation', u'sacred text', u'carry', u'message', u'interchange', u'inquire', u'publication', u'district', u'script', u'engagement', u'indicate', u'accretion', u'statement', u'aver', u'postulate', u'lot', u'acquire', u'wisdom', u'appreciation', u'doubtfulness', u'part', u'put off', u'believe', u'percentage', u'reliever', u'fascinate', u'bewitch', u'dower', u'beg', u'discernment', u'put over', u'declare', u'respectability', u'amass', u'storage area', u'have', u'need', u'seek', u'arrogate', u'take over', u'maintain', u'take', u'transmit', u'wonder', u'channel', u'go on', u'lucre', u'track', u'price', u'object', u'take into account', u'charm', u'deal out', u'clasp', u'deny', u'seize', u'gather', u'request', u'dog', u'deportment', u'fact', u'quantity', u'heap', u'rule book', u'stand in', u'bring', u'booze', u'relation', u'pile up', u'dubiety', u'supporter', u'acquit', u'modestness', u'firewood', u'go along', u'dramatic composition', u'suspensor', u'do', u'handle', u'get', u'hold back', u'chase after', u'stop', u'bear', u'obtain', u'apportioning', u'allow for', u'cumulate', u'nurse', u'hold on', u'assignation', u'yield', u'bay', u'dowery', u'time lag', u'supercede', u'activity', u'enchant', u'require', u'view', u'withstand', u'Holy Scripture', u'accord', u'deputise', u'resist', u'doings', u'avow', u'bark', u'adjudge', u'concern', u'destiny', u'enamour', u'forecast', u'view as', u'Bible', u'tenableness', u'modify', u'postponement', u'countenance', u'account book', u'conglomerate', u'protect', u'pertain', u'uncertainty', u'equal', u'admit', u'go for', u'step in', u'point', u'prearrangement', u'take for', u'harbour', u'accruement', u'table', u'correctitude', u'custody', u'trademark', u'mark', u'territory', u'suppress', u'assert', u'reticence', u'moderation', u'confinement', u'demand', u'catch', u'deport', u'affirm', u'apprehension', u'tolerate', u'aim', u'territorial division', u'behavior', u'exist', u'mound', u'guide', u'reasonableness', u'increment', u'comport', u'keep back', u'chase', u'count on', u'capture', u'inexpensiveness', u'grant', u'perform', u'make', u'check', u'cumulus', u'soundness', u'see', u'defy', u'drink', u'leger', u'Christian Bible', u'postulation', u'decency', u'dramatic work', u'playscript', u'compeer', u'earmark', u'supersede', u'command', u'relief', u'trance', u'savvy', u'appendage', u'distribute', u'necessitate', u'touch', u'Scripture', u'fastness', u'take aim', u'honourableness', u'supervene upon', u'arrest', u'pile', u'contestant', u'match', u'designate', u'grip', u'set aside', u'clutches', u'fate', u'fill in', u'evaluate', u'aggregation', u'quest', u'judge', u'agglomerate', u'put down', u'armed forces', u'taking hold', u'fortune', u'gift', u'uncommunicativeness', u'signal', u'hunt', u'detainment', u'sanity', u'collect', u'continue', u'backlog', u'replacement', u'hallmark', u'deduct', u'parceling', u'deal', u'monetary value', u'demeanor', u'growth', u'pursuance', u'convey', u'employment', u'take hold', u'lead', u'Quran', u'pick up', u'protective garment', u'behave', u'moderate', u'booking', u'refer', u'be', u'schedule', u'cargo hold', u'equivalent', u'hold out', u'communicate', u'agreement', u'discount', u'peer', u'throw', u'proceed', u'helping', u'cumulation', u'record book', u'swear', u'dominion', u'act', u'fuddle', u'grouping', u'backup', u'saneness', u'accommodate', u'guard', u'obligate', u'parcelling', u'demeanour', u'log', u'athletic supporter', u'transfer', u'support', u'subject matter', u'grasping', u'honorableness', u'deputize', u'invite', u'regard', u'betoken', u'volume', u"man's clothing", u'usurp', u'second-stringer', u'dowry', u'moderateness', u'intermission', u'characteristic', u'armed services', u'arriere pensee', u'record', u'impute', u'grasp', u'agree', u'cover', u'deem', u'curb', u'bear on', u'put across', u'prevail', u'call for', u'marking', u'parcel out', u'shell out', u'personnel', u'activeness', u'book', u'war machine', u'lay claim', u'confine', u'pass along', u'oblige', u'Koran', u'mental reservation', u'appoint', u'becharm', u'subdivision', u'assets', u'hold over', u'assume', u'remit', u'withhold', u'portion', u'stockpile', u'dish out', u'reserve', u'profits']
+2016-07-26 01:06:22,012 INFO     =====END FLAT LIST=====
+2016-07-26 01:06:22,012 INFO     Length of list is:
+2016-07-26 01:06:22,013 INFO     819
+2016-07-26 01:06:22,013 INFO     Length of setlist is:
+2016-07-26 01:06:22,013 INFO     553
+2016-07-26 01:06:22,013 INFO     ***************************
+2016-07-26 01:06:22,015 INFO     127.0.0.1 - - [26/Jul/2016 01:06:22] "POST /corpus/y HTTP/1.1" 200 -

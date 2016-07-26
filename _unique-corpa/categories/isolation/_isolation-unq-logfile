@@ -1,0 +1,128 @@
+2016-07-26 01:00:13,849 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-26 01:00:13,850 INFO      * Restarting with stat
+2016-07-26 01:00:14,108 WARNING   * Debugger is active!
+2016-07-26 01:00:14,113 INFO      * Debugger pin code: 294-815-374
+2016-07-26 01:00:15,232 INFO     ***************************
+2016-07-26 01:00:15,232 INFO     List is in the following mongo collection:
+2016-07-26 01:00:15,232 INFO     isolation-corpus-only-syn-unq-order-1
+2016-07-26 01:00:15,247 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:15,380 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 01:00:15,381 INFO     [u'separation', u'defence', u'closing off', u'defence mechanism', u'non-engagement', u'non-involvement', u'defense', u'defence reaction', u'alienation', u'disaffection', u'nonparticipation', u'defense mechanism', u'estrangement', u'defense reaction']
+2016-07-26 01:00:15,381 INFO     =====END FLAT LIST=====
+2016-07-26 01:00:15,381 INFO     Length of list is:
+2016-07-26 01:00:15,381 INFO     14
+2016-07-26 01:00:15,381 INFO     Length of setlist is:
+2016-07-26 01:00:15,381 INFO     14
+2016-07-26 01:00:15,381 INFO     ***************************
+2016-07-26 01:00:15,381 INFO     ***************************
+2016-07-26 01:00:15,381 INFO     List is in the following mongo collection:
+2016-07-26 01:00:15,381 INFO     isolation-corpus-only-syn-unq-order-2
+2016-07-26 01:00:15,382 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:15,525 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:15,657 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:15,787 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:15,920 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:16,050 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:16,182 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:16,320 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:16,446 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:16,579 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:16,711 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:16,855 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:16,984 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:17,113 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:17,246 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 01:00:17,246 INFO     [u'defending team', u'defense team', u'Defense', u'final result', u'process', u'transference', u'defence mechanism', u'resultant', u'defense force', u'non-involvement', u'defense', u'result', u'disaffection', u'nonparticipation', u'demurrer', u'unconscious process', u'United States Department of Defense', u'answer', u'transfer', u'denial', u'disloyalty', u'defense reaction', u'space', u'breakup', u'due process', u'dislike', u'defense lawyers', u'non-engagement', u'state', u'surcease', u'defence reaction', u'defensive measure', u'modification', u'defense mechanism', u'defence force', u'legal separation', u'justification', u'protection', u'structure', u'organisation', u'team', u'aggregation', u'collection', u'action', u'detachment', u'group action', u'separation', u'vindication', u'psychoanalytic process', u'squad', u'change', u'distance', u'sorting', u'Defense Department', u'organization', u'military action', u'Department of Defense', u'isolation', u'interval', u'executive department', u'alteration', u'DoD', u'accumulation', u'refutation', u'defence', u'construction', u'due process of law', u'alienation', u'defensive structure', u'cessation', u'termination', u'outcome', u'estrangement', u'change of integrity', u'assemblage']
+2016-07-26 01:00:17,246 INFO     =====END FLAT LIST=====
+2016-07-26 01:00:17,246 INFO     Length of list is:
+2016-07-26 01:00:17,246 INFO     156
+2016-07-26 01:00:17,246 INFO     Length of setlist is:
+2016-07-26 01:00:17,246 INFO     75
+2016-07-26 01:00:17,246 INFO     ***************************
+2016-07-26 01:00:17,247 INFO     ***************************
+2016-07-26 01:00:17,247 INFO     List is in the following mongo collection:
+2016-07-26 01:00:17,247 INFO     isolation-corpus-only-syn-unq-order-3
+2016-07-26 01:00:17,250 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:17,378 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:17,546 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:17,690 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:17,826 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:17,965 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:18,103 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:18,229 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:18,362 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:18,496 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:18,628 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:18,762 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:18,892 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:19,024 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:19,154 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:19,302 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:19,443 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:19,579 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:19,711 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:19,843 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:19,972 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:20,104 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:20,237 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:20,372 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:20,507 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:20,644 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:20,777 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:20,922 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:21,070 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:21,234 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:21,362 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:21,496 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:21,639 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:21,772 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:21,903 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:22,036 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:22,176 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:22,308 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:22,439 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:22,587 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:22,729 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:22,862 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:22,994 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:23,147 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:23,281 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:23,426 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:23,557 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:23,689 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:23,854 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:24,009 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:24,142 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:24,274 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:24,406 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:24,546 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:24,669 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:24,798 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:24,932 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:25,076 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:25,199 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:25,319 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:25,461 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:25,589 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:25,715 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:25,841 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:25,968 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:26,092 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:26,214 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:26,337 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:26,464 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:26,595 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:26,722 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:26,848 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:26,976 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:27,102 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:27,233 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:00:27,355 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 01:00:27,355 INFO     [u'evidence', u'defence mechanism', u'time interval', u'commute', u'aegis', u'go', u'self-renunciation', u'calculate', u'disposal', u'defense mechanism', u'dissolution', u'categorisation', u'grapheme', u'qualifying', u'group action', u'affect', u'ticket', u'difference', u'falsifying', u'condition', u'level', u'solution', u'leave', u'army unit', u'Defense', u'delegate', u'team', u'refer', u'accumulation', u'due process of law', u'occurrence', u'dealing', u'work on', u'State', u'channelize', u'auspices', u'creating from raw materials', u'sue', u'defence', u'constitution', u'aggroup', u'verbalize', u'surcease', u'political entity', u'reply', u'tribute', u'appeal', u'movement', u'satisfy', u'justification', u'transportation', u'degree', u'exchange', u'live up to', u'makeup', u'social group', u'United States Department of State', u'averment', u'protection', u'separation', u'res publica', u'consideration', u'rescript', u'change', u'convert', u'administrative district', u'outgrowth', u'shift', u'defense team', u'point in time', u'amount', u'verbalise', u'procedure', u'cessation', u'net income', u'fulfill', u'classification', u'manage', u'speech act', u'summons', u'intellection', u'depute', u'graphic symbol', u'blank space', u'plot', u'trade protection', u'prove', u'breakup', u'team up', u'governance', u'step-up', u'type', u'tell', u'sort', u'bodily structure', u'dealings', u'complex body part', u'disfavor', u'hold', u'dislike', u'account', u'endpoint', u'challenge', u'work', u'self-sacrifice', u'soul', u'human action', u'channelise', u'aloofness', u'abnegation', u'modify', u'appendage', u'meet', u'Department of Defense', u'figure', u'process', u'attribute', u'transferral', u'outdistance', u'net profit', u'dress', u'social structure', u'end', u'clothing', u'travel', u'arrangement', u'earnings', u'endorsement', u'answer', u'establishment', u'collection', u'produce', u'lay', u'extortion', u'organization', u'defence force', u'correspond', u'DoD', u'change of integrity', u'switch', u'maintain', u'writ', u'expression', u'alienation', u'DoS', u'order', u'interpretation', u'social organisation', u'move', u'vary', u'non-involvement', u'disaffection', u'tendency', u'group', u'fit', u'organisation', u'alter', u'petition', u'someone', u'somebody', u'halt', u'propose', u'accrual', u'nation', u'renunciation', u'detachment', u'chemical phenomenon', u'execute', u'cognition', u'touch on', u'commonwealth', u'displacement', u'measure', u'operation', u'event', u'decree', u'termination', u'disloyalty', u'space', u'profit', u'State Department', u'increase', u'vector', u'spacing', u'ingathering', u'size', u'issue', u'solvent', u'circumstance', u'withdrawal', u'formation', u'disposition', u'put', u'beginning', u'care', u'fiat', u'emotional state', u'judicial writ', u'keep', u'adjustment', u'thing', u'length', u'place', u'assemblage', u'mortal', u'consequence', u'thought process', u'assign', u'organize', u'force out', u'self-denial', u'blank', u'insulation', u'animal group', u'United States Department of Defense', u'interchange', u'publication', u'system', u'body politic', u'response', u'non-engagement', u'accretion', u'statement', u'set up', u'upshot', u'scheme', u'natural process', u'legal separation', u'explanation', u'serve', u'artifact', u'expanse', u'part', u'vindication', u'quad', u'translation', u'copy', u'distance', u'Defense Department', u'isolation', u'basic cognitive process', u'limiting', u'administrative division', u'individual', u'musical interval', u'posit', u'feeling', u'acquisition', u'collecting', u'gathering', u'lick', u'resultant role', u'effectuate', u'morpheme', u'get dressed', u'mathematical process', u'selflessness', u'say', u'carry-over', u'complete', u'put forward', u'refute', u'transference', u'mechanism', u'squad', u'increment', u'legal action', u'transmit', u'insularity', u'channel', u'province', u'transubstantiate', u'lucre', u'infliction', u'reckon', u'defensive structure', u'react', u'cipher', u'unfaithfulness', u'coin', u'indorsement', u'request', u'drive', u'proceedings', u'organise', u'commercial enterprise', u'quantity', u'surface area', u'phenomenon', u'grammatical constituent', u'anatomical structure', u'ending', u'defense force', u'give tongue to', u'relation', u'constituent', u'utter', u'demurrer', u'impact', u'hard cash', u'knowledge', u'assertion', u'figure out', u'orderliness', u'indifference', u'edict', u'do', u'handle', u'pleading', u'express', u'stop', u'self-abnegation', u'vector sum', u'exoneration', u'resolve', u'covering', u'alteration', u'remove', u'turn up', u'federal department', u'body part', u'activity', u'methodicalness', u'respond', u'defending team', u'set', u'final result', u'defense', u'result', u'swear out', u'change of state', u'imposition', u'mathematical operation', u'clearing', u'wearable', u'forswearing', u'state', u'social unit', u'transferee', u'deliver', u'transpose', u'carry through', u'wear', u'disproof', u'reaction', u'outcome', u'country', u'region', u'demur', u'department of the federal government', u'grounds', u'give rise', u'point', u'demurral', u'walk', u'learning', u'defense reaction', u'mentation', u'treat', u'twist', u'participant role', u'action mechanism', u'body', u'business enterprise', u'locomote', u'deepen', u'denote', u'spirit', u'insularism', u'cypher', u'action at law', u'cash', u'accruement', u'territorial division', u'conveyance', u'expiration', u'carry out', u'natural event', u'hard currency', u'physical process', u'outstrip', u'bring about', u'bear upon', u'disapproval', u'refutal', u'social system', u'denial', u'suggest', u'spatial arrangement', u'administration', u'human process', u'defence reaction', u'modification', u'advise', u'regime', u'composition', u'finish', u'physical entity', u'effect', u'displace', u'occurrent', u'action', u'postulation', u'cognitive operation', u'infinite', u'compendium', u'transaction', u'net', u'falsification', u'cognitive process', u'thought', u'person', u'governing body', u'solve', u'protective covering', u'coordinate', u'position', u'noesis', u'assembling', u'semantic role', u'end point', u'touch', u'unconscious process', u'thinking', u'due process', u'character', u'human activity', u'transfer of training', u'location', u'federal office', u'transformation', u'match', u'designate', u'march', u'government', u'grammatical relation', u'aggregation', u'finding', u'jibe', u'psychoanalytic process', u'state of matter', u'legal proceeding', u'sorting', u'closing off', u'reassign', u'social organization', u'security', u'revision', u'grouping', u'transmute', u'deal', u'growth', u'work out', u'transport', u'proceeding', u'lead', u'puzzle out', u'forgoing', u'unit', u'transplant', u'natural action', u'inclination', u'judicial separation', u'be', u'assembly', u'business', u'pose', u'expiry', u'grammatical construction', u'mental process', u'stage', u'hookup', u'political unit', u'act', u'rebut', u'fulfil', u'artefact', u'ensue', u'nonparticipation', u'infidelity', u'categorization', u'area', u'transfer', u'suffice', u'transform', u'submit', u'start', u'vesture', u'cerebration', u'gibe', u'litigate', u'tally', u'construction', u'happening', u'terminus', u'compute', u'military action', u'executive department', u'body structure', u'turn out', u'agree', u'habiliment', u'resultant', u'musical notation', u'estrangement', u'bear on', u'leave behind', u'disengagement', u'check', u'fill', u'solicitation', u'variety', u'objection', u'defense lawyers', u'activeness', u'defensive measure', u'Department of State', u'disfavour', u'conclusion', u'shelter', u'amorphous shape', u'mental synthesis', u'replace', u'asseveration', u'accomplish', u'protective cover', u'authorities', u'article of clothing', u'brass', u'structure', u'building', u'disaffirmation', u'land', u'assets', u'interval', u'refutation', u'determination', u'resolution', u'commencement', u'profits']
+2016-07-26 01:00:27,355 INFO     =====END FLAT LIST=====
+2016-07-26 01:00:27,355 INFO     Length of list is:
+2016-07-26 01:00:27,355 INFO     982
+2016-07-26 01:00:27,355 INFO     Length of setlist is:
+2016-07-26 01:00:27,355 INFO     540
+2016-07-26 01:00:27,355 INFO     ***************************
+2016-07-26 01:00:27,356 INFO     127.0.0.1 - - [26/Jul/2016 01:00:27] "POST /corpus/y HTTP/1.1" 200 -
