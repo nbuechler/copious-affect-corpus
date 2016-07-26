@@ -1,0 +1,53 @@
+2016-07-26 01:04:35,065 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-26 01:04:35,066 INFO      * Restarting with stat
+2016-07-26 01:04:35,322 WARNING   * Debugger is active!
+2016-07-26 01:04:35,328 INFO      * Debugger pin code: 294-815-374
+2016-07-26 01:04:36,341 INFO     ***************************
+2016-07-26 01:04:36,342 INFO     List is in the following mongo collection:
+2016-07-26 01:04:36,342 INFO     bashfulness-corpus-only-syn-unq-order-1
+2016-07-26 01:04:36,350 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:04:36,483 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 01:04:36,484 INFO     [u'embarrassment', u'abashment']
+2016-07-26 01:04:36,484 INFO     =====END FLAT LIST=====
+2016-07-26 01:04:36,484 INFO     Length of list is:
+2016-07-26 01:04:36,484 INFO     2
+2016-07-26 01:04:36,484 INFO     Length of setlist is:
+2016-07-26 01:04:36,484 INFO     2
+2016-07-26 01:04:36,485 INFO     ***************************
+2016-07-26 01:04:36,485 INFO     ***************************
+2016-07-26 01:04:36,485 INFO     List is in the following mongo collection:
+2016-07-26 01:04:36,485 INFO     bashfulness-corpus-only-syn-unq-order-2
+2016-07-26 01:04:36,487 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:04:36,603 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:04:36,723 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 01:04:36,723 INFO     [u'overplus', u'excessiveness', u'plethora', u'emotional state', u'embarrassment', u'inordinateness', u'shame', u'superfluity', u'excess', u'bashfulness', u'trouble', u'spirit']
+2016-07-26 01:04:36,723 INFO     =====END FLAT LIST=====
+2016-07-26 01:04:36,723 INFO     Length of list is:
+2016-07-26 01:04:36,723 INFO     12
+2016-07-26 01:04:36,723 INFO     Length of setlist is:
+2016-07-26 01:04:36,724 INFO     12
+2016-07-26 01:04:36,724 INFO     ***************************
+2016-07-26 01:04:36,724 INFO     ***************************
+2016-07-26 01:04:36,724 INFO     List is in the following mongo collection:
+2016-07-26 01:04:36,724 INFO     bashfulness-corpus-only-syn-unq-order-3
+2016-07-26 01:04:36,727 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:04:36,853 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:04:36,983 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:04:37,110 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:04:37,228 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:04:37,352 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:04:37,471 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:04:37,601 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:04:37,725 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:04:37,851 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:04:37,979 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:04:38,102 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:04:38,219 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 01:04:38,220 INFO     [u'nimiety', u'atmosphere', u'surplus', u'compel', u'move', u'maternity', u'surpass', u'touch', u'flavor', u'impact', u'liveliness', u'disoblige', u'immoderateness', u'perturb', u'character', u'spirit', u'spiritual being', u'ambience', u'overplus', u'trouble oneself', u'gestation', u'affect', u'trouble', u'strive', u'disturb', u'excessiveness', u'outperform', u'fiber', u'touch on', u'brio', u'outdo', u'disorder', u'life principle', u'immoderation', u'fullness', u'afflict', u'superabundance', u'ambiance', u'vital principle', u'arouse', u'hassle', u'abashment', u'pain', u'animate', u'misfortune', u'occurrence', u'disquiet', u'put out', u'outgo', u'import', u'spirit up', u'fibre', u'elbow grease', u'vivification', u'embarrassment', u'disturbance', u'disposition', u'excess', u'surplusage', u'pity', u'ignominy', u'cark', u'emotional state', u'meaning', u'enkindle', u'evoke', u'discommode', u'emotion', u'tone', u'overabundance', u'plethora', u'feel', u'attaint', u'exceed', u'obligate', u'pregnancy', u'surmount', u'difficulty', u'surfeit', u'perturbation', u'raise', u'enliven', u'outmatch', u'strike', u'life', u'travail', u'fire', u'liven', u'indulgence', u'impress', u'inconvenience oneself', u'hurt', u'incommode', u'temperament', u'effort', u'unhinge', u'disembodied spirit', u'anxiety', u'flavour', u'look', u'strain', u'invigorate', u'bother', u'distract', u'purport', u'ail', u'superfluity', u'bad luck', u'kindle', u'problem', u'feeling', u'spiritedness', u'natural event', u'indulging', u'heart', u'disgrace', u'bear on', u'inordinateness', u'bear upon', u'shame', u'elicit', u'liven up', u'outstrip', u'supernatural being', u'signification', u'sprightliness', u'provoke', u'worry', u'dishonor', u'animation', u'significance', u'smell', u'sweat', u'exertion', u'pampering', u'fuss', u'oblige', u'overindulgence', u'inconvenience', u'reach', u'invigoration', u'occurrent', u'dishonour', u'intent', u'inspirit', u'overmuchness', u'happening', u'overmuch', u'upset', u'humoring']
+2016-07-26 01:04:38,220 INFO     =====END FLAT LIST=====
+2016-07-26 01:04:38,220 INFO     Length of list is:
+2016-07-26 01:04:38,220 INFO     187
+2016-07-26 01:04:38,220 INFO     Length of setlist is:
+2016-07-26 01:04:38,221 INFO     150
+2016-07-26 01:04:38,221 INFO     ***************************
+2016-07-26 01:04:38,222 INFO     127.0.0.1 - - [26/Jul/2016 01:04:38] "POST /corpus/y HTTP/1.1" 200 -

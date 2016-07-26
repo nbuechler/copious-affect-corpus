@@ -1,0 +1,1322 @@
+2016-07-24 23:06:12,379 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:06:12,380 INFO      * Restarting with stat
+2016-07-24 23:06:12,628 WARNING   * Debugger is active!
+2016-07-24 23:06:12,634 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:08:07,605 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-24 23:08:07,629 INFO      * Restarting with stat
+2016-07-24 23:08:07,878 WARNING   * Debugger is active!
+2016-07-24 23:08:07,883 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:08:21,135 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-24 23:08:21,164 INFO      * Restarting with stat
+2016-07-24 23:08:21,422 WARNING   * Debugger is active!
+2016-07-24 23:08:21,428 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:08:22,459 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-24 23:08:22,491 INFO      * Restarting with stat
+2016-07-24 23:08:22,738 WARNING   * Debugger is active!
+2016-07-24 23:08:22,742 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:08:28,051 INFO     127.0.0.1 - - [24/Jul/2016 23:08:28] "GET / HTTP/1.1" 200 -
+2016-07-24 23:08:28,111 INFO     127.0.0.1 - - [24/Jul/2016 23:08:28] "GET /favicon.ico HTTP/1.1" 404 -
+2016-07-24 23:08:28,128 INFO     127.0.0.1 - - [24/Jul/2016 23:08:28] "GET /favicon.ico HTTP/1.1" 404 -
+2016-07-24 23:08:37,708 INFO     127.0.0.1 - - [24/Jul/2016 23:08:37] "GET /corpus_storage/ HTTP/1.1" 200 -
+2016-07-24 23:08:42,642 INFO     127.0.0.1 - - [24/Jul/2016 23:08:42] "GET /corpus_storage/raw_corpus/ HTTP/1.1" 404 -
+2016-07-24 23:08:51,366 INFO     127.0.0.1 - - [24/Jul/2016 23:08:51] "GET /corpus_storage/raw_corpus/anger HTTP/1.1" 200 -
+2016-07-24 23:09:16,663 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:09:16,694 INFO      * Restarting with stat
+2016-07-24 23:09:16,948 WARNING   * Debugger is active!
+2016-07-24 23:09:16,951 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:09:19,106 INFO     127.0.0.1 - - [24/Jul/2016 23:09:19] "GET /corpus_storage/raw_corpus/anger HTTP/1.1" 500 -
+2016-07-24 23:09:19,138 INFO     127.0.0.1 - - [24/Jul/2016 23:09:19] "GET /corpus_storage/raw_corpus/anger?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:09:19,145 INFO     127.0.0.1 - - [24/Jul/2016 23:09:19] "GET /corpus_storage/raw_corpus/anger?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:09:19,146 INFO     127.0.0.1 - - [24/Jul/2016 23:09:19] "GET /corpus_storage/raw_corpus/anger?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:09:19,147 INFO     127.0.0.1 - - [24/Jul/2016 23:09:19] "GET /corpus_storage/raw_corpus/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:09:19,244 INFO     127.0.0.1 - - [24/Jul/2016 23:09:19] "GET /corpus_storage/raw_corpus/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:09:30,188 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:09:30,216 INFO      * Restarting with stat
+2016-07-24 23:09:30,476 WARNING   * Debugger is active!
+2016-07-24 23:09:30,482 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:09:31,898 INFO     127.0.0.1 - - [24/Jul/2016 23:09:31] "GET /corpus_storage/raw_corpus/anger HTTP/1.1" 200 -
+2016-07-24 23:09:39,656 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:09:39,685 INFO      * Restarting with stat
+2016-07-24 23:09:39,932 WARNING   * Debugger is active!
+2016-07-24 23:09:39,937 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:09:41,946 INFO     127.0.0.1 - - [24/Jul/2016 23:09:41] "GET /corpus_storage/raw_corpus/anger HTTP/1.1" 200 -
+2016-07-24 23:10:22,657 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:10:22,686 INFO      * Restarting with stat
+2016-07-24 23:10:22,950 WARNING   * Debugger is active!
+2016-07-24 23:10:22,955 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:10:27,676 INFO     127.0.0.1 - - [24/Jul/2016 23:10:27] "GET /corpus_storage/raw_corpus/anger HTTP/1.1" 200 -
+2016-07-24 23:10:51,463 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:10:51,490 INFO      * Restarting with stat
+2016-07-24 23:10:51,745 WARNING   * Debugger is active!
+2016-07-24 23:10:51,751 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:10:54,366 INFO     127.0.0.1 - - [24/Jul/2016 23:10:54] "GET /corpus_storage/raw_corpus/anger HTTP/1.1" 500 -
+2016-07-24 23:10:54,389 INFO     127.0.0.1 - - [24/Jul/2016 23:10:54] "GET /corpus_storage/raw_corpus/anger?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:10:54,390 INFO     127.0.0.1 - - [24/Jul/2016 23:10:54] "GET /corpus_storage/raw_corpus/anger?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:10:54,390 INFO     127.0.0.1 - - [24/Jul/2016 23:10:54] "GET /corpus_storage/raw_corpus/anger?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:10:54,408 INFO     127.0.0.1 - - [24/Jul/2016 23:10:54] "GET /corpus_storage/raw_corpus/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:10:54,447 INFO     127.0.0.1 - - [24/Jul/2016 23:10:54] "GET /corpus_storage/raw_corpus/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:12:04,990 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:12:05,017 INFO      * Restarting with stat
+2016-07-24 23:13:25,872 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:13:25,873 INFO      * Restarting with stat
+2016-07-24 23:13:26,119 WARNING   * Debugger is active!
+2016-07-24 23:13:26,122 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:13:28,908 INFO     127.0.0.1 - - [24/Jul/2016 23:13:28] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 500 -
+2016-07-24 23:13:28,946 INFO     127.0.0.1 - - [24/Jul/2016 23:13:28] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:13:34,893 INFO     127.0.0.1 - - [24/Jul/2016 23:13:34] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:13:34,895 INFO     127.0.0.1 - - [24/Jul/2016 23:13:34] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:13:34,897 INFO     127.0.0.1 - - [24/Jul/2016 23:13:34] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:13:35,015 INFO     127.0.0.1 - - [24/Jul/2016 23:13:35] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:14:09,849 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:14:09,877 INFO      * Restarting with stat
+2016-07-24 23:14:10,132 WARNING   * Debugger is active!
+2016-07-24 23:14:10,136 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:14:14,208 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:14:14,234 INFO      * Restarting with stat
+2016-07-24 23:14:14,488 WARNING   * Debugger is active!
+2016-07-24 23:14:14,494 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:14:25,703 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:14:25,729 INFO      * Restarting with stat
+2016-07-24 23:14:25,981 WARNING   * Debugger is active!
+2016-07-24 23:14:25,986 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:14:30,243 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:14:30,244 INFO      * Restarting with stat
+2016-07-24 23:14:30,498 WARNING   * Debugger is active!
+2016-07-24 23:14:30,504 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:14:36,004 INFO     127.0.0.1 - - [24/Jul/2016 23:14:36] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 500 -
+2016-07-24 23:14:36,027 INFO     127.0.0.1 - - [24/Jul/2016 23:14:36] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:14:36,028 INFO     127.0.0.1 - - [24/Jul/2016 23:14:36] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:14:36,029 INFO     127.0.0.1 - - [24/Jul/2016 23:14:36] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:14:36,038 INFO     127.0.0.1 - - [24/Jul/2016 23:14:36] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:14:36,120 INFO     127.0.0.1 - - [24/Jul/2016 23:14:36] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:15:03,090 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:15:03,118 INFO      * Restarting with stat
+2016-07-24 23:15:03,363 WARNING   * Debugger is active!
+2016-07-24 23:15:03,368 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:15:18,654 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:15:18,681 INFO      * Restarting with stat
+2016-07-24 23:15:18,940 WARNING   * Debugger is active!
+2016-07-24 23:15:18,943 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:15:19,785 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:15:19,785 INFO      * Restarting with stat
+2016-07-24 23:15:20,034 WARNING   * Debugger is active!
+2016-07-24 23:15:20,039 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:15:23,053 INFO     127.0.0.1 - - [24/Jul/2016 23:15:23] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 200 -
+2016-07-24 23:15:35,311 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:15:35,338 INFO      * Restarting with stat
+2016-07-24 23:15:35,588 WARNING   * Debugger is active!
+2016-07-24 23:15:35,591 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:15:36,614 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:15:36,641 INFO      * Restarting with stat
+2016-07-24 23:15:36,894 WARNING   * Debugger is active!
+2016-07-24 23:15:36,899 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:15:39,852 INFO     127.0.0.1 - - [24/Jul/2016 23:15:39] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 200 -
+2016-07-24 23:15:51,186 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:15:51,216 INFO      * Restarting with stat
+2016-07-24 23:15:51,467 WARNING   * Debugger is active!
+2016-07-24 23:15:51,471 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:15:52,632 INFO     127.0.0.1 - - [24/Jul/2016 23:15:52] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 200 -
+2016-07-24 23:16:04,692 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:16:04,717 INFO      * Restarting with stat
+2016-07-24 23:16:04,984 WARNING   * Debugger is active!
+2016-07-24 23:16:04,988 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:16:06,086 INFO     127.0.0.1 - - [24/Jul/2016 23:16:06] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 200 -
+2016-07-24 23:16:08,733 INFO     127.0.0.1 - - [24/Jul/2016 23:16:08] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 200 -
+2016-07-24 23:16:23,334 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:16:23,361 INFO      * Restarting with stat
+2016-07-24 23:16:23,611 WARNING   * Debugger is active!
+2016-07-24 23:16:23,616 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:16:33,823 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:16:33,851 INFO      * Restarting with stat
+2016-07-24 23:16:34,101 WARNING   * Debugger is active!
+2016-07-24 23:16:34,106 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:16:46,815 INFO     127.0.0.1 - - [24/Jul/2016 23:16:46] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 200 -
+2016-07-24 23:16:51,417 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:16:51,442 INFO      * Restarting with stat
+2016-07-24 23:16:51,689 WARNING   * Debugger is active!
+2016-07-24 23:16:51,695 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:16:51,704 INFO     127.0.0.1 - - [24/Jul/2016 23:16:51] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 200 -
+2016-07-24 23:16:53,860 INFO     127.0.0.1 - - [24/Jul/2016 23:16:53] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 200 -
+2016-07-24 23:16:58,825 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:16:58,859 INFO      * Restarting with stat
+2016-07-24 23:16:59,116 WARNING   * Debugger is active!
+2016-07-24 23:16:59,122 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:17:05,241 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:17:05,273 INFO      * Restarting with stat
+2016-07-24 23:17:05,531 WARNING   * Debugger is active!
+2016-07-24 23:17:05,538 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:17:06,663 INFO     127.0.0.1 - - [24/Jul/2016 23:17:06] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 200 -
+2016-07-24 23:17:39,096 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:17:39,122 INFO      * Restarting with stat
+2016-07-24 23:17:39,379 WARNING   * Debugger is active!
+2016-07-24 23:17:39,385 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:17:41,662 INFO     127.0.0.1 - - [24/Jul/2016 23:17:41] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 500 -
+2016-07-24 23:17:41,707 INFO     127.0.0.1 - - [24/Jul/2016 23:17:41] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:17:41,731 INFO     127.0.0.1 - - [24/Jul/2016 23:17:41] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:17:41,731 INFO     127.0.0.1 - - [24/Jul/2016 23:17:41] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:17:47,640 INFO     127.0.0.1 - - [24/Jul/2016 23:17:47] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:17:47,659 INFO     127.0.0.1 - - [24/Jul/2016 23:17:47] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:18:00,722 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:18:00,751 INFO      * Restarting with stat
+2016-07-24 23:18:18,463 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:18:18,464 INFO      * Restarting with stat
+2016-07-24 23:18:18,710 WARNING   * Debugger is active!
+2016-07-24 23:18:18,715 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:18:21,008 INFO     127.0.0.1 - - [24/Jul/2016 23:18:21] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 500 -
+2016-07-24 23:18:21,042 INFO     127.0.0.1 - - [24/Jul/2016 23:18:21] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:18:26,994 INFO     127.0.0.1 - - [24/Jul/2016 23:18:26] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:18:26,996 INFO     127.0.0.1 - - [24/Jul/2016 23:18:26] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:18:26,997 INFO     127.0.0.1 - - [24/Jul/2016 23:18:26] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:18:27,064 INFO     127.0.0.1 - - [24/Jul/2016 23:18:27] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:18:43,140 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:18:43,166 INFO      * Restarting with stat
+2016-07-24 23:18:44,248 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:18:44,249 INFO      * Restarting with stat
+2016-07-24 23:18:44,504 WARNING   * Debugger is active!
+2016-07-24 23:18:44,510 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:18:46,614 INFO     127.0.0.1 - - [24/Jul/2016 23:18:46] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 500 -
+2016-07-24 23:18:46,647 INFO     127.0.0.1 - - [24/Jul/2016 23:18:46] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:18:51,655 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:18:51,686 INFO      * Restarting with stat
+2016-07-24 23:18:51,941 WARNING   * Debugger is active!
+2016-07-24 23:18:51,946 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:18:52,606 INFO     127.0.0.1 - - [24/Jul/2016 23:18:52] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:18:52,607 INFO     127.0.0.1 - - [24/Jul/2016 23:18:52] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:18:52,607 INFO     127.0.0.1 - - [24/Jul/2016 23:18:52] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:18:52,680 INFO     127.0.0.1 - - [24/Jul/2016 23:18:52] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:19:11,266 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:19:11,292 INFO      * Restarting with stat
+2016-07-24 23:19:11,528 WARNING   * Debugger is active!
+2016-07-24 23:19:11,533 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:19:15,609 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:19:15,642 INFO      * Restarting with stat
+2016-07-24 23:19:15,896 WARNING   * Debugger is active!
+2016-07-24 23:19:15,901 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:19:16,886 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:19:16,887 INFO      * Restarting with stat
+2016-07-24 23:19:17,135 WARNING   * Debugger is active!
+2016-07-24 23:19:17,138 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:19:19,154 INFO     127.0.0.1 - - [24/Jul/2016 23:19:19] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 200 -
+2016-07-24 23:19:57,852 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:19:57,878 INFO      * Restarting with stat
+2016-07-24 23:19:58,130 WARNING   * Debugger is active!
+2016-07-24 23:19:58,135 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:19:59,503 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:19:59,503 INFO      * Restarting with stat
+2016-07-24 23:19:59,751 WARNING   * Debugger is active!
+2016-07-24 23:19:59,754 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:20:08,341 INFO     127.0.0.1 - - [24/Jul/2016 23:20:08] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 500 -
+2016-07-24 23:20:08,413 INFO     127.0.0.1 - - [24/Jul/2016 23:20:08] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:20:14,329 INFO     127.0.0.1 - - [24/Jul/2016 23:20:14] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:20:14,331 INFO     127.0.0.1 - - [24/Jul/2016 23:20:14] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:20:14,332 INFO     127.0.0.1 - - [24/Jul/2016 23:20:14] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:20:14,448 INFO     127.0.0.1 - - [24/Jul/2016 23:20:14] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:20:16,039 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:20:16,071 INFO      * Restarting with stat
+2016-07-24 23:20:16,317 WARNING   * Debugger is active!
+2016-07-24 23:20:16,323 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:20:26,499 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:20:26,527 INFO      * Restarting with stat
+2016-07-24 23:20:41,909 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:20:41,910 INFO      * Restarting with stat
+2016-07-24 23:20:42,157 WARNING   * Debugger is active!
+2016-07-24 23:20:42,163 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:20:46,999 INFO     127.0.0.1 - - [24/Jul/2016 23:20:46] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 500 -
+2016-07-24 23:20:47,024 INFO     127.0.0.1 - - [24/Jul/2016 23:20:47] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:20:52,986 INFO     127.0.0.1 - - [24/Jul/2016 23:20:52] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:20:52,988 INFO     127.0.0.1 - - [24/Jul/2016 23:20:52] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:20:52,990 INFO     127.0.0.1 - - [24/Jul/2016 23:20:52] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:20:53,081 INFO     127.0.0.1 - - [24/Jul/2016 23:20:53] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:22:11,727 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:22:11,755 INFO      * Restarting with stat
+2016-07-24 23:22:12,009 WARNING   * Debugger is active!
+2016-07-24 23:22:12,015 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:22:13,298 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:22:13,299 INFO      * Restarting with stat
+2016-07-24 23:22:13,542 WARNING   * Debugger is active!
+2016-07-24 23:22:13,548 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:22:17,047 INFO     127.0.0.1 - - [24/Jul/2016 23:22:17] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 500 -
+2016-07-24 23:22:17,071 INFO     127.0.0.1 - - [24/Jul/2016 23:22:17] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:22:22,713 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:22:22,745 INFO      * Restarting with stat
+2016-07-24 23:22:23,009 WARNING   * Debugger is active!
+2016-07-24 23:22:23,014 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:22:23,037 INFO     127.0.0.1 - - [24/Jul/2016 23:22:23] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:22:23,039 INFO     127.0.0.1 - - [24/Jul/2016 23:22:23] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:22:23,042 INFO     127.0.0.1 - - [24/Jul/2016 23:22:23] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:22:23,158 INFO     127.0.0.1 - - [24/Jul/2016 23:22:23] "GET /corpus_storage/raw_corpus_collection/anger?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:22:26,106 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:22:26,133 INFO      * Restarting with stat
+2016-07-24 23:22:26,400 WARNING   * Debugger is active!
+2016-07-24 23:22:26,403 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:22:27,213 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:22:27,213 INFO      * Restarting with stat
+2016-07-24 23:22:27,472 WARNING   * Debugger is active!
+2016-07-24 23:22:27,477 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:22:28,783 INFO     127.0.0.1 - - [24/Jul/2016 23:22:28] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 200 -
+2016-07-24 23:22:47,853 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:22:47,881 INFO      * Restarting with stat
+2016-07-24 23:22:48,126 WARNING   * Debugger is active!
+2016-07-24 23:22:48,131 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:22:49,813 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:22:49,814 INFO      * Restarting with stat
+2016-07-24 23:22:50,071 WARNING   * Debugger is active!
+2016-07-24 23:22:50,075 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:22:51,427 INFO     127.0.0.1 - - [24/Jul/2016 23:22:51] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 200 -
+2016-07-24 23:23:33,856 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:23:33,891 INFO      * Restarting with stat
+2016-07-24 23:23:34,145 WARNING   * Debugger is active!
+2016-07-24 23:23:34,151 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:24:03,670 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-24 23:24:03,695 INFO      * Restarting with stat
+2016-07-24 23:24:03,947 WARNING   * Debugger is active!
+2016-07-24 23:24:03,952 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:24:20,251 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:24:20,278 INFO      * Restarting with stat
+2016-07-24 23:24:20,532 WARNING   * Debugger is active!
+2016-07-24 23:24:20,535 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:24:27,574 INFO     127.0.0.1 - - [24/Jul/2016 23:24:27] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 404 -
+2016-07-24 23:25:23,636 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-24 23:25:23,666 INFO      * Restarting with stat
+2016-07-24 23:25:23,925 WARNING   * Debugger is active!
+2016-07-24 23:25:23,929 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:25:24,344 INFO     127.0.0.1 - - [24/Jul/2016 23:25:24] "GET /corpus_storage/raw_corpus_collection/anger HTTP/1.1" 200 -
+2016-07-24 23:25:32,095 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-24 23:25:32,123 INFO      * Restarting with stat
+2016-07-24 23:26:27,317 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:26:27,317 INFO      * Restarting with stat
+2016-07-24 23:26:27,556 WARNING   * Debugger is active!
+2016-07-24 23:26:27,562 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:26:34,189 INFO     127.0.0.1 - - [24/Jul/2016 23:26:34] "GET /corpus_storage/raw_corpus_collection/anger/1 HTTP/1.1" 301 -
+2016-07-24 23:26:34,210 INFO     127.0.0.1 - - [24/Jul/2016 23:26:34] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 500 -
+2016-07-24 23:26:34,253 INFO     127.0.0.1 - - [24/Jul/2016 23:26:34] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:26:34,254 INFO     127.0.0.1 - - [24/Jul/2016 23:26:34] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:26:34,256 INFO     127.0.0.1 - - [24/Jul/2016 23:26:34] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:26:34,346 INFO     127.0.0.1 - - [24/Jul/2016 23:26:34] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:26:34,510 INFO     127.0.0.1 - - [24/Jul/2016 23:26:34] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:26:48,927 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:26:48,956 INFO      * Restarting with stat
+2016-07-24 23:26:49,208 WARNING   * Debugger is active!
+2016-07-24 23:26:49,212 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:26:49,811 INFO     127.0.0.1 - - [24/Jul/2016 23:26:49] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 200 -
+2016-07-24 23:27:20,730 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:27:20,757 INFO      * Restarting with stat
+2016-07-24 23:27:21,007 WARNING   * Debugger is active!
+2016-07-24 23:27:21,012 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:27:24,506 INFO     127.0.0.1 - - [24/Jul/2016 23:27:24] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 500 -
+2016-07-24 23:27:24,531 INFO     127.0.0.1 - - [24/Jul/2016 23:27:24] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:27:24,532 INFO     127.0.0.1 - - [24/Jul/2016 23:27:24] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:27:24,534 INFO     127.0.0.1 - - [24/Jul/2016 23:27:24] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:27:24,544 INFO     127.0.0.1 - - [24/Jul/2016 23:27:24] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:27:24,624 INFO     127.0.0.1 - - [24/Jul/2016 23:27:24] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:27:33,234 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:27:33,263 INFO      * Restarting with stat
+2016-07-24 23:27:33,509 WARNING   * Debugger is active!
+2016-07-24 23:27:33,513 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:27:35,795 INFO     127.0.0.1 - - [24/Jul/2016 23:27:35] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 500 -
+2016-07-24 23:27:35,829 INFO     127.0.0.1 - - [24/Jul/2016 23:27:35] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:27:35,830 INFO     127.0.0.1 - - [24/Jul/2016 23:27:35] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:27:35,832 INFO     127.0.0.1 - - [24/Jul/2016 23:27:35] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:27:35,844 INFO     127.0.0.1 - - [24/Jul/2016 23:27:35] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:27:35,925 INFO     127.0.0.1 - - [24/Jul/2016 23:27:35] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:29:28,507 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:29:28,535 INFO      * Restarting with stat
+2016-07-24 23:29:28,794 WARNING   * Debugger is active!
+2016-07-24 23:29:28,799 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:29:35,933 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:29:35,966 INFO      * Restarting with stat
+2016-07-24 23:29:36,228 WARNING   * Debugger is active!
+2016-07-24 23:29:36,234 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:29:38,579 INFO     127.0.0.1 - - [24/Jul/2016 23:29:38] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 500 -
+2016-07-24 23:29:38,638 INFO     127.0.0.1 - - [24/Jul/2016 23:29:38] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:29:38,662 INFO     127.0.0.1 - - [24/Jul/2016 23:29:38] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:29:38,664 INFO     127.0.0.1 - - [24/Jul/2016 23:29:38] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:29:38,666 INFO     127.0.0.1 - - [24/Jul/2016 23:29:38] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:29:38,790 INFO     127.0.0.1 - - [24/Jul/2016 23:29:38] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:30:01,707 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:30:01,738 INFO      * Restarting with stat
+2016-07-24 23:30:01,982 WARNING   * Debugger is active!
+2016-07-24 23:30:01,988 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:30:04,941 INFO     127.0.0.1 - - [24/Jul/2016 23:30:04] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 500 -
+2016-07-24 23:30:04,978 INFO     127.0.0.1 - - [24/Jul/2016 23:30:04] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:30:04,979 INFO     127.0.0.1 - - [24/Jul/2016 23:30:04] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:30:04,979 INFO     127.0.0.1 - - [24/Jul/2016 23:30:04] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:30:10,923 INFO     127.0.0.1 - - [24/Jul/2016 23:30:10] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:30:10,951 INFO     127.0.0.1 - - [24/Jul/2016 23:30:10] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:30:25,422 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:30:25,448 INFO      * Restarting with stat
+2016-07-24 23:30:25,703 WARNING   * Debugger is active!
+2016-07-24 23:30:25,708 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:30:26,831 INFO     127.0.0.1 - - [24/Jul/2016 23:30:26] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 500 -
+2016-07-24 23:30:26,867 INFO     127.0.0.1 - - [24/Jul/2016 23:30:26] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:30:32,819 INFO     127.0.0.1 - - [24/Jul/2016 23:30:32] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:30:32,821 INFO     127.0.0.1 - - [24/Jul/2016 23:30:32] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:30:32,823 INFO     127.0.0.1 - - [24/Jul/2016 23:30:32] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:30:32,949 INFO     127.0.0.1 - - [24/Jul/2016 23:30:32] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:30:50,163 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:30:50,191 INFO      * Restarting with stat
+2016-07-24 23:30:50,442 WARNING   * Debugger is active!
+2016-07-24 23:30:50,448 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:30:57,577 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:30:57,606 INFO      * Restarting with stat
+2016-07-24 23:30:57,856 WARNING   * Debugger is active!
+2016-07-24 23:30:57,859 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:30:58,815 INFO     127.0.0.1 - - [24/Jul/2016 23:30:58] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 200 -
+2016-07-24 23:31:15,159 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:31:15,186 INFO      * Restarting with stat
+2016-07-24 23:31:15,441 WARNING   * Debugger is active!
+2016-07-24 23:31:15,444 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:31:16,764 INFO     127.0.0.1 - - [24/Jul/2016 23:31:16] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 200 -
+2016-07-24 23:31:22,582 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:31:22,607 INFO      * Restarting with stat
+2016-07-24 23:31:22,864 WARNING   * Debugger is active!
+2016-07-24 23:31:22,868 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:31:23,705 INFO     127.0.0.1 - - [24/Jul/2016 23:31:23] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 200 -
+2016-07-24 23:31:38,131 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:31:38,157 INFO      * Restarting with stat
+2016-07-24 23:31:38,418 WARNING   * Debugger is active!
+2016-07-24 23:31:38,422 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:31:39,297 INFO     127.0.0.1 - - [24/Jul/2016 23:31:39] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 500 -
+2016-07-24 23:31:39,328 INFO     127.0.0.1 - - [24/Jul/2016 23:31:39] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:31:39,329 INFO     127.0.0.1 - - [24/Jul/2016 23:31:39] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:31:39,330 INFO     127.0.0.1 - - [24/Jul/2016 23:31:39] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:31:39,347 INFO     127.0.0.1 - - [24/Jul/2016 23:31:39] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:31:39,422 INFO     127.0.0.1 - - [24/Jul/2016 23:31:39] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:31:55,721 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:31:55,748 INFO      * Restarting with stat
+2016-07-24 23:31:56,003 WARNING   * Debugger is active!
+2016-07-24 23:31:56,008 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:31:56,137 INFO     127.0.0.1 - - [24/Jul/2016 23:31:56] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 200 -
+2016-07-24 23:32:10,259 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:32:10,284 INFO      * Restarting with stat
+2016-07-24 23:32:10,534 WARNING   * Debugger is active!
+2016-07-24 23:32:10,538 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:32:10,887 INFO     127.0.0.1 - - [24/Jul/2016 23:32:10] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 500 -
+2016-07-24 23:32:10,912 INFO     127.0.0.1 - - [24/Jul/2016 23:32:10] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:32:10,913 INFO     127.0.0.1 - - [24/Jul/2016 23:32:10] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:32:10,913 INFO     127.0.0.1 - - [24/Jul/2016 23:32:10] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:32:10,930 INFO     127.0.0.1 - - [24/Jul/2016 23:32:10] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:32:11,008 INFO     127.0.0.1 - - [24/Jul/2016 23:32:11] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:32:17,675 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:32:17,702 INFO      * Restarting with stat
+2016-07-24 23:32:17,962 WARNING   * Debugger is active!
+2016-07-24 23:32:17,964 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:32:20,445 INFO     127.0.0.1 - - [24/Jul/2016 23:32:20] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 500 -
+2016-07-24 23:32:20,508 INFO     127.0.0.1 - - [24/Jul/2016 23:32:20] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:32:20,508 INFO     127.0.0.1 - - [24/Jul/2016 23:32:20] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:32:20,509 INFO     127.0.0.1 - - [24/Jul/2016 23:32:20] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:32:20,574 INFO     127.0.0.1 - - [24/Jul/2016 23:32:20] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:32:20,632 INFO     127.0.0.1 - - [24/Jul/2016 23:32:20] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:32:32,226 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:32:32,259 INFO      * Restarting with stat
+2016-07-24 23:32:32,525 WARNING   * Debugger is active!
+2016-07-24 23:32:32,530 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:32:37,633 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:32:37,662 INFO      * Restarting with stat
+2016-07-24 23:32:37,913 WARNING   * Debugger is active!
+2016-07-24 23:32:37,918 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:32:38,612 INFO     127.0.0.1 - - [24/Jul/2016 23:32:38] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 500 -
+2016-07-24 23:32:38,642 INFO     127.0.0.1 - - [24/Jul/2016 23:32:38] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:32:38,643 INFO     127.0.0.1 - - [24/Jul/2016 23:32:38] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:32:38,643 INFO     127.0.0.1 - - [24/Jul/2016 23:32:38] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:32:38,657 INFO     127.0.0.1 - - [24/Jul/2016 23:32:38] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:32:38,739 INFO     127.0.0.1 - - [24/Jul/2016 23:32:38] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:32:45,054 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:32:45,083 INFO      * Restarting with stat
+2016-07-24 23:32:45,345 WARNING   * Debugger is active!
+2016-07-24 23:32:45,351 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:32:45,828 INFO     127.0.0.1 - - [24/Jul/2016 23:32:45] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 500 -
+2016-07-24 23:32:45,851 INFO     127.0.0.1 - - [24/Jul/2016 23:32:45] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:32:45,851 INFO     127.0.0.1 - - [24/Jul/2016 23:32:45] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:32:45,852 INFO     127.0.0.1 - - [24/Jul/2016 23:32:45] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:32:45,862 INFO     127.0.0.1 - - [24/Jul/2016 23:32:45] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:32:45,937 INFO     127.0.0.1 - - [24/Jul/2016 23:32:45] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:32:49,548 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:32:49,549 INFO      * Restarting with stat
+2016-07-24 23:32:49,797 WARNING   * Debugger is active!
+2016-07-24 23:32:49,803 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:32:51,359 INFO     127.0.0.1 - - [24/Jul/2016 23:32:51] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 500 -
+2016-07-24 23:32:51,388 INFO     127.0.0.1 - - [24/Jul/2016 23:32:51] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:32:51,389 INFO     127.0.0.1 - - [24/Jul/2016 23:32:51] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:32:51,389 INFO     127.0.0.1 - - [24/Jul/2016 23:32:51] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:32:51,400 INFO     127.0.0.1 - - [24/Jul/2016 23:32:51] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:32:51,474 INFO     127.0.0.1 - - [24/Jul/2016 23:32:51] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:32:56,932 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:32:56,961 INFO      * Restarting with stat
+2016-07-24 23:32:57,212 WARNING   * Debugger is active!
+2016-07-24 23:32:57,217 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:32:57,768 INFO     127.0.0.1 - - [24/Jul/2016 23:32:57] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 200 -
+2016-07-24 23:33:12,489 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:33:12,516 INFO      * Restarting with stat
+2016-07-24 23:33:12,757 WARNING   * Debugger is active!
+2016-07-24 23:33:12,762 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:33:16,843 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:33:16,870 INFO      * Restarting with stat
+2016-07-24 23:33:17,131 WARNING   * Debugger is active!
+2016-07-24 23:33:17,135 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:33:36,507 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:33:36,534 INFO      * Restarting with stat
+2016-07-24 23:33:36,794 WARNING   * Debugger is active!
+2016-07-24 23:33:36,798 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:33:37,662 INFO     127.0.0.1 - - [24/Jul/2016 23:33:37] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 200 -
+2016-07-24 23:33:42,930 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:33:42,958 INFO      * Restarting with stat
+2016-07-24 23:33:43,221 WARNING   * Debugger is active!
+2016-07-24 23:33:43,226 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:33:43,559 INFO     127.0.0.1 - - [24/Jul/2016 23:33:43] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 500 -
+2016-07-24 23:33:43,580 INFO     127.0.0.1 - - [24/Jul/2016 23:33:43] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:33:43,581 INFO     127.0.0.1 - - [24/Jul/2016 23:33:43] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:33:43,582 INFO     127.0.0.1 - - [24/Jul/2016 23:33:43] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:33:43,600 INFO     127.0.0.1 - - [24/Jul/2016 23:33:43] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:33:43,676 INFO     127.0.0.1 - - [24/Jul/2016 23:33:43] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:34:33,070 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:34:33,096 INFO      * Restarting with stat
+2016-07-24 23:34:33,354 WARNING   * Debugger is active!
+2016-07-24 23:34:33,359 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:34:36,408 INFO     127.0.0.1 - - [24/Jul/2016 23:34:36] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 200 -
+2016-07-24 23:34:47,605 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:34:47,631 INFO      * Restarting with stat
+2016-07-24 23:34:47,890 WARNING   * Debugger is active!
+2016-07-24 23:34:47,896 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:34:49,059 INFO     127.0.0.1 - - [24/Jul/2016 23:34:49] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 500 -
+2016-07-24 23:34:49,101 INFO     127.0.0.1 - - [24/Jul/2016 23:34:49] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:34:49,128 INFO     127.0.0.1 - - [24/Jul/2016 23:34:49] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:34:49,129 INFO     127.0.0.1 - - [24/Jul/2016 23:34:49] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:34:49,131 INFO     127.0.0.1 - - [24/Jul/2016 23:34:49] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:34:49,234 INFO     127.0.0.1 - - [24/Jul/2016 23:34:49] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:35:39,727 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:35:39,756 INFO      * Restarting with stat
+2016-07-24 23:35:39,999 WARNING   * Debugger is active!
+2016-07-24 23:35:40,003 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:35:50,190 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:35:50,217 INFO      * Restarting with stat
+2016-07-24 23:35:50,466 WARNING   * Debugger is active!
+2016-07-24 23:35:50,471 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:35:55,559 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:35:55,585 INFO      * Restarting with stat
+2016-07-24 23:35:55,840 WARNING   * Debugger is active!
+2016-07-24 23:35:55,846 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:35:59,924 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:35:59,952 INFO      * Restarting with stat
+2016-07-24 23:36:00,202 WARNING   * Debugger is active!
+2016-07-24 23:36:00,206 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:36:01,603 INFO     127.0.0.1 - - [24/Jul/2016 23:36:01] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 500 -
+2016-07-24 23:36:01,656 INFO     127.0.0.1 - - [24/Jul/2016 23:36:01] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:36:01,680 INFO     127.0.0.1 - - [24/Jul/2016 23:36:01] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:36:01,681 INFO     127.0.0.1 - - [24/Jul/2016 23:36:01] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:36:01,682 INFO     127.0.0.1 - - [24/Jul/2016 23:36:01] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:36:01,801 INFO     127.0.0.1 - - [24/Jul/2016 23:36:01] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:36:16,472 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:36:16,499 INFO      * Restarting with stat
+2016-07-24 23:36:16,746 WARNING   * Debugger is active!
+2016-07-24 23:36:16,749 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:36:17,468 INFO     127.0.0.1 - - [24/Jul/2016 23:36:17] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 500 -
+2016-07-24 23:36:17,523 INFO     127.0.0.1 - - [24/Jul/2016 23:36:17] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:36:22,888 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:36:22,888 INFO      * Restarting with stat
+2016-07-24 23:36:23,145 WARNING   * Debugger is active!
+2016-07-24 23:36:23,149 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:36:24,724 INFO     127.0.0.1 - - [24/Jul/2016 23:36:24] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 500 -
+2016-07-24 23:36:24,755 INFO     127.0.0.1 - - [24/Jul/2016 23:36:24] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:36:30,708 INFO     127.0.0.1 - - [24/Jul/2016 23:36:30] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:36:30,709 INFO     127.0.0.1 - - [24/Jul/2016 23:36:30] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:36:30,831 INFO     127.0.0.1 - - [24/Jul/2016 23:36:30] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:36:38,420 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:36:38,450 INFO      * Restarting with stat
+2016-07-24 23:36:38,693 WARNING   * Debugger is active!
+2016-07-24 23:36:38,697 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:36:39,236 INFO     127.0.0.1 - - [24/Jul/2016 23:36:39] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 200 -
+2016-07-24 23:36:43,899 INFO     127.0.0.1 - - [24/Jul/2016 23:36:43] "GET /corpus_storage/raw_corpus_collection/anger/2/ HTTP/1.1" 200 -
+2016-07-24 23:36:49,905 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:36:49,931 INFO      * Restarting with stat
+2016-07-24 23:36:50,184 WARNING   * Debugger is active!
+2016-07-24 23:36:50,187 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:36:53,247 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:36:53,275 INFO      * Restarting with stat
+2016-07-24 23:36:53,529 WARNING   * Debugger is active!
+2016-07-24 23:36:53,534 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:36:55,708 INFO     127.0.0.1 - - [24/Jul/2016 23:36:55] "GET /corpus_storage/raw_corpus_collection/anger/3/ HTTP/1.1" 200 -
+2016-07-24 23:37:52,869 INFO     127.0.0.1 - - [24/Jul/2016 23:37:52] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 200 -
+2016-07-24 23:38:00,925 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:38:00,952 INFO      * Restarting with stat
+2016-07-24 23:38:01,219 WARNING   * Debugger is active!
+2016-07-24 23:38:01,221 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:38:01,750 INFO     127.0.0.1 - - [24/Jul/2016 23:38:01] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 200 -
+2016-07-24 23:38:13,417 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:38:13,444 INFO      * Restarting with stat
+2016-07-24 23:38:13,703 WARNING   * Debugger is active!
+2016-07-24 23:38:13,705 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:38:14,070 INFO     127.0.0.1 - - [24/Jul/2016 23:38:14] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 500 -
+2016-07-24 23:38:14,095 INFO     127.0.0.1 - - [24/Jul/2016 23:38:14] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:38:20,058 INFO     127.0.0.1 - - [24/Jul/2016 23:38:20] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:38:20,060 INFO     127.0.0.1 - - [24/Jul/2016 23:38:20] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:38:20,156 INFO     127.0.0.1 - - [24/Jul/2016 23:38:20] "GET /corpus_storage/raw_corpus_collection/anger/1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:38:25,926 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:38:25,955 INFO      * Restarting with stat
+2016-07-24 23:38:26,216 WARNING   * Debugger is active!
+2016-07-24 23:38:26,218 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:38:26,899 INFO     127.0.0.1 - - [24/Jul/2016 23:38:26] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 200 -
+2016-07-24 23:38:42,520 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:38:42,547 INFO      * Restarting with stat
+2016-07-24 23:38:42,799 WARNING   * Debugger is active!
+2016-07-24 23:38:42,805 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:38:44,189 INFO     127.0.0.1 - - [24/Jul/2016 23:38:44] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 200 -
+2016-07-24 23:38:59,115 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:38:59,142 INFO      * Restarting with stat
+2016-07-24 23:38:59,394 WARNING   * Debugger is active!
+2016-07-24 23:38:59,399 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:39:00,649 INFO     127.0.0.1 - - [24/Jul/2016 23:39:00] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 200 -
+2016-07-24 23:39:35,022 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:39:35,053 INFO      * Restarting with stat
+2016-07-24 23:39:35,306 WARNING   * Debugger is active!
+2016-07-24 23:39:35,310 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:39:36,032 INFO     127.0.0.1 - - [24/Jul/2016 23:39:36] "GET /corpus_storage/raw_corpus_collection/anger/1/ HTTP/1.1" 200 -
+2016-07-24 23:39:42,497 INFO     127.0.0.1 - - [24/Jul/2016 23:39:42] "GET /corpus_storage/raw_corpus_collection/awr1/ HTTP/1.1" 404 -
+2016-07-24 23:39:44,979 INFO     127.0.0.1 - - [24/Jul/2016 23:39:44] "GET /corpus_storage/raw_corpus_collection/awe/1/ HTTP/1.1" 200 -
+2016-07-24 23:39:56,562 INFO     127.0.0.1 - - [24/Jul/2016 23:39:56] "GET /corpus_storage/raw_corpus_collection/fear/1/ HTTP/1.1" 200 -
+2016-07-24 23:42:24,296 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:42:24,323 INFO      * Restarting with stat
+2016-07-24 23:42:24,571 WARNING   * Debugger is active!
+2016-07-24 23:42:24,576 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:43:15,449 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-24 23:43:15,478 INFO      * Restarting with stat
+2016-07-24 23:43:15,738 WARNING   * Debugger is active!
+2016-07-24 23:43:15,743 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:43:19,999 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:43:19,999 INFO      * Restarting with stat
+2016-07-24 23:43:20,259 WARNING   * Debugger is active!
+2016-07-24 23:43:20,261 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:43:24,502 INFO     127.0.0.1 - - [24/Jul/2016 23:43:24] "GET /corpus_storage/raw_corpus_collection/fear/1/flat_list HTTP/1.1" 200 -
+2016-07-24 23:43:27,077 INFO     127.0.0.1 - - [24/Jul/2016 23:43:27] "GET /corpus_storage/raw_corpus_collection/fear/2/flat_list HTTP/1.1" 200 -
+2016-07-24 23:43:33,346 INFO     127.0.0.1 - - [24/Jul/2016 23:43:33] "GET /corpus_storage/raw_corpus_collection/fear/1/flat_list HTTP/1.1" 200 -
+2016-07-24 23:43:48,455 INFO     127.0.0.1 - - [24/Jul/2016 23:43:48] "GET /corpus_storage/raw_corpus_collection/fear/1/fl HTTP/1.1" 404 -
+2016-07-24 23:43:57,910 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-24 23:43:57,935 INFO      * Restarting with stat
+2016-07-24 23:43:58,182 WARNING   * Debugger is active!
+2016-07-24 23:43:58,185 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:44:02,998 INFO     127.0.0.1 - - [24/Jul/2016 23:44:02] "GET /corpus_storage/raw_corpus_collection/fear/1/flat_list HTTP/1.1" 200 -
+2016-07-24 23:44:06,682 INFO     127.0.0.1 - - [24/Jul/2016 23:44:06] "GET /corpus_storage/raw_corpus_collection/fear/2/flat_list HTTP/1.1" 200 -
+2016-07-24 23:44:36,811 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:44:36,841 INFO      * Restarting with stat
+2016-07-24 23:44:37,095 WARNING   * Debugger is active!
+2016-07-24 23:44:37,098 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:45:05,605 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:45:05,634 INFO      * Restarting with stat
+2016-07-24 23:45:05,898 WARNING   * Debugger is active!
+2016-07-24 23:45:05,903 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:45:07,546 INFO     127.0.0.1 - - [24/Jul/2016 23:45:07] "GET /corpus_storage/raw_corpus_collection/fear/2/flat_list HTTP/1.1" 200 -
+2016-07-24 23:46:05,964 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:46:05,989 INFO      * Restarting with stat
+2016-07-24 23:46:06,239 WARNING   * Debugger is active!
+2016-07-24 23:46:06,244 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:46:08,656 INFO     127.0.0.1 - - [24/Jul/2016 23:46:08] "GET /corpus_storage/raw_corpus_collection/fear/2/flat_list HTTP/1.1" 500 -
+2016-07-24 23:46:08,681 INFO     127.0.0.1 - - [24/Jul/2016 23:46:08] "GET /corpus_storage/raw_corpus_collection/fear/2/flat_list?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:46:08,681 INFO     127.0.0.1 - - [24/Jul/2016 23:46:08] "GET /corpus_storage/raw_corpus_collection/fear/2/flat_list?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:46:08,682 INFO     127.0.0.1 - - [24/Jul/2016 23:46:08] "GET /corpus_storage/raw_corpus_collection/fear/2/flat_list?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:46:08,697 INFO     127.0.0.1 - - [24/Jul/2016 23:46:08] "GET /corpus_storage/raw_corpus_collection/fear/2/flat_list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:46:08,774 INFO     127.0.0.1 - - [24/Jul/2016 23:46:08] "GET /corpus_storage/raw_corpus_collection/fear/2/flat_list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:46:14,394 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:46:14,420 INFO      * Restarting with stat
+2016-07-24 23:46:14,695 WARNING   * Debugger is active!
+2016-07-24 23:46:14,700 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:46:15,811 INFO     127.0.0.1 - - [24/Jul/2016 23:46:15] "GET /corpus_storage/raw_corpus_collection/fear/2/flat_list HTTP/1.1" 200 -
+2016-07-24 23:46:47,274 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:46:47,301 INFO      * Restarting with stat
+2016-07-24 23:46:47,552 WARNING   * Debugger is active!
+2016-07-24 23:46:47,554 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:46:47,965 INFO     127.0.0.1 - - [24/Jul/2016 23:46:47] "GET /corpus_storage/raw_corpus_collection/fear/2/flat_list HTTP/1.1" 200 -
+2016-07-24 23:46:55,691 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:46:55,717 INFO      * Restarting with stat
+2016-07-24 23:46:55,975 WARNING   * Debugger is active!
+2016-07-24 23:46:55,978 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:46:56,375 INFO     127.0.0.1 - - [24/Jul/2016 23:46:56] "GET /corpus_storage/raw_corpus_collection/fear/2/flat_list HTTP/1.1" 200 -
+2016-07-24 23:47:08,218 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:47:08,248 INFO      * Restarting with stat
+2016-07-24 23:47:08,523 WARNING   * Debugger is active!
+2016-07-24 23:47:08,526 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:47:10,827 INFO     127.0.0.1 - - [24/Jul/2016 23:47:10] "GET /corpus_storage/raw_corpus_collection/fear/2/flat_list HTTP/1.1" 200 -
+2016-07-24 23:47:49,871 INFO     127.0.0.1 - - [24/Jul/2016 23:47:49] "GET /corpus_storage/raw_corpus_collection/fear/23/flat_list HTTP/1.1" 200 -
+2016-07-24 23:47:52,261 INFO     127.0.0.1 - - [24/Jul/2016 23:47:52] "GET /corpus_storage/raw_corpus_collection/fear/3/flat_list HTTP/1.1" 200 -
+2016-07-24 23:48:05,833 INFO     127.0.0.1 - - [24/Jul/2016 23:48:05] "GET /corpus_storage/raw_corpus_collection/fear/2/flat_list HTTP/1.1" 200 -
+2016-07-24 23:48:09,524 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:48:09,550 INFO      * Restarting with stat
+2016-07-24 23:48:09,799 WARNING   * Debugger is active!
+2016-07-24 23:48:09,804 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:48:16,927 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:48:16,955 INFO      * Restarting with stat
+2016-07-24 23:48:17,215 WARNING   * Debugger is active!
+2016-07-24 23:48:17,220 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:48:18,216 INFO     127.0.0.1 - - [24/Jul/2016 23:48:18] "GET /corpus_storage/raw_corpus_collection/fear/2/flat_list HTTP/1.1" 200 -
+2016-07-24 23:48:21,523 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:48:21,524 INFO      * Restarting with stat
+2016-07-24 23:48:21,772 WARNING   * Debugger is active!
+2016-07-24 23:48:21,777 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:48:23,345 INFO     127.0.0.1 - - [24/Jul/2016 23:48:23] "GET /corpus_storage/raw_corpus_collection/fear/2/flat_list HTTP/1.1" 200 -
+2016-07-24 23:49:05,033 INFO     127.0.0.1 - - [24/Jul/2016 23:49:05] "GET /corpus_storage/raw_corpus_collection/joy/1/flat_list HTTP/1.1" 200 -
+2016-07-24 23:49:12,566 INFO     127.0.0.1 - - [24/Jul/2016 23:49:12] "GET /corpus_storage/raw_corpus_collection/joy/2/flat_list HTTP/1.1" 200 -
+2016-07-24 23:49:43,220 INFO     127.0.0.1 - - [24/Jul/2016 23:49:43] "GET /corpus_storage/raw_corpus_collection/gratification/1/flat_list HTTP/1.1" 200 -
+2016-07-24 23:49:50,115 INFO     127.0.0.1 - - [24/Jul/2016 23:49:50] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list HTTP/1.1" 200 -
+2016-07-24 23:50:08,696 INFO     127.0.0.1 - - [24/Jul/2016 23:50:08] "GET /corpus_storage/raw_corpus_collection/gratification/2/flat_list HTTP/1.1" 200 -
+2016-07-24 23:50:18,033 INFO     127.0.0.1 - - [24/Jul/2016 23:50:18] "GET /corpus_storage/raw_corpus_collection/gratification/2/ HTTP/1.1" 200 -
+2016-07-24 23:50:26,089 INFO     127.0.0.1 - - [24/Jul/2016 23:50:26] "GET /corpus_storage/raw_corpus_collection/gratification/3/ HTTP/1.1" 200 -
+2016-07-24 23:50:31,996 INFO     127.0.0.1 - - [24/Jul/2016 23:50:31] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list HTTP/1.1" 200 -
+2016-07-24 23:50:38,916 INFO     127.0.0.1 - - [24/Jul/2016 23:50:38] "GET /corpus_storage/raw_corpus_collection/gratification/3/ HTTP/1.1" 200 -
+2016-07-24 23:51:45,342 INFO     127.0.0.1 - - [24/Jul/2016 23:51:45] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list HTTP/1.1" 200 -
+2016-07-24 23:53:37,303 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:53:37,333 INFO      * Restarting with stat
+2016-07-24 23:55:32,071 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:55:32,072 INFO      * Restarting with stat
+2016-07-24 23:55:32,323 WARNING   * Debugger is active!
+2016-07-24 23:55:32,329 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:55:34,257 INFO     127.0.0.1 - - [24/Jul/2016 23:55:34] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list HTTP/1.1" 500 -
+2016-07-24 23:55:34,281 INFO     127.0.0.1 - - [24/Jul/2016 23:55:34] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:55:34,282 INFO     127.0.0.1 - - [24/Jul/2016 23:55:34] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:55:34,282 INFO     127.0.0.1 - - [24/Jul/2016 23:55:34] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:55:34,301 INFO     127.0.0.1 - - [24/Jul/2016 23:55:34] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:55:34,375 INFO     127.0.0.1 - - [24/Jul/2016 23:55:34] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:55:41,491 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-24 23:55:41,521 INFO      * Restarting with stat
+2016-07-24 23:55:41,791 WARNING   * Debugger is active!
+2016-07-24 23:55:41,794 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:55:43,623 INFO     127.0.0.1 - - [24/Jul/2016 23:55:43] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list HTTP/1.1" 200 -
+2016-07-24 23:55:49,934 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-24 23:55:49,959 INFO      * Restarting with stat
+2016-07-24 23:55:50,215 WARNING   * Debugger is active!
+2016-07-24 23:55:50,220 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:55:50,871 INFO     127.0.0.1 - - [24/Jul/2016 23:55:50] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list HTTP/1.1" 500 -
+2016-07-24 23:55:50,896 INFO     127.0.0.1 - - [24/Jul/2016 23:55:50] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-24 23:55:50,898 INFO     127.0.0.1 - - [24/Jul/2016 23:55:50] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-24 23:55:50,899 INFO     127.0.0.1 - - [24/Jul/2016 23:55:50] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-24 23:55:50,937 INFO     127.0.0.1 - - [24/Jul/2016 23:55:50] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:55:51,006 INFO     127.0.0.1 - - [24/Jul/2016 23:55:51] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-24 23:55:54,297 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-24 23:55:54,323 INFO      * Restarting with stat
+2016-07-24 23:55:54,581 WARNING   * Debugger is active!
+2016-07-24 23:55:54,586 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:55:54,829 INFO     127.0.0.1 - - [24/Jul/2016 23:55:54] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list HTTP/1.1" 200 -
+2016-07-24 23:55:57,391 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-24 23:55:57,392 INFO      * Restarting with stat
+2016-07-24 23:55:57,647 WARNING   * Debugger is active!
+2016-07-24 23:55:57,652 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:56:00,353 INFO     127.0.0.1 - - [24/Jul/2016 23:56:00] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list HTTP/1.1" 200 -
+2016-07-24 23:56:45,486 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-24 23:56:45,512 INFO      * Restarting with stat
+2016-07-24 23:56:45,759 WARNING   * Debugger is active!
+2016-07-24 23:56:45,765 INFO      * Debugger pin code: 294-815-374
+2016-07-24 23:56:54,700 INFO     127.0.0.1 - - [24/Jul/2016 23:56:54] "GET /corpus_storage/raw_corpus_collection/gratification/3/flat_list HTTP/1.1" 200 -
+2016-07-24 23:58:36,758 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-24 23:58:36,786 INFO      * Restarting with stat
+2016-07-25 00:01:15,454 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-25 00:01:15,454 INFO      * Restarting with stat
+2016-07-25 00:01:15,698 WARNING   * Debugger is active!
+2016-07-25 00:01:15,704 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:01:21,289 INFO     127.0.0.1 - - [25/Jul/2016 00:01:21] "GET /corpus_storage/raw_corpus_collection/gratification/3/complete_object HTTP/1.1" 500 -
+2016-07-25 00:01:21,328 INFO     127.0.0.1 - - [25/Jul/2016 00:01:21] "GET /corpus_storage/raw_corpus_collection/gratification/3/complete_object?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-25 00:01:21,330 INFO     127.0.0.1 - - [25/Jul/2016 00:01:21] "GET /corpus_storage/raw_corpus_collection/gratification/3/complete_object?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-25 00:01:21,332 INFO     127.0.0.1 - - [25/Jul/2016 00:01:21] "GET /corpus_storage/raw_corpus_collection/gratification/3/complete_object?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-25 00:01:21,347 INFO     127.0.0.1 - - [25/Jul/2016 00:01:21] "GET /corpus_storage/raw_corpus_collection/gratification/3/complete_object?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:01:21,432 INFO     127.0.0.1 - - [25/Jul/2016 00:01:21] "GET /corpus_storage/raw_corpus_collection/gratification/3/complete_object?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:01:39,155 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:01:39,186 INFO      * Restarting with stat
+2016-07-25 00:01:39,452 WARNING   * Debugger is active!
+2016-07-25 00:01:39,458 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:01:40,344 INFO     127.0.0.1 - - [25/Jul/2016 00:01:40] "GET /corpus_storage/raw_corpus_collection/gratification/3/complete_object HTTP/1.1" 500 -
+2016-07-25 00:01:40,367 INFO     127.0.0.1 - - [25/Jul/2016 00:01:40] "GET /corpus_storage/raw_corpus_collection/gratification/3/complete_object?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-25 00:01:40,368 INFO     127.0.0.1 - - [25/Jul/2016 00:01:40] "GET /corpus_storage/raw_corpus_collection/gratification/3/complete_object?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-25 00:01:40,369 INFO     127.0.0.1 - - [25/Jul/2016 00:01:40] "GET /corpus_storage/raw_corpus_collection/gratification/3/complete_object?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-25 00:01:40,386 INFO     127.0.0.1 - - [25/Jul/2016 00:01:40] "GET /corpus_storage/raw_corpus_collection/gratification/3/complete_object?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:01:40,459 INFO     127.0.0.1 - - [25/Jul/2016 00:01:40] "GET /corpus_storage/raw_corpus_collection/gratification/3/complete_object?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:01:48,631 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:01:48,661 INFO      * Restarting with stat
+2016-07-25 00:01:48,916 WARNING   * Debugger is active!
+2016-07-25 00:01:48,920 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:01:49,928 INFO     127.0.0.1 - - [25/Jul/2016 00:01:49] "GET /corpus_storage/raw_corpus_collection/gratification/3/complete_object HTTP/1.1" 200 -
+2016-07-25 00:03:12,379 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-25 00:03:12,408 INFO      * Restarting with stat
+2016-07-25 00:03:12,660 WARNING   * Debugger is active!
+2016-07-25 00:03:12,663 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:03:32,012 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-25 00:03:32,041 INFO      * Restarting with stat
+2016-07-25 00:03:32,289 WARNING   * Debugger is active!
+2016-07-25 00:03:32,295 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:03:48,576 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:03:48,608 INFO      * Restarting with stat
+2016-07-25 00:03:48,871 WARNING   * Debugger is active!
+2016-07-25 00:03:48,875 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:03:49,900 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-25 00:03:49,931 INFO      * Restarting with stat
+2016-07-25 00:03:50,188 WARNING   * Debugger is active!
+2016-07-25 00:03:50,193 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:03:51,225 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-25 00:03:51,254 INFO      * Restarting with stat
+2016-07-25 00:03:51,509 WARNING   * Debugger is active!
+2016-07-25 00:03:51,514 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:03:53,564 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-25 00:03:53,594 INFO      * Restarting with stat
+2016-07-25 00:03:53,849 WARNING   * Debugger is active!
+2016-07-25 00:03:53,854 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:03:55,896 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:03:55,925 INFO      * Restarting with stat
+2016-07-25 00:03:56,179 WARNING   * Debugger is active!
+2016-07-25 00:03:56,184 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:04:10,277 INFO     127.0.0.1 - - [25/Jul/2016 00:04:10] "GET /corpus_storage/complete_object/gratification/ HTTP/1.1" 500 -
+2016-07-25 00:04:10,317 INFO     127.0.0.1 - - [25/Jul/2016 00:04:10] "GET /corpus_storage/complete_object/gratification/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-25 00:04:10,318 INFO     127.0.0.1 - - [25/Jul/2016 00:04:10] "GET /corpus_storage/complete_object/gratification/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-25 00:04:10,319 INFO     127.0.0.1 - - [25/Jul/2016 00:04:10] "GET /corpus_storage/complete_object/gratification/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-25 00:04:10,346 INFO     127.0.0.1 - - [25/Jul/2016 00:04:10] "GET /corpus_storage/complete_object/gratification/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:04:10,448 INFO     127.0.0.1 - - [25/Jul/2016 00:04:10] "GET /corpus_storage/complete_object/gratification/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:04:15,527 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:04:15,558 INFO      * Restarting with stat
+2016-07-25 00:04:15,823 WARNING   * Debugger is active!
+2016-07-25 00:04:15,828 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:04:16,346 INFO     127.0.0.1 - - [25/Jul/2016 00:04:16] "GET /corpus_storage/complete_object/gratification/ HTTP/1.1" 500 -
+2016-07-25 00:04:16,374 INFO     127.0.0.1 - - [25/Jul/2016 00:04:16] "GET /corpus_storage/complete_object/gratification/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-25 00:04:16,377 INFO     127.0.0.1 - - [25/Jul/2016 00:04:16] "GET /corpus_storage/complete_object/gratification/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-25 00:04:16,378 INFO     127.0.0.1 - - [25/Jul/2016 00:04:16] "GET /corpus_storage/complete_object/gratification/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-25 00:04:16,410 INFO     127.0.0.1 - - [25/Jul/2016 00:04:16] "GET /corpus_storage/complete_object/gratification/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:04:16,580 INFO     127.0.0.1 - - [25/Jul/2016 00:04:16] "GET /corpus_storage/complete_object/gratification/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:04:19,908 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:04:19,935 INFO      * Restarting with stat
+2016-07-25 00:04:20,193 WARNING   * Debugger is active!
+2016-07-25 00:04:20,199 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:04:21,096 INFO     127.0.0.1 - - [25/Jul/2016 00:04:21] "GET /corpus_storage/complete_object/gratification/ HTTP/1.1" 200 -
+2016-07-25 00:04:43,603 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:04:43,633 INFO      * Restarting with stat
+2016-07-25 00:04:43,884 WARNING   * Debugger is active!
+2016-07-25 00:04:43,888 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:06:40,952 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:06:40,983 INFO      * Restarting with stat
+2016-07-25 00:06:58,566 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-25 00:06:58,566 INFO      * Restarting with stat
+2016-07-25 00:06:58,815 WARNING   * Debugger is active!
+2016-07-25 00:06:58,821 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:07:14,087 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:07:14,118 INFO      * Restarting with stat
+2016-07-25 00:07:14,380 WARNING   * Debugger is active!
+2016-07-25 00:07:14,383 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:07:15,943 INFO     127.0.0.1 - - [25/Jul/2016 00:07:15] "GET /corpus_storage/complete_object/gratification/ HTTP/1.1" 200 -
+2016-07-25 00:07:29,652 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:07:29,678 INFO      * Restarting with stat
+2016-07-25 00:07:29,948 WARNING   * Debugger is active!
+2016-07-25 00:07:29,950 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:07:30,431 INFO     127.0.0.1 - - [25/Jul/2016 00:07:30] "GET /corpus_storage/complete_object/gratification/ HTTP/1.1" 200 -
+2016-07-25 00:10:09,576 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:10:09,601 INFO      * Restarting with stat
+2016-07-25 00:10:09,854 WARNING   * Debugger is active!
+2016-07-25 00:10:09,859 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:10:18,020 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-25 00:10:18,045 INFO      * Restarting with stat
+2016-07-25 00:10:18,304 WARNING   * Debugger is active!
+2016-07-25 00:10:18,309 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:10:24,861 INFO     127.0.0.1 - - [25/Jul/2016 00:10:24] "GET /corpus_storage/complete_object/joy/ HTTP/1.1" 200 -
+2016-07-25 00:10:30,144 INFO     127.0.0.1 - - [25/Jul/2016 00:10:30] "GET /corpus_storage/complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:11:29,616 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-25 00:11:29,641 INFO      * Restarting with stat
+2016-07-25 00:11:29,896 WARNING   * Debugger is active!
+2016-07-25 00:11:29,901 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:11:30,675 INFO     127.0.0.1 - - [25/Jul/2016 00:11:30] "GET /corpus_storage/complete_object/eroticism/ HTTP/1.1" 500 -
+2016-07-25 00:11:30,706 INFO     127.0.0.1 - - [25/Jul/2016 00:11:30] "GET /corpus_storage/complete_object/eroticism/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-25 00:11:36,665 INFO     127.0.0.1 - - [25/Jul/2016 00:11:36] "GET /corpus_storage/complete_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:11:36,666 INFO     127.0.0.1 - - [25/Jul/2016 00:11:36] "GET /corpus_storage/complete_object/eroticism/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-25 00:11:36,669 INFO     127.0.0.1 - - [25/Jul/2016 00:11:36] "GET /corpus_storage/complete_object/eroticism/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-25 00:11:36,788 INFO     127.0.0.1 - - [25/Jul/2016 00:11:36] "GET /corpus_storage/complete_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:11:47,212 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:11:47,242 INFO      * Restarting with stat
+2016-07-25 00:12:00,450 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-25 00:12:00,451 INFO      * Restarting with stat
+2016-07-25 00:12:00,700 WARNING   * Debugger is active!
+2016-07-25 00:12:00,705 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:12:02,263 INFO     127.0.0.1 - - [25/Jul/2016 00:12:02] "GET /corpus_storage/complete_object/eroticism/ HTTP/1.1" 500 -
+2016-07-25 00:12:02,291 INFO     127.0.0.1 - - [25/Jul/2016 00:12:02] "GET /corpus_storage/complete_object/eroticism/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-25 00:12:07,792 INFO     127.0.0.1 - - [25/Jul/2016 00:12:07] "GET /corpus_storage/complete_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:12:07,794 INFO     127.0.0.1 - - [25/Jul/2016 00:12:07] "GET /corpus_storage/complete_object/eroticism/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-25 00:12:07,796 INFO     127.0.0.1 - - [25/Jul/2016 00:12:07] "GET /corpus_storage/complete_object/eroticism/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-25 00:12:07,883 INFO     127.0.0.1 - - [25/Jul/2016 00:12:07] "GET /corpus_storage/complete_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:12:26,148 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-25 00:12:26,174 INFO      * Restarting with stat
+2016-07-25 00:12:26,433 WARNING   * Debugger is active!
+2016-07-25 00:12:26,436 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:12:27,026 INFO     127.0.0.1 - - [25/Jul/2016 00:12:27] "GET /corpus_storage/complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:15:53,024 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:15:53,056 INFO      * Restarting with stat
+2016-07-25 00:15:53,329 WARNING   * Debugger is active!
+2016-07-25 00:15:53,332 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:16:00,455 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:16:00,480 INFO      * Restarting with stat
+2016-07-25 00:16:00,747 WARNING   * Debugger is active!
+2016-07-25 00:16:00,750 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:16:39,475 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:16:39,505 INFO      * Restarting with stat
+2016-07-25 00:16:39,751 WARNING   * Debugger is active!
+2016-07-25 00:16:39,755 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:19:01,212 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:19:01,239 INFO      * Restarting with stat
+2016-07-25 00:19:01,487 WARNING   * Debugger is active!
+2016-07-25 00:19:01,492 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:19:29,986 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:19:30,009 INFO      * Restarting with stat
+2016-07-25 00:19:30,282 WARNING   * Debugger is active!
+2016-07-25 00:19:30,287 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:19:32,327 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:19:32,355 INFO      * Restarting with stat
+2016-07-25 00:19:32,610 WARNING   * Debugger is active!
+2016-07-25 00:19:32,616 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:20:01,092 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-25 00:20:01,121 INFO      * Restarting with stat
+2016-07-25 00:20:01,386 WARNING   * Debugger is active!
+2016-07-25 00:20:01,392 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:20:26,856 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-25 00:20:26,884 INFO      * Restarting with stat
+2016-07-25 00:20:27,145 WARNING   * Debugger is active!
+2016-07-25 00:20:27,150 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:20:29,194 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-25 00:20:29,218 INFO      * Restarting with stat
+2016-07-25 00:20:29,479 WARNING   * Debugger is active!
+2016-07-25 00:20:29,483 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:20:47,127 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-25 00:20:47,128 INFO      * Restarting with stat
+2016-07-25 00:20:47,394 WARNING   * Debugger is active!
+2016-07-25 00:20:47,399 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:20:49,767 INFO     127.0.0.1 - - [25/Jul/2016 00:20:49] "GET /corpus_storage/save_storage_object/eroticism/ HTTP/1.1" 404 -
+2016-07-25 00:21:28,111 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:21:28,136 INFO      * Restarting with stat
+2016-07-25 00:21:28,394 WARNING   * Debugger is active!
+2016-07-25 00:21:28,399 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:21:29,990 INFO     127.0.0.1 - - [25/Jul/2016 00:21:29] "GET /corpus_storage/save_storage_object/eroticism/ HTTP/1.1" 404 -
+2016-07-25 00:21:45,715 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-25 00:21:45,746 INFO      * Restarting with stat
+2016-07-25 00:21:46,002 WARNING   * Debugger is active!
+2016-07-25 00:21:46,006 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:21:48,533 INFO     127.0.0.1 - - [25/Jul/2016 00:21:48] "GET /corpus_storage/save_storage_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:21:51,115 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:21:51,145 INFO      * Restarting with stat
+2016-07-25 00:21:51,408 WARNING   * Debugger is active!
+2016-07-25 00:21:51,412 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:21:51,948 INFO     127.0.0.1 - - [25/Jul/2016 00:21:51] "GET /corpus_storage/save_storage_object/eroticism/ HTTP/1.1" 500 -
+2016-07-25 00:21:51,975 INFO     127.0.0.1 - - [25/Jul/2016 00:21:51] "GET /corpus_storage/save_storage_object/eroticism/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-25 00:21:57,533 INFO     127.0.0.1 - - [25/Jul/2016 00:21:57] "GET /corpus_storage/save_storage_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:21:57,534 INFO     127.0.0.1 - - [25/Jul/2016 00:21:57] "GET /corpus_storage/save_storage_object/eroticism/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-25 00:21:57,536 INFO     127.0.0.1 - - [25/Jul/2016 00:21:57] "GET /corpus_storage/save_storage_object/eroticism/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-25 00:21:57,640 INFO     127.0.0.1 - - [25/Jul/2016 00:21:57] "GET /corpus_storage/save_storage_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:22:37,248 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:22:37,274 INFO      * Restarting with stat
+2016-07-25 00:22:37,523 WARNING   * Debugger is active!
+2016-07-25 00:22:37,529 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:22:39,597 INFO     127.0.0.1 - - [25/Jul/2016 00:22:39] "GET /corpus_storage/save_storage_object/eroticism/ HTTP/1.1" 500 -
+2016-07-25 00:22:39,620 INFO     127.0.0.1 - - [25/Jul/2016 00:22:39] "GET /corpus_storage/save_storage_object/eroticism/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-25 00:22:45,582 INFO     127.0.0.1 - - [25/Jul/2016 00:22:45] "GET /corpus_storage/save_storage_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:22:45,584 INFO     127.0.0.1 - - [25/Jul/2016 00:22:45] "GET /corpus_storage/save_storage_object/eroticism/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-25 00:22:45,586 INFO     127.0.0.1 - - [25/Jul/2016 00:22:45] "GET /corpus_storage/save_storage_object/eroticism/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-25 00:22:45,678 INFO     127.0.0.1 - - [25/Jul/2016 00:22:45] "GET /corpus_storage/save_storage_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:22:58,905 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:22:58,933 INFO      * Restarting with stat
+2016-07-25 00:22:59,186 WARNING   * Debugger is active!
+2016-07-25 00:22:59,192 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:23:08,360 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:23:08,387 INFO      * Restarting with stat
+2016-07-25 00:23:08,640 WARNING   * Debugger is active!
+2016-07-25 00:23:08,646 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:23:17,163 INFO     127.0.0.1 - - [25/Jul/2016 00:23:17] "GET /corpus_storage/get_complete_object/eroticism/ HTTP/1.1" 404 -
+2016-07-25 00:23:25,752 INFO     127.0.0.1 - - [25/Jul/2016 00:23:25] "GET /corpus_storage/complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:23:32,042 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:23:32,074 INFO      * Restarting with stat
+2016-07-25 00:23:32,330 WARNING   * Debugger is active!
+2016-07-25 00:23:32,335 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:23:32,785 INFO     127.0.0.1 - - [25/Jul/2016 00:23:32] "GET /corpus_storage/complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:23:35,407 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:23:35,436 INFO      * Restarting with stat
+2016-07-25 00:24:11,146 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-25 00:24:11,147 INFO      * Restarting with stat
+2016-07-25 00:24:11,403 WARNING   * Debugger is active!
+2016-07-25 00:24:11,408 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:24:14,467 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:24:14,493 INFO      * Restarting with stat
+2016-07-25 00:24:14,753 WARNING   * Debugger is active!
+2016-07-25 00:24:14,758 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:24:15,214 INFO     127.0.0.1 - - [25/Jul/2016 00:24:15] "GET /corpus_storage/complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:24:17,819 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:24:17,844 INFO      * Restarting with stat
+2016-07-25 00:24:18,105 WARNING   * Debugger is active!
+2016-07-25 00:24:18,110 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:24:18,879 INFO     127.0.0.1 - - [25/Jul/2016 00:24:18] "GET /corpus_storage/complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:24:24,218 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:24:24,248 INFO      * Restarting with stat
+2016-07-25 00:24:24,515 WARNING   * Debugger is active!
+2016-07-25 00:24:24,517 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:24:24,973 INFO     127.0.0.1 - - [25/Jul/2016 00:24:24] "GET /corpus_storage/complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:38:53,602 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-25 00:38:53,625 INFO      * Restarting with stat
+2016-07-25 00:38:53,880 WARNING   * Debugger is active!
+2016-07-25 00:38:53,886 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:38:59,996 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-25 00:39:00,022 INFO      * Restarting with stat
+2016-07-25 00:39:00,279 WARNING   * Debugger is active!
+2016-07-25 00:39:00,283 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:39:08,383 INFO     127.0.0.1 - - [25/Jul/2016 00:39:08] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:47:10,599 INFO     127.0.0.1 - - [25/Jul/2016 00:47:10] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:51:23,683 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:51:23,710 INFO      * Restarting with stat
+2016-07-25 00:51:23,969 WARNING   * Debugger is active!
+2016-07-25 00:51:23,974 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:51:33,134 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:51:33,165 INFO      * Restarting with stat
+2016-07-25 00:51:33,418 WARNING   * Debugger is active!
+2016-07-25 00:51:33,424 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:51:59,885 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:51:59,914 INFO      * Restarting with stat
+2016-07-25 00:52:00,164 WARNING   * Debugger is active!
+2016-07-25 00:52:00,168 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:52:01,866 INFO     127.0.0.1 - - [25/Jul/2016 00:52:01] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 500 -
+2016-07-25 00:52:01,895 INFO     127.0.0.1 - - [25/Jul/2016 00:52:01] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-25 00:52:07,848 INFO     127.0.0.1 - - [25/Jul/2016 00:52:07] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:52:07,849 INFO     127.0.0.1 - - [25/Jul/2016 00:52:07] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-25 00:52:07,850 INFO     127.0.0.1 - - [25/Jul/2016 00:52:07] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-25 00:52:07,947 INFO     127.0.0.1 - - [25/Jul/2016 00:52:07] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:52:18,510 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:52:18,538 INFO      * Restarting with stat
+2016-07-25 00:52:18,798 WARNING   * Debugger is active!
+2016-07-25 00:52:18,804 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:52:19,765 INFO     127.0.0.1 - - [25/Jul/2016 00:52:19] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 500 -
+2016-07-25 00:52:19,797 INFO     127.0.0.1 - - [25/Jul/2016 00:52:19] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-25 00:52:25,752 INFO     127.0.0.1 - - [25/Jul/2016 00:52:25] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:52:25,754 INFO     127.0.0.1 - - [25/Jul/2016 00:52:25] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-25 00:52:25,756 INFO     127.0.0.1 - - [25/Jul/2016 00:52:25] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-25 00:52:25,825 INFO     127.0.0.1 - - [25/Jul/2016 00:52:25] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:52:42,210 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:52:42,243 INFO      * Restarting with stat
+2016-07-25 00:52:42,494 WARNING   * Debugger is active!
+2016-07-25 00:52:42,498 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:52:43,163 INFO     127.0.0.1 - - [25/Jul/2016 00:52:43] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:52:50,646 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:52:50,673 INFO      * Restarting with stat
+2016-07-25 00:52:50,934 WARNING   * Debugger is active!
+2016-07-25 00:52:50,939 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:52:51,444 INFO     127.0.0.1 - - [25/Jul/2016 00:52:51] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:52:53,914 INFO     127.0.0.1 - - [25/Jul/2016 00:52:53] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:53:09,259 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:53:09,288 INFO      * Restarting with stat
+2016-07-25 00:53:09,550 WARNING   * Debugger is active!
+2016-07-25 00:53:09,555 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:53:10,616 INFO     127.0.0.1 - - [25/Jul/2016 00:53:10] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:53:22,788 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:53:22,811 INFO      * Restarting with stat
+2016-07-25 00:53:23,058 WARNING   * Debugger is active!
+2016-07-25 00:53:23,061 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:53:25,399 INFO     127.0.0.1 - - [25/Jul/2016 00:53:25] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:53:32,224 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:53:32,251 INFO      * Restarting with stat
+2016-07-25 00:53:32,515 WARNING   * Debugger is active!
+2016-07-25 00:53:32,520 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:53:34,474 INFO     127.0.0.1 - - [25/Jul/2016 00:53:34] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:55:14,322 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:55:14,348 INFO      * Restarting with stat
+2016-07-25 00:55:14,609 WARNING   * Debugger is active!
+2016-07-25 00:55:14,611 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:55:15,371 INFO     127.0.0.1 - - [25/Jul/2016 00:55:15] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:55:18,413 INFO     127.0.0.1 - - [25/Jul/2016 00:55:18] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:55:34,984 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:55:35,012 INFO      * Restarting with stat
+2016-07-25 00:55:35,280 WARNING   * Debugger is active!
+2016-07-25 00:55:35,284 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:55:36,002 INFO     127.0.0.1 - - [25/Jul/2016 00:55:36] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:55:45,474 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:55:45,500 INFO      * Restarting with stat
+2016-07-25 00:55:45,764 WARNING   * Debugger is active!
+2016-07-25 00:55:45,774 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:55:46,446 INFO     127.0.0.1 - - [25/Jul/2016 00:55:46] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 500 -
+2016-07-25 00:55:46,471 INFO     127.0.0.1 - - [25/Jul/2016 00:55:46] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-25 00:55:46,472 INFO     127.0.0.1 - - [25/Jul/2016 00:55:46] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-25 00:55:46,472 INFO     127.0.0.1 - - [25/Jul/2016 00:55:46] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-25 00:55:46,487 INFO     127.0.0.1 - - [25/Jul/2016 00:55:46] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:55:46,519 INFO     127.0.0.1 - - [25/Jul/2016 00:55:46] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:55:50,875 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:55:50,902 INFO      * Restarting with stat
+2016-07-25 00:55:51,149 WARNING   * Debugger is active!
+2016-07-25 00:55:51,155 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:55:51,307 INFO     127.0.0.1 - - [25/Jul/2016 00:55:51] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:56:05,380 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:56:05,407 INFO      * Restarting with stat
+2016-07-25 00:56:05,672 WARNING   * Debugger is active!
+2016-07-25 00:56:05,676 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:56:06,804 INFO     127.0.0.1 - - [25/Jul/2016 00:56:06] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:56:13,823 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:56:13,848 INFO      * Restarting with stat
+2016-07-25 00:56:14,108 WARNING   * Debugger is active!
+2016-07-25 00:56:14,112 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:56:17,343 INFO     127.0.0.1 - - [25/Jul/2016 00:56:17] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:56:29,378 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:56:29,411 INFO      * Restarting with stat
+2016-07-25 00:56:29,682 WARNING   * Debugger is active!
+2016-07-25 00:56:29,691 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:56:30,185 INFO     127.0.0.1 - - [25/Jul/2016 00:56:30] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 500 -
+2016-07-25 00:56:30,210 INFO     127.0.0.1 - - [25/Jul/2016 00:56:30] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-25 00:56:30,211 INFO     127.0.0.1 - - [25/Jul/2016 00:56:30] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-25 00:56:30,212 INFO     127.0.0.1 - - [25/Jul/2016 00:56:30] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-25 00:56:30,225 INFO     127.0.0.1 - - [25/Jul/2016 00:56:30] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:56:30,312 INFO     127.0.0.1 - - [25/Jul/2016 00:56:30] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:56:32,746 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:56:32,771 INFO      * Restarting with stat
+2016-07-25 00:56:33,043 WARNING   * Debugger is active!
+2016-07-25 00:56:33,049 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:56:34,844 INFO     127.0.0.1 - - [25/Jul/2016 00:56:34] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:56:55,450 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:56:55,476 INFO      * Restarting with stat
+2016-07-25 00:56:55,739 WARNING   * Debugger is active!
+2016-07-25 00:56:55,744 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:56:56,929 INFO     127.0.0.1 - - [25/Jul/2016 00:56:56] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 500 -
+2016-07-25 00:56:56,959 INFO     127.0.0.1 - - [25/Jul/2016 00:56:56] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-25 00:56:56,961 INFO     127.0.0.1 - - [25/Jul/2016 00:56:56] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-25 00:56:56,962 INFO     127.0.0.1 - - [25/Jul/2016 00:56:56] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-25 00:56:56,980 INFO     127.0.0.1 - - [25/Jul/2016 00:56:56] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:56:57,015 INFO     127.0.0.1 - - [25/Jul/2016 00:56:57] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:57:01,850 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:57:01,878 INFO      * Restarting with stat
+2016-07-25 00:57:02,155 WARNING   * Debugger is active!
+2016-07-25 00:57:02,157 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:57:03,558 INFO     127.0.0.1 - - [25/Jul/2016 00:57:03] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:57:15,405 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:57:15,430 INFO      * Restarting with stat
+2016-07-25 00:57:15,690 WARNING   * Debugger is active!
+2016-07-25 00:57:15,694 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:57:17,002 INFO     127.0.0.1 - - [25/Jul/2016 00:57:17] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 500 -
+2016-07-25 00:57:17,023 INFO     127.0.0.1 - - [25/Jul/2016 00:57:17] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-25 00:57:17,024 INFO     127.0.0.1 - - [25/Jul/2016 00:57:17] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-25 00:57:17,024 INFO     127.0.0.1 - - [25/Jul/2016 00:57:17] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-25 00:57:17,064 INFO     127.0.0.1 - - [25/Jul/2016 00:57:17] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:57:17,267 INFO     127.0.0.1 - - [25/Jul/2016 00:57:17] "GET /corpus_storage/save_complete_object/eroticism/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 00:57:24,858 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:57:24,891 INFO      * Restarting with stat
+2016-07-25 00:57:25,143 WARNING   * Debugger is active!
+2016-07-25 00:57:25,147 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:57:25,622 INFO     127.0.0.1 - - [25/Jul/2016 00:57:25] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:57:43,471 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:57:43,498 INFO      * Restarting with stat
+2016-07-25 00:57:58,159 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-25 00:57:58,160 INFO      * Restarting with stat
+2016-07-25 00:57:58,424 WARNING   * Debugger is active!
+2016-07-25 00:57:58,430 INFO      * Debugger pin code: 294-815-374
+2016-07-25 00:58:02,928 INFO     127.0.0.1 - - [25/Jul/2016 00:58:02] "GET /corpus_storage/complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:58:10,153 INFO     127.0.0.1 - - [25/Jul/2016 00:58:10] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 00:59:35,109 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 00:59:35,133 INFO      * Restarting with stat
+2016-07-25 00:59:35,391 WARNING   * Debugger is active!
+2016-07-25 00:59:35,397 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:00:20,217 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:00:20,246 INFO      * Restarting with stat
+2016-07-25 01:00:42,800 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-25 01:00:42,800 INFO      * Restarting with stat
+2016-07-25 01:00:43,050 WARNING   * Debugger is active!
+2016-07-25 01:00:43,056 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:00:57,311 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:00:57,335 INFO      * Restarting with stat
+2016-07-25 01:00:57,592 WARNING   * Debugger is active!
+2016-07-25 01:00:57,598 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:01:10,847 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:01:10,875 INFO      * Restarting with stat
+2016-07-25 01:01:11,143 WARNING   * Debugger is active!
+2016-07-25 01:01:11,149 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:01:24,394 INFO     127.0.0.1 - - [25/Jul/2016 01:01:24] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 01:01:40,668 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:01:40,693 INFO      * Restarting with stat
+2016-07-25 01:01:40,951 WARNING   * Debugger is active!
+2016-07-25 01:01:40,956 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:01:42,923 INFO     127.0.0.1 - - [25/Jul/2016 01:01:42] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 01:01:49,093 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:01:49,117 INFO      * Restarting with stat
+2016-07-25 01:01:49,366 WARNING   * Debugger is active!
+2016-07-25 01:01:49,372 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:01:49,853 INFO     127.0.0.1 - - [25/Jul/2016 01:01:49] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 01:02:05,665 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:02:05,692 INFO      * Restarting with stat
+2016-07-25 01:02:05,952 WARNING   * Debugger is active!
+2016-07-25 01:02:05,957 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:02:06,993 INFO     127.0.0.1 - - [25/Jul/2016 01:02:06] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 01:02:34,483 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:02:34,510 INFO      * Restarting with stat
+2016-07-25 01:02:34,778 WARNING   * Debugger is active!
+2016-07-25 01:02:34,782 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:02:36,498 INFO     127.0.0.1 - - [25/Jul/2016 01:02:36] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 01:02:41,855 INFO     127.0.0.1 - - [25/Jul/2016 01:02:41] "GET /corpus_storage/save_complete_object/foo/ HTTP/1.1" 200 -
+2016-07-25 01:02:50,058 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:02:50,084 INFO      * Restarting with stat
+2016-07-25 01:02:50,345 WARNING   * Debugger is active!
+2016-07-25 01:02:50,350 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:02:53,410 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:02:53,439 INFO      * Restarting with stat
+2016-07-25 01:02:53,701 WARNING   * Debugger is active!
+2016-07-25 01:02:53,707 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:02:58,802 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:02:58,833 INFO      * Restarting with stat
+2016-07-25 01:02:59,079 WARNING   * Debugger is active!
+2016-07-25 01:02:59,084 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:03:00,115 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:03:00,143 INFO      * Restarting with stat
+2016-07-25 01:03:00,403 WARNING   * Debugger is active!
+2016-07-25 01:03:00,408 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:03:01,551 INFO     127.0.0.1 - - [25/Jul/2016 01:03:01] "GET /corpus_storage/save_complete_object/foo/ HTTP/1.1" 200 -
+2016-07-25 01:03:03,383 INFO     127.0.0.1 - - [25/Jul/2016 01:03:03] "GET /corpus_storage/save_complete_object/foo/ HTTP/1.1" 200 -
+2016-07-25 01:03:11,657 INFO     127.0.0.1 - - [25/Jul/2016 01:03:11] "GET /corpus_storage/save_complete_object/anger/ HTTP/1.1" 200 -
+2016-07-25 01:03:38,070 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:03:38,096 INFO      * Restarting with stat
+2016-07-25 01:03:38,371 WARNING   * Debugger is active!
+2016-07-25 01:03:38,376 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:03:39,508 INFO     127.0.0.1 - - [25/Jul/2016 01:03:39] "GET /corpus_storage/save_complete_object/anger/ HTTP/1.1" 200 -
+2016-07-25 01:03:42,637 INFO     127.0.0.1 - - [25/Jul/2016 01:03:42] "GET /corpus_storage/save_complete_object/anger/ HTTP/1.1" 200 -
+2016-07-25 01:04:36,382 INFO     127.0.0.1 - - [25/Jul/2016 01:04:36] "GET /corpus_storage/save_complete_object/anger/ HTTP/1.1" 200 -
+2016-07-25 01:06:30,430 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:06:30,453 INFO      * Restarting with stat
+2016-07-25 01:06:30,703 WARNING   * Debugger is active!
+2016-07-25 01:06:30,708 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:06:33,833 INFO     127.0.0.1 - - [25/Jul/2016 01:06:33] "GET /corpus_storage/save_complete_object/anger/ HTTP/1.1" 200 -
+2016-07-25 01:06:35,628 INFO     127.0.0.1 - - [25/Jul/2016 01:06:35] "GET /corpus_storage/save_complete_object/anger/ HTTP/1.1" 200 -
+2016-07-25 01:06:36,417 INFO     127.0.0.1 - - [25/Jul/2016 01:06:36] "GET /corpus_storage/save_complete_object/anger/ HTTP/1.1" 200 -
+2016-07-25 01:06:37,240 INFO     127.0.0.1 - - [25/Jul/2016 01:06:37] "GET /corpus_storage/save_complete_object/anger/ HTTP/1.1" 200 -
+2016-07-25 01:06:47,077 INFO     127.0.0.1 - - [25/Jul/2016 01:06:47] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 01:06:53,437 INFO     127.0.0.1 - - [25/Jul/2016 01:06:53] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 01:06:55,966 INFO     127.0.0.1 - - [25/Jul/2016 01:06:55] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 01:06:56,483 INFO     127.0.0.1 - - [25/Jul/2016 01:06:56] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 01:06:57,038 INFO     127.0.0.1 - - [25/Jul/2016 01:06:57] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 01:06:57,481 INFO     127.0.0.1 - - [25/Jul/2016 01:06:57] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 01:07:28,698 INFO     127.0.0.1 - - [25/Jul/2016 01:07:28] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 01:07:44,268 INFO     127.0.0.1 - - [25/Jul/2016 01:07:44] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 01:08:09,607 INFO     127.0.0.1 - - [25/Jul/2016 01:08:09] "GET /corpus_storage/save_complete_object/eroticism/ HTTP/1.1" 200 -
+2016-07-25 01:09:40,146 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:09:40,177 INFO      * Restarting with stat
+2016-07-25 01:09:40,432 WARNING   * Debugger is active!
+2016-07-25 01:09:40,438 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:20:45,153 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:20:45,181 INFO      * Restarting with stat
+2016-07-25 01:21:16,291 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-25 01:21:16,291 INFO      * Restarting with stat
+2016-07-25 01:21:16,547 WARNING   * Debugger is active!
+2016-07-25 01:21:16,553 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:23:22,774 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:23:22,802 INFO      * Restarting with stat
+2016-07-25 01:23:23,060 WARNING   * Debugger is active!
+2016-07-25 01:23:23,066 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:24:02,760 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/views.py', reloading
+2016-07-25 01:24:02,784 INFO      * Restarting with stat
+2016-07-25 01:25:20,830 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-25 01:25:20,831 INFO      * Restarting with stat
+2016-07-25 01:25:21,076 WARNING   * Debugger is active!
+2016-07-25 01:25:21,081 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:25:22,699 INFO     127.0.0.1 - - [25/Jul/2016 01:25:22] "GET /corpus_storage/save_complete_object/all/ HTTP/1.1" 500 -
+2016-07-25 01:25:22,741 INFO     127.0.0.1 - - [25/Jul/2016 01:25:22] "GET /corpus_storage/save_complete_object/all/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-25 01:25:22,742 INFO     127.0.0.1 - - [25/Jul/2016 01:25:22] "GET /corpus_storage/save_complete_object/all/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-25 01:25:22,744 INFO     127.0.0.1 - - [25/Jul/2016 01:25:22] "GET /corpus_storage/save_complete_object/all/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-25 01:25:22,787 INFO     127.0.0.1 - - [25/Jul/2016 01:25:22] "GET /corpus_storage/save_complete_object/all/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 01:25:22,954 INFO     127.0.0.1 - - [25/Jul/2016 01:25:22] "GET /corpus_storage/save_complete_object/all/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 01:25:46,540 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:25:46,566 INFO      * Restarting with stat
+2016-07-25 01:25:46,815 WARNING   * Debugger is active!
+2016-07-25 01:25:46,820 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:25:46,984 INFO     127.0.0.1 - - [25/Jul/2016 01:25:46] "GET /corpus_storage/save_complete_object/all/ HTTP/1.1" 500 -
+2016-07-25 01:25:47,015 INFO     127.0.0.1 - - [25/Jul/2016 01:25:47] "GET /corpus_storage/save_complete_object/all/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2016-07-25 01:25:47,016 INFO     127.0.0.1 - - [25/Jul/2016 01:25:47] "GET /corpus_storage/save_complete_object/all/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2016-07-25 01:25:47,018 INFO     127.0.0.1 - - [25/Jul/2016 01:25:47] "GET /corpus_storage/save_complete_object/all/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2016-07-25 01:25:47,044 INFO     127.0.0.1 - - [25/Jul/2016 01:25:47] "GET /corpus_storage/save_complete_object/all/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 01:25:47,117 INFO     127.0.0.1 - - [25/Jul/2016 01:25:47] "GET /corpus_storage/save_complete_object/all/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2016-07-25 01:25:52,924 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:25:52,952 INFO      * Restarting with stat
+2016-07-25 01:25:53,214 WARNING   * Debugger is active!
+2016-07-25 01:25:53,219 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:25:54,249 INFO     127.0.0.1 - - [25/Jul/2016 01:25:54] "GET /corpus_storage/save_complete_object/all/ HTTP/1.1" 200 -
+2016-07-25 01:26:18,660 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:26:18,693 INFO      * Restarting with stat
+2016-07-25 01:26:18,947 WARNING   * Debugger is active!
+2016-07-25 01:26:18,953 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:26:20,021 INFO     127.0.0.1 - - [25/Jul/2016 01:26:20] "GET /corpus_storage/save_complete_object/all/ HTTP/1.1" 200 -
+2016-07-25 01:26:24,046 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:26:24,071 INFO      * Restarting with stat
+2016-07-25 01:26:24,321 WARNING   * Debugger is active!
+2016-07-25 01:26:24,326 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:26:48,709 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:26:48,739 INFO      * Restarting with stat
+2016-07-25 01:26:48,987 WARNING   * Debugger is active!
+2016-07-25 01:26:48,990 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:26:50,016 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:26:50,044 INFO      * Restarting with stat
+2016-07-25 01:26:50,308 WARNING   * Debugger is active!
+2016-07-25 01:26:50,312 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:28:47,691 INFO     127.0.0.1 - - [25/Jul/2016 01:28:47] "GET /corpus_storage/save_complete_object/all/ HTTP/1.1" 200 -
+2016-07-25 01:29:46,445 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:29:46,475 INFO      * Restarting with stat
+2016-07-25 01:29:46,728 WARNING   * Debugger is active!
+2016-07-25 01:29:46,733 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:29:51,827 INFO      * Detected change in '/home/nate/src/copious-affect-corpus/app/corpus_storage/controllers.py', reloading
+2016-07-25 01:29:51,852 INFO      * Restarting with stat
+2016-07-25 01:29:52,098 WARNING   * Debugger is active!
+2016-07-25 01:29:52,103 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:29:58,666 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-25 01:29:58,666 INFO      * Restarting with stat
+2016-07-25 01:29:58,917 WARNING   * Debugger is active!
+2016-07-25 01:29:58,922 INFO      * Debugger pin code: 294-815-374
+2016-07-25 01:30:03,317 INFO     127.0.0.1 - - [25/Jul/2016 01:30:03] "GET /corpus_storage/save_complete_object/all/ HTTP/1.1" 200 -
+2016-07-25 01:31:52,348 INFO     127.0.0.1 - - [25/Jul/2016 01:31:52] "GET /corpus_storage/save_complete_object/all/ HTTP/1.1" 200 -
+2016-07-25 01:32:21,796 INFO     127.0.0.1 - - [25/Jul/2016 01:32:21] "GET /corpus_storage/save_complete_object/all/ HTTP/1.1" 200 -
+2016-07-26 00:58:25,956 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-26 00:58:25,959 INFO      * Restarting with stat
+2016-07-26 00:58:26,204 WARNING   * Debugger is active!
+2016-07-26 00:58:26,210 INFO      * Debugger pin code: 294-815-374
+2016-07-26 00:59:09,917 INFO     ***************************
+2016-07-26 00:59:09,917 INFO     List is in the following mongo collection:
+2016-07-26 00:59:09,917 INFO     contrariness-corpus-only-syn-unq-order-1
+2016-07-26 00:59:09,926 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:10,088 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 00:59:10,089 INFO     [u'wilfulness', u'fractiousness', u'crotchetiness', u'crankiness', u'perversity', u'unruliness', u'ill nature', u'willfulness', u'perverseness', u'grumpiness']
+2016-07-26 00:59:10,089 INFO     =====END FLAT LIST=====
+2016-07-26 00:59:10,089 INFO     Length of list is:
+2016-07-26 00:59:10,089 INFO     10
+2016-07-26 00:59:10,089 INFO     Length of setlist is:
+2016-07-26 00:59:10,089 INFO     10
+2016-07-26 00:59:10,089 INFO     ***************************
+2016-07-26 00:59:10,089 INFO     ***************************
+2016-07-26 00:59:10,089 INFO     List is in the following mongo collection:
+2016-07-26 00:59:10,089 INFO     contrariness-corpus-only-syn-unq-order-2
+2016-07-26 00:59:10,091 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:10,231 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:10,390 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:10,537 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:10,675 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:10,830 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:10,971 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:11,106 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:11,252 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:11,383 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:11,515 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 00:59:11,515 INFO     [u'temperament', u'wilfulness', u'fractiousness', u'crotchetiness', u'intractableness', u'crankiness', u'evil', u'perversity', u'unruliness', u'ill nature', u'willfulness', u'disposition', u'perverseness', u'contrariness', u'grumpiness', u'evilness', u'intractability']
+2016-07-26 00:59:11,515 INFO     =====END FLAT LIST=====
+2016-07-26 00:59:11,515 INFO     Length of list is:
+2016-07-26 00:59:11,516 INFO     50
+2016-07-26 00:59:11,516 INFO     Length of setlist is:
+2016-07-26 00:59:11,516 INFO     17
+2016-07-26 00:59:11,516 INFO     ***************************
+2016-07-26 00:59:11,516 INFO     ***************************
+2016-07-26 00:59:11,516 INFO     List is in the following mongo collection:
+2016-07-26 00:59:11,516 INFO     contrariness-corpus-only-syn-unq-order-3
+2016-07-26 00:59:11,519 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:11,652 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:11,794 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:11,950 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:12,084 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:12,222 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:12,359 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:12,493 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:12,628 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:12,770 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:12,898 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:13,026 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:13,163 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:13,295 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:13,427 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:13,555 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:13,687 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 00:59:13,815 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 00:59:13,816 INFO     [u'wilfulness', u'ill nature', u'crotchetiness', u'exploit', u'crankiness', u'unruliness', u'readjustment', u'willfulness', u'registration', u'perverseness', u'deed', u'adjustment', u'feat', u'wickedness', u'intractability', u'emotionalism', u'nature', u'evildoing', u'mental attitude', u'badness', u'evilness', u'immorality', u'fractiousness', u'trait', u'evil', u'perversity', u'disposition', u'temperament', u'contrariness', u'tendency', u'effort', u'grumpiness', u'property', u'emotionality', u'intractableness', u'attitude', u'iniquity', u'bad', u'transgression', u'disposal', u'inclination']
+2016-07-26 00:59:13,816 INFO     =====END FLAT LIST=====
+2016-07-26 00:59:13,816 INFO     Length of list is:
+2016-07-26 00:59:13,816 INFO     93
+2016-07-26 00:59:13,816 INFO     Length of setlist is:
+2016-07-26 00:59:13,816 INFO     41
+2016-07-26 00:59:13,816 INFO     ***************************
+2016-07-26 00:59:13,818 INFO     127.0.0.1 - - [26/Jul/2016 00:59:13] "POST /corpus/y HTTP/1.1" 200 -

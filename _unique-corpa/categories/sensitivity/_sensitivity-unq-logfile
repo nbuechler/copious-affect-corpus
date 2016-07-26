@@ -1,0 +1,169 @@
+2016-07-26 01:12:00,566 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-26 01:12:00,567 INFO      * Restarting with stat
+2016-07-26 01:12:00,807 WARNING   * Debugger is active!
+2016-07-26 01:12:00,812 INFO      * Debugger pin code: 294-815-374
+2016-07-26 01:12:10,991 INFO     ***************************
+2016-07-26 01:12:10,991 INFO     List is in the following mongo collection:
+2016-07-26 01:12:10,991 INFO     sensitivity-corpus-only-syn-unq-order-1
+2016-07-26 01:12:11,000 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:11,131 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 01:12:11,131 INFO     [u'susceptibility', u'sentiency', u'ability', u'predisposition', u'sentience', u'physical property', u'sensation', u'susceptibleness', u'sense', u'sensory faculty', u'sensibility', u'feeling', u'sensitiveness']
+2016-07-26 01:12:11,131 INFO     =====END FLAT LIST=====
+2016-07-26 01:12:11,131 INFO     Length of list is:
+2016-07-26 01:12:11,131 INFO     13
+2016-07-26 01:12:11,131 INFO     Length of setlist is:
+2016-07-26 01:12:11,132 INFO     13
+2016-07-26 01:12:11,132 INFO     ***************************
+2016-07-26 01:12:11,132 INFO     ***************************
+2016-07-26 01:12:11,132 INFO     List is in the following mongo collection:
+2016-07-26 01:12:11,132 INFO     sensitivity-corpus-only-syn-unq-order-2
+2016-07-26 01:12:11,133 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:11,263 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:11,385 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:11,507 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:11,634 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:11,757 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:11,878 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:11,999 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:12,132 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:12,258 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:12,379 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:12,501 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:12,625 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:12,742 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 01:12:12,742 INFO     [u'impression', u'atmosphere', u'gumption', u'consciousness', u'fervour', u'knowingness', u'touch', u'flavor', u'find', u'tendency', u'knowledge', u'wizard', u'state', u'comprehend', u'common sense', u'fervor', u'ambience', u'awareness', u'esthesia', u'smell', u'perceive', u'judgement', u'esthesis', u'sense impression', u'hotshot', u'condition', u'susceptibility', u'cognition', u'somaesthesia', u'liveness', u'sensitivity', u'ambiance', u'sensation', u'module', u'whiz', u'mother wit', u'mavin', u'ability', u'detect', u'expert', u'sentience', u'genius', u'touch sensation', u'somatesthesia', u'inflammation', u'import', u'sentiency', u'inclination', u'notice', u'perception', u'belief', u'power', u'virtuoso', u'maven', u'adept', u'good sense', u'disposition', u'sensory faculty', u'tactual sensation', u'feeling', u'superstar', u'ace', u'aesthesia', u'tactile sensation', u'cognizance', u'aesthesis', u'opinion', u'cognisance', u'sensitiveness', u'intuition', u'tone', u'feel', u'physical property', u'quality', u'wiz', u'intuitive feeling', u'idea', u'sense experience', u'signified', u'somatic sensation', u'champion', u'discover', u'sense datum', u'appreciation', u'observe', u'understand', u'hold', u'spirit', u'flavour', u'look', u'sagaciousness', u'discernment', u'excitement', u'animateness', u'grasp', u'somesthesia', u'property', u'sense', u'signification', u'mental faculty', u'horse sense', u'significance', u'stir', u'status', u'star', u'excitation', u'whizz', u'meaning', u'susceptibleness', u'faculty', u'judgment', u'thought', u'sagacity', u'sensibility', u'aliveness', u'notion', u'noesis']
+2016-07-26 01:12:12,743 INFO     =====END FLAT LIST=====
+2016-07-26 01:12:12,743 INFO     Length of list is:
+2016-07-26 01:12:12,743 INFO     165
+2016-07-26 01:12:12,743 INFO     Length of setlist is:
+2016-07-26 01:12:12,743 INFO     117
+2016-07-26 01:12:12,743 INFO     ***************************
+2016-07-26 01:12:12,743 INFO     ***************************
+2016-07-26 01:12:12,744 INFO     List is in the following mongo collection:
+2016-07-26 01:12:12,744 INFO     sensitivity-corpus-only-syn-unq-order-3
+2016-07-26 01:12:12,747 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:12,872 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:12,996 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:13,121 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:13,243 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:13,364 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:13,488 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:13,612 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:13,741 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:13,865 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:13,987 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:14,108 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:14,231 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:14,351 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:14,474 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:14,599 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:14,717 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:14,847 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:14,964 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:15,084 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:15,206 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:15,331 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:15,454 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:15,583 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:15,709 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:15,837 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:15,957 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:16,085 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:16,206 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:16,331 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:16,464 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:16,587 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:16,706 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:16,830 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:16,951 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:17,082 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:17,215 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:17,342 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:17,461 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:17,578 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:17,701 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:17,821 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:17,946 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:18,067 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:18,191 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:18,311 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:18,432 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:18,559 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:18,682 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:18,809 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:18,934 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:19,061 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:19,185 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:19,313 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:19,434 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:19,555 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:19,683 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:19,809 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:19,943 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:20,066 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:20,185 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:20,316 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:20,443 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:20,573 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:20,695 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:20,817 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:20,944 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:21,083 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:21,208 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:21,328 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:21,457 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:21,591 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:21,710 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:21,830 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:21,950 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:22,075 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:22,208 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:22,328 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:22,447 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:22,569 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:22,689 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:22,813 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:22,939 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:23,066 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:23,190 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:23,320 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:23,440 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:23,563 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:23,678 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:23,798 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:23,922 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:24,046 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:24,170 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:24,294 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:24,413 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:24,535 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:24,661 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:24,786 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:24,907 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:25,032 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:25,155 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:25,279 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:25,400 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:25,525 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:25,649 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:25,772 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:25,888 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:26,011 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:26,134 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:26,303 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:26,471 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:26,588 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:26,818 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:26,942 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:27,121 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:27,243 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:27,375 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:12:27,498 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 01:12:27,498 INFO     [u'precondition', u'official document', u'consider', u'experimental condition', u'alien', u'graphic symbol', u'proposition', u'computation', u'go', u'follow', u'bank', u'sound judgment', u'superpower', u'conjure', u'increase', u'hold', u'exist', u'baron', u'chance upon', u'rousing', u'creative thinking', u'wizard', u'make grow', u'wizardry', u'mental representation', u'environment', u'sensory system', u'adjoin', u'fervor', u'ambience', u'social status', u'two-dimensional figure', u'include', u'liven', u'legal opinion', u'digit', u'cargo deck', u'esthesia', u'grapheme', u'musical theme', u'detention', u'stipulate', u'smack', u'esthesis', u'capableness', u'fortitude', u'telling', u'affect', u'standard atmosphere', u'physical object', u'look for', u'encounter', u'capture', u'disturb', u'magnate', u'level', u'uncovering', u'pinch', u'conceive', u'dig', u'somaesthesis', u'booze', u'amend', u'sand', u'cutaneous senses', u'refer', u'dip', u'conceptualize', u'due process of law', u'thespian', u'prevent', u'advocate', u'work', u'force', u'speck', u'prorogue', u'trend', u'sensation', u'agitate', u'sign', u'nail', u'State', u'fiber', u'somatic sensory system', u'joyfulness', u'pass', u'depression', u'index', u'go for', u'importee', u'endowment', u'tactile property', u'verbalize', u'cell', u'touch sensation', u'somatesthesia', u'histrion', u'empathize', u'political entity', u'proffer', u'nurse', u'staff', u'magnetic dip', u'exercise', u'movement', u'body', u'turmoil', u'perspicaciousness', u'degree', u'guardian', u'endorse', u'shelve', u'mental image', u'United States Department of State', u'understanding', u'perceptual experience', u'good sense', u'fervency', u'meet', u'consideration', u'geographic region', u'bring up', u'change', u'wait', u'environs', u'substance', u'talent', u'administrative district', u'receive', u'cause to be perceived', u'odour', u'qualify', u'experience', u'sapidity', u'verbalise', u'thaumaturgist', u'suggestion', u'disposal', u'opinion', u'cognisance', u'astuteness', u'honor', u'pause', u'swan', u'touch modality', u'hunch', u'adroitness', u'vie', u'search', u'enactment', u'manage', u'intellection', u'performer', u'tenseness', u'popular opinion', u'sympathise', u'apply', u'wiz', u'intuitive feeling', u'to-do', u'subject matter', u'sensitise', u'proceed', u'zip', u'surroundings', u'disenable', u'captivate', u'living', u'calculation', u'percept', u'splash', u'strike', u'tactual sensation', u'assessment', u'tell', u'spiritual being', u'sort', u'entrance', u'posting', u'elicit', u'concave shape', u'inflect', u'musician', u'impress', u'approving', u'disruption', u'put off', u'train', u'magnetic inclination', u'provide', u'aesthesia', u'plane figure', u'happen upon', u'effort', u'cargo area', u'cognitive content', u'predisposition', u'player', u'somesthesis', u'liveness', u'soul', u'sound property', u'human action', u'colour in', u'exhilaration', u'printing', u'musical notation', u'learn', u'appendage', u'res publica', u'somesthesia', u'shielder', u'go over', u'control', u'defer', u'firing', u'supernatural being', u'visage', u'figure', u'give', u'process', u'attribute', u'admirer', u'accept', u'check out', u'powerfulness', u'hullabaloo', u'attain', u'sense', u'animate', u'hit', u'hoo-hah', u'find oneself', u'redness', u'concept', u'visual aspect', u'provoke', u'savor', u'tilt', u'purpose', u'mental faculty', u'1', u'looking', u'wiseness', u'significance', u'human activity', u'legal instrument', u'persuasion', u'stir', u'spirit up', u'prehension', u'find out', u'express', u'din', u'attend', u'communicating', u'stop', u'mortal', u'spot', u'give care', u'fuddle', u'disable', u'lighting', u'susceptibleness', u'faculty', u'belongings', u'grow', u'stand firm', u'stronghold', u'trade good', u'commodity', u'administrative division', u'bind', u'approximation', u'role player', u'headquarters', u'element', u'budge', u'sagacity', u'maintain', u'expression', u'shade', u'verify', u'DoS', u'aliveness', u'talk', u'bustle', u'emotion', u'cognitive state', u'gumption', u'office', u'move', u'seizing', u'trade', u'brain', u'attitude', u'brio', u'knowingness', u'pitch', u'strength', u'existence', u'spatial relation', u'tendency', u'delay', u'style', u'great power', u'ACE', u'fit', u'acknowledge', u'purport', u'comprehend', u'better', u'grade', u'suspicion', u'condition', u'bespeak', u'take in', u'might', u'alter', u'light upon', u'mental picture', u'someone', u'somebody', u'halt', u'sweep through', u'hold on', u'propose', u'spell', u'supporter', u'invigoration', u'brainwave', u'nation', u'break', u'mention', u'touching', u'chemical phenomenon', u'chance on', u'tensity', u'front', u'feature', u'point out', u'realize', u'enamor', u'susceptibility', u'term', u'big businessman', u'name', u'let on', u'cognition', u'becharm', u'capability', u'bring out', u'good', u'obligate', u'component', u'standard pressure', u'realise', u'touch on', u'importation', u'psychological feature', u'flair', u'commonwealth', u'interruption', u'taste sensation', u'irritation', u'retrieve', u'grok', u'bump', u'list', u'ambiance', u'idea', u'olfaction', u'call down', u'breakthrough', u'challenger', u'whiz', u'promulgation', u'undertake', u'mother wit', u'come across', u'ameliorate', u'happen', u'state of mind', u'whir', u'enclosure', u'witness', u'contend', u'good health', u'key out', u'concur', u'sentiment', u'sentience', u'scent', u'defend', u'State Department', u'deftness', u'rubor', u'content', u'reason out', u'sustain', u'impart', u'small indefinite amount', u'postpone', u'sentiency', u'get the picture', u'disclose', u'figuring', u'perception', u'pressure unit', u'belief', u'avow', u'circumstance', u'come to', u'social rank', u'contain', u'virtuoso', u'attending', u'reason', u'execute', u'disposition', u'world power', u'teach', u'musical note', u'card', u'care', u'handgrip', u'perform', u'service', u'incurvation', u'emotional state', u'pass judgment', u'atm', u'small indefinite quantity', u'flurry', u'apprisal', u'keep', u'motion', u'tonicity', u'enkindle', u'public opinion', u'place', u'somaesthesia', u'signature', u'consequence', u'retain', u'undergo', u'think', u'colouring', u'key', u'life principle', u'intuition', u'suspension', u'ruction', u'striking', u'feel', u'relate', u'savour', u'physical property', u'rank', u'one', u'instruct', u'maturate', u'manner of speaking', u'carry', u'message', u'quality', u'shake up', u'decision making', u'cerebration', u'publication', u'critical review', u'intention', u'arouse', u'body politic', u'flutter', u'stimulation', u'attack', u'assumption', u'motility', u'statement', u'intelligence', u'aver', u'thaumaturge', u'compartment', u'friend', u'enliven', u'suss out', u'tonus', u'foreplay', u'season', u'acquire', u'serve', u'sense of smell', u'discover', u'sense datum', u'appreciation', u'part', u'incur', u'angle of dip', u'constituent', u'believe', u'specify', u'get a line', u'king', u'kind', u'bewitch', u'rival', u'legal document', u'basic cognitive process', u'discernment', u'discolor', u'put over', u'musical interval', u'timbre', u'posit', u'design', u'joy', u'feeling', u'declare', u'bet', u'deciding', u'fashion', u'storage area', u'tautness', u'strengthen', u'ruckus', u'mind', u'correspond', u'come up', u'mogul', u'say', u'liven up', u'manner', u'have', u'arousal', u'seem', u'recover', u'angle of inclination', u'modality', u'lie', u'put forward', u'angle', u'colorise', u'plunk for', u'trance', u'foreigner', u'divulge', u'note', u'incurvature', u'take', u'physiological property', u'mental attitude', u'go through', u'await', u'touch perception', u'province', u'play', u'caliber', u'go on', u'trace', u'empathise', u'reckon', u'top executive', u'object', u'reach', u'cargo hold', u'whizz', u'react', u'combustion', u'mouth', u'inflaming', u'inspirit', u'representation', u'wisdom', u'displace', u'clasp', u'appear', u'material possession', u'tinct', u'cause', u'observation', u'breeze through', u'cover', u'sensitize', u'somataesthesis', u'creativeness', u'businessman', u'liveliness', u'notion', u'meaning', u'internal representation', u'vox populi', u'impression', u'atmosphere', u'birr', u'liking', u'withstand', u'atmospheric state', u'inclination of an orbit', u'incapacitate', u'brilliance', u'fervour', u'noncitizen', u'give tongue to', u'discretion', u'come upon', u'utter', u'melody', u'headliner', u'feat', u'find', u'principal', u'impact', u'fibre', u'coloring', u'knowledge', u'line up', u'go along', u'sound judgement', u'common sense', u'theme', u'looking at', u'symptom', u'partake', u'tune', u'awareness', u'characterization', u'count', u'insight', u'handle', u'invoke', u'get', u'ardor', u'kindling', u'impinging', u'watch', u'perceive', u'bear', u'sense impression', u'hotshot', u'compass', u'trust', u'moxie', u'relish', u'merchandise', u'reveal', u'perspicacity', u'tumult', u'celebrate', u'beguile', u'geographic area', u'tension', u'time lag', u'hold up', u'whole tone', u'make it', u'ascertain', u'implication', u'major power', u'enchant', u'view', u'respond', u'premiss', u'potentiality', u'performing artist', u'shampoo', u'sensitivity', u'shake', u'mightiness', u'view as', u'module', u'stipulation', u'resist', u'see', u'individual', u'hero', u'rack up', u'adjudge', u'concern', u'tone of voice', u'detect', u'exponent', u'expert', u'judiciousness', u'enamour', u'review', u'label', u'genius', u'state', u'score', u'finger', u'honour', u'import', u'clench', u'fastness', u'expose', u'discovery', u'knowing', u'ken', u'notice', u'observance', u'jot', u'ability', u'do', u'nature', u'importance', u'modify', u'lineament', u'attention', u'Allied Command Europe', u'postponement', u'adept', u'countenance', u'disturbance', u'hoo-ha', u'computer circuit', u'premise', u'kindle', u'sensory faculty', u'approval', u'improve', u'protect', u'superstar', u'call for', u'country', u'region', u'equal', u'contract', u'conceptuality', u'thinking', u'admit', u'entertain', u'fall upon', u'aura', u'cognizance', u'soupcon', u'harbor', u'estimation', u'tinge', u'business leader', u'comment', u'sense modality', u'inclining', u'tone', u'consume', u'conclude', u'color', u'take for', u'harbour', u'distinguish', u'exploit', u'melodic line', u'olfactory sensation', u'article', u'respect', u'skin senses', u'custody', u'speak', u'tint', u'conjure up', u'raise', u'fervidness', u'stamp', u'discrimination', u'arrest', u'conceptualization', u'creativity', u'convey', u'mark', u'advert', u'passionateness', u'somatosensory system', u'judging', u'restrain', u'weather condition', u'topology', u'direction', u'describe', u'sprightliness', u'champion', u'fire', u'suppress', u'blessing', u'gas', u'remark', u'assert', u'observe', u'understand', u'temperament', u'catch', u'sense of touch', u'interoception', u'spirit', u'sound', u'apprehension', u'conception', u'look', u'being', u'affirm', u'tang', u'bill', u'appearance', u'examine', u'air', u'aim', u'information', u'territorial division', u'animateness', u'ignition', u'leaning', u'curb', u'property', u'playing card', u'pertain', u'procedure', u'supply', u'discolour', u'joyousness', u'agitation', u'apprehend', u'whimsey', u'healthiness', u'bear upon', u'strain', u'color in', u'pressing', u'embrace', u'give away', u'occultist', u'encompass', u'personation', u'develop', u'somatic sense', u'estimate', u'suggest', u'make', u'plump for', u'pass with flying colors', u'propensity', u'unity', u'concavity', u'speech', u'gustatory sensation', u'facial expression', u'advise', u'review article', u'infer', u'whirr', u'status', u'paladin', u'title-holder', u'mavin', u'fuss', u'thought process', u'I', u'defy', u'drink', u'effect', u'hold in', u'aesthesis', u'moment', u'natural endowment', u'ardour', u'upheaval', u'nip', u'magician', u'judgment', u'exteroception', u'booster', u'olfactory modality', u'zoom along', u'olfactory perception', u'protector', u'fascinate', u'sensitiveness', u'colour', u'get hold', u'thought', u'person', u'contact', u'command', u'hold back', u'savvy', u'position', u'perceptiveness', u'sensing', u'dimension', u'noesis', u'interpret', u'construct', u'consciousness', u'tone up', u'commotion', u'necromancer', u'obtain', u'aroma', u'imprint', u'press', u'shape', u'call forth', u'identify', u'thanks', u'aspect', u'touch', u'heavenly body', u'flavor', u'have got', u'speed', u'modulate', u'timber', u'discipline', u'announcement', u'reckoning', u'take aim', u'hint', u'tactility', u'due process', u'guts', u'character', u'calibre', u'allude', u'olfactory property', u'animation', u'instrument', u'man of affairs', u'conceptualisation', u'ado', u'hurry', u'brainstorm', u'match', u'grip', u'taking hold', u'clutches', u'grit', u'government', u'read', u'evaluate', u'regard', u'mathematical notation', u'melodic theme', u'judgement', u'quickness', u'quest', u'jibe', u'judge', u'inclination', u'state of matter', u'calculate', u'somatosense', u'proponent', u'geographical area', u'vivification', u'gift', u'travel rapidly', u'auditory sensation', u'seek', u'zoom', u'taste perception', u'detainment', u'heart', u'continue', u'clutch', u'sympathize', u'depend', u'charm', u'stimulate', u'deal', u'spiritedness', u'pronounce', u'back', u'competition', u'sight', u'table', u'critique', u'intend', u'extend to', u'work out', u'intellect', u'abide by', u'watch over', u'competitor', u'take hold', u'lead', u'notification', u'sensory activity', u'lean', u'pick up', u'prop', u'asking', u'passion', u'inflammation', u'kerfuffle', u'moderate', u'disembodied spirit', u'mode', u'regain', u'be', u'network topology', u'power', u'set back', u'judicial decision', u'odor', u'hold out', u'check over', u'mental object', u'ply', u'maven', u'pressure', u'step', u'protagonist', u'chant', u'higher cognitive process', u'mite', u'throw', u'palpate', u'placard', u'ace', u'political unit', u'let out', u'tactile sensation', u'ingest', u'colourise', u'sapience', u'range', u'swear', u'evoke', u'rumpus', u'act', u'shrewdness', u'intent', u'mean', u'create', u'gestate', u'prison cell', u'burning', u'facility', u'communication', u'image', u'social station', u'keep back', u'intellectual', u'accommodate', u'melodic phrase', u'guard', u'weather', u'champ', u'determine', u'sail through', u'portrayal', u'get word', u'colorize', u'surround', u'rely', u'keep an eye on', u'adeptness', u'sense experience', u'causal agent', u'support', u'concord', u'mentation', u'submit', u'intone', u'tincture', u'purr', u'grasping', u'way', u'beingness', u'signified', u'translate', u'somatic sensation', u'tycoon', u'gibe', u'take note', u'form', u'unwrap', u'poster', u'tally', u'emotional arousal', u'gustatory perception', u'delivery', u'whole step', u'hear', u'gain', u'line', u'star topology', u'advocator', u'causal agency', u'admiration', u'indorse', u'flavour', u'check up on', u'vital principle', u'intermission', u'look into', u'sagaciousness', u'executive department', u'meliorate', u'excitement', u'take care', u'whim', u'ruling', u'mature', u'Einstein', u'grasp', u'check into', u'agree', u'jail cell', u'expect', u'whimsy', u'possession', u'conceptualise', u'celestial body', u'get wind', u'taste', u'request', u'pure tone', u'influence', u'life', u'denote', u'single', u'deem', u'defender', u'remit', u'bear on', u'physical phenomenon', u'signification', u'deed', u'face', u'prevail', u'check', u'regime', u'colourize', u'solicitation', u'whizz along', u'variety', u'actor', u'horse sense', u'book', u'hurly burly', u'holding', u'trait', u'confine', u'smell', u'Department of State', u'step-up', u'sorcerer', u'outlander', u'picture', u'star', u'excitation', u'geographical region', u'oblige', u'excite', u'symbol', u'backbone', u'asterisk', u'secernment', u'arrive at', u'chance', u'cater', u'atmospheric condition', u'smelling', u'authorities', u'shift', u'mastermind', u'hustle', u'ghost', u'land', u'fighter', u'hold over', u'direct', u'contender', u'interval', u'rule', u'brainiac', u'confinement', u'compete', u'skin perceptiveness', u'invigorate', u'sensibility', u'reserve', u'innervation']
+2016-07-26 01:12:27,499 INFO     =====END FLAT LIST=====
+2016-07-26 01:12:27,499 INFO     Length of list is:
+2016-07-26 01:12:27,499 INFO     2271
+2016-07-26 01:12:27,499 INFO     Length of setlist is:
+2016-07-26 01:12:27,499 INFO     1182
+2016-07-26 01:12:27,499 INFO     ***************************
+2016-07-26 01:12:27,500 INFO     127.0.0.1 - - [26/Jul/2016 01:12:27] "POST /corpus/y HTTP/1.1" 200 -

@@ -1,0 +1,74 @@
+2016-07-26 01:19:21,658 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-26 01:19:21,659 INFO      * Restarting with stat
+2016-07-26 01:19:21,915 WARNING   * Debugger is active!
+2016-07-26 01:19:21,920 INFO      * Debugger pin code: 294-815-374
+2016-07-26 01:19:26,694 INFO     ***************************
+2016-07-26 01:19:26,695 INFO     List is in the following mongo collection:
+2016-07-26 01:19:26,695 INFO     antipathy-corpus-only-syn-unq-order-1
+2016-07-26 01:19:26,702 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:26,829 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 01:19:26,829 INFO     [u'distaste', u'dislike', u'object', u'aversion']
+2016-07-26 01:19:26,829 INFO     =====END FLAT LIST=====
+2016-07-26 01:19:26,829 INFO     Length of list is:
+2016-07-26 01:19:26,829 INFO     4
+2016-07-26 01:19:26,829 INFO     Length of setlist is:
+2016-07-26 01:19:26,829 INFO     4
+2016-07-26 01:19:26,829 INFO     ***************************
+2016-07-26 01:19:26,829 INFO     ***************************
+2016-07-26 01:19:26,829 INFO     List is in the following mongo collection:
+2016-07-26 01:19:26,829 INFO     antipathy-corpus-only-syn-unq-order-2
+2016-07-26 01:19:26,830 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:26,953 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:27,076 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:27,199 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:27,319 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 01:19:27,319 INFO     [u'disapprove', u'tendency', u'distaste', u'end', u'goal', u'turning away', u'disapproval', u'content', u'shunning', u'reject', u'objective', u'dislike', u'avoidance', u'disfavour', u'inclination', u'be', u'physical entity', u'antipathy', u'mental object', u'averting', u'disposition', u'grammatical constituent', u'disfavor', u'constituent', u'physical object', u'cognitive content', u'target', u'aim', u'aversion', u'feeling', u'dodging']
+2016-07-26 01:19:27,320 INFO     =====END FLAT LIST=====
+2016-07-26 01:19:27,320 INFO     Length of list is:
+2016-07-26 01:19:27,320 INFO     33
+2016-07-26 01:19:27,320 INFO     Length of setlist is:
+2016-07-26 01:19:27,320 INFO     31
+2016-07-26 01:19:27,320 INFO     ***************************
+2016-07-26 01:19:27,320 INFO     ***************************
+2016-07-26 01:19:27,320 INFO     List is in the following mongo collection:
+2016-07-26 01:19:27,320 INFO     antipathy-corpus-only-syn-unq-order-3
+2016-07-26 01:19:27,322 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:27,448 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:27,574 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:27,693 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:27,814 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:27,931 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:28,051 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:28,189 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:28,310 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:28,432 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:28,567 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:28,687 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:28,807 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:28,927 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:29,048 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:29,169 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:29,290 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:29,405 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:29,527 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:29,647 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:29,767 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:29,886 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:30,010 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:30,138 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:30,259 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:30,386 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:30,510 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:30,637 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:30,761 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:30,883 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:31,000 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 01:19:31,118 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 01:19:31,119 INFO     [u'represent', u'atmosphere', u'neglect', u'negligence', u'impression', u'fair game', u'inclination of an orbit', u'terminate', u'intuition', u'rest', u'ending', u'shoot for', u'attitude', u'cease', u'victim', u'freeze off', u'follow', u'flavor', u'lense', u'tendency', u'move', u'Be', u'death', u'averting', u'lineman', u'take aim', u'object glass', u'disposal', u'guidance', u'purport', u'proportion', u'touch sensation', u'turn down', u'antipathy', u'ambience', u'dislike', u'alter', u'beryllium', u'atomic number 4', u'dodge', u'gratify', u'draw a bead on', u'acceptance', u'ingredient', u'get', u'evaluate', u'stop', u'aggregation', u'objective lens', u'judgement', u'objective', u'target area', u'judge', u'flavour', u'piece of cloth', u'calculate', u'disadvantage', u'syntagma', u'metallic element', u'bar', u'cognition', u'list', u'exploit', u'contentedness', u'game equipment', u'final stage', u'movement', u'pass judgment', u'accumulation', u'assemblage', u'mean', u'respond', u'cull', u'rule out', u'reference', u'trend', u'scheme', u'ambiance', u'direct', u'resist', u'touch', u'grammatical constituent', u'cost', u'design', u'carelessness', u'make up', u'escape', u'close', u'liking', u'subject', u'oddment', u'distaste', u'capacity', u'turn away', u'spatial relation', u'section', u'nature', u'lean', u'butt', u'heading', u'content', u'state', u'score', u'eliminate', u'falsehood', u'scorn', u'depicted object', u'boundary', u'avoidance', u'pooh-pooh', u'magnetic dip', u'inclination', u'satisfy', u'be', u'use up', u'perception', u'belief', u'decline', u'bearing', u'component', u'leaning', u'modify', u'mental object', u'intuitive feeling', u'voter', u'falsity', u'disposition', u'remainder', u'reference point', u'change', u'knowledge', u'nonperformance', u'lens', u'substance', u'last', u'disdain', u'dip', u'equal', u'point in time', u'motion', u'thing', u'point of reference', u'place', u'somaesthesia', u'personify', u'aspire', u'opinion', u'contribution', u'symbolize', u'think', u'plan', u'inclining', u'destination', u'tone', u'destine', u'point', u'feel', u'communication', u'bound', u'typify', u'remnant', u'circumscribe', u'message', u'angle', u'somesthesia', u'decision making', u'winnow out', u'subject matter', u'steering', u'propose', u'intention', u'temperament', u'stand for', u'topographic point', u'disapproval', u'mark', u'occupy', u'live', u'prey', u'motility', u'way', u'tactual sensation', u'assessment', u'somatic sensation', u'direction', u'quarry', u'factor', u'pass up', u'idea', u'volume', u'part', u'magnetic inclination', u'angle of dip', u'disfavor', u'constituent', u'effort', u'spirit', u'specify', u'constitute', u'cognitive content', u'spurn', u'rejection', u'target', u'extremity', u'bounds', u'aim', u'remain', u'somatesthesia', u'limit', u'aversion', u'embody', u'sports equipment', u'closing', u'feeling', u'deciding', u'glucinium', u'feat', u'division', u'entity', u'share', u'disapprove', u'surface', u'tactile sensation', u'exist', u'designate', u'deed', u'property', u'angle of inclination', u'shunning', u'end', u'goal', u'evasion', u'elector', u'syntagm', u'tilt', u'turning away', u'portion', u'intend', u'propensity', u'object lens', u'take', u'reject', u'mental attitude', u'destroy', u'confine', u'smell', u'disfavour', u'conclusion', u'finish', u'lens system', u'physical entity', u'separate', u'object', u'spot', u'collection', u'stay', u'react', u'be after', u'intent', u'purpose', u'untruth', u'discriminate', u'judgment', u'destruction', u'symbolise', u'refuse', u'subdivision', u'piece of material', u'metal', u'drive', u'destruct', u'element', u'thought', u'look', u'single out', u'train', u'prevention', u'position', u'noesis', u'notion', u'comprise', u'dodging']
+2016-07-26 01:19:31,119 INFO     =====END FLAT LIST=====
+2016-07-26 01:19:31,119 INFO     Length of list is:
+2016-07-26 01:19:31,119 INFO     407
+2016-07-26 01:19:31,119 INFO     Length of setlist is:
+2016-07-26 01:19:31,119 INFO     282
+2016-07-26 01:19:31,119 INFO     ***************************
+2016-07-26 01:19:31,120 INFO     127.0.0.1 - - [26/Jul/2016 01:19:31] "POST /corpus/y HTTP/1.1" 200 -
