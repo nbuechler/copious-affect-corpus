@@ -1,0 +1,122 @@
+2016-07-26 22:31:32,338 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-26 22:31:32,338 INFO      * Restarting with stat
+2016-07-26 22:31:32,586 WARNING   * Debugger is active!
+2016-07-26 22:31:32,591 INFO      * Debugger pin code: 294-815-374
+2016-07-26 22:31:40,641 INFO     ***************************
+2016-07-26 22:31:40,641 INFO     List is in the following mongo collection:
+2016-07-26 22:31:40,642 INFO     sobriety-corpus-only-syn-unq-order-1
+2016-07-26 22:31:40,650 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:40,779 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 22:31:40,779 INFO     [u'serious-mindedness', u'temperance', u'earnestness', u'abstinence', u'graveness', u'gravity', u'somberness', u'seriousness', u'soberness', u'moderation', u'sincerity', u'temporary state', u'sombreness', u'dryness']
+2016-07-26 22:31:40,779 INFO     =====END FLAT LIST=====
+2016-07-26 22:31:40,779 INFO     Length of list is:
+2016-07-26 22:31:40,779 INFO     14
+2016-07-26 22:31:40,780 INFO     Length of setlist is:
+2016-07-26 22:31:40,780 INFO     14
+2016-07-26 22:31:40,780 INFO     ***************************
+2016-07-26 22:31:40,780 INFO     ***************************
+2016-07-26 22:31:40,780 INFO     List is in the following mongo collection:
+2016-07-26 22:31:40,780 INFO     sobriety-corpus-only-syn-unq-order-2
+2016-07-26 22:31:40,781 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:40,907 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:41,048 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:41,179 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:41,303 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:41,439 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:41,570 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:41,690 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:41,832 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:41,960 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:42,085 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:42,209 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:42,343 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:42,467 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:42,595 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 22:31:42,595 INFO     [u'control', u'truthfulness', u'unemotionality', u'temperance', u'step-down', u'earnestness', u'serious-mindedness', u'gravitational attraction', u'alteration', u'naturalness', u'decrease', u'sincerity', u'combining', u'gloominess', u'gravitational force', u'degree', u'abstention', u'gravitation', u'severity', u'attractive force', u'attraction', u'dispassionateness', u'gravity', u'natural virtue', u'reduction', u'mitigation', u'condition', u'self-control', u'trait', u'modification', u'compounding', u'badness', u'unassumingness', u'emotionlessness', u'relief', u'status', u'melancholy', u'graveness', u'sobriety', u'combination', u'severeness', u'restraint', u'dispassion', u'xerotes', u'seriousness', u'moderation', u'grade', u'semidarkness', u'diminution', u'apprehensiveness', u'self-discipline', u'somberness', u'change', u'state', u'gloom', u'feeling', u'distressfulness', u'moderateness', u'solemnity', u'apprehension', u'abstinence', u'level', u'temporary state', u'soberness', u'dread', u'easing', u'sombreness', u'waterlessness', u'self-denial']
+2016-07-26 22:31:42,596 INFO     =====END FLAT LIST=====
+2016-07-26 22:31:42,596 INFO     Length of list is:
+2016-07-26 22:31:42,596 INFO     139
+2016-07-26 22:31:42,596 INFO     Length of setlist is:
+2016-07-26 22:31:42,596 INFO     69
+2016-07-26 22:31:42,596 INFO     ***************************
+2016-07-26 22:31:42,596 INFO     ***************************
+2016-07-26 22:31:42,597 INFO     List is in the following mongo collection:
+2016-07-26 22:31:42,597 INFO     sobriety-corpus-only-syn-unq-order-3
+2016-07-26 22:31:42,600 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:42,722 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:42,851 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:42,977 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:43,103 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:43,234 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:43,381 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:43,504 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:43,637 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:43,765 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:43,902 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:44,034 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:44,167 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:44,298 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:44,436 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:44,572 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:44,700 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:44,832 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:44,953 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:45,076 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:45,200 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:45,328 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:45,447 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:45,575 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:45,711 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:45,842 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:45,969 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:46,092 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:46,223 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:46,360 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:46,482 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:46,607 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:46,734 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:46,854 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:46,979 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:47,109 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:47,232 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:47,358 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:47,493 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:47,622 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:47,748 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:47,870 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:47,996 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:48,133 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:48,268 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:48,391 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:48,514 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:48,635 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:48,764 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:48,883 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:49,010 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:49,146 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:49,278 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:49,404 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:49,525 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:49,651 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:49,773 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:49,906 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:50,032 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:50,160 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:50,285 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:50,409 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:31:50,558 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:32:00,710 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:32:00,861 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:32:00,998 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:32:01,142 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:32:01,286 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:32:01,429 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:32:01,586 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 22:32:01,587 INFO     [u'essay', u'relievo', u'precondition', u'alleviation', u'experimental condition', u'drop-off', u'catch', u'commute', u'welfare', u'go', u'adjustment', u'naiveness', u'charge', u'ambience', u'interchange', u'fill-in', u'keep in line', u'self-will', u'stipulate', u'xerotes', u'fall', u'difference', u'plainness', u'condition', u'discernment', u'level', u'laurels', u'try', u'amend', u'indemnity', u'pass judgment', u'accumulation', u'assemblage', u'force', u'occurrence', u'trend', u'direct', u'rate', u'depression', u'even', u'index', u'self-renunciation', u'darkness', u'glumness', u'assistance', u'verbalize', u'touch sensation', u'political entity', u'movement', u'melancholy', u'degree', u'exchange', u'honour', u'modify', u'United States Department of State', u'understanding', u'entertainer', u'intuitive feeling', u'pause', u'res publica', u'consideration', u'somesthesia', u'change', u'convert', u'sombreness', u'State', u'administrative district', u'shift', u'amount', u'verbalise', u'natural event', u'stiffness', u'action', u'opinion', u'stand-in', u'honor', u'attractor', u'impassiveness', u'humour', u'replace', u'decrease', u'intensiveness', u'decrement', u'manipulate', u'feel', u'prove', u'lessening', u'earnestness', u'meliorate', u'possession', u'trait', u'award', u'excuse', u'train', u'rase', u'hold', u'naughtiness', u'self-sacrifice', u'coalition', u'emotional state', u'abnegation', u'somatesthesia', u'learn', u'backup man', u'hard currency', u'lugubriousness', u'drawing card', u'control', u'self-possession', u'process', u'attribute', u'honestness', u'powerfulness', u'cows', u'clothing', u'dress', u'restitution', u'information', u'verify', u'travel', u'comfort', u'feature', u'criterion', u'naivety', u'self-control', u'impassivity', u'dominance', u'classify', u'even out', u'simplicity', u'strictness', u'collection', u'bodily function', u'ascertain', u'ablaut', u'inexpensiveness', u'administrative division', u'soberness', u'switch', u'hold in', u'dread', u'naivete', u'DoS', u'operate', u'order', u'talk', u'restriction', u'help', u'semidarkness', u'vary', u'comfortableness', u'rigorousness', u'better', u'attraction', u'restrain', u'suspension', u'alter', u'sculptural relief', u'exculpation', u'combination', u'propose', u'nation', u'break', u'renunciation', u'chemical phenomenon', u'body fluid', u'gloom', u'term', u'likeness', u'mastery', u'control condition', u'magnitude', u'pinch', u'arcdegree', u'commonwealth', u'interruption', u'rest period', u'ambiance', u'idea', u'undertake', u'combining', u'ameliorate', u'operation', u'event', u'magnet', u'article of clothing', u'attracter', u'gradient', u'State Department', u'gradation', u'make grow', u'ingenuousness', u'dispassionateness', u'compounding', u'evaluation', u'perception', u'disobedience', u'belief', u'circumstance', u'angular unit', u'contain', u'transfer', u'standard', u'difficulty', u'qualify', u'teach', u'tactual sensation', u'temperature unit', u'keep', u'thing', u'place', u'somaesthesia', u'qualifying', u'consequence', u'change of integrity', u'solemness', u'truthfulness', u'intuition', u'grade', u'taking into custody', u'rank', u'tier', u'instruct', u'embossment', u'self-denial', u'quality', u'unassumingness', u'story', u'interact', u'body politic', u'assort', u'assumption', u'master', u'statement', u'upshot', u'badness', u'grimness', u'similitude', u'diminish', u'translation', u'copy', u'specify', u'ascendance', u'kine', u'skillfulness', u'easement', u'austereness', u'shampoo', u'intensity', u'limiting', u'mathematical operation', u'economic policy', u'feeling', u'sculpture', u'ascendancy', u'prospect', u'gathering', u'inclemency', u'measure', u'mathematical process', u'selflessness', u'say', u'sincerity', u'dryness', u'issue', u'alibi', u'gravity', u'mechanism', u'change magnitude', u'sedateness', u'substitute', u'destroy', u'province', u'black bile', u'attractiveness', u'ascendency', u'indemnification', u'rigor', u'ascendence', u'easing', u'device', u'coin', u'class', u'rigourousness', u'unemotionality', u'temporary state', u'destruct', u'succor', u'notion', u'slope', u'rating', u'atmosphere', u'social welfare', u'show', u'gravitational attraction', u'give tongue to', u'relation', u'utter', u'fear', u'palliation', u'indicator', u'succour', u'modestness', u'liberation', u'reliever', u'indifference', u'move', u'severeness', u'hold back', u'express', u'expectation', u'self-abnegation', u'storey', u'self-discipline', u'somberness', u'bodily fluid', u'resolve', u'alteration', u'bad', u'activity', u'release', u'grad', u'knowing', u'temperance', u'honesty', u'natural virtue', u'stipulation', u'naturalness', u'see', u'result', u'change of location', u'cattle', u'asperity', u'gravitation', u'exponent', u'pull down', u'willpower', u'forswearing', u'state', u'score', u'social unit', u'emotionlessness', u'premiss', u'hardship', u'posit', u'firmness', u'premise', u'diminution', u'level off', u'improve', u'reaction', u'alinement', u'outcome', u'country', u'reasonableness', u'keep back', u'contract', u'misgiving', u'assure', u'spirit level', u'wear', u'tone', u'point', u'graveness', u'rilievo', u'seizure', u'height', u'alikeness', u'unhappiness', u'simpleness', u'union', u'self-justification', u'mark', u'reduction', u'mitigation', u'get dressed', u'assuagement', u'minify', u'sobriety', u'suppress', u'chemical reaction', u'tear down', u'moderation', u'confinement', u'locomote', u'try out', u'deepen', u'spirit', u'hardness', u'harshness', u'apprehension', u'look', u'good health', u'attractive feature', u'lessen', u'cash', u'value', u'aim', u'territorial division', u'rigour', u'aid', u'property', u'procedure', u'layer', u'physical process', u'step-down', u'healthiness', u'surface', u'equal', u'gaining control', u'capture', u'denial', u'develop', u'severity', u'attractive force', u'suggest', u'gravitational force', u'damages', u'evaluate', u'modification', u'advise', u'see to it', u'status', u'restraint', u'assist', u'effect', u'occurrent', u'put forward', u'liquid body substance', u'compeer', u'collar', u'insure', u'solemnity', u'raze', u'floor', u'difficultness', u'thought', u'amends', u'command', u'relief', u'savvy', u'position', u'ministration', u'impression', u'staidness', u'rest', u'shape', u'touch', u'flavor', u'wearable', u'alignment', u'discipline', u'abstention', u'take aim', u'ease', u'arrest', u'combine', u'stratum', u'artlessness', u'transformation', u'match', u'take', u'elevation', u'government', u'mischievousness', u'grammatical relation', u'aggregation', u'dark', u'know', u'uncheerfulness', u'judge', u'state of matter', u'sort out', u'distressfulness', u'resoluteness', u'sequence', u'change of magnitude', u'redress', u'flush', u'humor', u'forgoing', u'unit', u'moderate', u'refer', u'extenuation', u'power', u'decline', u'dismantle', u'speak', u'respite', u'innocence', u'peer', u'stage', u'limitation', u'constraint', u'abstinence', u'political unit', u'tactile sensation', u'body process', u'range', u'ensure', u'simplification', u'backup', u'hard cash', u'academic degree', u'freeing', u'outlook', u'alliance', u'bodily process', u'horizontal surface', u'assess', u'reducing', u'sternness', u'firmness of purpose', u'altitude', u'dispassion', u'submit', u'vesture', u'fearfulness', u'form', u'Bos taurus', u'change surface', u'construction', u'cardinal virtue', u'self-command', u'valuation', u'disembodied spirit', u'flavour', u'intermission', u'characteristic', u'executive department', u'tell', u'sadness', u'waterlessness', u'appraise', u'sort', u'oxen', u'habiliment', u'fright', u'serious-mindedness', u'denote', u'examine', u'gloominess', u'curb', u'chasteness', u'check', u'regime', u'stolidity', u'variety', u'test', u'smell', u'Department of State', u'revision', u'draw', u'separate', u'valuate', u'drift', u'seriousness', u'somatic sensation', u'authorities', u'apprehensiveness', u'take down', u'structure', u'ground level', u'land', u'happening', u'moderateness', u'apathy', u'controller', u'accolade', u'resolution', u'phlegm']
+2016-07-26 22:32:01,587 INFO     =====END FLAT LIST=====
+2016-07-26 22:32:01,587 INFO     Length of list is:
+2016-07-26 22:32:01,588 INFO     905
+2016-07-26 22:32:01,588 INFO     Length of setlist is:
+2016-07-26 22:32:01,588 INFO     572
+2016-07-26 22:32:01,588 INFO     ***************************
+2016-07-26 22:32:01,590 INFO     127.0.0.1 - - [26/Jul/2016 22:32:01] "POST /corpus/y HTTP/1.1" 200 -
