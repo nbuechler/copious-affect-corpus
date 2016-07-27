@@ -1,0 +1,80 @@
+2016-07-26 22:29:55,347 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-26 22:29:55,348 INFO      * Restarting with stat
+2016-07-26 22:29:55,601 WARNING   * Debugger is active!
+2016-07-26 22:29:55,606 INFO      * Debugger pin code: 294-815-374
+2016-07-26 22:30:01,337 INFO     ***************************
+2016-07-26 22:30:01,337 INFO     List is in the following mongo collection:
+2016-07-26 22:30:01,338 INFO     stolidity-corpus-only-syn-unq-order-1
+2016-07-26 22:30:01,347 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:01,477 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 22:30:01,477 INFO     [u'impassiveness', u'unemotionality', u'stolidness', u'apathy', u'stoicism', u'impassivity', u'indifference', u'emotionlessness', u'phlegm']
+2016-07-26 22:30:01,477 INFO     =====END FLAT LIST=====
+2016-07-26 22:30:01,478 INFO     Length of list is:
+2016-07-26 22:30:01,478 INFO     9
+2016-07-26 22:30:01,478 INFO     Length of setlist is:
+2016-07-26 22:30:01,478 INFO     9
+2016-07-26 22:30:01,478 INFO     ***************************
+2016-07-26 22:30:01,478 INFO     ***************************
+2016-07-26 22:30:01,478 INFO     List is in the following mongo collection:
+2016-07-26 22:30:01,478 INFO     stolidity-corpus-only-syn-unq-order-2
+2016-07-26 22:30:01,479 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:01,640 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:01,782 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:01,934 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:02,179 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:02,350 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:02,513 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:02,736 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:02,879 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:03,016 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 22:30:03,016 INFO     [u'sluggishness', u'apathy', u'lethargy', u'impassiveness', u'mucus', u'stoicism', u'flatness', u'languor', u'carefreeness', u'philosophical theory', u'stolidity', u'philosophical doctrine', u'nonchalance', u'impassivity', u'indifference', u'unconcern', u'passivity', u'passiveness', u'stolidness', u'trait', u'inactiveness', u'mucous secretion', u'inertia', u'numbness', u'inactivity', u'sputum', u'unemotionality', u'spiritlessness', u'Stoicism', u'emotionlessness', u'feeling', u'phlegm']
+2016-07-26 22:30:03,016 INFO     =====END FLAT LIST=====
+2016-07-26 22:30:03,016 INFO     Length of list is:
+2016-07-26 22:30:03,016 INFO     78
+2016-07-26 22:30:03,016 INFO     Length of setlist is:
+2016-07-26 22:30:03,016 INFO     32
+2016-07-26 22:30:03,016 INFO     ***************************
+2016-07-26 22:30:03,017 INFO     ***************************
+2016-07-26 22:30:03,017 INFO     List is in the following mongo collection:
+2016-07-26 22:30:03,017 INFO     stolidity-corpus-only-syn-unq-order-3
+2016-07-26 22:30:03,020 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:03,169 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:03,326 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:03,578 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:03,754 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:03,899 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:04,049 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:04,174 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:04,297 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:04,436 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:04,589 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:04,751 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:04,938 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:05,090 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:05,211 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:05,353 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:05,485 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:05,608 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:05,733 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:05,857 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:06,001 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:06,139 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:06,268 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:06,390 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:06,522 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:06,656 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:06,781 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:06,906 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:07,025 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:07,151 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:07,271 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:07,402 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:30:07,526 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 22:30:07,526 INFO     [u'sluggishness', u'atmosphere', u'impression', u'stoicism', u'touch', u'flavor', u'cheerfulness', u'slackness', u'style', u'dimensionality', u'touch sensation', u'nonchalance', u'lustrelessness', u'ambience', u'indifference', u'passivity', u'weakness', u'listlessness', u'irresponsibleness', u'philosophical system', u'taste perception', u'school of thought', u'somaesthesia', u'taste sensation', u'torpidity', u'lethargy', u'ambiance', u'idea', u'feel', u'rate', u'languor', u'carefreeness', u'passiveness', u'inanition', u'philosophical doctrine', u'state', u'easiness', u'lightheartedness', u'emotionlessness', u'inaction', u'perception', u'belief', u'stolidness', u'insouciance', u'relaxation', u'two-dimensionality', u'inertia', u'tactual sensation', u'sputum', u'numbness', u'tactile sensation', u'ism', u'act', u'opinion', u'dreaminess', u'intuition', u'tone', u'impassiveness', u'human activity', u'planeness', u'matte', u'doctrine', u'intuitive feeling', u'philosophical theory', u'irresponsibility', u'mucus', u'secretion', u'somatic sensation', u'torpor', u'blitheness', u'trait', u'inactiveness', u'gustatory perception', u'mucous secretion', u'expressive style', u'spirit', u'symptom', u'flavour', u'look', u'dullness', u'spiritlessness', u'Stoicism', u'human action', u'pace', u'somatesthesia', u'somesthesia', u'feeling', u'lassitude', u'taste', u'attribute', u'flatness', u'stolidity', u'gustatory sensation', u'impassivity', u'smell', u'unconcern', u'mat', u'lusterlessness', u'philosophy', u'matt', u'submissiveness', u'mechanical phenomenon', u'inactivity', u'unemotionality', u'lightsomeness', u'apathy', u'thought', u'notion', u'phlegm']
+2016-07-26 22:30:07,526 INFO     =====END FLAT LIST=====
+2016-07-26 22:30:07,526 INFO     Length of list is:
+2016-07-26 22:30:07,526 INFO     255
+2016-07-26 22:30:07,527 INFO     Length of setlist is:
+2016-07-26 22:30:07,527 INFO     109
+2016-07-26 22:30:07,527 INFO     ***************************
+2016-07-26 22:30:07,528 INFO     127.0.0.1 - - [26/Jul/2016 22:30:07] "POST /corpus/y HTTP/1.1" 200 -

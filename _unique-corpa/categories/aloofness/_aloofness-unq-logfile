@@ -1,0 +1,89 @@
+2016-07-26 22:24:25,836 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-26 22:24:25,837 INFO      * Restarting with stat
+2016-07-26 22:24:26,083 WARNING   * Debugger is active!
+2016-07-26 22:24:26,088 INFO      * Debugger pin code: 294-815-374
+2016-07-26 22:24:28,456 INFO     ***************************
+2016-07-26 22:24:28,456 INFO     List is in the following mongo collection:
+2016-07-26 22:24:28,456 INFO     aloofness-corpus-only-syn-unq-order-1
+2016-07-26 22:24:28,466 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:28,590 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 22:24:28,590 INFO     [u'withdrawnness', u'distance', u'unsociability', u'standoffishness', u'unsociableness', u'remoteness', u'indifference']
+2016-07-26 22:24:28,590 INFO     =====END FLAT LIST=====
+2016-07-26 22:24:28,590 INFO     Length of list is:
+2016-07-26 22:24:28,590 INFO     7
+2016-07-26 22:24:28,590 INFO     Length of setlist is:
+2016-07-26 22:24:28,590 INFO     7
+2016-07-26 22:24:28,590 INFO     ***************************
+2016-07-26 22:24:28,590 INFO     ***************************
+2016-07-26 22:24:28,590 INFO     List is in the following mongo collection:
+2016-07-26 22:24:28,591 INFO     aloofness-corpus-only-syn-unq-order-2
+2016-07-26 22:24:28,593 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:28,714 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:28,837 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:28,970 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:29,100 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:29,221 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:29,347 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:29,466 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 22:24:29,467 INFO     [u'apathy', u'impassiveness', u'point', u'time interval', u'outstrip', u'leave behind', u'keep', u'carefreeness', u'size', u'stolidity', u'space', u'spatial arrangement', u'nonchalance', u'unsociableness', u'farness', u'impassivity', u'indifference', u'emotionlessness', u'passivity', u'unsociability', u'farawayness', u'passiveness', u'standoffishness', u'spiritlessness', u'spacing', u'part', u'disposition', u'temperament', u'hold', u'outdistance', u'numbness', u'withdrawnness', u'distance', u'unemotionality', u'region', u'interval', u'point in time', u'aloofness', u'length', u'maintain', u'remoteness', u'unconcern', u'phlegm']
+2016-07-26 22:24:29,467 INFO     =====END FLAT LIST=====
+2016-07-26 22:24:29,467 INFO     Length of list is:
+2016-07-26 22:24:29,467 INFO     57
+2016-07-26 22:24:29,467 INFO     Length of setlist is:
+2016-07-26 22:24:29,467 INFO     43
+2016-07-26 22:24:29,467 INFO     ***************************
+2016-07-26 22:24:29,468 INFO     ***************************
+2016-07-26 22:24:29,468 INFO     List is in the following mongo collection:
+2016-07-26 22:24:29,468 INFO     aloofness-corpus-only-syn-unq-order-3
+2016-07-26 22:24:29,471 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:29,597 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:29,719 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:29,841 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:29,964 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:30,086 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:30,212 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:30,336 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:30,453 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:30,575 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:30,710 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:30,829 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:30,956 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:31,078 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:31,203 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:31,325 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:31,450 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:31,573 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:31,696 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:31,814 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:31,935 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:32,052 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:32,190 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:32,309 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:32,433 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:32,566 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:32,699 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:32,821 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:32,941 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:33,063 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:33,185 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:33,312 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:33,433 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:33,554 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:33,672 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:33,815 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:33,943 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:34,065 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:34,188 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:34,310 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:34,431 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:34,554 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:34,688 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:24:34,809 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 22:24:34,810 INFO     [u'concept', u'consider', u'time interval', u'livelihood', u'disc', u'disk', u'enamor', u'muzzle', u'handgrip', u'exist', u'uphold', u'disposal', u'swan', u'charge', u'include', u'ingredient', u'division', u'unsociability', u'cargo deck', u'grapheme', u'fundamental quantity', u'detention', u'clench', u'cook', u'physical object', u'convexity', u'impassiveness', u'level', u'harbor', u'conceive', u'booze', u'try', u'item', u'remoteness', u'outdo', u'punctuation mark', u'pass judgment', u'vanquish', u'repoint', u'prevent', u'neighborhood', u'prorogue', u'farawayness', u'direct', u'start out', u'rate', u'wall plug', u'channelize', u'adjustment', u'filler', u'section', u'crush', u'nurse', u'apply', u'hold out', u'passiveness', u'degree', u'spacing', u'understanding', u'entertain', u'insouciance', u'outdistance', u'wait', u'property', u'taper', u'experience', u'point in time', u'amount', u'head', u'control', u'depart', u'divide', u'enactment', u'surmount', u'manoeuver', u'graphic symbol', u'blank space', u'set back', u'proceed', u'disenable', u'captivate', u'trounce', u'temporal property', u'sharpen', u'leave alone', u'type', u'tell', u'sort', u'entrance', u'trait', u'refrain', u'lodge', u'mucous secretion', u'train', u'hold', u'effort', u'cargo area', u'dot', u'sizing', u'jail cell', u'channelise', u'aloofness', u'remain', u'musical notation', u'shelve', u'appendage', u'passivity', u'set off', u'defer', u'give', u'attribute', u'share', u'stay fresh', u'tag', u'end', u'emotionalism', u'arrangement', u'delay', u'significance', u'have got', u'classify', u'capture', u'farm', u'power point', u'act', u'spot', u'produce', u'lay', u'grow', u'stand firm', u'inactivity', u'attempt', u'emotionality', u'coat', u'element', u'inform', u'maintain', u'enter', u'deform', u'office', u'move', u'seizing', u'stoicism', u'attitude', u'cheerfulness', u'tendency', u'change form', u'fix', u'hold up', u'restrain', u'bespeak', u'suspension', u'forbear', u'halt', u'impassivity', u'break', u'unit of measurement', u'clutch', u'component part', u'keep going', u'magnitude', u'touch on', u'prison cell', u'interruption', u'domain', u'concord', u'asseverate', u'measure', u'carefreeness', u'orient', u'leave', u'concur', u'space', u'defend', u'sustain', u'postpone', u'maneuver', u'come to', u'disposition', u'put', u'electric receptacle', u'refer', u'verify', u'keep', u'thing', u'length', u'change shape', u'place', u'prehension', u'retain', u'think', u'bushel', u'feel', u'relate', u'physical property', u'fundamental measure', u'blank', u'carry', u'size', u'indefinite quantity', u'construct', u'indicate', u'assort', u'unsociableness', u'aver', u'percentage', u'tangency', u'store', u'take a firm stand', u'break up', u'stronghold', u'shell', u'outmatch', u'keep on', u'appreciation', u'part', u'put off', u'constituent', u'believe', u'symptom', u'withdrawnness', u'distance', u'bewitch', u'target', u'go forth', u'discernment', u'musical interval', u'bind', u'feeling', u'declare', u'steer', u'storage area', u'exert', u'convex shape', u'headland', u'have', u'languor', u'flatness', u'knowledge base', u'lie', u'realm', u'trance', u'change magnitude', u'hold in', u'take', u'objective', u'bread and butter', u'go on', u'electrical outlet', u'object', u'submissiveness', u'charm', u'expanse', u'segment', u'class', u'parting', u'placement', u'unemotionality', u'lightsomeness', u'cover', u'fact', u'reserve', u'sluggishness', u'surface area', u'show', u'incapacitate', u'readjustment', u'relation', u'disunite', u'melody', u'feat', u'furbish up', u'cell', u'pause', u'go along', u'prolong', u'nonchalance', u'manoeuvre', u'factor', u'mend', u'indifference', u'compass point', u'handle', u'beat', u'hold back', u'stop', u'bear', u'outlet', u'celebrate', u'hold on', u'resource', u'outperform', u'beguile', u'body part', u'time lag', u'contain', u'knowledge domain', u'enchant', u'view', u'enclosure', u'withstand', u'set', u'lethargy', u'resist', u'see', u'put over', u'adjudge', u'concern', u'dungeon', u'enamour', u'sail', u'keep open', u'label', u'state', u'import', u'emotionlessness', u'electric outlet', u'preserve', u'view as', u'avow', u'nature', u'stolidness', u'component', u'postponement', u'extent', u'pertain', u'inertia', u'protect', u'sputum', u'country', u'region', u'keep back', u'admit', u'go for', u'contribution', u'duty', u'separation', u'characterization', u'take for', u'period', u'harbour', u'exploit', u'melodic line', u'table', u'endeavor', u'custody', u'raise', u'irresponsibility', u'mark', u'change', u'living', u'luff', u'direction', u'blitheness', u'suppress', u'reassert', u'assert', u'observe', u'temperament', u'catch', u'apprehension', u'conception', u'affirm', u'beat out', u'numbness', u'air', u'aim', u'situation', u'voice', u'guide', u'outstrip', u'mucus', u'surface', u'sustenance', u'strain', u'ready', u'distributor point', u'conserve', u'personation', u'doctor', u'make', u'punctuation', u'call for', u'split', u'unconcern', u'persona', u'standoffishness', u'defy', u'drink', u'foreland', u'quad', u'set forth', u'infinite', u'tune', u'fascinate', u'contact', u'command', u'savvy', u'position', u'dimension', u'size of it', u'hold open', u'restore', u'endeavour', u'obtain', u'rest', u'surpass', u'touch', u'full stop', u'fastness', u'relevancy', u'take aim', u'point', u'character', u'arrest', u'wall socket', u'location', u'relevance', u'save', u'grip', u'taking hold', u'clutches', u'spatial arrangement', u'evaluate', u'displace', u'disable', u'irresponsibleness', u'mental attitude', u'quest', u'insist', u'judge', u'put down', u'sort out', u'pointedness', u'signal', u'detainment', u'continue', u'state of affairs', u'exceed', u'promontory', u'split up', u'duration', u'saucer', u'take hold', u'confirm', u'reckon', u'outgo', u'unit', u'lightheartedness', u'moderate', u'donjon', u'inclination', u'be', u'cargo hold', u'pose', u'throw', u'stage', u'swear', u'go away', u'fuddle', u'repair', u'wield', u'accommodate', u'guard', u'obligate', u'registration', u'portrayal', u'prepare', u'area', u'support', u'start', u'grasping', u'clasp', u'full point', u'set out', u'function', u'theatrical role', u'regard', u'betoken', u'inactiveness', u'line', u'breaker point', u'intermission', u'characteristic', u'spiritlessness', u'record', u'grasp', u'piece', u'agree', u'apathy', u'request', u'gunpoint', u'linear unit', u'deem', u'curb', u'bear on', u'leave behind', u'signification', u'deed', u'prevail', u'check', u'stolidity', u'tip', u'detail', u'detain', u'book', u'role', u'farness', u'confine', u'separate', u'oblige', u'gun muzzle', u'amorphous shape', u'stay', u'meaning', u'peak', u'melodic phrase', u'take off', u'becharm', u'assets', u'hold over', u'interval', u'remit', u'portion', u'confinement', u'keep up', u'quantity', u'phlegm']
+2016-07-26 22:24:34,810 INFO     =====END FLAT LIST=====
+2016-07-26 22:24:34,810 INFO     Length of list is:
+2016-07-26 22:24:34,810 INFO     751
+2016-07-26 22:24:34,811 INFO     Length of setlist is:
+2016-07-26 22:24:34,811 INFO     528
+2016-07-26 22:24:34,811 INFO     ***************************
+2016-07-26 22:24:34,812 INFO     127.0.0.1 - - [26/Jul/2016 22:24:34] "POST /corpus/y HTTP/1.1" 200 -

@@ -1,0 +1,50 @@
+2016-07-26 22:33:20,135 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-26 22:33:20,135 INFO      * Restarting with stat
+2016-07-26 22:33:20,392 WARNING   * Debugger is active!
+2016-07-26 22:33:20,397 INFO      * Debugger pin code: 294-815-374
+2016-07-26 22:33:25,610 INFO     ***************************
+2016-07-26 22:33:25,610 INFO     List is in the following mongo collection:
+2016-07-26 22:33:25,610 INFO     nostalgia-corpus-only-syn-unq-order-1
+2016-07-26 22:33:25,622 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:33:25,745 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 22:33:25,745 INFO     [u'hungriness', u'longing', u'yearning']
+2016-07-26 22:33:25,746 INFO     =====END FLAT LIST=====
+2016-07-26 22:33:25,746 INFO     Length of list is:
+2016-07-26 22:33:25,746 INFO     3
+2016-07-26 22:33:25,746 INFO     Length of setlist is:
+2016-07-26 22:33:25,746 INFO     3
+2016-07-26 22:33:25,747 INFO     ***************************
+2016-07-26 22:33:25,747 INFO     ***************************
+2016-07-26 22:33:25,747 INFO     List is in the following mongo collection:
+2016-07-26 22:33:25,747 INFO     nostalgia-corpus-only-syn-unq-order-2
+2016-07-26 22:33:25,751 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:33:25,872 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:33:25,996 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:33:26,119 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 22:33:26,119 INFO     [u'desire', u'longing', u'hunger', u'hungriness', u'drive', u'thirst', u'yearning', u'thirstiness']
+2016-07-26 22:33:26,120 INFO     =====END FLAT LIST=====
+2016-07-26 22:33:26,120 INFO     Length of list is:
+2016-07-26 22:33:26,120 INFO     13
+2016-07-26 22:33:26,120 INFO     Length of setlist is:
+2016-07-26 22:33:26,120 INFO     8
+2016-07-26 22:33:26,121 INFO     ***************************
+2016-07-26 22:33:26,121 INFO     ***************************
+2016-07-26 22:33:26,121 INFO     List is in the following mongo collection:
+2016-07-26 22:33:26,121 INFO     nostalgia-corpus-only-syn-unq-order-3
+2016-07-26 22:33:26,125 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:33:26,248 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:33:26,371 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:33:26,497 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:33:26,617 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:33:26,738 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:33:26,862 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:33:26,985 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:33:27,116 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 22:33:27,116 INFO     [u'hunger', u'force back', u'move', u'go', u'suffer', u'tendency', u'labor', u'bespeak', u'hope', u'golf stroke', u'hit', u'get', u'hunt down', u'displace', u'xerotes', u'quest', u'push back', u'desire', u'hunt', u'aridity', u'cut across', u'physiological state', u'movement', u'mean', u'traverse', u'dig', u'force', u'propel', u'yearning', u'crave', u'do work', u'beat back', u'aim', u'driving', u'propulsion', u'thirst', u'driving force', u'pass over', u'cause', u'inclination', u'fight', u'run', u'power', u'actuation', u'pressure', u'struggle', u'thrust', u'ache', u'excavate', u'tug', u'route', u'repel', u'swing', u'get over', u'road', u'physiological condition', u'campaign', u'hollow', u'motor', u'trust', u'journeying', u'aridness', u'hungriness', u'transfer', u'throw', u'starve', u'transportation', u'trait', u'hurt', u'locomote', u'thirstiness', u'cut through', u'squeeze', u'effort', u'get across', u'transferral', u'wish', u'ride', u'work', u'impel', u'conveyance', u'smart', u'venture', u'parkway', u'feeling', u'waterlessness', u'driveway', u'control', u'repulse', u'request', u'ram', u'drive', u'lust', u'coerce', u'crusade', u'want', u'arousal', u'return', u'call for', u'golf shot', u'make', u'cross', u'mechanism', u'dryness', u'labour', u'take', u'intend', u'track', u'famish', u'private road', u'journey', u'device', u'longing', u'cover', u'track down', u'push', u'hale', u'operate', u'travel']
+2016-07-26 22:33:27,116 INFO     =====END FLAT LIST=====
+2016-07-26 22:33:27,117 INFO     Length of list is:
+2016-07-26 22:33:27,117 INFO     154
+2016-07-26 22:33:27,117 INFO     Length of setlist is:
+2016-07-26 22:33:27,117 INFO     119
+2016-07-26 22:33:27,117 INFO     ***************************
+2016-07-26 22:33:27,119 INFO     127.0.0.1 - - [26/Jul/2016 22:33:27] "POST /corpus/y HTTP/1.1" 200 -

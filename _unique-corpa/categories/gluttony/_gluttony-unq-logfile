@@ -1,0 +1,61 @@
+2016-07-26 22:36:48,874 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-26 22:36:48,875 INFO      * Restarting with stat
+2016-07-26 22:36:49,125 WARNING   * Debugger is active!
+2016-07-26 22:36:49,130 INFO      * Debugger pin code: 294-815-374
+2016-07-26 22:36:59,069 INFO     ***************************
+2016-07-26 22:36:59,069 INFO     List is in the following mongo collection:
+2016-07-26 22:36:59,069 INFO     gluttony-corpus-only-syn-unq-order-1
+2016-07-26 22:36:59,077 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:36:59,206 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 22:36:59,206 INFO     [u'gula', u'overeating', u'deadly sin', u'intemperance', u'mortal sin']
+2016-07-26 22:36:59,206 INFO     =====END FLAT LIST=====
+2016-07-26 22:36:59,206 INFO     Length of list is:
+2016-07-26 22:36:59,206 INFO     5
+2016-07-26 22:36:59,207 INFO     Length of setlist is:
+2016-07-26 22:36:59,207 INFO     5
+2016-07-26 22:36:59,207 INFO     ***************************
+2016-07-26 22:36:59,207 INFO     ***************************
+2016-07-26 22:36:59,207 INFO     List is in the following mongo collection:
+2016-07-26 22:36:59,208 INFO     gluttony-corpus-only-syn-unq-order-2
+2016-07-26 22:36:59,210 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:36:59,333 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:36:59,454 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:36:59,572 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:36:59,701 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:36:59,821 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 22:36:59,822 INFO     [u'Semitic deity', u'Gula', u'gluttony', u'indulgence', u'gula', u'mortal sin', u'self-indulgence', u'vice', u'overeating', u'intemperateness', u'indulging', u'sinning', u'pampering', u'deadly sin', u'unrestraint', u'sin', u'humoring']
+2016-07-26 22:36:59,822 INFO     =====END FLAT LIST=====
+2016-07-26 22:36:59,822 INFO     Length of list is:
+2016-07-26 22:36:59,822 INFO     24
+2016-07-26 22:36:59,822 INFO     Length of setlist is:
+2016-07-26 22:36:59,823 INFO     17
+2016-07-26 22:36:59,823 INFO     ***************************
+2016-07-26 22:36:59,823 INFO     ***************************
+2016-07-26 22:36:59,823 INFO     List is in the following mongo collection:
+2016-07-26 22:36:59,823 INFO     gluttony-corpus-only-syn-unq-order-3
+2016-07-26 22:36:59,826 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:36:59,953 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:37:00,087 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:37:00,221 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:37:00,344 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:37:00,463 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:37:00,581 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:37:00,699 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:37:00,821 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:37:00,946 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:37:01,069 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:37:01,190 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:37:01,315 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:37:01,444 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:37:01,567 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:37:01,691 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:37:01,817 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:37:01,937 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 22:37:01,937 INFO     [u'indulging', u'Gula', u'indulgence', u'go against', u'indiscipline', u'play', u'immortal', u'undiscipline', u'trespass', u'lenience', u'intemperateness', u'hell', u'infract', u'deity', u'Sin', u'absolution', u'letter of the alphabet', u'caper', u'gula', u'sine', u'divinity', u'violate', u'lunacy', u'craziness', u'god', u'unrighteousness', u'sinfulness', u'leniency', u'circular function', u'transgression', u'remittal', u'breach', u'boob', u'deadly sin', u'tolerance', u'sin', u'permissiveness', u'Semitic deity', u'goof', u'overeating', u'pampering', u'remission', u'evil', u'break', u'wickedness', u'gratification', u'letter', u'frailty', u'alphabetic character', u'intemperance', u'tomfoolery', u'evildoing', u'mortal sin', u'gluttony', u'frolic', u'remission of sin', u'foolery', u'romp', u'vice', u'trigonometric function', u'self-indulgence', u'folly', u'blunder', u'sinning', u'transgress', u'activity', u'offend', u'evilness', u'gambol', u'humoring']
+2016-07-26 22:37:01,937 INFO     =====END FLAT LIST=====
+2016-07-26 22:37:01,937 INFO     Length of list is:
+2016-07-26 22:37:01,937 INFO     121
+2016-07-26 22:37:01,937 INFO     Length of setlist is:
+2016-07-26 22:37:01,937 INFO     70
+2016-07-26 22:37:01,937 INFO     ***************************
+2016-07-26 22:37:01,938 INFO     127.0.0.1 - - [26/Jul/2016 22:37:01] "POST /corpus/y HTTP/1.1" 200 -

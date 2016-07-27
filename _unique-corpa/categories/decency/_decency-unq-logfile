@@ -1,0 +1,57 @@
+2016-07-26 22:21:06,568 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-26 22:21:06,568 INFO      * Restarting with stat
+2016-07-26 22:21:06,816 WARNING   * Debugger is active!
+2016-07-26 22:21:06,821 INFO      * Debugger pin code: 294-815-374
+2016-07-26 22:21:11,202 INFO     ***************************
+2016-07-26 22:21:11,202 INFO     List is in the following mongo collection:
+2016-07-26 22:21:11,202 INFO     decency-corpus-only-syn-unq-order-1
+2016-07-26 22:21:11,208 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:11,343 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 22:21:11,343 INFO     [u'properness', u'correctitude', u'reputability', u'respectability', u'propriety']
+2016-07-26 22:21:11,343 INFO     =====END FLAT LIST=====
+2016-07-26 22:21:11,343 INFO     Length of list is:
+2016-07-26 22:21:11,344 INFO     5
+2016-07-26 22:21:11,344 INFO     Length of setlist is:
+2016-07-26 22:21:11,344 INFO     5
+2016-07-26 22:21:11,344 INFO     ***************************
+2016-07-26 22:21:11,344 INFO     ***************************
+2016-07-26 22:21:11,345 INFO     List is in the following mongo collection:
+2016-07-26 22:21:11,345 INFO     decency-corpus-only-syn-unq-order-2
+2016-07-26 22:21:11,346 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:11,474 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:11,596 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:11,723 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:11,854 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:11,972 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 22:21:11,973 INFO     [u'demeanour', u'demeanor', u'honourableness', u'reputability', u'behaviour', u'propriety', u'deportment', u'honorableness', u'behavior', u'conduct', u'correctitude', u'properness', u'respectability']
+2016-07-26 22:21:11,973 INFO     =====END FLAT LIST=====
+2016-07-26 22:21:11,973 INFO     Length of list is:
+2016-07-26 22:21:11,973 INFO     30
+2016-07-26 22:21:11,973 INFO     Length of setlist is:
+2016-07-26 22:21:11,973 INFO     13
+2016-07-26 22:21:11,973 INFO     ***************************
+2016-07-26 22:21:11,974 INFO     ***************************
+2016-07-26 22:21:11,974 INFO     List is in the following mongo collection:
+2016-07-26 22:21:11,974 INFO     decency-corpus-only-syn-unq-order-3
+2016-07-26 22:21:11,975 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:12,097 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:12,218 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:12,337 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:12,458 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:12,578 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:12,702 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:12,834 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:12,960 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:13,094 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:13,219 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:13,339 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:13,464 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-26 22:21:13,582 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-26 22:21:13,583 INFO     [u'deal', u'manage', u'direct', u'demeanor', u'doings', u'convey', u'carry', u'correctitude', u'demeanour', u'acquit', u'lead', u'propriety', u'honourableness', u'activeness', u'behave', u'honorableness', u'take', u'conduct', u'transmit', u'channel', u'do', u'righteousness', u'move', u'handle', u'trait', u'act', u'bear', u'comport', u'behaviour', u'action', u'deport', u'hold', u'care', u'execute', u'perform', u'bring', u'properness', u'deportment', u'behavior', u'activity', u'carry on', u'reputability', u'guide', u'respectability']
+2016-07-26 22:21:13,583 INFO     =====END FLAT LIST=====
+2016-07-26 22:21:13,583 INFO     Length of list is:
+2016-07-26 22:21:13,583 INFO     105
+2016-07-26 22:21:13,583 INFO     Length of setlist is:
+2016-07-26 22:21:13,584 INFO     44
+2016-07-26 22:21:13,584 INFO     ***************************
+2016-07-26 22:21:13,585 INFO     127.0.0.1 - - [26/Jul/2016 22:21:13] "POST /corpus/y HTTP/1.1" 200 -
