@@ -1,0 +1,77 @@
+2016-07-27 22:03:42,438 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-27 22:03:42,439 INFO      * Restarting with stat
+2016-07-27 22:03:42,689 WARNING   * Debugger is active!
+2016-07-27 22:03:42,694 INFO      * Debugger pin code: 294-815-374
+2016-07-27 22:03:46,609 INFO     ***************************
+2016-07-27 22:03:46,609 INFO     List is in the following mongo collection:
+2016-07-27 22:03:46,609 INFO     greed-corpus-only-syn-unq-order-1
+2016-07-27 22:03:46,620 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:46,746 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-27 22:03:46,746 INFO     [u'desire', u'mortal sin', u'covetousness', u'rapacity', u'avarice', u'deadly sin', u'avaritia']
+2016-07-27 22:03:46,746 INFO     =====END FLAT LIST=====
+2016-07-27 22:03:46,746 INFO     Length of list is:
+2016-07-27 22:03:46,746 INFO     7
+2016-07-27 22:03:46,747 INFO     Length of setlist is:
+2016-07-27 22:03:46,747 INFO     7
+2016-07-27 22:03:46,747 INFO     ***************************
+2016-07-27 22:03:46,747 INFO     ***************************
+2016-07-27 22:03:46,747 INFO     List is in the following mongo collection:
+2016-07-27 22:03:46,747 INFO     greed-corpus-only-syn-unq-order-2
+2016-07-27 22:03:46,750 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:46,883 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:47,005 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:47,140 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:47,277 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:47,403 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:47,528 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:47,653 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-27 22:03:47,653 INFO     [u'sinning', u'want', u'arousal', u'trust', u'call for', u'tendency', u'envy', u'esurience', u'rapacity', u'bespeak', u'rapaciousness', u'deadly sin', u'sin', u'hope', u'inclination', u'edacity', u'avarice', u'quest', u'cupidity', u'voraciousness', u'enviousness', u'avaritia', u'mortal sin', u'gluttony', u'covetousness', u'wish', u'voracity', u'request', u'feeling', u'greed', u'avariciousness']
+2016-07-27 22:03:47,653 INFO     =====END FLAT LIST=====
+2016-07-27 22:03:47,653 INFO     Length of list is:
+2016-07-27 22:03:47,654 INFO     54
+2016-07-27 22:03:47,654 INFO     Length of setlist is:
+2016-07-27 22:03:47,654 INFO     31
+2016-07-27 22:03:47,654 INFO     ***************************
+2016-07-27 22:03:47,654 INFO     ***************************
+2016-07-27 22:03:47,654 INFO     List is in the following mongo collection:
+2016-07-27 22:03:47,655 INFO     greed-corpus-only-syn-unq-order-3
+2016-07-27 22:03:47,658 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:47,794 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:47,924 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:48,047 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:48,175 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:48,299 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:48,426 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:48,565 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:48,703 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:48,825 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:48,954 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:49,079 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:49,199 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:49,325 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:49,454 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:49,574 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:49,697 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:49,836 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:49,964 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:50,089 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:50,215 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:50,339 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:50,466 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:50,584 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:50,709 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:50,837 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:50,961 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:51,090 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:51,214 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:51,339 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:51,472 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:03:51,595 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-27 22:03:51,595 INFO     [u'impression', u'atmosphere', u'pass on', u'privation', u'lack', u'wishing', u'necessitate', u'trespass', u'attitude', u'sinning', u'indirect request', u'salutation', u'touch', u'hell', u'flavor', u'verbalize', u'spatial relation', u'wickedness', u'letter of the alphabet', u'move', u'gula', u'sexual practice', u'enviousness', u'violate', u'hunting', u'rousing', u'sinfulness', u'hunger', u'state', u'tail', u'combine', u'look up to', u'impoverishment', u'bespeak', u'breach', u'trustfulness', u'hope', u'greeting', u'goof', u'overeating', u'someone', u'somebody', u'get', u'bid', u'chase after', u'expectation', u'regard', u'ravenousness', u'sexual activity', u'quest', u'material possession', u'cupidity', u'begrudge', u'flavour', u'look for', u'avaritia', u'bank', u'rancour', u'desire', u'gluttony', u'necessary', u'like', u'signal', u'hunt', u'list', u'give tongue to', u'bay', u'corporate trust', u'collect', u'syndicate', u'physiological state', u'break', u'movement', u'friendship', u'require', u'transgress', u'expectancy', u'speech act', u'requirement', u'circular function', u'go against', u'trend', u'ambiance', u'idea', u'sex', u'neediness', u'individual', u'expect', u'pass', u'selfishness', u'liking', u'change of state', u'message', u'evildoing', u'wonder', u'will', u'trust', u'alphabetic character', u'beg', u'Sin', u'inclining', u'lean', u'pick up', u'wakefulness', u'content', u'touch sensation', u'asking', u'tendency', u'ambience', u'covetousness', u'magnetic dip', u'inclination', u'Semitic deity', u'be', u'perception', u'belief', u'go after', u'activity', u'communicate', u'confidence', u'countenance', u'anticipation', u'let', u'pursuit', u'disposition', u'ask', u'druthers', u'sine', u'care', u'faith', u'search', u'feeling', u'dip', u'certainty', u'tactile sensation', u'essential', u'motion', u'swear', u'verbalise', u'trigonometric function', u'permit', u'poverty', u'intemperance', u'avariciousness', u'outlook', u'infract', u'physiological condition', u'point', u'feel', u'confide', u'somatesthesia', u'bark', u'resentment', u'angle of dip', u'trustingness', u'promise', u'soul', u'comic', u'invidia', u'miss', u'intuitive feeling', u'recognise', u'notion', u'subject matter', u'rely', u'esurience', u'hungriness', u'unrighteousness', u'stimulation', u'indicate', u'motility', u'intrust', u'letter', u'postulate', u'tag', u'tell', u'Bob Hope', u'rapaciousness', u'direction', u'invite', u'foreplay', u'trait', u'acquire', u'betoken', u'opinion', u'voraciousness', u'substance', u'friendly relationship', u'poorness', u'magnetic inclination', u'demand', u'requisite', u'believe', u'spirit', u'compliments', u'look', u'deficiency', u'dog', u'wish', u'anticipate', u'commit', u'bitterness', u'somatic sensation', u'admire', u'gall', u'transgression', u'petition', u'theological virtue', u'leaning', u'supernatural virtue', u'somesthesia', u'property', u'deprivation', u'pursuance', u'prospect', u'tap', u'give', u'recognize', u'rancor', u'involve', u'put across', u'way', u'comedian', u'want', u'need', u'seek', u'call for', u'Hope', u'chase', u'sell', u'edacity', u'cartel', u'angle', u'intuition', u'tone', u'voracity', u'inquire', u'angle of inclination', u'seeking', u'consortium', u'reliance', u'propensity', u'enquire', u'take', u'holding', u'mental attitude', u'gather up', u'boob', u'deadly sin', u'smell', u'sin', u'tactual sensation', u'go for', u'pass along', u'express', u'somaesthesia', u'track', u'mortal', u'reach', u'hand', u'be after', u'Leslie Townes Hope', u'postulation', u'turn over', u'plan', u'necessity', u'sex activity', u'belongings', u'entrust', u'greediness', u'pool', u'mortal sin', u'envy', u'utter', u'trail', u'wish well', u'rapacity', u'request', u'avarice', u'greet', u'blunder', u'thought', u'person', u'inclination of an orbit', u'solicit', u'allow', u'tilt', u'offend', u'position', u'give chase', u'order', u'greed', u'preference']
+2016-07-27 22:03:51,596 INFO     =====END FLAT LIST=====
+2016-07-27 22:03:51,596 INFO     Length of list is:
+2016-07-27 22:03:51,596 INFO     441
+2016-07-27 22:03:51,596 INFO     Length of setlist is:
+2016-07-27 22:03:51,596 INFO     293
+2016-07-27 22:03:51,596 INFO     ***************************
+2016-07-27 22:03:51,598 INFO     127.0.0.1 - - [27/Jul/2016 22:03:51] "POST /corpus/y HTTP/1.1" 200 -
