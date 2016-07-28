@@ -1,0 +1,68 @@
+2016-07-27 22:01:13,993 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-27 22:01:13,994 INFO      * Restarting with stat
+2016-07-27 22:01:14,245 WARNING   * Debugger is active!
+2016-07-27 22:01:14,251 INFO      * Debugger pin code: 294-815-374
+2016-07-27 22:01:17,955 INFO     ***************************
+2016-07-27 22:01:17,955 INFO     List is in the following mongo collection:
+2016-07-27 22:01:17,955 INFO     abstinence-corpus-only-syn-unq-order-1
+2016-07-27 22:01:17,964 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:18,091 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-27 22:01:18,091 INFO     [u'abstention', u'self-discipline', u'self-denial', u'self-control']
+2016-07-27 22:01:18,091 INFO     =====END FLAT LIST=====
+2016-07-27 22:01:18,091 INFO     Length of list is:
+2016-07-27 22:01:18,091 INFO     4
+2016-07-27 22:01:18,091 INFO     Length of setlist is:
+2016-07-27 22:01:18,092 INFO     4
+2016-07-27 22:01:18,092 INFO     ***************************
+2016-07-27 22:01:18,092 INFO     ***************************
+2016-07-27 22:01:18,092 INFO     List is in the following mongo collection:
+2016-07-27 22:01:18,092 INFO     abstinence-corpus-only-syn-unq-order-2
+2016-07-27 22:01:18,094 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:18,243 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:18,374 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:18,497 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:18,638 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-27 22:01:18,638 INFO     [u'control', u'resoluteness', u'self-possession', u'selflessness', u'self-denial', u'self-renunciation', u'self-command', u'discipline', u'denial', u'firmness of purpose', u'willpower', u'forswearing', u'forgoing', u'self-control', u'possession', u'self-will', u'renunciation', u'self-abnegation', u'firmness', u'self-discipline', u'resolve', u'abstinence', u'self-sacrifice', u'abnegation', u'resolution']
+2016-07-27 22:01:18,638 INFO     =====END FLAT LIST=====
+2016-07-27 22:01:18,638 INFO     Length of list is:
+2016-07-27 22:01:18,638 INFO     33
+2016-07-27 22:01:18,638 INFO     Length of setlist is:
+2016-07-27 22:01:18,638 INFO     25
+2016-07-27 22:01:18,638 INFO     ***************************
+2016-07-27 22:01:18,638 INFO     ***************************
+2016-07-27 22:01:18,639 INFO     List is in the following mongo collection:
+2016-07-27 22:01:18,639 INFO     abstinence-corpus-only-syn-unq-order-3
+2016-07-27 22:01:18,640 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:18,780 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:18,911 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:19,045 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:19,183 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:19,334 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:19,466 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:19,591 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:19,735 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:19,881 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:20,019 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:20,146 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:20,279 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:20,406 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:20,529 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:20,666 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:20,793 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:20,916 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:21,049 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:21,176 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:21,305 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:21,472 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:21,599 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:21,733 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:21,886 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:01:22,023 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-27 22:01:22,023 INFO     [u'essay', u'defence mechanism', u'terminate', u'relation', u'demurrer', u'self-renunciation', u'apostasy', u'change integrity', u'discern', u'discipline', u'abstention', u'hold', u'calculate', u'deciding', u'enchantment', u'due process', u'solving', u'assertion', u'penalty', u'restrain', u'steadiness', u'figure out', u'defense mechanism', u'immovableness', u'immovability', u'harmony', u'closure', u'keep in line', u'self-will', u'tell apart', u'hold back', u'spell', u'partitioning', u'renunciation', u'mania', u'self-abnegation', u'know', u'decide', u'stubbornness', u'compute', u'self-discipline', u'renouncement', u'condition', u'sort out', u'resolving power', u'resolve', u'subsidence', u'mastery', u'control condition', u'solution', u'punish', u'try', u'settle', u'activity', u'knowledge domain', u'settlement', u'due process of law', u'resoluteness', u'breakdown', u'written document', u'concord', u'obstinance', u'see', u'defense', u'result', u'physical phenomenon', u'work out', u'remittal', u'penalise', u'defence', u'concur', u'decision', u'answer', u'puzzle out', u'musical harmony', u'willpower', u'forswearing', u'forgoing', u'make grow', u'passion', u'papers', u'cooperation', u'ascendency', u'moderate', u'correct', u'speech act', u'solvent', u'power', u'subject area', u'contain', u'standard', u'averment', u'firmness', u'distinguish', u'training', u'agree', u'study', u'keep back', u'body process', u'assure', u'dissolve', u'cipher', u'ensure', u'dominion', u'monomania', u'decision making', u'grooming', u'punishment', u'purpose', u'bodily process', u'recognise', u'figure', u'conclude', u'solve', u'obstinacy', u'self-denial', u'determine', u'manipulate', u'penalize', u'subject field', u'defense reaction', u'district', u'prove', u'firmness of purpose', u'interact', u"make up one's mind", u'system', u'finding', u'master', u'bailiwick', u'territory', u'possession', u'statement', u'system of rules', u'trait', u'controller', u'train', u'determination', u'declaration', u'try out', u'self-command', u'altruism', u'spirit', u'hardness', u'branch of knowledge', u'ascendance', u'disembodied spirit', u'cypher', u'rejection', u'skillfulness', u'work', u'self-sacrifice', u'penalization', u'preparation', u'abnegation', u'economic policy', u'territorial dominion', u'ascendancy', u'control', u'break up', u'lick', u'self-possession', u'recognize', u'correction', u'defection', u'cacoethes', u'penalisation', u'selflessness', u'powerfulness', u'examine', u'curb', u'keep', u'check', u'denial', u'develop', u'remission', u'adjudicate', u'verify', u'mechanism', u'knowledge base', u'field', u'criterion', u'defence reaction', u'self-control', u'suppress', u'test', u'soundness', u'subject', u'resignation', u'dominance', u'see to it', u'conclusion', u'status', u'field of study', u'reckon', u'restraint', u'asseveration', u'strength', u'ascendence', u'ownership', u'pick out', u'bodily function', u'end', u'ascertain', u'insure', u'disaffirmation', u'pigheadedness', u'resolving', u'unselfishness', u'make out', u'bullheadedness', u'hold in', u'command', u'trance', u'operate', u'resolution', u'repudiation', u'document']
+2016-07-27 22:01:22,023 INFO     =====END FLAT LIST=====
+2016-07-27 22:01:22,024 INFO     Length of list is:
+2016-07-27 22:01:22,024 INFO     362
+2016-07-27 22:01:22,024 INFO     Length of setlist is:
+2016-07-27 22:01:22,024 INFO     218
+2016-07-27 22:01:22,024 INFO     ***************************
+2016-07-27 22:01:22,026 INFO     127.0.0.1 - - [27/Jul/2016 22:01:22] "POST /corpus/y HTTP/1.1" 200 -

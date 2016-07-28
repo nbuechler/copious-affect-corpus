@@ -1,0 +1,71 @@
+2016-07-27 22:02:03,200 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-27 22:02:03,200 INFO      * Restarting with stat
+2016-07-27 22:02:03,446 WARNING   * Debugger is active!
+2016-07-27 22:02:03,451 INFO      * Debugger pin code: 294-815-374
+2016-07-27 22:02:09,261 INFO     ***************************
+2016-07-27 22:02:09,262 INFO     List is in the following mongo collection:
+2016-07-27 22:02:09,262 INFO     chastity-corpus-only-syn-unq-order-1
+2016-07-27 22:02:09,273 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:09,397 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-27 22:02:09,397 INFO     [u'sexual abstention', u'abstinence', u'celibacy', u'virtue', u'sexual morality', u'morality']
+2016-07-27 22:02:09,398 INFO     =====END FLAT LIST=====
+2016-07-27 22:02:09,398 INFO     Length of list is:
+2016-07-27 22:02:09,398 INFO     6
+2016-07-27 22:02:09,398 INFO     Length of setlist is:
+2016-07-27 22:02:09,398 INFO     6
+2016-07-27 22:02:09,398 INFO     ***************************
+2016-07-27 22:02:09,398 INFO     ***************************
+2016-07-27 22:02:09,398 INFO     List is in the following mongo collection:
+2016-07-27 22:02:09,398 INFO     chastity-corpus-only-syn-unq-order-2
+2016-07-27 22:02:09,399 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:09,524 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:09,645 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:09,767 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:09,891 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:10,033 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:10,160 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-27 22:02:10,161 INFO     [u'motivation', u'morals', u'merit', u'motive', u'self-denial', u'goodness', u'need', u'quality', u'ethics', u'abstention', u'moral excellence', u'chastity', u'ethical motive', u'sexual morality', u'worth', u'status', u'good', u'self-control', u'virtue', u'self-discipline', u'condition', u'morality', u'sexual abstention', u'virtuousness', u'abstinence', u'celibacy']
+2016-07-27 22:02:10,161 INFO     =====END FLAT LIST=====
+2016-07-27 22:02:10,161 INFO     Length of list is:
+2016-07-27 22:02:10,161 INFO     31
+2016-07-27 22:02:10,161 INFO     Length of setlist is:
+2016-07-27 22:02:10,161 INFO     26
+2016-07-27 22:02:10,161 INFO     ***************************
+2016-07-27 22:02:10,162 INFO     ***************************
+2016-07-27 22:02:10,162 INFO     List is in the following mongo collection:
+2016-07-27 22:02:10,162 INFO     chastity-corpus-only-syn-unq-order-3
+2016-07-27 22:02:10,163 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:10,293 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:10,417 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:10,557 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:10,705 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:10,834 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:10,966 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:11,098 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:11,221 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:11,353 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:11,489 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:11,613 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:11,757 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:11,879 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:12,012 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:12,136 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:12,265 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:12,389 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:12,513 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:12,630 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:12,764 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:12,890 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:13,023 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:13,148 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:13,270 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:13,390 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 22:02:13,512 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-27 22:02:13,512 INFO     [u'precondition', u'clothes designer', u'meritoriousness', u'deservingness', u'necessitate', u'merit', u'experimental condition', u'shape', u'self-renunciation', u'Worth', u'timber', u'discipline', u'abstention', u'couturier', u'character', u'calibre', u'better', u'grade', u'theme', u'impoverishment', u'worth', u'good', u'motivating', u'self-control', u'advantage', u'melodic theme', u'stipulate', u'renunciation', u'self-abnegation', u'self-discipline', u'condition', u'term', u'resolve', u'necessary', u'level', u'psychological feature', u'celibacy', u'good health', u'pauperism', u'essential', u'resoluteness', u'requirement', u'shampoo', u'idea', u'stipulation', u'motive', u'designer', u'undertake', u'ameliorate', u'worthiness', u'Charles Frederick Worth', u'willpower', u'forswearing', u'forgoing', u'state', u'social status', u'lineament', u'premiss', u'be', u'degree', u'circumstance', u'social rank', u'self-command', u'moral philosophy', u'poverty', u'firmness', u'premise', u'ask', u'consideration', u'teach', u'improve', u'sexual abstention', u'moral excellence', u'abstinence', u'qualify', u'contract', u'act', u'trade good', u'penury', u'artefact', u'tone', u'morals', u'human activity', u'social station', u'rank', u'instruct', u'self-denial', u'quality', u'indefinite quantity', u'firmness of purpose', u'assumption', u'make grow', u'chastity', u'statement', u'postulate', u'meliorate', u'fashion designer', u'possession', u'artifact', u'train', u'virtue', u'demand', u'requisite', u'sexual morality', u'specify', u'selflessness', u'amend', u'require', u'self-sacrifice', u'sound property', u'human action', u'abnegation', u'learn', u'property', u'procedure', u'control', u'motivation', u'motif', u'want', u'self-possession', u'process', u'attribute', u'healthiness', u'involve', u'goodness', u'need', u'call for', u'information', u'denial', u'develop', u'self-will', u'check', u'deserve', u'indigence', u'musical theme', u'take', u'ethical motive', u'status', u'caliber', u'philosophy', u'necessity', u'ethics', u'morality', u'pauperization', u'vantage', u'commodity', u'virtuousness', u'timbre', u'position', u'resolution', u'dimension', u'poorness']
+2016-07-27 22:02:13,512 INFO     =====END FLAT LIST=====
+2016-07-27 22:02:13,513 INFO     Length of list is:
+2016-07-27 22:02:13,513 INFO     229
+2016-07-27 22:02:13,513 INFO     Length of setlist is:
+2016-07-27 22:02:13,513 INFO     152
+2016-07-27 22:02:13,513 INFO     ***************************
+2016-07-27 22:02:13,515 INFO     127.0.0.1 - - [27/Jul/2016 22:02:13] "POST /corpus/y HTTP/1.1" 200 -

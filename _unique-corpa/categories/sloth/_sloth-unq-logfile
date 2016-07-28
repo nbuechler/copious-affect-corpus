@@ -1,0 +1,97 @@
+2016-07-27 21:55:27,005 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-27 21:55:27,007 INFO      * Restarting with stat
+2016-07-27 21:55:27,260 WARNING   * Debugger is active!
+2016-07-27 21:55:27,267 INFO      * Debugger pin code: 294-815-374
+2016-07-27 21:56:42,384 INFO     ***************************
+2016-07-27 21:56:42,385 INFO     List is in the following mongo collection:
+2016-07-27 21:56:42,385 INFO     sloth-corpus-only-syn-unq-order-1
+2016-07-27 21:56:42,394 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:42,557 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-27 21:56:42,557 INFO     [u'mortal sin', u'hesitancy', u'slothfulness', u'disinclination', u'laziness', u'reluctance', u'indisposition', u'tree sloth', u'hesitation', u'deadly sin', u'edentate', u'acedia']
+2016-07-27 21:56:42,557 INFO     =====END FLAT LIST=====
+2016-07-27 21:56:42,557 INFO     Length of list is:
+2016-07-27 21:56:42,557 INFO     12
+2016-07-27 21:56:42,557 INFO     Length of setlist is:
+2016-07-27 21:56:42,557 INFO     12
+2016-07-27 21:56:42,557 INFO     ***************************
+2016-07-27 21:56:42,558 INFO     ***************************
+2016-07-27 21:56:42,558 INFO     List is in the following mongo collection:
+2016-07-27 21:56:42,558 INFO     sloth-corpus-only-syn-unq-order-2
+2016-07-27 21:56:42,560 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:42,721 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:42,848 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:42,986 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:43,131 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:43,280 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:43,435 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:43,573 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:43,709 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:43,839 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:43,965 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:44,087 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:44,206 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-27 21:56:44,206 INFO     [u'sloth', u'illness', u'self-distrust', u'involuntariness', u'irresolution', u'repose', u'sinning', u'diffidence', u'pause', u'hesitation', u'ease', u'sickness', u'reluctance', u'placental', u'eutherian mammal', u'wavering', u'electrical phenomenon', u'faltering', u'dislike', u'deadly sin', u'indecisiveness', u'self-doubt', u'malady', u'vacillation', u'laziness', u'hesitance', u'eutherian', u'placental mammal', u'indecision', u'inactiveness', u'falter', u'rest', u'waver', u'relaxation', u'hesitancy', u'inertia', u'inactivity', u'mortal sin', u'disinclination', u'unwillingness', u'unwellness', u'indisposition', u'sin', u'indolence', u'edentate', u'acedia']
+2016-07-27 21:56:44,206 INFO     =====END FLAT LIST=====
+2016-07-27 21:56:44,207 INFO     Length of list is:
+2016-07-27 21:56:44,207 INFO     83
+2016-07-27 21:56:44,207 INFO     Length of setlist is:
+2016-07-27 21:56:44,207 INFO     46
+2016-07-27 21:56:44,207 INFO     ***************************
+2016-07-27 21:56:44,207 INFO     ***************************
+2016-07-27 21:56:44,207 INFO     List is in the following mongo collection:
+2016-07-27 21:56:44,207 INFO     sloth-corpus-only-syn-unq-order-3
+2016-07-27 21:56:44,209 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:44,345 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:44,488 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:44,613 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:44,747 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:44,868 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:44,996 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:45,119 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:45,249 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:45,382 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:45,508 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:45,645 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:45,773 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:45,897 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:46,022 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:46,161 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:46,281 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:46,436 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:46,568 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:46,703 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:46,824 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:46,951 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:47,074 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:47,203 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:47,347 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:47,470 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:47,601 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:47,728 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:47,860 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:47,988 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:48,118 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:48,244 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:48,372 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:48,493 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:48,624 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:48,746 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:48,881 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:49,011 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:49,149 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:49,277 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:49,407 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:49,534 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:49,660 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:49,790 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:49,914 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:50,033 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-27 21:56:50,176 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-27 21:56:50,177 INFO     [u'perch', u'comfort', u'help', u'alleviation', u'laziness', u'rest', u'loosening', u'trespass', u'comfortableness', u'sinning', u'sleep', u'go', u'dubiety', u'still', u'tendency', u'letter of the alphabet', u'move', u'hesitancy', u'console', u'solace', u'equanimity', u'ease', u'reluctance', u'dubiousness', u'circular function', u'tranquillity', u'falter', u'suspension', u'dislike', u'disrupt', u'informality', u'goof', u'time interval', u'richness', u'roost', u'swing', u'break', u'repose', u'irresolution', u'interrupt', u'sinfulness', u'put down', u'condition', u'nausea', u'malady', u'irresoluteness', u'quietude', u'health problem', u'disinclination', u'component part', u'alphabetic character', u'self-doubt', u'quietness', u'assuage', u'breach', u'activity', u'mammal', u'movement', u'placidity', u'edentate', u'interruption', u'rest period', u'set', u'relaxation behavior', u'go against', u'be', u'unhealthiness', u'waffle', u'breathe', u'naturalness', u'growth', u'take a breather', u'act', u'utter', u'physical phenomenon', u'allay', u'balance', u'evildoing', u'residue', u'diffidence', u'exponential return', u'slothfulness', u'sickness', u'verbalize', u'increase', u'state', u'wickedness', u'tree sloth', u'easiness', u'intermit', u'slackening', u'timidness', u'inclination', u'Semitic deity', u'vacillation', u'assist', u'unregularity', u'eutherian', u'peacefulness', u'pose', u'component', u'indecision', u'incertitude', u'recumb', u'blunder', u'pause', u'respite', u'disposition', u'relaxation', u'put', u'flicker', u'sine', u'remainder', u'inertia', u'move back and forth', u'unrighteousness', u'hell', u'feeling', u'vacillate', u'unwillingness', u'uncertainty', u'quiet', u'motion', u'lie', u'pillow', u'place', u'serenity', u'heartsease', u'eternal sleep', u'facilitate', u'assign', u'mechanical phenomenon', u'reside', u'sloth', u'faultiness', u'vocalize', u'infract', u'letter', u'flitter', u'human activity', u'walk', u'relaxation method', u'residual', u'communicator', u'quiver', u'quality', u'stumble', u'speak', u'simpleness', u'composure', u'violate', u'support', u'faltering', u'quaver', u'disapproval', u'sit down', u'doubt', u'calm', u'affluence', u'wavering', u'break up', u'bumble', u'inaction', u'weakening', u'human action', u'hesitance', u'tranquility', u'placental mammal', u'stutter', u'inactiveness', u'electrical phenomenon', u'doubtfulness', u'part', u'locomote', u'motility', u'attach to', u'disfavor', u'ill health', u'sway', u'placental', u'symptom', u'sound', u'soothe', u'easement', u'transgress', u'intermission', u'indecisiveness', u'stammer', u'unwellness', u'indisposition', u'mammalian', u'mathematical operation', u'remain', u'transgression', u'musical notation', u'aid', u'indolence', u'defectiveness', u"catch one's breath", u'acedia', u'residuum', u'inhere in', u'illness', u'self-distrust', u'involuntariness', u'palliate', u'fluctuation', u'mathematical process', u'relieve', u'death', u'swinging', u'voice', u'operation', u'cut off', u'hesitate', u'liberalization', u'sit', u'travel', u'peace', u'ataraxis', u'Sin', u'delay', u'eutherian mammal', u'increment', u'trait', u'verbalise', u'boob', u'deadly sin', u'sin', u'disfavour', u'status', u'simplicity', u'eternal rest', u'timidity', u'liberalisation', u'recline', u'vocalise', u'stay', u'quietus', u'mouth', u'lay', u'waver', u'easing', u'hesitation', u'fluctuate', u'flutter', u'weave', u'inactivity', u'mortal sin', u'temperament', u'peace of mind', u'trigonometric function', u'interval', u'exponential decay', u'timorousness', u'portion', u'calmness', u'relief', u'alleviate', u'offend', u'position', u'irregularity', u'talk']
+2016-07-27 21:56:50,177 INFO     =====END FLAT LIST=====
+2016-07-27 21:56:50,177 INFO     Length of list is:
+2016-07-27 21:56:50,177 INFO     489
+2016-07-27 21:56:50,177 INFO     Length of setlist is:
+2016-07-27 21:56:50,177 INFO     263
+2016-07-27 21:56:50,177 INFO     ***************************
+2016-07-27 21:56:50,178 INFO     127.0.0.1 - - [27/Jul/2016 21:56:50] "POST /corpus/y HTTP/1.1" 200 -
