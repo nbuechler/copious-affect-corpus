@@ -1,0 +1,93 @@
+2016-07-28 23:29:06,977 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-28 23:29:06,977 INFO      * Restarting with stat
+2016-07-28 23:29:07,230 WARNING   * Debugger is active!
+2016-07-28 23:29:07,235 INFO      * Debugger pin code: 294-815-374
+2016-07-28 23:29:59,811 INFO     ***************************
+2016-07-28 23:29:59,812 INFO     List is in the following mongo collection:
+2016-07-28 23:29:59,812 INFO     enlightenment-corpus-only-syn-unq-order-1
+2016-07-28 23:29:59,821 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:29:59,948 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-28 23:29:59,948 INFO     [u'education', u'beatification', u'reform movement', u'beatitude', u'Nirvana', u'Enlightenment', u'blessedness', u'Age of Reason']
+2016-07-28 23:29:59,948 INFO     =====END FLAT LIST=====
+2016-07-28 23:29:59,948 INFO     Length of list is:
+2016-07-28 23:29:59,948 INFO     8
+2016-07-28 23:29:59,949 INFO     Length of setlist is:
+2016-07-28 23:29:59,949 INFO     8
+2016-07-28 23:29:59,949 INFO     ***************************
+2016-07-28 23:29:59,949 INFO     ***************************
+2016-07-28 23:29:59,949 INFO     List is in the following mongo collection:
+2016-07-28 23:29:59,949 INFO     enlightenment-corpus-only-syn-unq-order-2
+2016-07-28 23:29:59,950 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:00,082 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:00,205 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:00,328 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:00,453 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:00,578 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:00,701 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:00,833 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:00,958 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-28 23:30:00,958 INFO     [u'saying', u'reform movement', u'educational activity', u'profession', u'learning', u'Enlightenment', u'Department of Education', u'happiness', u'Nirvana', u'heaven', u'promised land', u'beatitude', u'content', u'education', u'sanctification', u'teaching', u'breeding', u'locution', u'Education Department', u'Age of Reason', u'movement', u'cognitive content', u'Eden', u'Beatitude', u'paradise', u'upbringing', u'mental object', u'didactics', u'felicity', u'front', u'social movement', u'training', u'enlightenment', u'beatification', u'region', u'instruction', u'executive department', u'part', u'expression', u'Shangri-la', u'activity', u'action', u'pedagogy', u'Education', u'blessedness', u'acquisition']
+2016-07-28 23:30:00,959 INFO     =====END FLAT LIST=====
+2016-07-28 23:30:00,959 INFO     Length of list is:
+2016-07-28 23:30:00,959 INFO     63
+2016-07-28 23:30:00,959 INFO     Length of setlist is:
+2016-07-28 23:30:00,959 INFO     46
+2016-07-28 23:30:00,959 INFO     ***************************
+2016-07-28 23:30:00,960 INFO     ***************************
+2016-07-28 23:30:00,960 INFO     List is in the following mongo collection:
+2016-07-28 23:30:00,960 INFO     enlightenment-corpus-only-syn-unq-order-3
+2016-07-28 23:30:00,963 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:01,090 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:01,245 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:01,369 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:01,507 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:01,639 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:01,829 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:01,980 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:02,146 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:02,307 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:02,478 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:02,660 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:02,907 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:03,140 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:03,295 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:03,434 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:03,579 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:03,725 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:03,860 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:04,011 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:04,138 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:04,276 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:04,409 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:04,541 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:04,671 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:04,808 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:04,952 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:05,085 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:05,221 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:05,351 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:05,478 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:05,610 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:05,747 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:05,889 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:06,014 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:06,142 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:06,278 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:06,439 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:06,567 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:06,695 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:06,842 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:06,974 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:07,097 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:07,240 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:07,385 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:07,511 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:30:07,637 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-28 23:30:07,637 INFO     [u'code', u'concept', u'sexual practice', u'Nirvana', u'squeezing', u'avowal', u'teaching', u'enlightenment', u'division', u'sexual activity', u'felicity', u'group action', u'mythical place', u'physical object', u'heaven', u'genteelness', u'try', u'rearing', u'accumulation', u'assemblage', u'accomplishment', u'neighborhood', u'occurrence', u'trend', u'set up', u'disunite', u'start out', u'basic cognitive process', u'sue', u'computer code', u'Eden', u'section', u'method', u'movement', u'satisfy', u'component', u'attainment', u'geographic region', u'pedagogy', u'change', u'arena', u'substance', u'Promised Land', u'action', u'verbalism', u'depart', u'divide', u'campaign', u'enactment', u'legal proceeding', u'slicker', u'circumscribe', u'eruditeness', u'subject matter', u'socialization', u'speech communication', u'start', u'trait', u'effort', u'cognitive content', u'socialisation', u'challenge', u'work', u'human action', u'battlefront', u'fulfill', u'nurture', u'set off', u'visage', u'process', u'piece of music', u'share', u'sphere', u'optical illusion', u'Holy Land', u'inheritance', u'promised land', u'fosterage', u'occupational group', u'professing', u'communicating', u'go away', u'collection', u'sex activity', u'bodily function', u'attempt', u'beatification', u'breast', u'office', u'move', u'vocation', u'tendency', u'style', u'apparent movement', u'production', u'encyclopedism', u'sanctification', u'speech', u'break', u'front', u'encyclopaedism', u'execute', u'cognition', u'component part', u'composition', u'capability', u'Shangri-la', u'side', u'domain', u'persona', u'line of work', u'leave', u'accomplish', u'federal department', u'content', u'paradise', u'formula', u'cause', u'philosophy', u'upbringing', u'disposition', u'strawman', u'occurrent', u'training', u'language', u'emotional state', u'imaginary place', u'spoken communication', u'motion', u'thing', u'place', u'ism', u'appropriateness', u'ability', u'message', u'indefinite quantity', u'construct', u'motility', u'statement', u'percentage', u'natural process', u'break up', u'part', u'manifestation', u'constituent', u'go forth', u'instruction', u'preparation', u'venture', u'feeling', u'acquisition', u'acculturation', u'effectuate', u'Beatitude', u'demonstration', u'knowledge base', u'complete', u'lie', u'realm', u'transferred property', u'elegance', u'legal action', u'subject', u'religious ritual', u'object', u'expressive style', u'affirmation', u'parting', u'drive', u'face', u'proceedings', u'scholarship', u'saying', u'mathematical statement', u'cheat', u'grammatical constituent', u'relation', u'Paradise', u'Palestine', u'melody', u'occupation', u'social movement', u'knowledge', u'proportion', u'commandment', u'felicitousness', u'organic process', u'gratify', u'procreation', u'enculturation', u'avouchment', u'philosophical system', u'deceiver', u'geographic area', u'school of thought', u'body part', u'activity', u'knowledge domain', u'Education', u'sex', u'biological process', u'bringing up', u'concern', u'gentility', u'capacity', u'state', u'transferred possession', u'limit', u'reproduction', u'social group', u'figurehead', u'job', u'carry through', u'action mechanism', u'trickster', u'locution', u'region', u'countenance', u'contribution', u'expression', u'duty', u'laxation', u'beguiler', u'characterization', u'human activity', u'fostering', u'front man', u'community', u'melodic line', u'learning', u'endeavor', u'Department of Education', u'acceptance', u'atmospheric phenomenon', u'direction', u'facts of life', u'acquiring', u'spirit', u'conception', u'look', u'action at law', u'reform movement', u'appearance', u'air', u'Canaan', u'voice', u'carry out', u'natural event', u'physical process', u'demo', u'strain', u'personation', u'erudition', u'bowel movement', u'split', u'facial expression', u'straw man', u'Age of Reason', u'finish', u'effect', u'displace', u'set forth', u'grooming', u'tune', u'reflection', u'department of the federal government', u'religious ceremony', u'command', u'pedagogics', u'position', u'blessedness', u'noesis', u'musical composition', u'endeavour', u'proximity', u'mechanism', u'aspect', u'skill', u'happiness', u'field', u'verbal expression', u'character', u'location', u'federal office', u'voice communication', u'aggregation', u'program line', u'confine', u'geographical area', u'forepart', u'confront', u'contentedness', u'defecation', u'fulfil', u'split up', u'proceeding', u'separate', u'beatitude', u'oral communication', u'teaching method', u'Education Department', u'natural action', u'inclination', u'Heaven', u'business', u'plot', u'bm', u'mental object', u'grammatical construction', u'front end', u'body process', u'fictitious place', u'act', u'Garden of Eden', u'acquirement', u'bodily process', u'presence', u'communication', u'profession', u'getting', u'doctrine', u'portrayal', u'Enlightenment', u'apparent motion', u'area', u'opus', u'heritage', u'breeding', u'set out', u'function', u'theatrical role', u'litigate', u'front line', u'volume', u'didactics', u'construction', u'line', u'squeeze', u'raising', u'happening', u'military action', u'executive department', u'depicted object', u'piece', u'educational activity', u'reflexion', u'precept', u'crusade', u'learnedness', u'formulation', u'education', u'power', u'activeness', u'role', u'spoken language', u'nominal head', u'geographical region', u'drift', u'melodic phrase', u'take off', u'assets', u'orbit', u'portion', u'cheater']
+2016-07-28 23:30:07,637 INFO     =====END FLAT LIST=====
+2016-07-28 23:30:07,637 INFO     Length of list is:
+2016-07-28 23:30:07,638 INFO     595
+2016-07-28 23:30:07,638 INFO     Length of setlist is:
+2016-07-28 23:30:07,638 INFO     364
+2016-07-28 23:30:07,638 INFO     ***************************
+2016-07-28 23:30:07,640 INFO     127.0.0.1 - - [28/Jul/2016 23:30:07] "POST /corpus/y HTTP/1.1" 200 -
