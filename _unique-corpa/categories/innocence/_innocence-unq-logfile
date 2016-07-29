@@ -1,0 +1,122 @@
+2016-07-28 23:32:58,482 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-28 23:32:58,483 INFO      * Restarting with stat
+2016-07-28 23:32:58,744 WARNING   * Debugger is active!
+2016-07-28 23:32:58,746 INFO      * Debugger pin code: 294-815-374
+2016-07-28 23:33:14,336 INFO     ***************************
+2016-07-28 23:33:14,336 INFO     List is in the following mongo collection:
+2016-07-28 23:33:14,336 INFO     innocence-corpus-only-syn-unq-order-1
+2016-07-28 23:33:14,344 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:14,473 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-28 23:33:14,473 INFO     [u'status', u'pureness', u'naivety', u'naivete', u'sinlessness', u'whiteness', u'naturalness', u'ingenuousness', u'artlessness', u'naiveness', u'condition', u'purity']
+2016-07-28 23:33:14,473 INFO     =====END FLAT LIST=====
+2016-07-28 23:33:14,473 INFO     Length of list is:
+2016-07-28 23:33:14,474 INFO     12
+2016-07-28 23:33:14,474 INFO     Length of setlist is:
+2016-07-28 23:33:14,474 INFO     12
+2016-07-28 23:33:14,474 INFO     ***************************
+2016-07-28 23:33:14,474 INFO     ***************************
+2016-07-28 23:33:14,474 INFO     List is in the following mongo collection:
+2016-07-28 23:33:14,475 INFO     innocence-corpus-only-syn-unq-order-2
+2016-07-28 23:33:14,478 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:14,600 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:14,734 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:14,859 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:14,984 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:15,110 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:15,248 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:15,375 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:15,500 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:15,628 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:15,751 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:15,881 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:16,008 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-28 23:33:16,008 INFO     [u'premiss', u'precondition', u'artlessness', u'achromatic color', u'process', u'experimental condition', u'assumption', u'forthrightness', u'stipulation', u'alikeness', u'naturalness', u'instruct', u'purity', u'undertake', u'ameliorate', u'achromatic colour', u'quality', u'check', u'naiveness', u'discipline', u'information', u'develop', u'naivete', u'circumstance', u'make grow', u'better', u'state', u'candour', u'complexion', u'naivety', u'statement', u'healthiness', u'white', u'frankness', u'meliorate', u'chastity', u'status', u'similitude', u'candor', u'skin color', u'specify', u'pureness', u'honour', u'term', u'stipulate', u'whiteness', u'ingenuousness', u'qualify', u'train', u'virtue', u'premise', u'innocence', u'consideration', u'teach', u'sexual morality', u'condition', u'improve', u'skin colour', u'likeness', u'sinlessness', u'amend', u'candidness', u'shampoo', u'shape', u'contract', u'good health', u'learn', u'directness', u'position', u'honor', u'procedure']
+2016-07-28 23:33:16,008 INFO     =====END FLAT LIST=====
+2016-07-28 23:33:16,008 INFO     Length of list is:
+2016-07-28 23:33:16,009 INFO     117
+2016-07-28 23:33:16,009 INFO     Length of setlist is:
+2016-07-28 23:33:16,009 INFO     71
+2016-07-28 23:33:16,009 INFO     ***************************
+2016-07-28 23:33:16,009 INFO     ***************************
+2016-07-28 23:33:16,009 INFO     List is in the following mongo collection:
+2016-07-28 23:33:16,010 INFO     innocence-corpus-only-syn-unq-order-3
+2016-07-28 23:33:16,013 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:16,139 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:16,266 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:16,389 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:16,510 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:16,638 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:16,761 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:16,903 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:17,047 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:17,175 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:17,294 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:17,431 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:17,555 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:17,680 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:17,829 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:17,948 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:18,069 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:18,190 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:18,315 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:18,438 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:18,561 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:18,681 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:18,809 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:18,931 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:19,065 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:19,189 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:19,338 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:19,461 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:19,584 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:19,706 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:19,829 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:19,951 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:20,076 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:20,203 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:20,344 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:20,468 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:20,589 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:20,723 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:20,850 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:20,973 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:21,098 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:21,224 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:21,344 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:21,467 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:21,589 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:21,711 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:21,842 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:21,963 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:22,089 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:22,215 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:22,343 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:22,471 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:22,593 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:22,720 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:22,839 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:22,970 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:23,093 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:23,221 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:23,344 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:23,468 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:23,590 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:23,712 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:23,840 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:23,963 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:24,087 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:24,220 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:24,342 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:24,473 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:24,599 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:24,727 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:24,850 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:33:24,977 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-28 23:33:24,977 INFO     [u'gabardine', u'precondition', u'code', u'similarity', u'expatiate', u'experimental condition', u'hitch', u'obstruction', u'coach', u'entropy', u'point of view', u'fairness', u'go', u'naiveness', u'compact', u'Andrew D. White', u'calculate', u'white', u'worth', u'environment', u'charge', u'theorise', u'bear upon', u'albumen', u'nail down', u'tweed', u'ride', u'ingredient', u'conjecture', u'confirmation', u'assay', u'string', u'pin down', u'rise', u'berth', u'stipulate', u'blockade', u'high command', u'merit', u'fall', u'affect', u'skin condition', u'spring up', u'condition', u'posture', u'school', u'germinate', u'level', u'issue', u'good health', u'lessen', u'outdo', u'military position', u'inspection', u'accumulation', u'assemblage', u'Patrick Victor Martindale White', u'originate', u'set up', u'terminal figure', u'direct', u'forthrightness', u'sign', u'work on', u'State', u'chess move', u'enjoin', u'canvass', u'buccaneer', u'penalise', u'employ', u'sue', u'computer code', u'software system', u'specification', u'subject area', u'emplacement', u'verbalize', u'political entity', u'fixings', u'occupation', u'exercise', u'speech act', u'financial statement', u'judicial admission', u'degree', u'honour', u'modify', u'United States Department of State', u'whiteness', u'specialise', u'chassis', u'consideration', u'sicken', u'chink', u'skin colour', u'substance', u'theorize', u'administrative district', u'outgrowth', u'study', u'point in time', u'Edward Teach', u'set apart', u'verbalise', u'action', u'opinion', u'specialize', u'bod', u'honor', u'caravan', u'manage', u'subject matter', u'uprise', u'summons', u'intellection', u'decrease', u'hair care', u'surmount', u'hit the books', u'select', u'orientation', u'superordinate', u'subject field', u'White River', u'fee', u'supreme headquarters', u'mark off', u'impartiality', u'power train', u'duplicate', u'call', u'outspokenness', u'assessment', u'meliorate', u'Blackbeard', u'check off', u'memorize', u'trait', u'billet', u'award', u'trail', u'train', u'accept', u'egg white', u'hold', u'engage', u'account', u'gear up', u'word', u'physiological state', u'challenge', u'work', u'soul', u'sound property', u'human action', u'learn', u'appendage', u'res publica', u'appraisal', u'abbreviate', u'proof', u'control', u'figure', u'do', u'process', u'attribute', u'chip', u'locating', u'righteousness', u'chit', u'refine', u'tab', u'arise', u'cultivate', u'lay over', u'occur', u'guarantee', u'ceremony', u'information', u'tick off', u'bill of exchange', u'civilise', u'initiate', u'particularize', u'naivete', u'discussion', u'enlarge', u'sea rover', u'Caucasian', u'delay', u'naivety', u'answer', u'Theodore Harold White', u'Edward Thatch', u'find out', u'mar', u'visual aspect', u'watch', u'check into', u'collection', u'consequence', u'produce', u'create mentally', u'embodiment', u'data', u'grow', u'semblance', u'man', u'inactivity', u'attempt', u'remember', u'administrative division', u'stymie', u'correspond', u'physical structure', u'inform', u'hold in', u'writ', u'revise', u'transubstantiate', u'verify', u'DoS', u'fair-mindedness', u'discover', u'presuppose', u'order', u'restriction', u'office', u'pant', u'consent', u'move', u'piece of cloth', u'legal proceeding', u'attitude', u'White', u'spatial relation', u'thoughtfulness', u'superior', u'complicate', u'fit', u'fix', u'hypothesize', u'dispose', u'discourse', u'better', u'restrain', u'choose', u'fall out', u'pass', u'alter', u'good', u'somebody', u'halt', u'combination', u'propose', u'introduce', u'nation', u'break', u'chemical phenomenon', u'speculate', u'gearing', u'term', u'likeness', u'name', u'cognition', u'condense', u'hypothesise', u'prerequisite', u'laurels', u'touch on', u'side', u'commonwealth', u'mould', u'observance', u'formulate', u'series', u'baulk', u'reduce', u'idea', u'Stanford White', u'designer', u'line of work', u'undertake', u'ameliorate', u'operation', u'canvas', u'item', u'characteristic', u'defend', u'State Department', u'content', u'make grow', u'candour', u'ingenuousness', u'preface', u'frankness', u'correct', u'inaction', u'take place', u'theory', u'circumstance', u'spot', u'social rank', u'ascertain', u'possibility', u'difficulty', u'qualify', u'put', u'embarrass', u'teach', u'superimpose', u'substantiation', u'generate', u'care', u'training', u'change state', u'lucubrate', u'emotional state', u'judicial writ', u'positioning', u'keep', u'counterpart', u'turn', u'audacity', u'concrete representation', u'place', u'face up', u'mortal', u'explicate', u'peg down', u'thought process', u'assign', u'go over', u'bank check', u'statue', u'grade', u'pick out', u'rank', u'transform', u'restrict', u'wash', u'instruct', u'written agreement', u'rarify', u'message', u'quality', u'cerebration', u'given', u'modernise', u'software program', u'influence', u'system', u'body politic', u'checker', u'assumption', u'draft', u'chastity', u'bailiwick', u'abridge', u'postulate', u'similitude', u'retainer', u'statement', u'punish', u'Supreme Headquarters Allied Powers Europe', u'check-out procedure', u'serve', u'procession', u'vouch', u'part', u'checkout', u'constituent', u'flesh out', u'sexual morality', u'specify', u'get a line', u'branch of knowledge', u'chief justice', u'subroutine', u'instruction', u'shampoo', u'penalization', u'preparation', u'selective information', u'architect', u'posit', u'elaborate', u'cognitive process', u'acquisition', u'perspective', u'cleaner', u'wagerer', u'correction', u'build up', u'defect', u'cleansing agent', u'say', u'outstrip', u'regulate', u'knowledge base', u'bring forth', u'gear', u'put forward', u'recrudesce', u'physique', u'apprise', u'ceremonial occasion', u'exposit', u'take', u'educator', u'mental attitude', u'command', u'period of time', u'computer software', u'province', u'play', u'caliber', u'go on', u'apprize', u'reckon', u'higher-up', u'compress', u'educate', u'anatomy', u'cipher', u'bridle', u'plan', u'precede', u'kindness', u'contain', u'morality', u'expound', u'tinct', u'cause', u'placement', u'penalisation', u'railroad train', u'face', u'proceedings', u'con', u'hindrance', u'directness', u'constrict', u'duplication', u'quantity', u'Edward Douglas White Jr.', u'order of payment', u'lay', u'grammatical constituent', u'supposition', u'give tongue to', u'relation', u'diminish', u'commercial instrument', u'utter', u'hypothecate', u'make', u'impact', u'coloring', u'knowledge', u'writer', u'assertion', u'gambler', u'penalty', u'Andrew Dickson White', u'theme', u'sea robber', u'ikon', u'complexion', u'full term', u'bridge', u'supposal', u'create by mental act', u'handle', u'viewpoint', u'get', u'hold back', u'express', u'stop', u'create from raw material', u'remedy', u'lave', u'turn back', u'outperform', u'foreshorten', u'body part', u'stead', u'activity', u'knowledge domain', u'river', u'laying claim', u'view', u'body', u'requirement', u'set', u'honesty', u'frame', u'stipulation', u'naturalness', u'see', u'individual', u'ovalbumin', u'swear out', u'Patrick White', u'contour', u'subject', u'stance', u'discolor', u'pattern', u'review', u'label', u'Thatch', u'state', u'write out', u'routine', u'destine', u'pirate', u'haircare', u'premiss', u'candor', u'organic structure', u'come down', u'bettor', u'nature', u'purity', u'lineament', u'deliver', u'communicativeness', u'job', u'concentrate', u'hypothesis', u'premise', u'configuration', u'improve', u'bodily property', u'delimit', u'country', u'subprogram', u'equal', u'contract', u'time period', u'assure', u'go for', u'context', u'stymy', u'grooming', u'tinge', u'hairdressing', u'tone', u'physiological condition', u'point', u'human activity', u'E. B. White', u'period', u'program line', u'walk', u'accusation', u'twin', u'location', u'aftermath', u'respect', u'civilize', u'penalize', u'accustom', u'tint', u'human body', u'arrest', u'create', u'mark', u'mentation', u'treat', u'define', u'minify', u'system of rules', u'suppress', u'argument', u'habituate', u'observe', u'bidding', u'declaration', u'T. H. White', u'commercial document', u'evidence', u'spirit', u'cypher', u'amend', u'bill', u'appearance', u'aim', u'cast', u'territorial division', u'suppose', u'situation', u'property', u'hinderance', u'procedure', u'discolour', u'August 15', u'physical process', u'goodness', u'healthiness', u'set about', u'keep back', u'characterize', u'someone', u'sign up', u'Edward White', u'accusal', u'ready', u'nonpartisanship', u'pedagog', u'develop', u'author', u'suggest', u'acquire', u'shorten', u'moral excellence', u'wagon train', u'white person', u'musical theme', u'Assumption of Mary', u'advise', u'attack', u'bid', u'see to it', u'status', u'evolve', u'tighten', u'balk', u'sign on', u'chequer', u'physical entity', u'restraint', u'contract bridge', u'rail', u'melodic theme', u'set forth', u'cognitive operation', u'colouring', u'pedagogue', u'superpose', u'build', u'expand', u'weave', u'insure', u'consign', u'retard', u'narrow', u'timbre', u'colour', u'software package', u'punishment', u'thought', u'person', u'straightness', u'impediment', u'position', u'reward', u'dimension', u'noesis', u'benignity', u'flesh', u'think of', u'create from raw stuff', u'press', u'shape', u'surpass', u'touch', u'polish', u'achromatic colour', u'unconscious process', u'timber', u'discipline', u'presumption', u'cut', u'take aim', u'thinking', u'fine-tune', u'character', u'calibre', u'spatiality', u'color', u'add', u'punter', u'treatment', u'honestness', u'crack', u'hap', u'artlessness', u'match', u'designate', u'physical body', u'march', u'government', u'read', u'characterise', u'aggregation', u'jibe', u'judge', u'check mark', u'state of matter', u'tick', u'flannel', u'sort out', u'alikeness', u'blemish', u'come about', u'confront', u'candidness', u'miracle', u'shrink', u'particularise', u'journalist', u'have', u'become', u'cogent evidence', u'ceremonial', u'transmute', u'exceed', u'right', u'achromatic color', u'dilate', u'deal', u'soma', u'pronounce', u'standing', u'Assumption', u'celibacy', u'invoice', u'work out', u'modernize', u'proceeding', u'Edward D. White', u'public transport', u'cleanser', u'pick up', u'memorise', u'pioneer', u'outgo', u'social status', u'moderate', u'larn', u'refer', u'hinder', u'be', u'skin color', u'business', u'aggress', u'pose', u'check over', u'conformation', u'audaciousness', u'innocence', u'standpoint', u'post', u'material body', u'repair', u'mental process', u'sexual abstention', u'package', u'abstinence', u'political unit', u'check out', u'pass off', u'affirmation', u'ensure', u'stand', u'act', u'concession', u'block', u'software', u'obstruct', u'geartrain', u'rectify', u'image', u'social station', u'down', u'authorities', u'promise', u'whiten', u'determine', u'lieu', u'get word', u'concretism', u'take in charge', u'prepare', u'stoppage', u'suffice', u'presumptuousness', u'submit', u'SHAPE', u'structure', u'suss out', u'outmatch', u'analyze', u'remediate', u'function', u'gibe', u'litigate', u'form', u'tally', u'analyse', u'inactiveness', u'change', u'hear', u'wheelwork', u'line', u'squeeze', u'info', u'hire', u'terminus', u'compute', u'check up on', u'happen', u'sinlessness', u'look into', u'executive department', u'tell', u'limit', u'verification', u'piece', u'agree', u'information measure', u'get wind', u'icon', u'recognize', u'take on', u'delimitate', u'denote', u'examine', u'curb', u'bear on', u'deterrent', u'mold', u'check', u'regime', u'field', u'abide by', u'role', u'forge', u'Teach', u'Department of State', u'displace', u'picture', u'draw', u'trouser', u'intend', u'field of study', u'pureness', u'handicap', u'symbol', u'Elwyn Brooks White', u'stay', u'drag', u'recognise', u'cheque', u'tackle', u'narrow down', u'effrontery', u'holy day of obligation', u'delineate', u'considerateness', u'land', u'virtuousness', u'piece of material', u'groom', u'make out', u'accolade', u'spatial property', u'measure up', u'virtue']
+2016-07-28 23:33:24,978 INFO     =====END FLAT LIST=====
+2016-07-28 23:33:24,978 INFO     Length of list is:
+2016-07-28 23:33:24,978 INFO     1301
+2016-07-28 23:33:24,978 INFO     Length of setlist is:
+2016-07-28 23:33:24,978 INFO     872
+2016-07-28 23:33:24,978 INFO     ***************************
+2016-07-28 23:33:24,979 INFO     127.0.0.1 - - [28/Jul/2016 23:33:24] "POST /corpus/y HTTP/1.1" 200 -

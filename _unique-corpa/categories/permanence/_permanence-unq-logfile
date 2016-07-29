@@ -1,0 +1,60 @@
+2016-07-28 23:39:03,973 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-28 23:39:03,974 INFO      * Restarting with stat
+2016-07-28 23:39:04,230 WARNING   * Debugger is active!
+2016-07-28 23:39:04,235 INFO      * Debugger pin code: 294-815-374
+2016-07-28 23:39:14,751 INFO     ***************************
+2016-07-28 23:39:14,751 INFO     List is in the following mongo collection:
+2016-07-28 23:39:14,751 INFO     permanence-corpus-only-syn-unq-order-1
+2016-07-28 23:39:14,764 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:14,890 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-28 23:39:14,891 INFO     [u'duration', u'length', u'permanency']
+2016-07-28 23:39:14,891 INFO     =====END FLAT LIST=====
+2016-07-28 23:39:14,891 INFO     Length of list is:
+2016-07-28 23:39:14,891 INFO     3
+2016-07-28 23:39:14,891 INFO     Length of setlist is:
+2016-07-28 23:39:14,891 INFO     3
+2016-07-28 23:39:14,891 INFO     ***************************
+2016-07-28 23:39:14,891 INFO     ***************************
+2016-07-28 23:39:14,891 INFO     List is in the following mongo collection:
+2016-07-28 23:39:14,891 INFO     permanence-corpus-only-syn-unq-order-2
+2016-07-28 23:39:14,893 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:15,016 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:15,154 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:15,272 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-28 23:39:15,273 INFO     [u'continuance', u'distance', u'fundamental measure', u'permanence', u'fundamental quantity', u'section', u'physical property', u'temporal property', u'period', u'dimension', u'length', u'extent', u'time', u'duration', u'size', u'segment', u'time period', u'period of time']
+2016-07-28 23:39:15,273 INFO     =====END FLAT LIST=====
+2016-07-28 23:39:15,273 INFO     Length of list is:
+2016-07-28 23:39:15,273 INFO     21
+2016-07-28 23:39:15,273 INFO     Length of setlist is:
+2016-07-28 23:39:15,273 INFO     18
+2016-07-28 23:39:15,274 INFO     ***************************
+2016-07-28 23:39:15,274 INFO     ***************************
+2016-07-28 23:39:15,274 INFO     List is in the following mongo collection:
+2016-07-28 23:39:15,274 INFO     permanence-corpus-only-syn-unq-order-3
+2016-07-28 23:39:15,277 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:15,407 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:15,530 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:15,675 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:15,806 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:15,932 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:16,053 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:16,182 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:16,309 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:16,437 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:16,558 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:16,686 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:16,809 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:16,936 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:17,058 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:17,179 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:17,306 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:17,431 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:39:17,556 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-28 23:39:17,556 INFO     [u'concept', u'surface area', u'sentence', u'time interval', u'fundamental quantity', u'meter', u'ending', u'shape', u'written material', u'menses', u'catamenia', u'clock', u'cut', u'proportion', u'expelling', u'fourth dimension', u'indifference', u'division', u'spatial arrangement', u'stop', u'cutting', u'minute', u'sort out', u'term', u'level', u'geologic time', u'army unit', u'magnitude', u'musical organisation', u'team', u'punctuation mark', u'state of affairs', u'set', u'determine', u'geological period', u'geological time', u'second', u'measure', u'duration', u'clock time', u'period of time', u'slice', u'meter reading', u'space', u'filler', u'quantify', u'section', u'musical group', u'case', u'adjust', u'example', u'indication', u'reading', u'correct', u'degree', u'schedule', u'square mile', u'spacing', u'extent', u'outdistance', u'stage', u'piece', u'instant', u'country', u'region', u'metre', u'experience', u'keep', u'amount', u'size of it', u'full stop', u'divide', u'point', u'continuation', u'physical property', u'period', u'fundamental measure', u'prison term', u'writing', u'size', u'area', u'temporal property', u'construct', u'mark', u'assort', u'music', u'full point', u'sort', u'activity', u'form', u'rhythmicity', u'period of play', u'emission', u'expanse', u'part', u'playing period', u'hold', u'piece of writing', u'plane section', u'Cartesian coordinate', u'distance', u'conception', u'incision', u'aloofness', u'coat', u'situation', u'property', u'time period', u'menstruation', u'clip', u'attribute', u'continuance', u'influence', u'menstruum', u'surface', u'outstrip', u'leave behind', u'point in time', u'mold', u'historic period', u'regulate', u'end', u'punctuation', u'length', u'instance', u'change magnitude', u'squad', u'permanency', u'historical period', u'department', u'classify', u'play', u'separate', u'sizing', u'moment', u'discharge', u'segment', u'class', u'subdivision', u'surgical incision', u'interval', u'flow', u'portion', u'maintain', u'time', u'musical organization', u'dimension', u'quantity']
+2016-07-28 23:39:17,556 INFO     =====END FLAT LIST=====
+2016-07-28 23:39:17,556 INFO     Length of list is:
+2016-07-28 23:39:17,557 INFO     207
+2016-07-28 23:39:17,557 INFO     Length of setlist is:
+2016-07-28 23:39:17,557 INFO     148
+2016-07-28 23:39:17,557 INFO     ***************************
+2016-07-28 23:39:17,559 INFO     127.0.0.1 - - [28/Jul/2016 23:39:17] "POST /corpus/y HTTP/1.1" 200 -

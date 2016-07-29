@@ -1,0 +1,55 @@
+2016-07-28 23:35:25,590 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-28 23:35:25,590 INFO      * Restarting with stat
+2016-07-28 23:35:25,837 WARNING   * Debugger is active!
+2016-07-28 23:35:25,842 INFO      * Debugger pin code: 294-815-374
+2016-07-28 23:35:32,000 INFO     ***************************
+2016-07-28 23:35:32,000 INFO     List is in the following mongo collection:
+2016-07-28 23:35:32,000 INFO     coercion-corpus-only-syn-unq-order-1
+2016-07-28 23:35:32,009 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:35:32,144 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-28 23:35:32,144 INFO     [u'enforcement', u'causation', u'compulsion', u'causing']
+2016-07-28 23:35:32,144 INFO     =====END FLAT LIST=====
+2016-07-28 23:35:32,144 INFO     Length of list is:
+2016-07-28 23:35:32,144 INFO     4
+2016-07-28 23:35:32,144 INFO     Length of setlist is:
+2016-07-28 23:35:32,144 INFO     4
+2016-07-28 23:35:32,145 INFO     ***************************
+2016-07-28 23:35:32,145 INFO     ***************************
+2016-07-28 23:35:32,145 INFO     List is in the following mongo collection:
+2016-07-28 23:35:32,145 INFO     coercion-corpus-only-syn-unq-order-2
+2016-07-28 23:35:32,147 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:35:32,273 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:35:32,406 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:35:32,543 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:35:32,679 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-28 23:35:32,679 INFO     [u'obsession', u'social control', u'effort', u'irresistible impulse', u'irrational motive', u'irrational impulse', u'exploit', u'causing', u'coercion', u'deed', u'feat', u'causation']
+2016-07-28 23:35:32,680 INFO     =====END FLAT LIST=====
+2016-07-28 23:35:32,680 INFO     Length of list is:
+2016-07-28 23:35:32,680 INFO     18
+2016-07-28 23:35:32,680 INFO     Length of setlist is:
+2016-07-28 23:35:32,680 INFO     12
+2016-07-28 23:35:32,680 INFO     ***************************
+2016-07-28 23:35:32,681 INFO     ***************************
+2016-07-28 23:35:32,681 INFO     List is in the following mongo collection:
+2016-07-28 23:35:32,681 INFO     coercion-corpus-only-syn-unq-order-3
+2016-07-28 23:35:32,684 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:35:32,828 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:35:32,949 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:35:33,072 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:35:33,195 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:35:33,321 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:35:33,451 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:35:33,587 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:35:33,709 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:35:33,837 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:35:33,972 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:35:34,096 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:35:34,214 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-28 23:35:34,215 INFO     [u'motivation', u'work', u'endeavour', u'campaign', u'irrational impulse', u'causation', u'overwork', u'motive', u'exploit', u'apply', u'need', u'tap', u'endeavor', u'feat', u'deed', u'crusade', u'put to work', u'employ', u'use', u'title', u'official document', u'utilize', u'labor', u'instrument', u'causing', u'labour', u'legal instrument', u'compulsion', u'cause', u'movement', u'exertion', u'enforcement', u'travail', u'utilise', u'fixation', u'irrational motive', u'elbow grease', u'deed of conveyance', u'group action', u'effort', u'achievement', u'attempt', u'accomplishment', u'legal document', u'drive', u'try', u'sweat', u'venture', u'activity', u'toil', u'preoccupation']
+2016-07-28 23:35:34,215 INFO     =====END FLAT LIST=====
+2016-07-28 23:35:34,215 INFO     Length of list is:
+2016-07-28 23:35:34,215 INFO     78
+2016-07-28 23:35:34,215 INFO     Length of setlist is:
+2016-07-28 23:35:34,216 INFO     51
+2016-07-28 23:35:34,216 INFO     ***************************
+2016-07-28 23:35:34,217 INFO     127.0.0.1 - - [28/Jul/2016 23:35:34] "POST /corpus/y HTTP/1.1" 200 -

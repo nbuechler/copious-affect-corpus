@@ -1,0 +1,152 @@
+2016-07-28 23:34:04,691 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-28 23:34:04,691 INFO      * Restarting with stat
+2016-07-28 23:34:04,949 WARNING   * Debugger is active!
+2016-07-28 23:34:04,954 INFO      * Debugger pin code: 294-815-374
+2016-07-28 23:34:16,129 INFO     ***************************
+2016-07-28 23:34:16,129 INFO     List is in the following mongo collection:
+2016-07-28 23:34:16,129 INFO     familiarity-corpus-only-syn-unq-order-1
+2016-07-28 23:34:16,137 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:16,269 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-28 23:34:16,269 INFO     [u'information', u'acquaintance', u'conversancy', u'impropriety', u'misbehaviour', u'casualness', u'closeness', u'liberty', u'indecorum', u'misdeed', u'usualness', u'conversance', u'misbehavior', u'intimacy', u'friendliness', u'informality']
+2016-07-28 23:34:16,270 INFO     =====END FLAT LIST=====
+2016-07-28 23:34:16,270 INFO     Length of list is:
+2016-07-28 23:34:16,270 INFO     16
+2016-07-28 23:34:16,270 INFO     Length of setlist is:
+2016-07-28 23:34:16,270 INFO     16
+2016-07-28 23:34:16,270 INFO     ***************************
+2016-07-28 23:34:16,271 INFO     ***************************
+2016-07-28 23:34:16,271 INFO     List is in the following mongo collection:
+2016-07-28 23:34:16,271 INFO     familiarity-corpus-only-syn-unq-order-2
+2016-07-28 23:34:16,273 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:16,398 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:16,524 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:16,647 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:16,771 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:16,898 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:17,022 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:17,145 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:17,267 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:17,400 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:17,525 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:17,661 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:17,793 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:17,939 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:18,069 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:18,191 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:18,314 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-28 23:34:18,315 INFO     [u'affair', u'closeness', u'indecorum', u'entropy', u'misconduct', u'parsimony', u'parsimoniousness', u'knowledge', u'ease', u'indecorousness', u'misbehavior', u'wrongful conduct', u'informality', u'unsociability', u'someone', u'somebody', u'aggregation', u'condition', u'cognition', u'leave', u'friendliness', u'accumulation', u'assemblage', u'conversancy', u'demeanor', u'individual', u'conversance', u'liking', u'independency', u'acquaintance', u'familiarity', u'liberty', u'content', u'conduct', u'independence', u'demeanour', u'behaviour', u'disposition', u'substance', u'freedom', u'liaison', u'secretiveness', u'mortal', u'indecency', u'tightness', u'accusation', u'involvement', u'leave of absence', u'message', u'quality', u'improperness', u'impropriety', u'subject matter', u'niggardliness', u'sexual relationship', u'unsociableness', u'wrongdoing', u'friend', u'tightfistedness', u'relationship', u'commonplaceness', u'misdeed', u'temperament', u'personal manner', u'info', u'distance', u'misbehaviour', u'naturalness', u'soul', u'selective information', u'behavior', u'information measure', u'shore leave', u'minginess', u'stinginess', u'belonging', u'manner', u'accusal', u'amour', u'commonness', u'information', u'autonomy', u'meanness', u'nearness', u'everydayness', u'affaire', u'status', u'collection', u'niggardness', u'data', u'actus reus', u'person', u'deportment', u'stuffiness', u'intimacy', u'acquaintanceship', u'noesis']
+2016-07-28 23:34:18,315 INFO     =====END FLAT LIST=====
+2016-07-28 23:34:18,315 INFO     Length of list is:
+2016-07-28 23:34:18,315 INFO     136
+2016-07-28 23:34:18,315 INFO     Length of setlist is:
+2016-07-28 23:34:18,316 INFO     97
+2016-07-28 23:34:18,316 INFO     ***************************
+2016-07-28 23:34:18,316 INFO     ***************************
+2016-07-28 23:34:18,316 INFO     List is in the following mongo collection:
+2016-07-28 23:34:18,316 INFO     familiarity-corpus-only-syn-unq-order-3
+2016-07-28 23:34:18,319 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:18,455 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:18,582 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:18,714 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:18,842 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:18,968 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:19,094 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:19,221 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:19,346 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:19,471 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:19,594 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:19,722 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:19,856 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:19,983 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:20,109 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:20,239 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:20,362 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:20,486 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:20,610 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:20,744 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:20,870 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:21,001 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:21,128 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:21,249 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:21,371 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:21,490 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:21,621 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:21,744 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:21,867 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:22,001 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:22,123 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:22,244 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:22,365 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:22,487 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:22,614 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:22,736 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:22,863 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:23,001 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:23,127 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:23,252 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:23,382 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:23,505 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:23,631 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:23,757 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:23,877 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:24,004 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:24,132 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:24,251 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:24,374 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:24,496 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:24,620 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:24,753 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:24,891 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:25,022 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:25,146 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:25,271 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:25,398 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:25,524 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:25,648 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:25,769 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:25,893 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:26,015 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:26,138 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:26,259 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:26,380 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:26,516 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:26,642 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:26,767 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:26,894 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:27,019 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:27,143 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:27,267 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:27,391 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:27,513 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:27,654 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:27,776 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:27,900 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:28,029 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:28,159 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:28,304 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:28,431 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:28,556 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:28,679 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:28,803 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:28,928 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:29,051 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:29,178 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:29,303 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:29,429 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:29,552 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:29,677 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:29,800 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:29,920 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:30,044 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:30,168 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:30,290 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:30,416 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:34:30,536 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-28 23:34:30,536 INFO     [u'precondition', u'pass on', u'relieve', u'psyche', u'bequeath', u'entropy', u'go', u'adjustment', u'heart and soul', u'forget', u'increase', u'parsimoniousness', u'disposal', u'assuage', u'charge', u'social status', u'informality', u'unsociability', u'experimental condition', u'easiness', u'stipulate', u'group action', u'condition', u'randomness', u'level', u'psychological feature', u'leave', u'good health', u'friendliness', u'accumulation', u'assemblage', u'pull up stakes', u'direct', u'pass', u'inelegance', u'sum', u'associate', u'liberty', u'conduct', u'net', u'naiveness', u'self-sufficiency', u'evilness', u'satisfy', u'degree', u'component', u'victory', u'behaviour', u'chassis', u'relaxation', u'consideration', u'change', u'thrift', u'beastliness', u'substance', u'exemption', u'leaving', u'action', u'bod', u'tightness', u'misdemean', u'manage', u'time interval', u'circumscribe', u'asseveration', u'subject matter', u'give', u'means', u'step-up', u'affluence', u'tell', u'sort', u'afford', u'trait', u'refrain', u'healthiness', u'train', u'hold', u'effort', u'cognitive content', u'soul', u'sound property', u'get out', u'aloofness', u'learn', u'carry on', u'heart', u'figure', u'do', u'process', u'attribute', u'stinginess', u'belonging', u'net profit', u'want', u'admirer', u'commonness', u'information', u'autonomy', u'embodiment', u'provide', u'emotionalism', u'travel', u'nearness', u'length', u'stodginess', u'malevolency', u'earnings', u'simplicity', u'raunch', u'casualness', u'act', u'collection', u'normalcy', u'produce', u'curiosity', u'marrow', u'data', u'inactivity', u'actus reus', u'emotionality', u'departure', u'malevolence', u'maintain', u'allow', u'naivete', u'stuffiness', u'acquaintanceship', u'comfort', u'frugalness', u'help', u'going away', u'essence', u'move', u'closeness', u'comfortableness', u'misconduct', u'still', u'tendency', u'style', u'normality', u'group', u'solace', u'better', u'wrongful conduct', u'immovability', u'naivety', u'forbear', u'someone', u'somebody', u'richness', u'accrual', u'sombreness', u'gospel singing', u'term', u'likeness', u'meat', u'cognition', u'component part', u'misbehave', u'idea', u'mundanity', u'deficiency', u'farewell', u'undertake', u'ameliorate', u'allay', u'independency', u'involution', u'profit', u'content', u'make grow', u'spacing', u'ingenuousness', u'impart', u'cause', u'independence', u'sobriety', u'circumstance', u'social rank', u'time off', u'qualify', u'net income', u'execute', u'disposition', u'teach', u'care', u'keep', u'thing', u'liaison', u'triumph', u'secretiveness', u'mortal', u'facilitate', u'info', u'grammatical category', u'kernel', u'grade', u'physical property', u'rank', u'instruct', u'leave of absence', u'carry', u'message', u'quality', u'size', u'city', u'management', u'publication', u'niggardliness', u'engagement', u'system', u'accretion', u'unsociableness', u'statement', u'grossness', u'friend', u'similitude', u'mishandle', u'relationship', u'malice', u'assumption', u'part', u'personal manner', u'specify', u'distance', u'kind', u'allow for', u'go forth', u'shampoo', u'social event', u'selective information', u'outstrip', u'feeling', u'collecting', u'gathering', u'fashion', u'generality', u'tautness', u'minginess', u'manner', u'have', u'concentration', u'Christian', u'soberness', u'everydayness', u'gravity', u'take', u'increment', u'affaire', u'mental attitude', u'subject', u'channel', u'caliber', u'lucre', u'expectedness', u'reach', u'anatomy', u'turn over', u'niggardness', u'parting', u'exponent', u'stringency', u'request', u'deportment', u'occasion', u'kinship', u'organism', u'affair', u'indecorum', u'African-American music', u'bring', u'readjustment', u'relation', u'parsimony', u'feat', u'supporter', u'Independence', u'acquit', u'knowledge', u'proportion', u'assertion', u'going', u'black music', u'indifference', u'gratify', u'handle', u'get', u'capital', u'bear', u'vulgarism', u'repose', u'somberness', u'appeal', u'attitude', u'yield', u'activity', u'gospel', u'frugality', u'conversancy', u'frame', u'stipulation', u'naturalness', u'doings', u'individual', u'result', u'conversance', u'nub', u'concern', u'human relationship', u'capacity', u'lack', u'matter', u'familiarity', u'state', u'limit', u'premiss', u'inter-group communication', u'nature', u'social group', u'lineament', u'S', u'premise', u'improve', u'averment', u'region', u'contract', u'pith', u'connection', u'give rise', u'tone', u'point', u'communication channel', u'congestion', u'wonder', u'accruement', u'alikeness', u'exploit', u'connexion', u'simpleness', u'acceptance', u'mismanage', u'sexual relationship', u'outdistance', u'interest', u'soulfulness', u'social function', u'direction', u'tightfistedness', u'gist', u'mundaneness', u'locomote', u'temperament', u'deport', u'spirit', u'present', u'amend', u'material body', u'will', u'compactness', u'behavior', u'error', u'aid', u'property', u'guide', u'procedure', u'shore leave', u'palliate', u'bring about', u'metric', u'comport', u'accusal', u'amour', u'point in time', u'develop', u'perform', u'make', u'connectedness', u'unsusceptibility', u'status', u'physical entity', u'assist', u'evil', u'hand', u'postulation', u'booster', u'compendium', u'center', u'timbre', u'thought', u'person', u'contact', u'relief', u'alleviate', u'position', u'inwardness', u'dimension', u'noesis', u'assembling', u'flesh', u'being', u'physique', u'rest', u'shape', u'depart', u'happiness', u'timber', u'discipline', u'console', u'density', u'ease', u'character', u'calibre', u'indecorousness', u'ordinariness', u'artlessness', u'immovableness', u'build', u'physical body', u'complaint', u'graveness', u'spatial arrangement', u'advocate', u'aggregation', u'transmit', u'secrecy', u'coarseness', u'accusation', u'proponent', u'gift', u'uncommunicativeness', u'contentedness', u'lose', u'family relationship', u'go out', u'grouping', u'deal', u'nitty-gritty', u'demeanor', u'growth', u'convey', u'liking', u'Friend', u'self-direction', u'acquaintance', u'denseness', u'lead', u'behave', u'exit', u'human body', u'participation', u'inclination', u'syntactic category', u'core', u'metropolis', u'assembly', u'penny-pinching', u'champion', u'communicate', u'mental object', u'protagonist', u'innocence', u'misdeed', u'leave alone', u'hookup', u'freedom', u'social occasion', u'leave-taking', u'urban center', u'go away', u'permission', u'silence', u'indecency', u'misbehavior', u'communication', u'vulgarity', u'social station', u'involvement', u'registration', u'improperness', u'demeanour', u'usualness', u'soma', u'wrongdoing', u'function', u'form', u'volume', u'link', u'line', u'advocator', u'causal agency', u'commonality', u'misbehaviour', u'meliorate', u'depicted object', u'information measure', u'interval', u'impropriety', u'mode', u'soothe', u'leave behind', u'put across', u'deed', u'petition', u'check', u'constriction', u'solicitation', u'variety', u'way', u'meanness', u'activeness', u'confine', u'self-reliance', u'immunity', u'system of measurement', u'pass along', u'ingathering', u'meaning', u'commonplaceness', u'entrust', u'ally', u'causal agent', u'space', u'Quaker', u'portion', u'intimacy', u'profits']
+2016-07-28 23:34:30,536 INFO     =====END FLAT LIST=====
+2016-07-28 23:34:30,536 INFO     Length of list is:
+2016-07-28 23:34:30,536 INFO     985
+2016-07-28 23:34:30,537 INFO     Length of setlist is:
+2016-07-28 23:34:30,537 INFO     527
+2016-07-28 23:34:30,537 INFO     ***************************
+2016-07-28 23:34:30,537 INFO     127.0.0.1 - - [28/Jul/2016 23:34:30] "POST /corpus/y HTTP/1.1" 200 -

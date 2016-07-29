@@ -1,0 +1,88 @@
+2016-07-28 23:41:08,910 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-28 23:41:08,911 INFO      * Restarting with stat
+2016-07-28 23:41:09,161 WARNING   * Debugger is active!
+2016-07-28 23:41:09,167 INFO      * Debugger pin code: 294-815-374
+2016-07-28 23:41:17,266 INFO     ***************************
+2016-07-28 23:41:17,266 INFO     List is in the following mongo collection:
+2016-07-28 23:41:17,266 INFO     exhaustion-corpus-only-syn-unq-order-1
+2016-07-28 23:41:17,274 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:17,404 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-28 23:41:17,405 INFO     [u'debilitation', u'weakening', u'enfeeblement', u'weariness', u'depletion', u'fatigue', u'tiredness', u'enervation']
+2016-07-28 23:41:17,405 INFO     =====END FLAT LIST=====
+2016-07-28 23:41:17,405 INFO     Length of list is:
+2016-07-28 23:41:17,405 INFO     8
+2016-07-28 23:41:17,405 INFO     Length of setlist is:
+2016-07-28 23:41:17,405 INFO     8
+2016-07-28 23:41:17,406 INFO     ***************************
+2016-07-28 23:41:17,406 INFO     ***************************
+2016-07-28 23:41:17,406 INFO     List is in the following mongo collection:
+2016-07-28 23:41:17,406 INFO     exhaustion-corpus-only-syn-unq-order-2
+2016-07-28 23:41:17,408 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:17,542 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:17,683 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:17,805 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:17,935 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:18,062 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:18,192 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:18,320 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:18,438 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-28 23:41:18,439 INFO     [u'failing', u'degenerate', u'step-down', u'jade', u'weariness', u'fag out', u'decrease', u'pall', u'tiredness', u'wear out', u'wear upon', u'fatigue duty', u'tire', u'indispose', u'fag', u'reduction', u'weakening', u'weakness', u'outwear', u'enervation', u'transformation', u'transmutation', u'deteriorate', u'tedium', u'assignment', u'ennui', u'weary', u'fatigue', u'wear', u'diminution', u'wear down', u'debilitation', u'enfeeblement', u'shift', u'drop', u'temporary state', u'duty assignment', u'exhaustion', u'tire out', u'devolve', u'boredom']
+2016-07-28 23:41:18,439 INFO     =====END FLAT LIST=====
+2016-07-28 23:41:18,439 INFO     Length of list is:
+2016-07-28 23:41:18,439 INFO     59
+2016-07-28 23:41:18,439 INFO     Length of setlist is:
+2016-07-28 23:41:18,439 INFO     41
+2016-07-28 23:41:18,439 INFO     ***************************
+2016-07-28 23:41:18,440 INFO     ***************************
+2016-07-28 23:41:18,440 INFO     List is in the following mongo collection:
+2016-07-28 23:41:18,440 INFO     exhaustion-corpus-only-syn-unq-order-3
+2016-07-28 23:41:18,441 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:18,568 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:18,690 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:18,816 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:18,939 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:19,073 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:19,208 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:19,340 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:19,476 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:19,608 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:19,735 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:19,855 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:19,980 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:20,118 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:20,242 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:20,378 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:20,515 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:20,648 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:20,769 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:20,905 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:21,026 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:21,147 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:21,270 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:21,393 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:21,518 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:21,642 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:21,766 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:21,891 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:22,034 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:22,156 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:22,281 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:22,406 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:22,527 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:22,651 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:22,773 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:22,897 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:23,016 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:23,132 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:23,256 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:23,383 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:23,513 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-28 23:41:23,635 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-28 23:41:23,636 INFO     [u'pervert', u'weariness', u'drop-off', u'fag out', u'shimmy', u'gang', u'grammatical rule', u'play out', u'weakening', u'appointment', u'terminate', u'shake off', u'free fall', u'fall', u'cut down', u'fag', u'geological formation', u'die', u'dig', u'intimidate', u'duty period', u'delegate', u'depository', u'outdo', u'disqualify', u'dip', u'work', u'coffin nail', u'give notice', u'queer', u'agitate', u'viridity', u'do work', u'pass', u'wear out', u'scissure', u'substitute', u'scare off', u'worsen', u'roll of tobacco', u'lurch', u'verbalize', u'greenness', u'set down', u'movement', u'tiresomeness', u'modify', u'hours', u'sink', u'change', u'shift', u'amount', u'verbalise', u'smoke', u'formation', u'wear down', u'delapidate', u'throw off', u'miscreant', u'hiding place', u'replace', u'decrease', u'work shift', u'surmount', u'decrement', u'depute', u'impotency', u'indispose', u'dangle', u'lessening', u'pearl', u'shirtlifter', u'type', u'impotence', u'cerement', u'loose woman', u'moil', u'burial garment', u'pour', u'human action', u'can', u'pouf', u'omit', u'degenerate', u'fall apart', u'process', u'sphere', u'slip', u'designate', u'dress', u'weaken', u'clothing', u'feature', u'sate', u'trollop', u'legal instrument', u'stir', u'drapery', u'deteriorate', u'rule of grammar', u'attend', u'fatigue', u'work party', u'give up', u'replete', u'reposition', u'drape', u'driblet', u'nance', u'change of integrity', u'budge', u'switch', u'green', u'dread', u'deterioration', u'tilt', u'neglect', u'move', u'pitch', u'transferred possession', u'go down', u'fissure', u'decay', u'imperfection', u'labor', u'frighten away', u'restrain', u'alter', u'deviant', u'return', u'drop down', u'weakness', u'break', u'consumer goods', u'designation', u'jade green', u'become flat', u'duty assignment', u'strike down', u'predilection', u'fairy', u'impuissance', u'displacement', u'naming', u'give the sack', u'misfortune', u'article of clothing', u'official document', u'small indefinite amount', u'cut', u'faulting', u'wear thin', u'small indefinite quantity', u'motion', u'swing', u'devolve', u'scare', u'blind', u'force out', u'hoop', u'sack', u'deplete', u'lay off', u'ring', u'miss', u'cigaret', u'horse', u'send away', u'scare away', u'statement', u'daunt', u'reprobate', u'travail', u'get into', u'vesture', u'serve', u'transubstantiation', u'crevice', u'boredom', u'butt', u'diminish', u'translation', u'frock', u'legal document', u'project', u'endure', u'opaque gem', u'get dressed', u'dash', u'have', u'sap', u'put on', u'run down', u'conversion', u'imperfectness', u'change magnitude', u'labour', u'take', u'fracture', u'cleft', u'enervation', u'impairment', u'switching', u'deposit', u'change owners', u'send packing', u'ennui', u'cigarette', u'don', u'shroud', u'lose', u'cover', u'temporary state', u'drib', u'queen', u'throw away', u'give tongue to', u'tiredness', u'hack', u'utter', u'typewrite', u'tire', u'eat up', u'bust', u'dull', u'outwear', u'dullness', u'wearing', u'express', u'stop', u'bear', u'bead', u'enfeeblement', u'covering', u'outperform', u'alteration', u'remove', u'knock off', u'disincline', u'wipe out', u'jade', u'dislodge', u'unfit', u'fatigue duty', u'gravitation', u'wearable', u'state', u'tyre', u'satiate', u'use up', u'screen', u'deliver', u'weary', u'pretermit', u'wear', u'key', u'diminution', u'faggot', u'reaction', u'last', u'fault', u'give the axe', u'careen', u'tediousness', u'tire out', u'flunk', u'duty', u'consume', u'human activity', u'hussy', u'crew', u'assign', u'shift key', u'decline', u'teddy', u'simplification', u'gay man', u'overlook', u'have on', u'reduction', u'curtain', u'wobble', u'exhaustion', u'minify', u'fire', u'dismiss', u'chemical reaction', u'determination', u'assigning', u'dribble', u'chill', u'apprehension', u'lessen', u'cast', u'bad luck', u'property', u'adulterer', u'wear off', u'physical process', u'outstrip', u'step-down', u'run through', u'winding-clothes', u'attend to', u'wait on', u'regulate', u'descent', u'grant', u'pay', u'undergarment', u'descend', u'modification', u'leave out', u'powerlessness', u'exhaust', u'tough luck', u'assignment', u'assist', u'hang', u'change posture', u'transferred property', u'expend', u'task', u'wane', u'failing', u'drip', u'grind', u'withdraw', u'toil', u'spend', u'fornicator', u'take away', u'ill luck', u'shape', u'cease', u'surpass', u'cloy', u'wear upon', u'penchant', u'instrument', u'drop off', u'crack', u'transformation', u'drop curtain', u'drop cloth', u'discontinue', u'displace', u'preference', u'birth', u'put down', u'fagot', u'come down', u'depositary', u'undertaking', u'fornicatress', u'exceed', u'drop', u'unmentionable', u'change over', u'change of magnitude', u'pall', u'bore', u'cast off', u'geological fault', u'helplessness', u'decision', u'depletion', u'outgo', u'drudge', u'transmutation', u'repository', u'quit', u'hold out', u'slut', u'shifting', u'mathematical function', u'throw', u'plug', u'jadestone', u'act', u'strumpet', u'mantle', u'shed', u'dissatisfaction', u'furnishing', u'determine', u'apprehensiveness', u'reducing', u'poove', u'transfer', u'outmatch', u'function', u'Equus caballus', u'failure', u'debilitation', u'eat', u'pansy', u'distribution', u'flatten', u'habiliment', u'taste', u'influence', u'crumble', u'mold', u'fill', u'nag', u'change hands', u'chemise', u'frighten off', u'deviate', u'conclusion', u'tedium', u'fell', u'poof', u'discharge', u'cliff', u'adulteress', u'unload', u'assume', u'winding-sheet', u'overleap', u'give birth']
+2016-07-28 23:41:23,636 INFO     =====END FLAT LIST=====
+2016-07-28 23:41:23,636 INFO     Length of list is:
+2016-07-28 23:41:23,636 INFO     718
+2016-07-28 23:41:23,636 INFO     Length of setlist is:
+2016-07-28 23:41:23,636 INFO     422
+2016-07-28 23:41:23,636 INFO     ***************************
+2016-07-28 23:41:23,637 INFO     127.0.0.1 - - [28/Jul/2016 23:41:23] "POST /corpus/y HTTP/1.1" 200 -
