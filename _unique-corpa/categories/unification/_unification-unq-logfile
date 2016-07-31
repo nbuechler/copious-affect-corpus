@@ -1,0 +1,179 @@
+2016-07-30 23:24:51,333 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-30 23:24:51,335 INFO      * Restarting with stat
+2016-07-30 23:24:51,596 WARNING   * Debugger is active!
+2016-07-30 23:24:51,602 INFO      * Debugger pin code: 294-815-374
+2016-07-30 23:25:47,914 INFO     ***************************
+2016-07-30 23:25:47,914 INFO     List is in the following mongo collection:
+2016-07-30 23:25:47,914 INFO     unification-corpus-only-syn-unq-order-1
+2016-07-30 23:25:47,924 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:48,081 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-30 23:25:48,081 INFO     [u'combination', u'uniting', u'merger', u'state', u'conjugation', u'union', u'fusion', u'jointure', u'combining', u'compounding']
+2016-07-30 23:25:48,081 INFO     =====END FLAT LIST=====
+2016-07-30 23:25:48,081 INFO     Length of list is:
+2016-07-30 23:25:48,081 INFO     10
+2016-07-30 23:25:48,081 INFO     Length of setlist is:
+2016-07-30 23:25:48,082 INFO     10
+2016-07-30 23:25:48,082 INFO     ***************************
+2016-07-30 23:25:48,082 INFO     ***************************
+2016-07-30 23:25:48,082 INFO     List is in the following mongo collection:
+2016-07-30 23:25:48,082 INFO     unification-corpus-only-syn-unq-order-2
+2016-07-30 23:25:48,084 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:48,230 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:48,368 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:48,524 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:48,659 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:48,785 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:48,937 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:49,063 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:49,209 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:49,350 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:49,480 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-30 23:25:49,480 INFO     [u'Union', u'nuclear reaction', u'give tongue to', u'utter', u'alignment', u'sexual practice', u'amalgamation', u'merger', u'organisation', u'inflection', u'conjugation', u'combine', u'junction', u'combination', u'government', u'trade union', u'propose', u'express', u'aggregation', u'nation', u'sexual activity', u'unification', u'jointure', u'state of matter', u'conjunction', u'visual perception', u'compounding', u'the States', u'accumulation', u'assemblage', u'commonwealth', u'set', u'labor union', u'sequence', u'sex', u'State', u'combining', u'operation', u'category', u'wedlock', u'sum', u'State Department', u'United States of America', u'integration', u'optical fusion', u'verbalize', u'state', u'spousal relationship', u'political entity', u'social unit', u'America', u'refer', u'U.S.', u'nuclear fusion reaction', u'United States Department of State', u'United States', u'linguistic process', u'healing', u'nuclear fusion', u'alinement', u'administrative district', u'emotional state', u'country', u'political unit', u'US', u'verbalise', u'change of integrity', u'beholding', u'seeing', u'alliance', u'family', u'brotherhood', u'conglutination', u'device', u'body politic', u'spinal fusion', u'unit', u'occurrence', u'North', u'estate', u'union', u'pairing', u'submit', u'uniting', u'tell', u'inflexion', u'denote', u'spirit', u'happening', u'join', u'organization', u'colligation', u'executive department', u'coalition', u'legal jointure', u'chemical phenomenon', u'mathematical operation', u'territorial division', u'marriage', u'posit', u'res publica', u'natural event', u'matrimony', u'USA', u'attribute', u'correction', u'mathematical process', u'say', u'regime', u'put forward', u'suggest', u'marital status', u'advise', u'Department of State', u'sexual union', u'province', u'collection', u'consolidation', u'occurrent', u'sex activity', u'authorities', u'class', u'land', u'coupling', u'administrative division', u'U.S.A.', u'fusion', u'trades union', u'DoS', u'mating']
+2016-07-30 23:25:49,481 INFO     =====END FLAT LIST=====
+2016-07-30 23:25:49,481 INFO     Length of list is:
+2016-07-30 23:25:49,481 INFO     183
+2016-07-30 23:25:49,481 INFO     Length of setlist is:
+2016-07-30 23:25:49,481 INFO     130
+2016-07-30 23:25:49,481 INFO     ***************************
+2016-07-30 23:25:49,481 INFO     ***************************
+2016-07-30 23:25:49,481 INFO     List is in the following mongo collection:
+2016-07-30 23:25:49,481 INFO     unification-corpus-only-syn-unq-order-3
+2016-07-30 23:25:49,483 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:49,615 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:49,738 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:49,859 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:49,989 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:50,109 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:50,232 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:50,353 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:50,478 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:50,608 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:50,729 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:50,863 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:50,987 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:51,108 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:51,234 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:51,359 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:51,495 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:51,623 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:51,749 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:51,881 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:52,009 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:52,135 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:52,258 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:52,386 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:52,513 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:52,663 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:52,787 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:52,914 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:53,042 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:53,168 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:53,291 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:53,423 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:53,541 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:53,692 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:53,822 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:53,960 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:54,093 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:54,222 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:54,346 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:54,474 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:54,597 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:54,719 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:54,850 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:54,985 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:55,115 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:55,251 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:55,378 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:55,509 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:55,656 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:55,786 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:55,907 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:56,030 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:56,159 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:56,285 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:56,408 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:56,533 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:56,658 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:56,789 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:56,915 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:57,044 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:57,164 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:57,290 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:57,427 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:57,552 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:57,674 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:57,802 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:57,924 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:58,055 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:58,181 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:58,322 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:58,459 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:58,580 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:58,704 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:58,842 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:58,964 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:59,097 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:59,231 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:59,351 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:59,473 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:59,595 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:59,717 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:59,839 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:25:59,965 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:00,092 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:00,214 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:00,351 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:00,487 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:00,626 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:00,750 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:00,874 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:00,995 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:01,118 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:01,244 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:01,368 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:01,496 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:01,619 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:01,742 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:01,870 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:01,999 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:02,129 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:02,267 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:02,443 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:02,571 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:02,695 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:02,817 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:02,946 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:03,093 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:03,227 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:03,373 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:03,500 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:03,631 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:03,783 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:03,913 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:04,042 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:04,165 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:04,293 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:04,420 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:04,548 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:04,677 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:04,805 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:04,934 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:05,061 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:05,183 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:05,315 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:05,459 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:05,591 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:05,721 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:05,842 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:05,975 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:06,097 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:26:06,219 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-30 23:26:06,220 INFO     [u'limited', u'concept', u'evidence', u'pass on', u'represent', u'recount', u'kindred', u'proposition', u'notify', u'computation', u'impute', u'adjustment', u'physical exertion', u'pedagogy', u'heart and soul', u'function word', u'content', u'sexual practice', u'compose', u'amalgamation', u'disposal', u'swan', u'send', u'conjure up', u'program', u'concretion', u'give notice', u'ambience', u'teaching', u'U.S. government', u'line of descent', u'federation', u'ingathering', u'consolidation', u'rebuke', u'sexual activity', u'material possession', u'group action', u'fall', u'conception', u'difference', u'bring down', u'encounter', u'arrange', u'marrow', u'indicate', u'gender', u'readjustment', u'adjust', u'sum of money', u'succession', u'relation', u'inclination', u'friendliness', u'accumulation', u'assemblage', u'programme', u'intercommunicate', u'hardening', u'occurrence', u'core', u'reprehension', u'set up', u'due north', u'direct', u'maintain', u'rate', u'fiber', u'US Government', u'earth', u'buckle under', u'cartel', u'prosody', u'folk', u'constitution', u'administrative division', u'sum', u'United States of America', u'territorial division', u'verbalize', u'political entity', u'conduct', u'net', u'America', u'free fall', u'succumb', u'meld', u'body', u'transportation', u'menage', u'landed estate', u'nuclear fusion reaction', u'commercial activity', u'social group', u'United States Department of State', u'enunciate', u'acquit', u'healing', u'kinsfolk', u'geographic region', u'bring up', u'episode', u'change', u'dry', u'convert', u'substance', u'division', u'administrative district', u'pop the question', u'bow', u'sexual urge', u'social control', u'amount', u'verbalise', u'procedure', u'farming', u'conjunctive', u'action', u'formation', u'punishment', u'nuclear reaction', u'call forth', u'family', u'defer', u'immix', u'kinfolk', u'rede', u'U. S. Army', u'summation', u'apply', u'gimmick', u'total', u'establish', u'set ashore', u'select', u'belongings', u'figure', u'enliven', u'medical procedure', u'governance', u'connector', u'coalesce', u'manoeuvre', u'narrate', u'totality', u'coiffure', u'closed-class word', u'tell', u'stomach', u'sort', u'Land', u'solid ground', u'impress', u'call down', u'knuckle under', u'stick', u'data processing', u'realty', u'cognitive content', u'gear up', u'join', u'bowman', u'integrating', u'work', u'coalition', u'reproduce', u'archer', u'res publica', u'territorial dominion', u'arrive', u'heart', u'bent', u'estate', u'give', u'process', u'attribute', u'household', u'supernatural being', u'accept', u'sacrament', u'sphere', u'net profit', u'mechanical device', u'shipping', u'stage set', u'dress', u'secern', u'stick out', u'sound out', u'democracy', u'thing', u'verify', u'feature', u'natural object', u'arrangement', u'sic', u'swear', u'functioning', u'earnings', u'visual modality', u'significance', u'establishment', u'countersink', u'sexual union', u'find out', u'plant', u'abstraction', u'modulation', u'spot', u'collection', u'gangdom', u'lay', u'political science', u'sex activity', u'bodily function', u'summarize', u'curing', u'readiness', u'solon', u'imply', u'talk over', u'labor union', u'U.S.A.', u'register', u'departure', u'solidifying', u'think', u'inform', u'shore', u'reaper', u'responsibility', u'deposit', u'lay out', u'presuppose', u'order', u'talk', u'origin', u'cognitive state', u'social science', u'office', u'tribe', u'essence', u'concurrence', u'move', u'crime syndicate', u'magnetic north', u'severalise', u'brio', u'electronic equipment', u'shake', u'equip', u'discoverer', u'suffer', u'change integrity', u'tendency', u'go down', u'style', u'physical object', u'group', u'fit', u'organisation', u'brook', u'social class', u'conjugation', u'acres', u'feel', u'government agency', u'choose', u'mail', u'drive home', u'alter', u'petition', u'connectedness', u'tote up', u'junction', u'combination', u'articulation', u'propose', u'workout', u'accrual', u'invigoration', u'nation', u'band', u'chemical phenomenon', u'compound', u'speculate', u'discuss', u'association', u'lineage', u'conglutination', u'kinship group', u'meat', u'Second Earl of Guilford', u'stir', u'component part', u'drop', u'merge', u'component', u'classify', u'touch on', u'stock', u'surgical process', u'mean', u'commonwealth', u'domain', u'tot', u'series', u'ambiance', u'co-occurrence', u'global organization', u'line', u'vital principle', u'asseverate', u'line of work', u'connect', u'combining', u'operation', u'state of mind', u'extract', u'event', u'jell', u'category', u'geographical region', u'gangland', u'shoot down', u'wedlock', u'profit', u'State Department', u'abide', u'research', u'increase', u'fellowship', u'federal government', u'dominion', u'impart', u'print', u'compounding', u'correct', u'maneuver', u'perception', u'coalescency', u'come to', u'ascertain', u'divergence', u'governing', u'United States', u'support', u'ancestry', u'net income', u'disposition', u'put', u'region', u'estimate', u'beginning', u'step-up', u'legal status', u'temporal arrangement', u'language', u'emotional state', u'pass judgment', u'ritual', u'positioning', u'course of study', u'initiate', u'postulation', u'place', u'reproval', u'undergo', u'change of integrity', u'kin', u'emotion', u'pairing', u'set on', u'render', u'purport', u'grade', u'relate', u'surgical procedure', u'number', u'rank', u'juncture', u'amount of money', u'look up', u'submit', u'enumerate', u'carry', u'categorize', u'United States government', u'shake up', u'organized crime', u'guess', u'North', u'publication', u'district', u'uniting', u'international organisation', u'interact', u'system', u'body politic', u'immovable', u'attack', u'accretion', u'flection', u'aver', u'postulate', u'assort', u'legal jointure', u'circulate', u'lay down', u'assign', u'form of government', u'relationship', u'period of play', u'acquire', u'Army', u'spiritedness', u'inflexion', u'differentiate', u'consult', u'government department', u'expressive style', u'specify', u'inventor', u'kick in', u'Set', u'artificer', u'nominate', u'instruction', u'State', u'penalization', u'cite', u'project', u'mathematical operation', u'marriage', u'rural area', u'posit', u'design', u'natural process', u'declare', u'collecting', u'gathering', u'look', u'correction', u'enjoin', u'mathematical process', u'put up', u'say', u'liven up', u'have', u'emblem', u'unit of measurement', u'tell apart', u'instrumentation', u'put forward', u'realm', u'severalize', u'chronological succession', u'consortium', u'elegance', u'mix', u'governing body', u'take', u'physiological property', u'neaten', u'performance', u'subject', u'simultaneity', u'give in', u'province', u'connecter', u'world organization', u'lucre', u'taxonomic category', u'object', u'arena', u'assault', u'declare oneself', u'mouth', u'plan', u'inspirit', u'organization', u'device', u'allege', u'class', u'fudge factor', u'placement', u'request', u'penalisation', u'typeset', u'part', u'kinship', u'blend', u'confederation', u'joining', u'atmosphere', u'higher cognitive process', u'show', u'Union', u'add together', u'bring', u'give tongue to', u'gauge', u'married couple', u'exercise set', u'utter', u'find', u'ground', u'fibre', u'editing', u'knowledge', u'merger', u'inflection', u'add up', u'penalty', u'sodality', u'spiritual being', u'announce', u'circle', u'orderliness', u'Septentrion', u'do', u'think of', u'invoke', u'get', u'occupation', u'coiffe', u'express', u'regimen', u'bear', u'joint', u'wedding', u'operating system', u'conjunction', u'rite', u'reveal', u'appeal', u'course', u'set down', u'coalescence', u'the States', u'yield', u'geographic area', u'federal department', u'exercise', u'tot up', u'activity', u'methodicalness', u'tactical maneuver', u'vision', u'locating', u'life principle', u'kernel', u'set', u'beholding', u'continuative', u'sex', u'relative', u'arouse', u'reconcile', u'desegregation', u'surgery', u'nub', u'flavor', u'concern', u'North American country', u'accede', u'pedigree', u'government activity', u'down', u'pattern', u'connective', u'cardinal compass point', u'categorise', u'state', u'spousal relationship', u'bureau', u'phratry', u'import', u'social unit', u'Frederick North', u'counsel', u'get together', u'endure', u'emplacement', u'Din Land', u'accord', u'avow', u'modify', u'U.S.', u'conjoin', u'chip in', u'outfit', u'paint a picture', u'dip', u'job', u'relegate', u'distinguish', u'come', u'league', u'alinement', u'feeling', u'chastening', u'country', u'pertain', u'matrimony', u'linguistic process', u'emit', u'pith', u'connection', u'fraternity', u'instrumentality', u'whole', u'fix', u'sink', u'eyesight', u'tone', u'terra firma', u'coincidence', u'temporal order', u'spinal fusion', u'trust', u'connexion', u'speak', u'conference', u'raise', u'fructify', u'union', u'have in mind', u'create', u'topographic point', u'mark', u'advert', u'Carry Nation', u'photographic film', u'meeting', u'nuclear fusion', u'direction', u'contribute', u'sprightliness', u'adjunction', u'conflate', u'system of rules', u'liven', u'excite', u'United States Army', u'N', u'assert', u'reproof', u'ordering', u'playing period', u'pass around', u'deport', u'repetition', u'spirit', u'present', u'pact', u'national leader', u'unify', u'stand', u'redaction', u'affirm', u'invigorate', u'originate', u'tolerate', u'optical fusion', u'aim', u'physical exercise', u'sexuality', u'suppose', u'family line', u'industrialist', u'property', u'solidification', u'natural event', u'enounce', u'liveliness', u'chronological sequence', u'physical process', u'increment', u'building block', u'soil', u'blood', u'disk operating system', u'comport', u'business activity', u'coupler', u'visual sense', u'northland', u'bring together', u'simultaneousness', u'ready', u'rig', u'Tell', u'hone', u'northward', u'education', u'descent', u'assure', u'suggest', u'make', u'surgical operation', u'administration', u'human process', u'unite', u'Nation', u'read', u'sightedness', u'speech', u'descend', u'successiveness', u'world organisation', u'advise', u'infer', u'summate', u'let loose', u'calculation', u'DoS', u'Seth', u'spirit up', u'displace', u'occurrent', u'fuse', u'cognitive operation', u'purpose', u'pick out', u'aggregate', u'opportunity', u'turn on', u'compendium', u'center', u'mention', u'department of the federal government', u'cognitive process', u'chastisement', u'agency', u'trades union', u'marital status', u'hash out', u'tactical manoeuvre', u'position', u'inwardness', u'dimension', u'noesis', u'stemma', u'Edwin Herbert Land', u'assembling', u'mingle', u'dry land', u'distribute', u'apprise', u'amalgamate', u'evince', u'identify', u'touch', u'localize', u'real property', u'political system', u'alignment', u'discipline', u'hint', u'character', u'exercising', u'improvement', u'add', u'animation', u'combine', u'location', u'stimulate', u'federal office', u'link up', u'congeal', u'real estate', u'confederacy', u'designate', u'kingdom', u'clan', u'holding', u'government', u'trade union', u'evaluate', u'grammatical relation', u'aggregation', u'fusion', u'unification', u'jointure', u'judge', u'mob', u'state of matter', u'accruement', u'visual perception', u'put down', u'name', u'sort out', u'geographical area', u'vivification', u'gift', u'compass north', u'wind up', u'military operation', u'corporate trust', u'flux', u'come down', u'cognition', u'Carry Amelia Moore Nation', u'family relationship', u'OS', u'summarise', u'grouping', u'representation', u'gist', u'people', u'nitty-gritty', u'pronounce', u'play', u'authority', u'sum total', u'growth', u'convey', u'North American nation', u'home', u'digest', u'transport', u'course of instruction', u'apprize', u'public transport', u'go under', u'integration', u'evoke', u'William Tell', u'family unit', u'definite quantity', u'behave', u'unit', u'socio-economic class', u'situate', u'natural action', u'refer', u'secernate', u'assembly', u'business', u'intimate', u'pose', u'communicate', u'mental object', u'fall in', u'yoke', u'post', u'bury', u'mental process', u'stage', u'blood line', u'marriage ceremony', u'hookup', u'political unit', u'let out', u'taxon', u'US', u'body process', u'localise', u'coif', u'commix', u'prohibitionist', u'bond', u'sept', u'seeing', u'alliance', u'bodily process', u'put in', u'presence', u'rectification', u'year', u'articulate', u'recite', u'kinsperson', u'multiply', u'Uzbekistani monetary unit', u'bloodline', u'determine', u'registration', u'range', u'numerate', u'parentage', u'prepare', u'area', u'construct', u'sequence', u'approximate', u'manner of speaking', u'start', u'solidify', u'structure', u'lot', u'house', u'press out', u'form', u'offer', u'tally', u'Egyptian deity', u'delivery', u'didactics', u'statesman', u'link', u'send word', u'syndicate', u'assail', u'sum up', u'assets', u'happening', u'count', u'disembodied spirit', u'territory', u'flavour', u'denominate', u'harvester', u'colligation', u'executive department', u'record', u'limit', u'reprimand', u'deliver', u'display', u'taxonomic group', u'indefinite quantity', u'educational activity', u'sight', u'USA', u'computing', u'estate of the realm', u'expressage', u'life', u'man and wife', u'denote', u'twist', u'bear on', u'field', u'signification', u'politics', u'treaty', u'natural phenomenon', u'animate', u'film', u'regime', u'chance', u'solicitation', u'conjure', u'international organization', u'express mail', u'commingle', u'activeness', u'republic', u'demesne', u'procreate', u'tie', u'smell', u'Department of State', u'flexion', u'deviation', u'repeat', u'intend', u'separate', u'ascribe', u'resign', u'US Army', u'polity', u'meaning', u'intent', u'brotherhood', u'authorities', u'brass', u'pool', u'temperament', u'land', u'coupling', u'mating', u'fit out', u'groom', u'orbit', u'therapy', u'portion', u'write', u'federal agency', u'kin group', u'quantity', u'commencement', u'profits']
+2016-07-30 23:26:06,220 INFO     =====END FLAT LIST=====
+2016-07-30 23:26:06,220 INFO     Length of list is:
+2016-07-30 23:26:06,220 INFO     1955
+2016-07-30 23:26:06,220 INFO     Length of setlist is:
+2016-07-30 23:26:06,220 INFO     985
+2016-07-30 23:26:06,220 INFO     ***************************
+2016-07-30 23:26:06,221 INFO     127.0.0.1 - - [30/Jul/2016 23:26:06] "POST /corpus/y HTTP/1.1" 200 -

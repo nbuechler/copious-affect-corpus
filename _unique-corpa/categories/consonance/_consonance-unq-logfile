@@ -1,0 +1,75 @@
+2016-07-30 23:33:08,891 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-30 23:33:08,892 INFO      * Restarting with stat
+2016-07-30 23:33:09,151 WARNING   * Debugger is active!
+2016-07-30 23:33:09,155 INFO      * Debugger pin code: 294-815-374
+2016-07-30 23:33:14,033 INFO     ***************************
+2016-07-30 23:33:14,033 INFO     List is in the following mongo collection:
+2016-07-30 23:33:14,033 INFO     consonance-corpus-only-syn-unq-order-1
+2016-07-30 23:33:14,041 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:14,165 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-30 23:33:14,165 INFO     [u'rime', u'harmoniousness', u'rhyme', u'consonant rhyme', u'harmony']
+2016-07-30 23:33:14,165 INFO     =====END FLAT LIST=====
+2016-07-30 23:33:14,166 INFO     Length of list is:
+2016-07-30 23:33:14,166 INFO     5
+2016-07-30 23:33:14,166 INFO     Length of setlist is:
+2016-07-30 23:33:14,166 INFO     5
+2016-07-30 23:33:14,166 INFO     ***************************
+2016-07-30 23:33:14,166 INFO     ***************************
+2016-07-30 23:33:14,166 INFO     List is in the following mongo collection:
+2016-07-30 23:33:14,166 INFO     consonance-corpus-only-syn-unq-order-2
+2016-07-30 23:33:14,168 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:14,292 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:14,416 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:14,548 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:14,672 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:14,793 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-30 23:33:14,794 INFO     [u'concord', u'tally', u'verse form', u'water ice', u'versification', u'hoar', u'check', u'create verbally', u'poem', u'consonance', u'fit', u'ice', u'verse', u'music', u'harmony', u'match', u'gibe', u'musical harmony', u'frost', u'rhyme', u'agreement', u'rime', u'jibe', u'harmoniousness', u'compatibility', u'concordance', u'correspond', u'sound property', u'order', u'hoarfrost', u'agree']
+2016-07-30 23:33:14,794 INFO     =====END FLAT LIST=====
+2016-07-30 23:33:14,794 INFO     Length of list is:
+2016-07-30 23:33:14,794 INFO     47
+2016-07-30 23:33:14,794 INFO     Length of setlist is:
+2016-07-30 23:33:14,794 INFO     31
+2016-07-30 23:33:14,794 INFO     ***************************
+2016-07-30 23:33:14,795 INFO     ***************************
+2016-07-30 23:33:14,795 INFO     List is in the following mongo collection:
+2016-07-30 23:33:14,795 INFO     consonance-corpus-only-syn-unq-order-3
+2016-07-30 23:33:14,796 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:14,922 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:15,047 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:15,185 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:15,309 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:15,431 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:15,555 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:15,688 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:15,818 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:15,958 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:16,078 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:16,199 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:16,321 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:16,457 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:16,583 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:16,706 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:16,833 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:16,956 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:17,079 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:17,207 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:17,331 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:17,476 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:17,599 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:17,725 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:17,855 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:17,975 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:18,100 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:18,232 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:18,357 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:18,488 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:18,618 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:33:18,736 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-30 23:33:18,737 INFO     [u'represent', u'hitch', u'obstruction', u'go', u'shot', u'regularize', u'make headway', u'compose', u'number', u'religious sect', u'charge', u'lucifer', u'confirmation', u'assay', u'icing', u'regularise', u'rhyme', u'poesy', u'blockade', u'decide', u'govern', u'physical object', u'condition', u'cool', u'dig', u'adjust', u'inspection', u'upper', u"make up one's mind", u'set up', u'skating rink', u'parliamentary procedure', u'conniption', u'rate', u'chess move', u'enjoin', u'canvass', u'index', u'sum', u'version', u'speech act', u'modify', u'understanding', u'frosting', u'chink', u'remark', u'razz', u'study', u'summate', u'punishment', u'religious order', u'family', u'vie', u'win', u'enactment', u'manage', u'total', u'aggress', u'change course', u'mark off', u'stand for', u'prescript', u'visit', u'duplicate', u'music', u'assessment', u'tell', u'diamond', u'check off', u'club', u'freezing', u'glass', u'train', u'poetise', u'hold', u'town', u'account', u'join', u'consort', u'ride', u'soul', u'sound property', u'Holy Order', u'learn', u'meet', u'versify', u'appraisal', u'proof', u'control', u'dictation', u'play off', u'chip', u'chicken feed', u'chit', u'taxon', u'tab', u'counting', u'hoar', u'tick off', u'bill of exchange', u'stymie', u'provide', u'verify', u'poetry', u'arrangement', u'write', u'place', u'find out', u'mar', u'watch', u'act', u'check into', u'sparkler', u'compatibility', u'inactivity', u'light', u'bid', u'correspond', u'hold in', u'sect', u'enter', u'order', u'furnish', u'consent', u'move', u'damage', u'versification', u'equip', u'order of magnitude', u'delay', u'style', u'jib', u'fit', u'organisation', u'equalise', u'writing', u'restrain', u'bespeak', u'arrange', u'alter', u'correspondence', u'tote up', u'someone', u'somebody', u'halt', u'get by', u'break', u'harmoniousness', u'reckoning', u'provision', u'association', u'composition', u'hoarfrost', u'magnitude', u'mode', u'concord', u'baulk', u'ordain', u'society', u'inflict', u'vis-a-vis', u'meth', u'consonant rhyme', u'numeration', u'contend', u'canvas', u'consonance', u'concur', u'make do', u'characteristic', u'defend', u'make grow', u'equate', u'adapt', u'medicine', u'bring down', u'issue', u'correct', u'inaction', u'scoff', u'contain', u'difficulty', u'put', u'embarrass', u'substantiation', u'fiat', u'advance', u'pass judgment', u'impose', u'keep', u'counterpart', u'oppose', u'mortal', u'go over', u'organize', u'bank check', u'render', u'grade', u'scene', u'rank', u'sympathy', u'consecrate', u'rink', u'enumerate', u'cope with', u'social club', u'acquaint', u'ordering', u'Frost', u'checker', u'tot', u'opposite number', u'attack', u'draft', u'statement', u'way', u'cope', u'check-out procedure', u'concordance', u'checkout', u'fit in', u'Concord', u'rival', u'penalization', u'preparation', u'barb', u'frozen dessert', u'rag', u'fashion', u'tantalize', u'defect', u'say', u'mates', u'manner', u'dictate', u'regulate', u'indite', u'command', u'topping', u'conform to', u'gild', u'familiarise', u'taxonomic category', u'object', u'bridle', u'mate', u'position', u'pair', u'igniter', u'cover', u'penalisation', u'face', u'organise', u'hindrance', u'duplication', u'penning', u'ordination', u'bait', u'order of payment', u'add together', u'planning', u'commercial instrument', u'sum up', u'create verbally', u'state', u'penalty', u'lodge', u'orderliness', u'edict', u'writing style', u'hit', u'hold back', u'rack up', u'stop', u'Lexington', u'gain ground', u'lighter', u'guild', u'turn back', u'ice rink', u'tot up', u'ascertain', u'conform', u'set', u'burst', u'literary composition', u'freeze', u'euphony', u'see', u'individual', u'crystal', u'review', u'sail', u'add up', u'score', u'write out', u'accord', u'prescribe', u'bring together', u'outfit', u'rime', u'genre', u'verse line', u'ill temper', u'barrack', u'equal', u'assure', u'cod', u'stymy', u'artistic style', u'ice-skating rink', u'cold weather', u'comment', u'supply', u'twit', u'twin', u'adaptation', u'rescript', u'deoxyephedrine', u'poem', u'create', u'verse', u'mark', u'accept', u'change', u'poet', u'get ahead', u'suppress', u'tantrum', u'fellow feeling', u'bidding', u'catch', u'commercial document', u'chill', u'sound', u'shaft', u'bill', u'chalk', u'slam', u'Methedrine', u'frappe', u'investigating', u'property', u'hinderance', u'vest', u'keep back', u'literary work', u'activity', u'develop', u'make', u'literary genre', u'enumeration', u'call for', u'grapple', u'harmony', u'evaluate', u'couple', u'see to it', u'go for', u'status', u'balk', u'chequer', u'pull ahead', u'restraint', u'flout', u'compeer', u'Order', u'weave', u'insure', u'consign', u'retard', u'investigation', u'person', u'impediment', u'organization', u'verse form', u'shape', u'harmonise', u'authorship', u'touch', u'speed', u'discipline', u'cut', u'poetize', u'arrest', u'add', u'pitched battle', u'crack', u'harmonize', u'match', u'taunt', u'grammatical relation', u'quest', u'jibe', u'judge', u'check mark', u'tick', u'put down', u'blemish', u'confront', u'friction match', u'shabu', u'monastic order', u'Lexington and Concord', u'cogent evidence', u'rules of order', u'obstruct', u'deal', u'internal-combustion engine', u'competition', u'water ice', u'invoice', u'auditory sensation', u'purchase order', u'ice', u'family unit', u'pen', u'asking', u'moderate', u'hinder', u'be', u'methamphetamine', u'run', u'musical harmony', u'check over', u'agreement', u'peer', u'cool down', u'tease', u'jeer', u'check out', u'range', u'ensure', u'equalize', u'heat engine', u'paroxysm', u'pep pill', u'block', u'accommodate', u'parliamentary law', u'determine', u'convulsion', u'numerate', u'familiarize', u'stoppage', u'state capital', u'Robert Frost', u'ordinate', u'gybe', u'suss out', u'suit', u'analyze', u'gibe', u'auditory communication', u'form', u'frost', u'analyse', u'inactiveness', u'crank', u'gain', u'line', u'count', u'check up on', u'look into', u'record', u'verification', u'enthrone', u'agree', u'taxonomic group', u'request', u'tally', u'examine', u'curb', u'rule', u'rally', u'deterrent', u'pit', u'check', u'contest', u'controlled substance', u'idiom', u'methamphetamine hydrochloride', u'bad temper', u'trash', u'capital of New Hampshire', u'draw', u'handicap', u'decree', u'ICE', u'stay', u'cheque', u'fix up', u'amphetamine', u'chalk up', u'ignitor', u'Robert Lee Frost', u'invest', u'fit out', u'make out', u'compete', u'grownup', u'tantalise', u'adult']
+2016-07-30 23:33:18,737 INFO     =====END FLAT LIST=====
+2016-07-30 23:33:18,737 INFO     Length of list is:
+2016-07-30 23:33:18,738 INFO     704
+2016-07-30 23:33:18,738 INFO     Length of setlist is:
+2016-07-30 23:33:18,738 INFO     503
+2016-07-30 23:33:18,738 INFO     ***************************
+2016-07-30 23:33:18,740 INFO     127.0.0.1 - - [30/Jul/2016 23:33:18] "POST /corpus/y HTTP/1.1" 200 -

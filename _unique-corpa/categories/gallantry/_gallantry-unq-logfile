@@ -1,0 +1,79 @@
+2016-07-30 23:32:19,997 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-30 23:32:19,998 INFO      * Restarting with stat
+2016-07-30 23:32:20,252 WARNING   * Debugger is active!
+2016-07-30 23:32:20,258 INFO      * Debugger pin code: 294-815-374
+2016-07-30 23:32:24,952 INFO     ***************************
+2016-07-30 23:32:24,952 INFO     List is in the following mongo collection:
+2016-07-30 23:32:24,952 INFO     gallantry-corpus-only-syn-unq-order-1
+2016-07-30 23:32:24,961 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:25,087 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-30 23:32:25,087 INFO     [u'courageousness', u'good manners', u'courage', u'valiancy', u'chivalry', u'valorousness', u'valour', u'courtesy', u'heroism', u'politesse', u'valor', u'braveness', u'bravery', u'valiance']
+2016-07-30 23:32:25,087 INFO     =====END FLAT LIST=====
+2016-07-30 23:32:25,087 INFO     Length of list is:
+2016-07-30 23:32:25,087 INFO     14
+2016-07-30 23:32:25,087 INFO     Length of setlist is:
+2016-07-30 23:32:25,087 INFO     14
+2016-07-30 23:32:25,087 INFO     ***************************
+2016-07-30 23:32:25,087 INFO     ***************************
+2016-07-30 23:32:25,087 INFO     List is in the following mongo collection:
+2016-07-30 23:32:25,087 INFO     gallantry-corpus-only-syn-unq-order-2
+2016-07-30 23:32:25,088 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:25,214 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:25,336 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:25,461 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:25,583 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:25,713 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:25,836 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:25,986 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:26,122 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:26,252 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:26,375 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:26,508 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:26,637 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:26,761 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:26,894 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-30 23:32:26,895 INFO     [u'comment', u'good manners', u'chivalry', u'valorousness', u'feeling', u'manner', u'politesse', u'valour', u'heroism', u'valor', u'politeness', u'fearlessness', u'courtesy', u'courage', u'personal manner', u'spirit', u'bravery', u'courageousness', u'remark', u'valiancy', u'gallantry', u'civility', u'principle', u'braveness', u'knightliness', u'valiance']
+2016-07-30 23:32:26,895 INFO     =====END FLAT LIST=====
+2016-07-30 23:32:26,895 INFO     Length of list is:
+2016-07-30 23:32:26,895 INFO     98
+2016-07-30 23:32:26,895 INFO     Length of setlist is:
+2016-07-30 23:32:26,895 INFO     26
+2016-07-30 23:32:26,895 INFO     ***************************
+2016-07-30 23:32:26,895 INFO     ***************************
+2016-07-30 23:32:26,895 INFO     List is in the following mongo collection:
+2016-07-30 23:32:26,895 INFO     gallantry-corpus-only-syn-unq-order-3
+2016-07-30 23:32:26,897 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:27,033 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:27,176 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:27,297 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:27,418 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:27,541 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:27,665 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:27,786 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:27,908 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:28,053 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:28,182 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:28,307 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:28,433 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:28,565 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:28,691 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:28,814 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:28,936 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:29,068 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:29,203 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:29,326 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:29,459 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:29,580 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:29,717 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:29,843 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:29,961 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:30,090 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-30 23:32:30,210 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-30 23:32:30,211 INFO     [u'good manners', u'atmosphere', u'impression', u'brio', u'touch', u'chivalry', u'flavor', u'fibre', u'style', u'politesse', u'law of nature', u'explain', u'character', u'state', u'valorousness', u'heroism', u'spiritual being', u'valor', u'ambience', u'account', u'mention', u'courage', u'report', u'emotion', u'point out', u'bravery', u'gallantry', u'meaning', u'vivification', u'mode', u'somaesthesia', u'life principle', u'observance', u'ambiance', u'idea', u'demeanor', u'fiber', u'gossip', u'animate', u'liveliness', u'touch sensation', u'natural law', u'conduct', u'import', u'disembodied spirit', u'fearlessness', u'notice', u'perception', u'belief', u'behaviour', u'disposition', u'braveness', u'interpret', u'tactual sensation', u'remark', u'property', u'emotional state', u'niceness', u'tactile sensation', u'scuttlebutt', u'explicate', u'opinion', u'knightliness', u'comment', u'generalisation', u'intuition', u'prescript', u'tone', u'rationale', u'purport', u'feel', u'annotate', u'rede', u'intuitive feeling', u'demeanour', u'enliven', u'gloss', u'way', u'politeness', u'somatic sensation', u'sort', u'life', u'sprightliness', u'statement', u'formality', u'liven', u'explanation', u'observe', u'temperament', u'personal manner', u'spirit', u'kind', u'valiancy', u'flavour', u'look', u'vital principle', u'invigorate', u'civility', u'value', u'tell', u'somatesthesia', u'behavior', u'somesthesia', u'feeling', u'spiritedness', u'valiance', u'heart', u'fashion', u'generality', u'generalization', u'precept', u'say', u'liven up', u'manner', u'supernatural being', u'signification', u'form', u'variety', u'valour', u'note', u'animation', u'significance', u'commentary', u'smell', u'spirit up', u'invigoration', u'courtesy', u'intent', u'inspirit', u'law', u'courageousness', u'observation', u'rule', u'thought', u'deportment', u'principle', u'notion']
+2016-07-30 23:32:30,211 INFO     =====END FLAT LIST=====
+2016-07-30 23:32:30,211 INFO     Length of list is:
+2016-07-30 23:32:30,211 INFO     269
+2016-07-30 23:32:30,211 INFO     Length of setlist is:
+2016-07-30 23:32:30,211 INFO     137
+2016-07-30 23:32:30,212 INFO     ***************************
+2016-07-30 23:32:30,213 INFO     127.0.0.1 - - [30/Jul/2016 23:32:30] "POST /corpus/y HTTP/1.1" 200 -
