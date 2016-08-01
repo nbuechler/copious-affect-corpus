@@ -1,0 +1,75 @@
+2016-07-31 22:38:25,522 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-31 22:38:25,522 INFO      * Restarting with stat
+2016-07-31 22:38:25,776 WARNING   * Debugger is active!
+2016-07-31 22:38:25,781 INFO      * Debugger pin code: 294-815-374
+2016-07-31 22:38:46,236 INFO     ***************************
+2016-07-31 22:38:46,236 INFO     List is in the following mongo collection:
+2016-07-31 22:38:46,236 INFO     obsession-corpus-only-syn-unq-order-1
+2016-07-31 22:38:46,244 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:46,370 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-31 22:38:46,370 INFO     [u'fixation', u'irrational motive', u'compulsion', u'preoccupation']
+2016-07-31 22:38:46,371 INFO     =====END FLAT LIST=====
+2016-07-31 22:38:46,371 INFO     Length of list is:
+2016-07-31 22:38:46,371 INFO     4
+2016-07-31 22:38:46,371 INFO     Length of setlist is:
+2016-07-31 22:38:46,371 INFO     4
+2016-07-31 22:38:46,371 INFO     ***************************
+2016-07-31 22:38:46,371 INFO     ***************************
+2016-07-31 22:38:46,371 INFO     List is in the following mongo collection:
+2016-07-31 22:38:46,371 INFO     obsession-corpus-only-syn-unq-order-2
+2016-07-31 22:38:46,372 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:46,495 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:46,619 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:46,744 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:46,869 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-31 22:38:46,869 INFO     [u'motivation', u'cognitive state', u'irrational impulse', u'causation', u'idea', u'preservation', u'motive', u'preoccupancy', u'need', u'arrested development', u'coercion', u'regression', u'occupation', u'obsession', u'state of mind', u'fixing', u'irresistible impulse', u'occupancy', u'causing', u'attachment', u'infantile fixation', u'taking possession', u'preoccupation', u'absorption', u'fastening', u'abnormality', u'moving in', u'irrational motive', u'thought', u'engrossment', u'abnormal condition', u'abnormalcy']
+2016-07-31 22:38:46,869 INFO     =====END FLAT LIST=====
+2016-07-31 22:38:46,869 INFO     Length of list is:
+2016-07-31 22:38:46,870 INFO     33
+2016-07-31 22:38:46,870 INFO     Length of setlist is:
+2016-07-31 22:38:46,870 INFO     32
+2016-07-31 22:38:46,870 INFO     ***************************
+2016-07-31 22:38:46,870 INFO     ***************************
+2016-07-31 22:38:46,870 INFO     List is in the following mongo collection:
+2016-07-31 22:38:46,870 INFO     obsession-corpus-only-syn-unq-order-3
+2016-07-31 22:38:46,873 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:47,000 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:47,138 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:47,275 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:47,403 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:47,534 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:47,660 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:47,802 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:47,926 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:48,051 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:48,172 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:48,313 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:48,437 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:48,564 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:48,689 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:48,828 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:48,951 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:49,079 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:49,225 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:49,348 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:49,472 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:49,606 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:49,727 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:49,853 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:49,981 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:50,115 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:50,239 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:50,382 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:50,505 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:50,635 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:50,762 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:50,901 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:38:51,031 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-31 22:38:51,031 INFO     [u'cognitive state', u'reversal', u'higher cognitive process', u'irrational impulse', u'attachment', u'defence mechanism', u'mending', u'warmheartedness', u'necessitate', u'preoccupancy', u'computation', u'misbehavior', u'melody', u'arrested development', u'feat', u'requisite', u'occupation', u'fond regard', u'assiduity', u'social control', u'absorption', u'fix', u'improvement', u'theme', u'abidance', u'affixation', u'impoverishment', u'mend', u'defense mechanism', u'neutering', u'organic process', u'motivating', u'combination', u'fixation', u'melodic theme', u'tenancy', u'statistical regression', u'reckoning', u'betterment', u'condition', u'compulsion', u'necessary', u'misbehaviour', u'altering', u'psychological feature', u'exploit', u'natural action', u'tenderness', u'pauperism', u'activity', u'adherence', u'essential', u'view', u'requirement', u'sterilization', u'fixture', u'idea', u'motive', u'biological process', u'defense', u'design', u'combining', u'state of mind', u'period of time', u'defence', u'sentiment', u'connective', u'content', u'adhesion', u'state', u'sorption', u'compounding', u'taking possession', u'retrogression', u'reparation', u'statistical procedure', u'soaking up', u'be', u'attention', u'simple regression', u'belief', u'business', u'philia', u'mental object', u'statistical method', u'protection', u'poverty', u'ask', u'estimate', u'assiduousness', u'fondness', u'advance', u'frame of mind', u'acquiring', u'intentness', u'warmness', u'getting', u'retroversion', u'residence', u'judicial writ', u'job', u'thinking', u'connection', u'engrossment', u'residency', u'mental retardation', u'act', u'regress', u'opinion', u'estimation', u'abnormalcy', u'penury', u'repair', u'saving', u'strangeness', u'human activity', u'causation', u'period', u'preservation', u'fastening', u'irrational motive', u'melodic line', u'add-on', u'connexion', u'cerebration', u'defense reaction', u'backwardness', u'subnormality', u'addition', u'defence reaction', u'support', u'occupancy', u'connector', u'intention', u'mentation', u'conservation', u'mental defectiveness', u'mental state', u'postulate', u'natural process', u'enforcement', u'bond', u'military control', u'immersion', u'social process', u'assimilation', u'misdeed', u'poorness', u'demand', u'regression', u'line', u'effort', u'approximation', u'cognitive content', u'moving in', u'require', u'constraint', u'air', u'aim', u'holdfast', u'slowness', u'line of work', u'time period', u'affection', u'heart', u'motivation', u'motif', u'psychological state', u'calculation', u'mind', u'involve', u'strain', u'want', u'need', u'deed', u'call for', u'unfamiliarity', u'abnormal condition', u'improver', u'concentration', u'indigence', u'figuring', u'causing', u'musical theme', u'take', u'infantile fixation', u'affectionateness', u'persuasion', u'preoccupation', u'status', u'connecter', u'thought process', u'reversion', u'restraint', u'action', u'human action', u'intent', u'purpose', u'necessity', u'melodic phrase', u'freakishness', u'tune', u'pauperization', u'abnormality', u'regression toward the mean', u'intellection', u'temporary state', u'thought', u'fastener', u'writ', u'fixing', u'retardation', u'sterilisation', u'irregularity', u'joining']
+2016-07-31 22:38:51,032 INFO     =====END FLAT LIST=====
+2016-07-31 22:38:51,032 INFO     Length of list is:
+2016-07-31 22:38:51,032 INFO     332
+2016-07-31 22:38:51,032 INFO     Length of setlist is:
+2016-07-31 22:38:51,032 INFO     215
+2016-07-31 22:38:51,032 INFO     ***************************
+2016-07-31 22:38:51,033 INFO     127.0.0.1 - - [31/Jul/2016 22:38:51] "POST /corpus/y HTTP/1.1" 200 -

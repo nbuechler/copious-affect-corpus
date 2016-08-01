@@ -1,0 +1,61 @@
+2016-07-31 22:39:18,394 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-31 22:39:18,395 INFO      * Restarting with stat
+2016-07-31 22:39:18,655 WARNING   * Debugger is active!
+2016-07-31 22:39:18,661 INFO      * Debugger pin code: 294-815-374
+2016-07-31 22:39:22,346 INFO     ***************************
+2016-07-31 22:39:22,346 INFO     List is in the following mongo collection:
+2016-07-31 22:39:22,346 INFO     compulsion-corpus-only-syn-unq-order-1
+2016-07-31 22:39:22,355 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:22,484 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-31 22:39:22,484 INFO     [u'irrational impulse', u'obsession', u'irresistible impulse', u'irrational motive', u'causing', u'coercion', u'causation']
+2016-07-31 22:39:22,484 INFO     =====END FLAT LIST=====
+2016-07-31 22:39:22,484 INFO     Length of list is:
+2016-07-31 22:39:22,484 INFO     7
+2016-07-31 22:39:22,484 INFO     Length of setlist is:
+2016-07-31 22:39:22,484 INFO     7
+2016-07-31 22:39:22,484 INFO     ***************************
+2016-07-31 22:39:22,485 INFO     ***************************
+2016-07-31 22:39:22,485 INFO     List is in the following mongo collection:
+2016-07-31 22:39:22,485 INFO     compulsion-corpus-only-syn-unq-order-2
+2016-07-31 22:39:22,486 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:22,611 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:22,736 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:22,865 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:22,995 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:23,117 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:23,249 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:23,372 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-31 22:39:23,372 INFO     [u'enforcement', u'motivation', u'fixation', u'feat', u'causation', u'exploit', u'motive', u'irrational impulse', u'irrational motive', u'causing', u'need', u'deed', u'compulsion', u'effort', u'preoccupation']
+2016-07-31 22:39:23,372 INFO     =====END FLAT LIST=====
+2016-07-31 22:39:23,372 INFO     Length of list is:
+2016-07-31 22:39:23,372 INFO     24
+2016-07-31 22:39:23,373 INFO     Length of setlist is:
+2016-07-31 22:39:23,373 INFO     15
+2016-07-31 22:39:23,373 INFO     ***************************
+2016-07-31 22:39:23,373 INFO     ***************************
+2016-07-31 22:39:23,373 INFO     List is in the following mongo collection:
+2016-07-31 22:39:23,373 INFO     compulsion-corpus-only-syn-unq-order-3
+2016-07-31 22:39:23,374 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:23,503 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:23,630 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:23,757 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:23,882 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:24,007 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:24,134 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:24,256 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:24,389 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:24,510 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:24,637 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:24,766 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:24,900 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:25,026 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:25,149 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:39:25,271 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-31 22:39:25,272 INFO     [u'endeavour', u'irrational impulse', u'necessitate', u'preoccupancy', u'cognitive state', u'arrested development', u'feat', u'occupation', u'title', u'social control', u'absorption', u'irresistible impulse', u'labor', u'instrument', u'theme', u'labour', u'impoverishment', u'attachment', u'motivating', u'melodic theme', u'condition', u'necessary', u'psychological feature', u'irrational motive', u'try', u'pauperism', u'activity', u'essential', u'status', u'requirement', u'accomplishment', u'idea', u'motive', u'state of mind', u'obsession', u'official document', u'taking possession', u'cause', u'movement', u'be', u'elbow grease', u'poverty', u'put to work', u'ask', u'indigence', u'engrossment', u'sweat', u'act', u'abnormalcy', u'penury', u'campaign', u'human activity', u'causation', u'preservation', u'fastening', u'exploit', u'apply', u'endeavor', u'coercion', u'use', u'occupancy', u'postulate', u'travail', u'poorness', u'demand', u'requisite', u'effort', u'moving in', u'motif', u'work', u'legal document', u'human action', u'employ', u'venture', u'deed of conveyance', u'motivation', u'tap', u'drive', u'involve', u'crusade', u'want', u'need', u'deed', u'regression', u'fixing', u'utilize', u'call for', u'causing', u'musical theme', u'take', u'infantile fixation', u'legal instrument', u'preoccupation', u'exertion', u'utilise', u'require', u'necessity', u'achievement', u'pauperization', u'abnormality', u'attempt', u'overwork', u'thought', u'abnormal condition', u'toil']
+2016-07-31 22:39:25,272 INFO     =====END FLAT LIST=====
+2016-07-31 22:39:25,272 INFO     Length of list is:
+2016-07-31 22:39:25,272 INFO     144
+2016-07-31 22:39:25,273 INFO     Length of setlist is:
+2016-07-31 22:39:25,273 INFO     105
+2016-07-31 22:39:25,273 INFO     ***************************
+2016-07-31 22:39:25,274 INFO     127.0.0.1 - - [31/Jul/2016 22:39:25] "POST /corpus/y HTTP/1.1" 200 -

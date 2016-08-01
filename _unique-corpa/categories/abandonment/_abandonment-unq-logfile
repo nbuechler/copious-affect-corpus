@@ -1,0 +1,104 @@
+2016-07-31 22:40:35,888 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-07-31 22:40:35,889 INFO      * Restarting with stat
+2016-07-31 22:40:36,138 WARNING   * Debugger is active!
+2016-07-31 22:40:36,143 INFO      * Debugger pin code: 294-815-374
+2016-07-31 22:40:42,852 INFO     ***************************
+2016-07-31 22:40:42,852 INFO     List is in the following mongo collection:
+2016-07-31 22:40:42,852 INFO     abandonment-corpus-only-syn-unq-order-1
+2016-07-31 22:40:42,860 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:42,983 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-31 22:40:42,983 INFO     [u'defection', u'rejection', u'disposal', u'desertion', u'disposition', u'withdrawal', u'forsaking']
+2016-07-31 22:40:42,983 INFO     =====END FLAT LIST=====
+2016-07-31 22:40:42,983 INFO     Length of list is:
+2016-07-31 22:40:42,983 INFO     7
+2016-07-31 22:40:42,983 INFO     Length of setlist is:
+2016-07-31 22:40:42,984 INFO     7
+2016-07-31 22:40:42,984 INFO     ***************************
+2016-07-31 22:40:42,984 INFO     ***************************
+2016-07-31 22:40:42,984 INFO     List is in the following mongo collection:
+2016-07-31 22:40:42,984 INFO     abandonment-corpus-only-syn-unq-order-2
+2016-07-31 22:40:42,986 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:43,111 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:43,236 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:43,358 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:43,482 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:43,605 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:43,734 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:43,853 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-31 22:40:43,853 INFO     [u'separation', u'going away', u'human activity', u'abandonment', u'defection', u'departure', u'powerfulness', u'exploit', u'disposal', u'giving up', u'conclusion', u'deed', u'leaving', u'organic phenomenon', u'tendency', u'forswearing', u'management', u'feat', u'administration', u'desertion', u'removal', u'drug withdrawal', u'forgoing', u'going', u'mental attitude', u'electric pig', u'indifference', u'forsaking', u'apostasy', u'inclination', u'speech act', u'direction', u'power', u'nature', u'remotion', u'withdrawal', u'abjuration', u'climb-down', u'recantation', u'renunciation', u'detachment', u'disposition', u'temperament', u'ending', u'effort', u'retraction', u'secession', u'rejection', u'backdown', u'termination', u'attitude', u'human action', u'garbage disposal', u'act', u'situation', u'property', u'state of affairs', u'kitchen appliance']
+2016-07-31 22:40:43,853 INFO     =====END FLAT LIST=====
+2016-07-31 22:40:43,854 INFO     Length of list is:
+2016-07-31 22:40:43,854 INFO     69
+2016-07-31 22:40:43,854 INFO     Length of setlist is:
+2016-07-31 22:40:43,854 INFO     58
+2016-07-31 22:40:43,854 INFO     ***************************
+2016-07-31 22:40:43,854 INFO     ***************************
+2016-07-31 22:40:43,854 INFO     List is in the following mongo collection:
+2016-07-31 22:40:43,854 INFO     abandonment-corpus-only-syn-unq-order-3
+2016-07-31 22:40:43,856 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:43,980 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:44,105 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:44,228 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:44,349 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:44,476 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:44,612 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:44,742 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:44,865 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:44,997 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:45,124 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:45,250 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:45,376 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:45,495 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:45,619 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:45,741 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:45,873 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:46,003 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:46,126 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:46,261 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:46,398 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:46,538 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:46,667 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:46,786 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:46,920 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:47,046 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:47,180 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:47,303 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:47,439 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:47,565 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:47,690 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:47,821 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:47,955 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:48,082 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:48,215 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:48,340 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:48,465 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:48,590 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:48,716 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:48,838 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:48,958 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:49,087 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:49,211 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:49,334 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:49,458 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:49,581 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:49,708 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:49,844 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:49,969 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:50,091 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:50,213 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:50,337 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:50,459 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:50,584 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:50,709 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:50,831 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:50,965 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:51,087 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-07-31 22:40:51,213 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-07-31 22:40:51,213 INFO     [u'represent', u'home appliance', u'relinquishing', u'deliver the goods', u'focus', u'household appliance', u'proposition', u'settlement', u'superpower', u'baron', u'disposal', u'removal', u'charge', u'passivity', u'term of office', u'choice', u'material possession', u'group action', u'difference', u'condition', u'posture', u'school', u'magnate', u'list', u'try', u'desertion', u'dip', u'disclaimer', u'pretend', u'force', u'occurrence', u'trend', u'art movement', u'interval', u'affectation', u'index', u'adjustment', u'centering', u'business', u'giving medication', u'section', u'surcease', u'magnetic dip', u'movement', u'body', u'passiveness', u'remotion', u'elbow grease', u'ply', u'separation', u'path', u'geographic region', u'establishment', u'playact', u'change', u'substance', u'numbness', u'mannerism', u'point in time', u'engrossment', u'pick', u'cessation', u'impassiveness', u'campaign', u'win', u'enactment', u'apply', u'kitchen appliance', u'subject matter', u'use', u'nonchalance', u'breakup', u'governance', u'type', u'possession', u'immersion', u'trait', u'finis', u'magnetic inclination', u'effort', u'berth', u'endpoint', u'accomplishment', u'human action', u'res publica', u'closing', u'control', u'tap', u'do', u'attribute', u'abandonment', u'powerfulness', u'dictation', u'giving up', u'counseling', u'concept', u'end', u'provide', u'tilt', u'utilize', u'impassivity', u'electric pig', u'legal instrument', u'resignation', u'utilise', u'office', u'spot', u'belongings', u'Secession', u'organization', u'attempt', u'emotionality', u'departure', u'emotionalism', u'going away', u'move', u'attitude', u'mightiness', u'existence', u'spatial relation', u'tendency', u'renouncement', u'organisation', u'labor', u'affectedness', u'might', u'artistic movement', u'nation', u'renunciation', u'detachment', u'big businessman', u'cognition', u'physical object', u'commonwealth', u'status', u'incumbency', u'line of work', u'carefreeness', u'event', u'geographical region', u'termination', u'space', u'dismissal', u'official document', u'sezession', u'army unit', u'content', u'ratiocination', u'cause', u'activity', u'divergence', u'difficulty', u'disposition', u'steering', u'route', u'motion', u'turn', u'place', u'change of integrity', u'number', u'sack', u'construct', u'insulation', u'message', u'quality', u'management', u'bring home the bacon', u'body politic', u'drug withdrawal', u'assumption', u'motility', u'morpheme', u'travail', u'option', u'serve', u'dissemble', u'angle of dip', u'focusing', u'retraction', u'king', u'isolation', u'instruction', u'legal document', u're-create', u'venture', u'deed of conveyance', u'outcome', u'legal separation', u'fluctuation', u'mind', u'yielding', u'mogul', u'concentration', u'angle of inclination', u'strength', u'angle', u'labour', u'mental attitude', u'performance', u'insularity', u'play', u'disavowal', u'top executive', u'tenure', u'position', u'achievement', u'unemotionality', u'focussing', u'drive', u'businessman', u'repudiation', u'selection', u'inclination of an orbit', u'supposition', u'ending', u'readjustment', u'feat', u'occupation', u'knowledge', u'title', u'social control', u'guidance', u'liberation', u'going', u'dramatic composition', u'indifference', u'supposal', u'distance', u'great power', u'alteration', u'geographic area', u'withdrawal', u'release', u'major power', u'speech act', u'final result', u'act as', u'result', u'close', u'change of state', u'exponent', u'forswearing', u'state', u'routine', u'emotionlessness', u'ability', u'nature', u'job', u'succeed', u'last', u'country', u'come through', u'passing', u'expression', u'business leader', u'inclining', u'point', u'human activity', u'exploit', u'endeavor', u'sledding', u'commission', u'direction', u'counselling', u'climb-down', u'determination', u'bidding', u'temperament', u'insularism', u'conception', u'backdown', u'presidency', u'employ', u'expiration', u'itinerary', u'leaning', u'situation', u'property', u'natural event', u'orientation', u'site', u'leaving', u'perform', u'administration', u'propensity', u'modification', u'forsaking', u'unconcern', u'exertion', u'finish', u'occurrent', u'dramatic work', u'judgment', u'reflection', u'overwork', u'garbage disposal', u'governing body', u'command', u'toil', u'secession', u'dimension', u'noesis', u'endeavour', u'manifestation', u'end point', u'apostasy', u'focal point', u'death', u'absorption', u'supply', u'instrument', u'man of affairs', u'defection', u'bid', u'recantation', u'judgement', u'world', u'bit', u'loss', u'sorting', u'geographical area', u'state of affairs', u'decease', u'creation', u'physical phenomenon', u'liking', u'decision', u'lean', u'prop', u'forgoing', u'behave', u'exit', u'tergiversation', u'inclination', u'be', u'object', u'power', u'pose', u'put to work', u'expiry', u'macrocosm', u'post', u'universe', u'firing', u'sweat', u'act', u'reflexion', u'relinquishment', u'registration', u'way', u'tycoon', u'sacking', u'line', u'surrender', u'stopping point', u'causal agency', u'counsel', u'terminus', u'rejection', u'spiritlessness', u'world power', u'cosmos', u'bodily property', u'medication', u'public presentation', u'resultant', u'crusade', u'disengagement', u'deed', u'work', u'natural phenomenon', u'stolidity', u'organic phenomenon', u'holding', u'mathematical notation', u'billet', u'roleplay', u'conclusion', u'deviation', u'presidential term', u'finale', u'abjuration', u'variation', u'cater', u'discharge', u'brass', u'causal agent', u'land', u'subdivision', u'happening', u'apathy', u'dismission', u'phlegm']
+2016-07-31 22:40:51,214 INFO     =====END FLAT LIST=====
+2016-07-31 22:40:51,214 INFO     Length of list is:
+2016-07-31 22:40:51,214 INFO     640
+2016-07-31 22:40:51,214 INFO     Length of setlist is:
+2016-07-31 22:40:51,214 INFO     393
+2016-07-31 22:40:51,214 INFO     ***************************
+2016-07-31 22:40:51,216 INFO     127.0.0.1 - - [31/Jul/2016 22:40:51] "POST /corpus/y HTTP/1.1" 200 -
