@@ -1,0 +1,120 @@
+2016-08-01 22:31:30,710 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-01 22:31:30,710 INFO      * Restarting with stat
+2016-08-01 22:31:30,968 WARNING   * Debugger is active!
+2016-08-01 22:31:30,973 INFO      * Debugger pin code: 294-815-374
+2016-08-01 22:31:35,413 INFO     ***************************
+2016-08-01 22:31:35,413 INFO     List is in the following mongo collection:
+2016-08-01 22:31:35,413 INFO     aliveness-corpus-only-syn-unq-order-1
+2016-08-01 22:31:35,422 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:35,559 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-01 22:31:35,559 INFO     [u'living', u'life', u'beingness', u'being', u'liveness', u'animation', u'physiological property', u'animateness', u'existence']
+2016-08-01 22:31:35,559 INFO     =====END FLAT LIST=====
+2016-08-01 22:31:35,559 INFO     Length of list is:
+2016-08-01 22:31:35,560 INFO     9
+2016-08-01 22:31:35,560 INFO     Length of setlist is:
+2016-08-01 22:31:35,560 INFO     9
+2016-08-01 22:31:35,560 INFO     ***************************
+2016-08-01 22:31:35,560 INFO     ***************************
+2016-08-01 22:31:35,560 INFO     List is in the following mongo collection:
+2016-08-01 22:31:35,560 INFO     aliveness-corpus-only-syn-unq-order-2
+2016-08-01 22:31:35,562 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:35,694 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:35,814 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:35,943 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:36,070 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:36,204 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:36,327 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:36,452 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:36,578 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:36,703 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-01 22:31:36,703 INFO     [u'motivation', u'living thing', u'people', u'being', u'creation', u'period', u'sustenance', u'motive', u'individual', u'brio', u'lifespan', u'lifetime', u'need', u'existence', u'prison term', u'activity', u'life sentence', u'life-time', u'biography', u'period of time', u'living', u'story', u'cinematography', u'organic phenomenon', u'support', u'life story', u'natural object', u'liveliness', u'activeness', u'state', u'animation', u'life history', u'soul', u'energizing', u'bread and butter', u'life', u'someone', u'sprightliness', u'physiological property', u'time period', u'activation', u'time', u'invigoration', u'vitality', u'macrocosm', u'activating', u'world', u'livelihood', u'spirit', u'sentence', u'beingness', u'account', u'bodily property', u'resource', u'vivification', u'chronicle', u'universe', u'liveness', u'motion-picture photography', u'somebody', u'experience', u'keep', u'person', u'animateness', u'mortal', u'animate thing', u'filming', u'cosmos', u'aliveness', u'organism', u'spiritedness', u'history']
+2016-08-01 22:31:36,703 INFO     =====END FLAT LIST=====
+2016-08-01 22:31:36,703 INFO     Length of list is:
+2016-08-01 22:31:36,703 INFO     104
+2016-08-01 22:31:36,703 INFO     Length of setlist is:
+2016-08-01 22:31:36,703 INFO     72
+2016-08-01 22:31:36,703 INFO     ***************************
+2016-08-01 22:31:36,703 INFO     ***************************
+2016-08-01 22:31:36,704 INFO     List is in the following mongo collection:
+2016-08-01 22:31:36,704 INFO     aliveness-corpus-only-syn-unq-order-3
+2016-08-01 22:31:36,705 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:36,836 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:36,968 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:37,125 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:37,250 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:37,376 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:37,514 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:37,641 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:37,773 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:37,898 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:38,025 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:38,169 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:38,316 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:38,449 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:38,574 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:38,706 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:38,845 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:38,970 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:39,103 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:39,237 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:39,365 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:39,501 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:39,628 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:39,755 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:39,885 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:40,010 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:40,137 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:40,261 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:40,387 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:40,516 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:40,641 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:40,767 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:40,895 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:41,028 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:41,157 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:41,281 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:41,407 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:41,537 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:41,661 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:41,793 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:41,913 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:42,041 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:42,165 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:42,295 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:42,424 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:42,549 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:42,684 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:42,818 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:42,939 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:43,062 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:43,192 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:43,313 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:43,445 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:43,578 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:43,710 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:43,837 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:43,976 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:44,106 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:44,229 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:44,353 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:44,501 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:44,623 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:44,766 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:44,911 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:45,043 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:45,177 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:45,309 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:45,444 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:45,577 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:45,702 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:45,829 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:45,957 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-01 22:31:46,085 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-01 22:31:46,086 INFO     [u'represent', u'time interval', u'livelihood', u'psyche', u'upkeep', u'menses', u'catamenia', u'content', u'doom', u'calculate', u'reserve', u'expelling', u'foster', u'fourth dimension', u'impoverishment', u'ambience', u'stick out', u'activation', u'cognitive content', u'cook', u'physical object', u'condition', u'progression', u'level', u'psychological feature', u'invigorate', u'adjust', u'pauperism', u'punctuation mark', u'accumulation', u'assemblage', u'judgment of conviction', u'prevent', u'force', u'fill up', u'material body', u'procession', u'jail cell', u'past', u'State', u'fiber', u'clock time', u'life-time', u'folk', u'period of time', u'yesteryear', u'clock', u'assistance', u'remain', u'verbalize', u'cell', u'news report', u'political entity', u'endorse', u'public', u'multitude', u'supporting', u'United States Department of State', u'chassis', u'poverty', u'kinsfolk', u'change', u'substance', u'conviction', u'administrative district', u'receive', u'metre', u'experience', u'suppress', u'verbalise', u'permit', u'action', u'history', u'bod', u'living thing', u'full stop', u'family', u'heart', u'vim', u'sanction', u'motif', u'unit', u'answer for', u'subject matter', u'string of words', u'proceed', u'enliven', u'substantiation', u'ingenuity', u'live', u'asset', u'attribute', u'tell', u'business relationship', u'trait', u'emission', u'fend for', u'vital force', u'citizenry', u'hold', u'account', u'liveness', u'soul', u'human action', u'elan vital', u'res publica', u'nurture', u'example', u'proof', u'taradiddle', u'vigor', u'detain', u'figure', u'give', u'process', u'financial support', u'mold', u'supernatural being', u'stay fresh', u'involve', u'want', u'gospel singing', u'biography', u'condemn', u'end', u'natural object', u'patronize', u'significance', u'tarradiddle', u'have got', u'liberal arts', u'financial backing', u'okay', u'farm', u'human being', u'collection', u'produce', u'mankind', u'bodily function', u'embodiment', u'grow', u'man', u'stronghold', u'administrative division', u'sept', u'documentation', u'correspond', u'tale', u'inform', u'maintain', u'patronise', u'allow', u'enter', u'DoS', u'aliveness', u'help', u'move', u'meter', u'brio', u'existence', u'suffer', u'activating', u'digest', u'musical accompaniment', u'group', u'fit', u'masses', u'brook', u'social class', u'fib', u'hold up', u'restrain', u'minute', u'underpin', u'someone', u'put up', u'food', u'propose', u'origination', u'invigoration', u'nation', u'sustentation', u'chemical phenomenon', u'human beings', u'human race', u'beingness', u'term', u'cognition', u'keep going', u'capability', u'muscularity', u'commonwealth', u'domain', u'concord', u'energy', u'ambiance', u'idea', u'vital principle', u'measure', u'operation', u'organic phenomenon', u'living', u'flower', u'concur', u'populace', u'profit', u'quantify', u'defend', u'State Department', u'abide', u'liveliness', u'sustain', u'cause', u'correct', u'foundation', u'spirit up', u'reason', u'disposition', u'ask', u'yore', u'beginning', u'patronage', u'advance', u'emotional state', u'substantiate', u'keep', u'mortal', u'retain', u'undergo', u'penury', u'emotion', u'grammatical category', u'life story', u'purport', u'feel', u'fundamental measure', u'message', u'life sentence', u'making known', u'life force', u'story', u'introduction', u'system', u'body politic', u'fiction', u'stimulation', u'statement', u'time', u'dwell', u'postulate', u'scheme', u'store', u'natural process', u'nutrition', u'stomach', u'relationship', u'declare', u'period of play', u'artifact', u'keep on', u'part', u'accompaniment', u'requisite', u'humanistic discipline', u'institution', u'population', u'require', u'second', u'endure', u'posit', u'inventiveness', u'feeling', u'spiritedness', u'motivation', u'instauration', u'clip', u'menstruum', u'say', u'liven up', u'have', u'need', u'plump for', u'regulate', u'write up', u'lie', u'put forward', u'plunk for', u'physique', u'instance', u'animation', u'take', u'physiological property', u'bread and butter', u'go through', u'explanation', u'province', u'play', u'go on', u'populate', u'object', u'terrestrial planet', u'onward motion', u'inspirit', u'device', u'class', u'pauperization', u'demand', u'chronicle', u'Creation', u'motion-picture photography', u'Earth', u'organism', u'gain', u'atmosphere', u'fundamental quantity', u'ending', u'African-American music', u'give tongue to', u'participate', u'utter', u'ground', u'fibre', u'knowledge', u'flesh', u'go along', u'prolong', u'theme', u'spiritual being', u'lodge', u'inhabit', u'black music', u'organic process', u'prevarication', u'founding', u'get', u'hold back', u'photography', u'express', u'stop', u'bear', u'rest', u'import', u'report', u'celebrate', u'hold on', u'resource', u'continuum', u'victuals', u'nutriment', u'activity', u'gospel', u'life principle', u'requirement', u'set', u'financial statement', u'frame', u'humans', u'geological period', u'biological process', u'individual', u'lifespan', u'concern', u'dungeon', u'capacity', u'keep open', u'state', u'score', u'humankind', u'phratry', u'progress', u'reading', u'preserve', u'importance', u'countenance', u'news', u'earthly concern', u'final judgment', u'piece', u'instant', u'career', u'country', u'keep back', u'time period', u'animate thing', u'let', u'argue', u'whole', u'fix', u'forward motion', u'tone', u'point', u'human activity', u'character', u'period', u'subscribe', u'prison term', u'arts', u'raise', u'initiation', u'maintenance', u'soulfulness', u'life', u'sprightliness', u'liven', u'protect', u'observe', u'playing period', u'spirit', u'case', u'bear out', u'conception', u'look', u'affirm', u'good health', u'bill', u'tolerate', u'territorial division', u'animateness', u'family line', u'aid', u'voice', u'natural event', u'kinfolk', u'physical process', u'backing', u'healthiness', u'sustenance', u'accounting', u'ready', u'somebody', u'property', u'cleverness', u'alimentation', u'suggest', u'make', u'punctuation', u'call for', u'musical theme', u'historical period', u'energizing', u'advise', u'regime', u'status', u'see', u'cosmea', u'assist', u'aggregation', u'occurrent', u'moment', u'necessity', u'approve', u'universe of discourse', u'humanities', u'sustainment', u'person', u'dimension', u'noesis', u'hold open', u'sentence', u'being', u'necessitate', u'storey', u'shape', u'human', u'geological time', u'flavor', u'reality', u'fastness', u'final decision', u'cinematography', u'ingeniousness', u'O.K.', u'advancement', u'resourcefulness', u'save', u'humanity', u'match', u'build', u'physical body', u'motivating', u'government', u'condemnation', u'melodic theme', u'jibe', u'know', u'world', u'state of matter', u'put down', u'hoi polloi', u'necessary', u'vivification', u'military operation', u'reenforcement', u'continue', u'indication', u'essential', u'grouping', u'aliment', u'soma', u'creation', u'back', u'motive', u'corroborate', u'homo', u'invoice', u'past times', u'animate', u'confirm', u'supporting structure', u'filming', u'discharge', u'innovation', u'socio-economic class', u'human body', u'natural action', u'donjon', u'refer', u'syntactic category', u'be', u'meter reading', u'schedule', u'word string', u'mental object', u'macrocosm', u'anatomy', u'universe', u'political unit', u'body process', u'informing', u'plus', u'stand', u'act', u'backup', u'prison cell', u'artefact', u'bodily process', u'accommodate', u'determine', u'narration', u'account statement', u'prepare', u'support', u'people', u'picture taking', u'vigour', u'submit', u'start', u'full point', u'worldly concern', u'back up', u'globe', u'gibe', u'form', u'rhythmicity', u'tally', u'vitality', u'construction', u'poorness', u'geologic time', u'happening', u'causal agency', u'disembodied spirit', u'indorse', u'flavour', u'executive department', u'reinforcement', u'record', u'cosmos', u'bodily property', u'agree', u'the great unwashed', u'menstruation', u'flow', u'describe', u'influence', u'denote', u'imagination', u'signification', u'lifetime', u'education', u'natural phenomenon', u'check', u'fill', u'historic period', u'floor', u'linguistic string', u'creative activity', u'activeness', u'book', u'indigence', u'life history', u'take part', u'mass', u'confine', u'smell', u'Department of State', u'nourishment', u'stay', u'meaning', u'intent', u'authorities', u'funding', u'causal agent', u'structure', u'occurrence', u'temperament', u'land', u'assets', u'verve', u'interval', u'make full', u'keep up', u'narrative', u'nutrient', u'validation', u'commencement']
+2016-08-01 22:31:46,086 INFO     =====END FLAT LIST=====
+2016-08-01 22:31:46,087 INFO     Length of list is:
+2016-08-01 22:31:46,087 INFO     1006
+2016-08-01 22:31:46,087 INFO     Length of setlist is:
+2016-08-01 22:31:46,087 INFO     616
+2016-08-01 22:31:46,087 INFO     ***************************
+2016-08-01 22:31:46,089 INFO     127.0.0.1 - - [01/Aug/2016 22:31:46] "POST /corpus/y HTTP/1.1" 200 -
