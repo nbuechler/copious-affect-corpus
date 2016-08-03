@@ -1,0 +1,66 @@
+2016-08-02 23:39:06,757 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-02 23:39:06,758 INFO      * Restarting with stat
+2016-08-02 23:39:07,013 WARNING   * Debugger is active!
+2016-08-02 23:39:07,017 INFO      * Debugger pin code: 294-815-374
+2016-08-02 23:39:15,062 INFO     ***************************
+2016-08-02 23:39:15,062 INFO     List is in the following mongo collection:
+2016-08-02 23:39:15,062 INFO     avoidance-corpus-only-syn-unq-order-1
+2016-08-02 23:39:15,076 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:15,199 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-02 23:39:15,199 INFO     [u'turning away', u'rejection', u'shunning', u'dodging']
+2016-08-02 23:39:15,200 INFO     =====END FLAT LIST=====
+2016-08-02 23:39:15,200 INFO     Length of list is:
+2016-08-02 23:39:15,200 INFO     4
+2016-08-02 23:39:15,200 INFO     Length of setlist is:
+2016-08-02 23:39:15,200 INFO     4
+2016-08-02 23:39:15,200 INFO     ***************************
+2016-08-02 23:39:15,200 INFO     ***************************
+2016-08-02 23:39:15,200 INFO     List is in the following mongo collection:
+2016-08-02 23:39:15,200 INFO     avoidance-corpus-only-syn-unq-order-2
+2016-08-02 23:39:15,202 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:15,326 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:15,450 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:15,578 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:15,696 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-02 23:39:15,697 INFO     [u'dodge', u'falsehood', u'negligence', u'falsity', u'human activity', u'nonperformance', u'escape', u'organic phenomenon', u'shunning', u'evasion', u'turning away', u'scheme', u'speech act', u'untruth', u'avoidance', u'rejection', u'carelessness', u'human action', u'act', u'situation', u'state of affairs', u'neglect', u'dodging']
+2016-08-02 23:39:15,697 INFO     =====END FLAT LIST=====
+2016-08-02 23:39:15,697 INFO     Length of list is:
+2016-08-02 23:39:15,697 INFO     30
+2016-08-02 23:39:15,697 INFO     Length of setlist is:
+2016-08-02 23:39:15,697 INFO     23
+2016-08-02 23:39:15,697 INFO     ***************************
+2016-08-02 23:39:15,697 INFO     ***************************
+2016-08-02 23:39:15,697 INFO     List is in the following mongo collection:
+2016-08-02 23:39:15,697 INFO     avoidance-corpus-only-syn-unq-order-3
+2016-08-02 23:39:15,698 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:15,822 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:15,945 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:16,064 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:16,185 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:16,307 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:16,431 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:16,551 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:16,675 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:16,799 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:16,919 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:17,042 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:17,168 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:17,290 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:17,415 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:17,539 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:17,659 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:17,782 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:17,906 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:18,038 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:18,161 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:18,281 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:18,409 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-02 23:39:18,528 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-02 23:39:18,529 INFO     [u'represent', u'turning away', u'negligence', u'take flight', u'emerge', u'deliver the goods', u'move', u'running away', u'manifestation', u'dishonesty', u'bit', u'occupation', u'position', u'group', u'office', u'hightail it', u'nonpayment', u'state', u'vex', u'mental representation', u'amaze', u'program', u'dramatic composition', u'reflexion', u'gravel', u'puzzle', u'dodge', u'mystify', u'nonperformance', u'get', u'beat', u'nonplus', u'parry', u'baffle', u'flora', u'hedge', u'flee', u'legal instrument', u'condition', u'recreation', u'official document', u'drop', u'plan of action', u'evade', u'leave', u'inattentiveness', u'disregard', u'safety valve', u'grouping', u'falsehood', u'pretend', u'leave out', u'act as', u'plant life', u'line of work', u'stupefy', u'fail', u'irreality', u'human action', u'organic phenomenon', u'event', u'come through', u'ignore', u'run away', u'miss', u'avoid', u'valve', u'come out', u'unreality', u'behave', u'internal representation', u'routine', u'avoidance', u'issue', u'speech act', u'be', u'run', u'dumbfound', u'business', u'decline', u'pose', u'take to the woods', u'difficulty', u'job', u'untruth', u'contrivance', u'deceit', u'post', u'misrepresentation', u'playact', u'escape cock', u'carelessness', u'connive', u'escape', u'turn', u'succeed', u'place', u'act', u'programme', u'expression', u'neglect', u'knavery', u'stratagem', u'falsity', u'human activity', u'win', u'get away', u'get by', u'elude', u'pretermit', u'egress', u'duck', u'circumvent', u'nonaccomplishment', u'plot', u'deception', u'bring home the bacon', u'bewilder', u're-create', u'overlook', u'system', u'strategy', u'outflow', u'statement', u'state of affairs', u'means', u'scheme', u'sloppiness', u'schema', u'public presentation', u'sidestep', u'flight', u'perplex', u'break loose', u'escapism', u'billet', u'equivocation', u'serve', u'stick', u'put off', u'number', u'line', u'neglectfulness', u'reflection', u'fly', u'commerce', u'berth', u'come forth', u'rejection', u'commercialism', u'go forth', u'work', u'legal document', u'get out', u'regulator', u'nonachievement', u'mercantilism', u'situation', u'omit', u'falseness', u'do', u'break away', u'site', u'way', u'dissemble', u'skirt', u'scat', u'shunning', u'outpouring', u'escape valve', u'evasion', u'flummox', u'perform', u'natural phenomenon', u'bunk', u'agency', u'leakage', u'disuse', u'fly the coop', u'performance', u'enactment', u'fudge', u'inattention', u'roleplay', u'play', u'status', u'lam', u'plant', u'mistreatment', u'go away', u'spot', u'diversion', u'scarper', u'get off', u'plan', u'dramatic work', u'discharge', u'outline', u'head for the hills', u'falsification', u'instrument', u'intrigue', u'turn tail', u'declination', u'overleap', u'leak', u'representation', u'relief valve', u'dodging']
+2016-08-02 23:39:18,529 INFO     =====END FLAT LIST=====
+2016-08-02 23:39:18,529 INFO     Length of list is:
+2016-08-02 23:39:18,529 INFO     300
+2016-08-02 23:39:18,529 INFO     Length of setlist is:
+2016-08-02 23:39:18,529 INFO     209
+2016-08-02 23:39:18,530 INFO     ***************************
+2016-08-02 23:39:18,531 INFO     127.0.0.1 - - [02/Aug/2016 23:39:18] "POST /corpus/y HTTP/1.1" 200 -
