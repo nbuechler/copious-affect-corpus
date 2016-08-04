@@ -1,0 +1,92 @@
+2016-08-03 23:36:31,735 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-03 23:36:31,736 INFO      * Restarting with stat
+2016-08-03 23:36:31,992 WARNING   * Debugger is active!
+2016-08-03 23:36:31,996 INFO      * Debugger pin code: 294-815-374
+2016-08-03 23:36:36,577 INFO     ***************************
+2016-08-03 23:36:36,578 INFO     List is in the following mongo collection:
+2016-08-03 23:36:36,578 INFO     bewilderment-corpus-only-syn-unq-order-1
+2016-08-03 23:36:36,586 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:36,713 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-03 23:36:36,714 INFO     [u'obfuscation', u'bemusement', u'confusedness', u'disarray', u'mystification', u'puzzlement', u'muddiness', u'befuddlement', u'mental confusion', u'confusion', u'bafflement']
+2016-08-03 23:36:36,714 INFO     =====END FLAT LIST=====
+2016-08-03 23:36:36,714 INFO     Length of list is:
+2016-08-03 23:36:36,714 INFO     11
+2016-08-03 23:36:36,714 INFO     Length of setlist is:
+2016-08-03 23:36:36,714 INFO     11
+2016-08-03 23:36:36,715 INFO     ***************************
+2016-08-03 23:36:36,715 INFO     ***************************
+2016-08-03 23:36:36,715 INFO     List is in the following mongo collection:
+2016-08-03 23:36:36,715 INFO     bewilderment-corpus-only-syn-unq-order-2
+2016-08-03 23:36:36,718 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:36,848 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:36,973 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:37,102 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:37,229 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:37,369 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:37,493 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:37,618 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:37,755 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:37,900 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:38,021 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:38,142 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-03 23:36:38,142 INFO     [u'discombobulation', u'fault', u'obfuscation', u'cognitive state', u'wateriness', u'wetness', u'mystification', u'artefact', u'combining', u'darkening', u'state of mind', u'opaqueness', u'disarray', u'murkiness', u'untidiness', u'blackening', u'compounding', u'alter', u'sloppiness', u'opacity', u'puzzlement', u'combination', u'confusion', u'error', u'modify', u'artifact', u'muddiness', u'embarrassment', u'mental confusion', u'disorderliness', u'confusedness', u'change', u'messiness', u'bewilderment', u'bemusement', u'bafflement', u'befuddlement', u'activity', u'mix-up', u'cloudiness', u'disorder', u'mistake']
+2016-08-03 23:36:38,142 INFO     =====END FLAT LIST=====
+2016-08-03 23:36:38,142 INFO     Length of list is:
+2016-08-03 23:36:38,142 INFO     126
+2016-08-03 23:36:38,143 INFO     Length of setlist is:
+2016-08-03 23:36:38,143 INFO     42
+2016-08-03 23:36:38,143 INFO     ***************************
+2016-08-03 23:36:38,143 INFO     ***************************
+2016-08-03 23:36:38,143 INFO     List is in the following mongo collection:
+2016-08-03 23:36:38,143 INFO     bewilderment-corpus-only-syn-unq-order-3
+2016-08-03 23:36:38,144 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:38,270 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:38,405 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:38,550 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:38,674 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:38,824 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:38,946 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:39,067 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:39,203 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:39,328 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:39,457 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:39,583 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:39,706 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:39,841 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:39,966 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:40,099 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:40,231 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:40,355 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:40,502 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:40,627 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:40,748 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:40,870 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:40,997 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:41,120 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:41,255 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:41,379 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:41,503 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:41,625 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:41,751 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:41,876 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:42,005 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:42,128 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:42,251 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:42,374 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:42,501 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:42,625 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:42,750 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:42,874 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:42,995 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:43,129 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:43,255 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:43,382 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:36:43,504 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-03 23:36:43,504 INFO     [u'event', u'atmosphere', u'cognitive state', u'atmospheric state', u'move', u'vary', u'scantness', u'alliance', u'relation', u'go', u'bodily process', u'wearable', u'alignment', u'fissure', u'leanness', u'desex', u'plethora', u'imperfection', u'meagreness', u'unhinge', u'charge', u'combine', u'discombobulation', u'misapprehension', u'crack', u'worth', u'organic process', u'overplus', u'combination', u'incorrectness', u'aggregation', u'break', u'redact', u'accuse', u'semidarkness', u'trouble', u'difference', u'uncleanliness', u'condition', u'excessiveness', u'messiness', u'bewilderment', u'sterilise', u'demerit', u'edit', u'mushiness', u'alteration', u'natural action', u'capability', u'scantiness', u'inclementness', u'commute', u'fault', u'activity', u'identify', u'cloudiness', u'disorder', u'accumulation', u'assemblage', u'breakdown', u'murk', u'evilness', u'occurrence', u'sequence', u'mystification', u'cash', u'unkemptness', u'biological process', u'result', u'combining', u'physical phenomenon', u'operation', u'state of mind', u'scissure', u'geological fault', u'article of clothing', u'cloud cover', u'opaqueness', u'mathematical operation', u'disarray', u'murkiness', u'consequence', u'state', u'fog', u'desexualize', u'bad weather', u'compounding', u'issue', u'falsify', u'castrate', u'exchange', u'confusion', u'modify', u'interpolate', u'muddiness', u'blame', u'embarrassment', u'qualify', u'mental confusion', u'faulting', u'evil', u'excess', u'rowdiness', u'untidiness', u'sentimentality', u'frame of mind', u'cark', u'emotional state', u'shift', u'clothing', u'body process', u'inclemency', u'befuddlement', u'misplay', u'act', u'exiguity', u'whole', u'change of integrity', u'wear', u'artefact', u'fix', u'opacity', u'err', u'computer error', u'human activity', u'wateriness', u'mawkishness', u'replace', u'inattentiveness', u'meagerness', u'physical process', u'quality', u'nonaccomplishment', u'unit', u'interchange', u'service', u'union', u'transfer', u'add', u'misidentify', u'spay', u'change', u'blackening', u'vesture', u'mental state', u'thinness', u'fogginess', u'sloppiness', u'equipment failure', u'psychological state', u'flaw', u'wrongdoing', u'trait', u'serve', u'alinement', u'artifact', u'crevice', u'failure', u'bemusement', u'inordinateness', u'poorness', u'upshot', u'muss', u'deepen', u'misconception', u'spirit', u'responsibleness', u'wrongness', u'rowdyism', u'desexualise', u'coalition', u'distract', u'alter', u'perturb', u'change of color', u'superfluity', u'nonachievement', u'error', u'hard currency', u'erroneousness', u'outcome', u'natural event', u'mistake', u'bafflement', u'obfuscation', u'misstatement', u'habiliment', u'slovenliness', u'process', u'get dressed', u'wetness', u'drippiness', u'defect', u'thing', u'mathematical process', u'shame', u'slip', u'darkening', u'dress', u'erroneous belief', u'incomprehensibility', u'imperfectness', u'variety', u'emotionalism', u'travel', u'switch', u'roughness', u'activeness', u'sterilize', u'fracture', u'modification', u'cleft', u'mussiness', u'status', u'puzzlement', u'disquiet', u'social unit', u'mess', u'effect', u'collection', u'misunderstanding', u'occurrent', u'action', u'human action', u'natural process', u'bodily function', u'capacity', u'disorderliness', u'coin', u'confusedness', u'happening', u'neuter', u'emotionality', u'disturb', u'overcast', u'upset', u'temporary state', u'hard cash', u'unsex', u'soupiness', u'responsibility', u'locomote', u'mix-up', u'carelessness', u'convert']
+2016-08-03 23:36:43,505 INFO     =====END FLAT LIST=====
+2016-08-03 23:36:43,505 INFO     Length of list is:
+2016-08-03 23:36:43,505 INFO     435
+2016-08-03 23:36:43,505 INFO     Length of setlist is:
+2016-08-03 23:36:43,505 INFO     245
+2016-08-03 23:36:43,506 INFO     ***************************
+2016-08-03 23:36:43,507 INFO     127.0.0.1 - - [03/Aug/2016 23:36:43] "POST /corpus/y HTTP/1.1" 200 -

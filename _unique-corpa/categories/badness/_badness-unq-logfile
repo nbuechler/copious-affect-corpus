@@ -1,0 +1,123 @@
+2016-08-03 23:01:44,740 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-03 23:01:44,742 INFO      * Restarting with stat
+2016-08-03 23:01:44,995 WARNING   * Debugger is active!
+2016-08-03 23:01:45,001 INFO      * Debugger pin code: 294-815-374
+2016-08-03 23:34:35,462 INFO     ***************************
+2016-08-03 23:34:35,462 INFO     List is in the following mongo collection:
+2016-08-03 23:34:35,462 INFO     badness-corpus-only-syn-unq-order-1
+2016-08-03 23:34:35,471 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:35,695 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-03 23:34:35,695 INFO     [u'disobedience', u'severity', u'naughtiness', u'severeness', u'mischievousness', u'intensity', u'bad', u'intensiveness', u'quality']
+2016-08-03 23:34:35,695 INFO     =====END FLAT LIST=====
+2016-08-03 23:34:35,695 INFO     Length of list is:
+2016-08-03 23:34:35,695 INFO     9
+2016-08-03 23:34:35,696 INFO     Length of setlist is:
+2016-08-03 23:34:35,696 INFO     9
+2016-08-03 23:34:35,696 INFO     ***************************
+2016-08-03 23:34:35,696 INFO     ***************************
+2016-08-03 23:34:35,696 INFO     List is in the following mongo collection:
+2016-08-03 23:34:35,696 INFO     badness-corpus-only-syn-unq-order-2
+2016-08-03 23:34:35,698 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:35,886 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:36,050 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:36,186 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:36,313 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:36,436 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:36,572 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:36,725 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:36,853 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:37,005 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-03 23:34:37,005 INFO     [u'playfulness', u'puckishness', u'misbehavior', u'rigour', u'grade', u'inclemency', u'dimension', u'vividness', u'rank', u'calibre', u'austereness', u'intensity', u'rebelliousness', u'disobedience', u'rigorousness', u'intensiveness', u'asperity', u'quality', u'intractability', u'mischief-making', u'strength', u'severity', u'sternness', u'chroma', u'insubordination', u'roguery', u'social station', u'social status', u'sound property', u'color property', u'attribute', u'shenanigan', u'badness', u'grimness', u'social rank', u'intensity level', u'fun', u'saturation', u'caliber', u'strictness', u'hardship', u'degree', u'severeness', u'tone', u'mischievousness', u'lineament', u'volume', u'difficulty', u'whimsicality', u'rigor', u'loudness', u'timber', u'level', u'plainness', u'hardness', u'rigourousness', u'harshness', u'rascality', u'misbehaviour', u'naughtiness', u'deviltry', u'timbre', u'intractableness', u'roguishness', u'difficultness', u'devilment', u'magnitude', u'stiffness', u'mischief', u'misdeed', u'property', u'character', u'noncompliance', u'devilry', u'impishness']
+2016-08-03 23:34:37,005 INFO     =====END FLAT LIST=====
+2016-08-03 23:34:37,005 INFO     Length of list is:
+2016-08-03 23:34:37,005 INFO     108
+2016-08-03 23:34:37,006 INFO     Length of setlist is:
+2016-08-03 23:34:37,006 INFO     75
+2016-08-03 23:34:37,006 INFO     ***************************
+2016-08-03 23:34:37,006 INFO     ***************************
+2016-08-03 23:34:37,006 INFO     List is in the following mongo collection:
+2016-08-03 23:34:37,006 INFO     badness-corpus-only-syn-unq-order-3
+2016-08-03 23:34:37,009 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:37,157 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:37,283 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:37,414 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:37,542 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:37,690 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:37,814 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:37,939 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:38,070 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:38,201 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:38,338 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:38,464 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:38,590 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:38,712 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:38,836 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:38,961 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:39,091 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:39,219 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:39,338 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:39,476 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:39,601 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:39,725 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:39,850 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:39,998 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:40,125 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:40,255 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:40,383 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:40,508 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:40,631 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:40,753 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:40,877 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:40,999 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:41,136 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:41,256 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:41,380 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:41,498 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:41,626 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:41,748 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:41,874 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:41,998 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:42,120 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:42,249 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:42,373 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:42,489 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:42,614 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:42,751 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:42,887 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:43,010 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:43,135 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:43,259 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:43,382 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:43,504 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:43,631 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:43,753 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:43,882 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:44,002 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:44,129 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:44,264 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:44,409 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:44,536 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:44,658 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:44,783 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:44,915 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:45,039 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:45,164 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:45,288 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:45,421 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:45,544 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:45,671 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:45,794 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:45,920 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:46,043 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:46,179 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:46,307 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:46,436 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:34:46,559 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-03 23:34:46,559 INFO     [u'concept', u'visual property', u'scratch', u'resistance', u'timberland', u'charge', u'ambience', u'sound', u'frivolousness', u'grapheme', u'engrave', u'material possession', u'slipperiness', u'trouble', u'physical object', u'plainness', u'condition', u'posture', u'recreation', u'level', u'iniquity', u'laurels', u'long suit', u'pass judgment', u'assemblage', u'force', u'cognitive factor', u'rate', u'rebelliousness', u'earth', u'even', u'index', u'diam', u'inelegance', u'recommendation', u'verbalize', u'garishness', u'construction', u'exercise', u'evilness', u'body', u'chicane', u'honour', u'elbow grease', u'successfulness', u'rase', u'deceit', u'geographic region', u'vividness', u'merriment', u'chant', u'amount', u'verbalise', u'stiffness', u'raze', u'honor', u'diameter', u'humour', u'enactment', u'imaginary being', u'gruesomeness', u'wit', u'cogency', u'intensiveness', u'unpleasantness', u'graphic symbol', u'mischief-making', u'change surface', u'asset', u'type', u'sort', u'dissembling', u'solid ground', u'trait', u'inflect', u'ascribe', u'award', u'train', u'adult', u'effort', u'naughtiness', u'abrasiveness', u'sound property', u'frivolity', u'believability', u'lumber', u'musical notation', u'rank and file', u'speciality', u'callosity', u'attribute', u'powerfulness', u'purity', u'cows', u'impregnation', u'witticism', u'reputation', u'visual aspect', u'awkwardness', u'malevolence', u'feature', u'roughness', u'malevolency', u'forest', u'classify', u'even out', u'tension', u'product', u'abstraction', u'strictness', u'colour in', u'membership', u'wittiness', u'tier', u'ablaut', u'persuasiveness', u'actus reus', u'shade', u'order', u'talk', u'volume', u'restrictiveness', u'rigorousness', u'pitch', u'misconduct', u'wickedness', u'raggedness', u'feel', u'production', u'wrongful conduct', u'horizontal surface', u'insensibility', u'deviltry', u'capriciousness', u'tensity', u'devilment', u'capability', u'filling', u'magnitude', u'scratchiness', u'arcdegree', u'lastingness', u'noncompliance', u'exertion', u'permeation', u'arbitrariness', u'durability', u'ambiance', u'whimsy', u'pure tone', u'colourize', u'geographical region', u'misfortune', u'gradient', u'bad', u'gradation', u'forte', u'enduringness', u'military capability', u'evaluation', u'whole tone', u'fiber', u'disobedience', u'angular unit', u'social rank', u'inscribe', u'difficulty', u'temperature unit', u'tonicity', u'place', u'loudness', u'assign', u'degree', u'grade', u'rank', u'flashiness', u'belongings', u'tenseness', u'clarity', u'quality', u'bad weather', u'story', u'publication', u'construct', u'assort', u'badness', u'grimness', u'travail', u'tonus', u'painstakingness', u'direct', u'part', u'conscientiousness', u'kine', u'guile', u'discolor', u'musical interval', u'feeling', u'gathering', u'prankishness', u'tautness', u'strengthen', u'inclemency', u'strong suit', u'unfeelingness', u'prosperity', u'sport', u'colorise', u'permanence', u'note', u'permanency', u'take', u'destroy', u'effectiveness', u'gracelessness', u'tawdriness', u'play', u'caliber', u'consistency', u'pervasion', u'mouth', u'class', u'grave', u'exponent', u'unpermissiveness', u'potency', u'stringency', u'intractableness', u'destruct', u'whole step', u'ruggedness', u'brashness', u'whimsey', u'quantity', u'slope', u'rating', u'atmosphere', u'tincture', u'ill nature', u'inclementness', u'meretriciousness', u'gauge', u'utter', u'ground', u'fibre', u'indicator', u'coloring', u'ratio', u'trickiness', u'proportion', u'color property', u'severeness', u'good word', u'malice', u'beam', u'clumsiness', u'inelasticity', u'lucidity', u'homeliness', u'resolve', u'tastelessness', u'geographic area', u'body part', u'intensity level', u'activity', u'grad', u'reference', u'austereness', u'intensity', u'cattle', u'asperity', u'playfulness', u'pull down', u'dishonesty', u'roguery', u'case', u'state', u'score', u'suffusion', u'hardship', u'importance', u'lineament', u'firmness', u'defiance', u'level off', u'capableness', u'military strength', u'outrank', u'spirit level', u'shiftiness', u'tone', u'point', u'color', u'terra firma', u'calibre', u'gaiety', u'insensitiveness', u'speak', u'tint', u'trickery', u'testimonial', u'irresponsibility', u'chroma', u'mark', u'interest', u'weather condition', u'limpidity', u'cruelty', u'bulk', u'tear down', u'printed symbol', u'spirit', u'hardness', u'harshness', u'chicanery', u'conception', u'look', u'appearance', u'value', u'aim', u'bad luck', u'rigour', u'fun', u'wile', u'property', u'imaginary creature', u'musical note', u'discolour', u'layer', u'hard knocks', u'surface', u'color in', u'ghastliness', u'strong point', u'personation', u'gaudiness', u'severity', u'woodland', u'order of magnitude', u'speech', u'mischievousness', u'clearness', u'status', u'persona', u'tough luck', u'eccentric', u'evil', u'diversion', u'strength', u'colouring', u'timbre', u'colour', u'consistence', u'military posture', u'difficultness', u'written symbol', u'personnel', u'position', u'dimension', u'devilry', u'cruelness', u'tone up', u'glitz', u'dry land', u'ill luck', u'storey', u'shape', u'surpass', u'flavor', u'dissimulation', u'modulate', u'timber', u'biome', u'take aim', u'characterization', u'character', u'insubordination', u'stratum', u'saturation', u'elevation', u'evaluate', u'irresponsibleness', u'judge', u'height', u'sort out', u'geographical area', u'balefulness', u'forcefulness', u'adversity', u'resoluteness', u'flush', u'auditory sensation', u'bore', u'work out', u'intractability', u'humor', u'character reference', u'pureness', u'prop', u'interestingness', u'social status', u'shenanigan', u'be', u'object', u'power', u'fictional character', u'step', u'post', u'stage', u'stand out', u'puckishness', u'roguishness', u'colourise', u'range', u'plus', u'sweat', u'rigor', u'atmospheric condition', u'academic degree', u'misbehavior', u'social station', u'sharpness', u'assess', u'weather', u'portrayal', u'colorize', u'deception', u'sternness', u'firmness of purpose', u'altitude', u'manner of speaking', u'intone', u'wrongdoing', u'rigourousness', u'theatrical role', u'insensitivity', u'mischief', u'form', u'immorality', u'Bos taurus', u'specialty', u'delivery', u'rascality', u'misdeed', u'line', u'valuation', u'Cartesian coordinate', u'flavour', u'misbehaviour', u'fictitious character', u'luridness', u'tone of voice', u'impute', u'appraise', u'possession', u'oxen', u'measure', u'credibleness', u'impishness', u'callousness', u'metier', u'levity', u'maleficence', u'floor', u'credibility', u'excel', u'book', u'role', u'pellucidity', u'holding', u'repute', u'lucidness', u'smell', u'perspicuousness', u'separate', u'valuate', u'dismantle', u'whimsicality', u'validity', u'frightfulness', u'take down', u'structure', u'ground level', u'land', u'interval', u'accolade', u'mass', u'perspicuity', u'grownup', u'building material', u'resolution', u'flightiness']
+2016-08-03 23:34:46,560 INFO     =====END FLAT LIST=====
+2016-08-03 23:34:46,560 INFO     Length of list is:
+2016-08-03 23:34:46,560 INFO     1013
+2016-08-03 23:34:46,560 INFO     Length of setlist is:
+2016-08-03 23:34:46,560 INFO     492
+2016-08-03 23:34:46,561 INFO     ***************************
+2016-08-03 23:34:46,562 INFO     127.0.0.1 - - [03/Aug/2016 23:34:46] "POST /corpus/y HTTP/1.1" 200 -

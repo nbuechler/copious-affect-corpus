@@ -1,0 +1,77 @@
+2016-08-03 23:41:32,818 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-03 23:41:32,819 INFO      * Restarting with stat
+2016-08-03 23:41:33,072 WARNING   * Debugger is active!
+2016-08-03 23:41:33,077 INFO      * Debugger pin code: 294-815-374
+2016-08-03 23:41:45,443 INFO     ***************************
+2016-08-03 23:41:45,443 INFO     List is in the following mongo collection:
+2016-08-03 23:41:45,443 INFO     certainty-corpus-only-syn-unq-order-1
+2016-08-03 23:41:45,451 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:45,575 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-03 23:41:45,575 INFO     [u'quality', u'foregone conclusion', u'cognitive state', u'sure thing', u'state of mind']
+2016-08-03 23:41:45,576 INFO     =====END FLAT LIST=====
+2016-08-03 23:41:45,576 INFO     Length of list is:
+2016-08-03 23:41:45,576 INFO     5
+2016-08-03 23:41:45,576 INFO     Length of setlist is:
+2016-08-03 23:41:45,576 INFO     5
+2016-08-03 23:41:45,576 INFO     ***************************
+2016-08-03 23:41:45,576 INFO     ***************************
+2016-08-03 23:41:45,576 INFO     List is in the following mongo collection:
+2016-08-03 23:41:45,576 INFO     certainty-corpus-only-syn-unq-order-2
+2016-08-03 23:41:45,578 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:45,704 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:45,827 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:45,947 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:46,074 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:46,192 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-03 23:41:46,192 INFO     [u'tone', u'grade', u'attribute', u'social station', u'rank', u'ending', u'finish', u'matter of course', u'state of mind', u'quality', u'timber', u'sure thing', u'character', u'calibre', u'state', u'social status', u'mental state', u'social rank', u'conclusion', u'psychological state', u'caliber', u'degree', u'lineament', u'cognitive state', u'frame of mind', u'foregone conclusion', u'level', u'timbre', u'certainty', u'temporary state', u'sound property', u'property', u'dimension']
+2016-08-03 23:41:46,192 INFO     =====END FLAT LIST=====
+2016-08-03 23:41:46,192 INFO     Length of list is:
+2016-08-03 23:41:46,193 INFO     36
+2016-08-03 23:41:46,193 INFO     Length of setlist is:
+2016-08-03 23:41:46,193 INFO     33
+2016-08-03 23:41:46,193 INFO     ***************************
+2016-08-03 23:41:46,193 INFO     ***************************
+2016-08-03 23:41:46,194 INFO     List is in the following mongo collection:
+2016-08-03 23:41:46,194 INFO     certainty-corpus-only-syn-unq-order-3
+2016-08-03 23:41:46,196 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:46,317 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:46,446 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:46,564 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:46,684 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:46,810 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:46,931 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:47,058 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:47,181 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:47,303 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:47,426 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:47,549 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:47,667 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:47,795 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:47,912 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:48,032 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:48,152 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:48,277 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:48,399 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:48,521 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:48,644 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:48,766 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:48,890 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:49,016 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:49,143 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:49,269 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:49,403 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:49,527 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:49,664 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:49,790 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:49,914 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:50,047 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:50,186 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:50,306 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-03 23:41:50,307 INFO     [u'concept', u'scratch', u'proposition', u'timberland', u'settlement', u'charge', u'ambience', u'sound', u'grapheme', u'choice', u'material possession', u'physical object', u'condition', u'level', u'laurels', u'decorativeness', u'pass judgment', u'assemblage', u'force', u'occurrence', u'direct', u'rate', u'earth', u'even', u'index', u'diam', u'section', u'verbalize', u'political entity', u'construction', u'exercise', u'body', u'degree', u'honour', u'United States Department of State', u'refinement', u'rase', u'geographic region', u'administrative district', u'chant', u'point in time', u'verbalise', u'musical note', u'pick', u'raze', u'honor', u'diameter', u'enactment', u'imaginary being', u'graphic symbol', u'destination', u'change surface', u'cultivation', u'mental state', u'type', u'tell', u'sort', u'solid ground', u'trait', u'inflect', u'ascribe', u'award', u'train', u'adult', u'sound property', u'colour in', u'lumber', u'musical notation', u'res publica', u'closing', u'rank and file', u'downfall', u'attribute', u'cows', u'end', u'goal', u'feature', u'forest', u'classify', u'even out', u'tension', u'abstraction', u'membership', u'tier', u'ablaut', u'administrative division', u'coat', u'shade', u'DoS', u'order', u'talk', u'cognitive state', u'move', u'pitch', u'culmination', u'grade', u'horizontal surface', u'propose', u'nation', u'chemical phenomenon', u'tensity', u'magnitude', u'arcdegree', u'tenseness', u'commonwealth', u'taste sensation', u'ambiance', u'finish', u'pure tone', u'colourize', u'geographical region', u'gradient', u'State Department', u'gradation', u'ratiocination', u'engrave', u'evaluation', u'fiber', u'angular unit', u'social rank', u'inscribe', u'frame of mind', u'emotional state', u'tonicity', u'place', u'assign', u'ruination', u'feel', u'rank', u'belongings', u'construct', u'quality', u'story', u'body politic', u'assort', u'assumption', u'morpheme', u'option', u'tonus', u'part', u'kine', u'State', u'discolor', u'musical interval', u'posit', u'feeling', u'gathering', u'tautness', u'strengthen', u'mind', u'measure', u'say', u'manner of speaking', u'colorise', u'note', u'take', u'destroy', u'province', u'caliber', u'object', u'temperature unit', u'mouth', u'position', u'flawlessness', u'class', u'grave', u'temporary state', u'destruct', u'reputation', u'finis', u'slope', u'rating', u'atmosphere', u'selection', u'tincture', u'terminate', u'supposition', u'ending', u'give tongue to', u'gauge', u'utter', u'ground', u'completion', u'fibre', u'indicator', u'coloring', u'eat up', u'valuation', u'ruin', u'proportion', u'supposal', u'good word', u'express', u'stop', u'beam', u'perfection', u'end up', u'geographic area', u'body part', u'whole tone', u'finishing', u'grad', u'reference', u'culture', u'cattle', u'close', u'change of state', u'exponent', u'pull down', u'state', u'score', u'lineament', u'ne plus ultra', u'level off', u'foregone conclusion', u'last', u'country', u'spirit level', u'tone', u'characterization', u'color', u'terra firma', u'height', u'speak', u'tint', u'sure thing', u'testimonial', u'mark', u'psychological state', u'finish up', u'determination', u'printed symbol', u'spirit', u'case', u'conception', u'look', u'windup', u'value', u'aim', u'territorial division', u'outrank', u'property', u'imaginary creature', u'natural event', u'discolour', u'layer', u'coating', u'surface', u'color in', u'personation', u'suggest', u'woodland', u'speech', u'gustatory sensation', u'advise', u'status', u'persona', u'eccentric', u'occurrent', u'put forward', u'colouring', u'judgment', u'timbre', u'colour', u'written symbol', u'termination', u'dimension', u'tone up', u'dry land', u'storey', u'shape', u'cease', u'surpass', u'polish', u'flavor', u'modulate', u'timber', u'biome', u'take aim', u'land up', u'point', u'character', u'calibre', u'stratum', u'elevation', u'government', u'evaluate', u'judgement', u'judge', u'state of matter', u'sort out', u'geographical area', u'wind up', u'taste perception', u'recommendation', u'auditory sensation', u'bore', u'work out', u'character reference', u'decision', u'prop', u'social status', u'refer', u'be', u'power', u'fictional character', u'step', u'post', u'stage', u'stand out', u'certainty', u'political unit', u'colourise', u'range', u'act', u'academic degree', u'social station', u'assess', u'portrayal', u'colorize', u'altitude', u'submit', u'intone', u'fetch up', u'theatrical role', u'complete', u'form', u'Bos taurus', u'gustatory perception', u'delivery', u'whole step', u'line', u'stopping point', u'eat', u'Cartesian coordinate', u'mop up', u'flavour', u'fictitious character', u'executive department', u'tone of voice', u'impute', u'appraise', u'possession', u'oxen', u'taste', u'flush', u'denote', u'matter of course', u'regime', u'state of mind', u'floor', u'personnel', u'excel', u'role', u'holding', u'repute', u'smell', u'Department of State', u'conclusion', u'separate', u'valuate', u'finale', u'dismantle', u'authorities', u'take down', u'structure', u'ground level', u'land', u'subdivision', u'happening', u'polish off', u'tear down', u'interval', u'accolade', u'grownup', u'building material']
+2016-08-03 23:41:50,307 INFO     =====END FLAT LIST=====
+2016-08-03 23:41:50,307 INFO     Length of list is:
+2016-08-03 23:41:50,307 INFO     548
+2016-08-03 23:41:50,307 INFO     Length of setlist is:
+2016-08-03 23:41:50,307 INFO     376
+2016-08-03 23:41:50,307 INFO     ***************************
+2016-08-03 23:41:50,308 INFO     127.0.0.1 - - [03/Aug/2016 23:41:50] "POST /corpus/y HTTP/1.1" 200 -

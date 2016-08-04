@@ -1,0 +1,119 @@
+2016-08-03 23:42:17,406 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-03 23:42:17,407 INFO      * Restarting with stat
+2016-08-03 23:42:17,669 WARNING   * Debugger is active!
+2016-08-03 23:42:17,674 INFO      * Debugger pin code: 294-815-374
+2016-08-03 23:42:19,864 INFO     ***************************
+2016-08-03 23:42:19,864 INFO     List is in the following mongo collection:
+2016-08-03 23:42:19,864 INFO     cleverness-corpus-only-syn-unq-order-1
+2016-08-03 23:42:19,872 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:19,995 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-03 23:42:19,995 INFO     [u'high quality', u'ingenuity', u'brightness', u'ingeniousness', u'smartness', u'creativity', u'creativeness', u'superiority', u'intelligence', u'inventiveness', u'creative thinking']
+2016-08-03 23:42:19,996 INFO     =====END FLAT LIST=====
+2016-08-03 23:42:19,996 INFO     Length of list is:
+2016-08-03 23:42:19,996 INFO     11
+2016-08-03 23:42:19,996 INFO     Length of setlist is:
+2016-08-03 23:42:19,996 INFO     11
+2016-08-03 23:42:19,996 INFO     ***************************
+2016-08-03 23:42:19,996 INFO     ***************************
+2016-08-03 23:42:19,996 INFO     List is in the following mongo collection:
+2016-08-03 23:42:19,996 INFO     cleverness-corpus-only-syn-unq-order-2
+2016-08-03 23:42:19,999 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:20,121 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:20,245 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:20,369 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:20,491 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:20,613 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:20,740 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:20,862 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:20,996 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:21,119 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:21,241 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:21,364 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-03 23:42:21,364 INFO     [u'haughtiness', u'luminance', u'information gathering', u'ingenuity', u'favorable position', u'intelligence', u'tidings', u'physical property', u'transcendency', u'life', u'intelligence agency', u'brightness level', u'transcendence', u'alacrity', u'favourable position', u'last word', u'creative thinking', u'chic', u'cleverness', u'quality', u'smarting', u'briskness', u'intelligence service', u'luminousness', u'advantage', u'sprightliness', u'ingeniousness', u'intelligence information', u'creativity', u'calibre', u'elegance', u'arrogance', u'liveliness', u'administrative unit', u'modishness', u'high-handedness', u'hauteur', u'smart', u'hurting', u'caliber', u'pain', u'ability', u'power', u'vantage', u'high quality', u'stylishness', u'administrative body', u'chichi', u'swank', u'news', u'lightness', u'spirit', u'intelligence activity', u'info', u'supremacy', u'word', u'brightness', u'mastery', u'light', u'smartness', u'intelligence operation', u'domination', u'chicness', u'information', u'creativeness', u'superiority', u'luminosity', u'inventiveness', u'lordliness']
+2016-08-03 23:42:21,364 INFO     =====END FLAT LIST=====
+2016-08-03 23:42:21,364 INFO     Length of list is:
+2016-08-03 23:42:21,364 INFO     102
+2016-08-03 23:42:21,365 INFO     Length of setlist is:
+2016-08-03 23:42:21,365 INFO     69
+2016-08-03 23:42:21,365 INFO     ***************************
+2016-08-03 23:42:21,365 INFO     ***************************
+2016-08-03 23:42:21,365 INFO     List is in the following mongo collection:
+2016-08-03 23:42:21,365 INFO     cleverness-corpus-only-syn-unq-order-3
+2016-08-03 23:42:21,369 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:21,508 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:21,632 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:21,755 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:21,875 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:21,998 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:22,121 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:22,242 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:22,364 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:22,488 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:22,614 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:22,738 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:22,860 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:22,987 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:23,111 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:23,236 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:23,362 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:23,484 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:23,608 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:23,735 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:23,893 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:24,017 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:24,148 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:24,271 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:24,399 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:24,526 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:24,646 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:24,813 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:24,940 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:25,069 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:25,200 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:25,333 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:25,462 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:25,592 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:25,723 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:25,846 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:25,970 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:26,103 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:26,223 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:26,344 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:26,476 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:26,600 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:26,738 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:26,862 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:26,986 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:27,113 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:27,237 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:27,365 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:27,489 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:27,623 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:27,764 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:27,886 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:28,006 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:28,126 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:28,259 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:28,397 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:28,526 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:28,648 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:28,771 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:28,906 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:29,027 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:29,156 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:29,285 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:29,425 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:29,565 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:29,686 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:29,821 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:29,941 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:30,064 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:42:30,195 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-03 23:42:30,196 INFO     [u'positive identification', u'visual property', u'Inner Light', u'entropy', u'welfare', u'superpower', u'briskness', u'liveliness', u'baron', u'flash', u'arrogance', u'program', u'actinic radiation', u'ambience', u'pride', u'light source', u'Logos', u'haughtiness', u'advantage', u'administrative body', u'fall', u'trouble', u'condition', u'magnate', u'level', u'chicness', u'joyfulness', u'accumulation', u'somaesthesia', u'programme', u'force', u'newsworthiness', u'perspective', u'pass', u'lighten up', u'life-time', u'period of time', u'index', u'diam', u'get down', u'religious writing', u'favour', u'set down', u'degree', u'Light', u'hypostasis', u'substance', u'cause to be perceived', u'pain sensation', u'experience', u'diameter', u'living thing', u'general knowledge', u'morals', u'prefer', u'Book', u'illumination', u'unit', u'subject matter', u'Holy Writ', u'enliven', u'language unit', u'speech communication', u'high-handedness', u'chic', u'negative stimulus', u'expose', u'hurt', u'ignitor', u'domination', u'sacred writing', u'creative thinking', u'account', u'word', u'soul', u'sound property', u'botheration', u'somatesthesia', u'res publica', u'somesthesia', u'history', u'control', u'heart', u'ingenuity', u'attribute', u'Christ Within', u'supremacy', u'powerfulness', u'supernatural being', u'phrase', u'story', u'biography', u'information', u'provide', u'discussion', u'significance', u'dominance', u'unhorse', u'collection', u'lighting', u'ethics', u'data', u'light', u'aliveness', u'order', u'ignite', u'office', u'insight', u'arcanum', u'alacrity', u'brio', u'mightiness', u'existence', u'go down', u'swank', u'feel', u'visible light', u'pain in the neck', u'might', u'hurting', u'someone', u'somebody', u'invigoration', u'brainwave', u'nation', u'Good Book', u'religious text', u'beingness', u'big businessman', u'brightness', u'mastery', u'cognition', u'countersign', u'visual signal', u'intelligence service', u'last word', u'commonwealth', u'illuminate', u'weight', u'ambiance', u'vital principle', u'combust', u'word of honor', u'legerity', u'operation', u'organic phenomenon', u'disagreeable person', u'living', u'luminousness', u'life sentence', u'content', u'sparkle', u'cause', u'give voice', u'fiber', u'Word', u'social rank', u'news show', u'disposition', u'language', u'emotional state', u'give-and-take', u'spoken communication', u'place', u'assemblage', u'mortal', u'devolve', u'emotion', u'purport', u'grade', u'physical property', u'transcendency', u'scene', u'rank', u'transcendence', u'sacred text', u'message', u'quality', u'discompose', u'body politic', u'Light Within', u'statement', u'Holy Scripture', u'friend', u'agility', u'broadcast', u'symptom', u'show off', u'king', u'skillfulness', u'bother', u'selective information', u'inventiveness', u'feeling', u'ascendancy', u'exhibit', u'motivation', u'argument', u'Word of God', u'mogul', u'liven up', u'need', u'cleverness', u'fire up', u'strength', u'unpleasant person', u'elegance', u'elation', u'animation', u'caliber', u'pain', u'infliction', u'ascendency', u'top executive', u'visible radiation', u'get off', u'ascendence', u'inspirit', u'device', u'nuisance', u'morality', u'lordliness', u'chronicle', u'igniter', u'lightsomeness', u'upset', u'gravitas', u'face', u'creativeness', u'businessman', u'perch', u'atmosphere', u'luminance', u'show', u'alight', u'tidings', u'ostentate', u'pain in the ass', u'gauge', u'painfulness', u'fibre', u'illumine', u'knowledge', u'social control', u'spiritual being', u'ascendance', u'lighten', u'express', u'lighter', u'great power', u'intelligence agency', u'nimbleness', u'luminosity', u'activity', u'flaunt', u'major power', u'view', u'life principle', u'intelligence', u'individual', u'favorable position', u'linguistic unit', u'exponent', u'mien', u'favor', u'state', u'giddiness', u'import', u'social unit', u'hauteur', u'Bible', u'ability', u'joy', u'lineament', u'high quality', u'news', u'spark', u'lightness', u'country', u'time period', u'animate thing', u'expression', u'business leader', u'tone', u'supply', u'period', u'accusation', u'prison term', u'painful sensation', u'creativity', u'secret', u'watchword', u'interest', u'life', u'sprightliness', u'liven', u'temperament', u'intelligence activity', u'spirit', u'look', u'invigorate', u'smartness', u'intelligence operation', u'value', u'ail', u'property', u'joyousness', u'actinic ray', u'accusal', u'return', u'anguish', u'speech', u'descend', u'ethical motive', u'facial expression', u'status', u'intelligence information', u'spirit up', u'Christian Bible', u'vantage', u'timbre', u'Son', u'person', u'command', u'illume', u'position', u'reward', u'dimension', u'noesis', u'sentence', u'being', u'disconcert', u'evince', u'aspect', u'information gathering', u'flavor', u'Scripture', u'timber', u'bearing', u'comportment', u'ingeniousness', u'point', u'character', u'calibre', u'light up', u'weightlessness', u'man of affairs', u'voice communication', u'brainstorm', u'smart', u'public knowledge', u'modishness', u'aggregation', u'stylishness', u'dismount', u'password', u'dignity', u'vivification', u'military operation', u'source of illumination', u'benefit', u'superiority', u'come down', u'afflict', u'spiritedness', u'authority', u'brightness level', u'motive', u'physical phenomenon', u'animate', u'smarting', u'administrative unit', u'twinkle', u'untune', u'oral communication', u'interestingness', u'social status', u'subordination', u'news program', u'power', u'burn', u'ply', u'ache', u'high spirits', u'discomfit', u'plus', u'cater', u'presence', u'social station', u'articulate', u'promise', u'annoyance', u'formulate', u'life story', u'somatic sensation', u'asset', u'tycoon', u'vitality', u'gracefulness', u'info', u'causal agency', u'disembodied spirit', u'flavour', u'silliness', u'world power', u'lifespan', u'display', u'information measure', u'favourable position', u'signification', u'lifetime', u'bore', u'life history', u'mathematical notation', u'spoken language', u'smell', u'dresser', u'computer memory unit', u'meaning', u'intent', u'causal agent', u'land', u'verve', u'chichi', u'time', u'parole', u'hypostasis of Christ']
+2016-08-03 23:42:30,196 INFO     =====END FLAT LIST=====
+2016-08-03 23:42:30,196 INFO     Length of list is:
+2016-08-03 23:42:30,196 INFO     759
+2016-08-03 23:42:30,196 INFO     Length of setlist is:
+2016-08-03 23:42:30,196 INFO     427
+2016-08-03 23:42:30,196 INFO     ***************************
+2016-08-03 23:42:30,197 INFO     127.0.0.1 - - [03/Aug/2016 23:42:30] "POST /corpus/y HTTP/1.1" 200 -

@@ -1,0 +1,59 @@
+2016-08-03 23:38:10,552 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-03 23:38:10,552 INFO      * Restarting with stat
+2016-08-03 23:38:10,808 WARNING   * Debugger is active!
+2016-08-03 23:38:10,813 INFO      * Debugger pin code: 294-815-374
+2016-08-03 23:38:14,929 INFO     ***************************
+2016-08-03 23:38:14,930 INFO     List is in the following mongo collection:
+2016-08-03 23:38:14,930 INFO     blessedness-corpus-only-syn-unq-order-1
+2016-08-03 23:38:14,940 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:15,071 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-03 23:38:15,071 INFO     [u'beatification', u'felicity', u'beatitude', u'happiness']
+2016-08-03 23:38:15,071 INFO     =====END FLAT LIST=====
+2016-08-03 23:38:15,071 INFO     Length of list is:
+2016-08-03 23:38:15,071 INFO     4
+2016-08-03 23:38:15,071 INFO     Length of setlist is:
+2016-08-03 23:38:15,071 INFO     4
+2016-08-03 23:38:15,071 INFO     ***************************
+2016-08-03 23:38:15,072 INFO     ***************************
+2016-08-03 23:38:15,072 INFO     List is in the following mongo collection:
+2016-08-03 23:38:15,072 INFO     blessedness-corpus-only-syn-unq-order-2
+2016-08-03 23:38:15,073 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:15,201 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:15,323 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:15,443 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:15,568 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-03 23:38:15,568 INFO     [u'saying', u'feeling', u'emotional state', u'beatification', u'Beatitude', u'locution', u'beatitude', u'expression', u'felicity', u'felicitousness', u'sanctification', u'action', u'appropriateness', u'blessedness', u'spirit', u'happiness']
+2016-08-03 23:38:15,568 INFO     =====END FLAT LIST=====
+2016-08-03 23:38:15,569 INFO     Length of list is:
+2016-08-03 23:38:15,569 INFO     23
+2016-08-03 23:38:15,569 INFO     Length of setlist is:
+2016-08-03 23:38:15,569 INFO     16
+2016-08-03 23:38:15,569 INFO     ***************************
+2016-08-03 23:38:15,569 INFO     ***************************
+2016-08-03 23:38:15,569 INFO     List is in the following mongo collection:
+2016-08-03 23:38:15,570 INFO     blessedness-corpus-only-syn-unq-order-3
+2016-08-03 23:38:15,573 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:15,699 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:15,824 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:15,944 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:16,064 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:16,195 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:16,319 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:16,446 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:16,581 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:16,708 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:16,831 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:16,956 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:17,081 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:17,210 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:17,337 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:17,471 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:38:17,590 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-03 23:38:17,590 INFO     [u'impression', u'atmosphere', u'mathematical statement', u'saying', u'manifestation', u'brio', u'aspect', u'constituent', u'touch', u'flavor', u'happiness', u'fibre', u'style', u'suitableness', u'purport', u'character', u'touch sensation', u'human activity', u'squeezing', u'spiritual being', u'sanctification', u'ambience', u'voice communication', u'organic process', u'legal action', u'invigoration', u'felicity', u'group action', u'import', u'execute', u'vivification', u'properness', u'activity', u'somaesthesia', u'fulfil', u'set up', u'ambiance', u'idea', u'vital principle', u'biological process', u'fiber', u'animate', u'invigorate', u'sue', u'accomplish', u'proceeding', u'beatitude', u'oral communication', u'liveliness', u'state', u'formula', u'natural action', u'perception', u'belief', u'countenance', u'carry through', u'grammatical construction', u'disposition', u'rightness', u'tactual sensation', u'action mechanism', u'language', u'emotional state', u'locution', u'tactile sensation', u'spoken communication', u'act', u'action', u'opinion', u'appropriateness', u'verbalism', u'emotion', u'life principle', u'intuition', u'tone', u'verbal expression', u'feel', u'reflexion', u'legal proceeding', u'correctitude', u'intuitive feeling', u'plot', u'enliven', u'speech communication', u'somatic sensation', u'natural process', u'life', u'sprightliness', u'litigate', u'liven', u'construction', u'suitability', u'grammatical constituent', u'expressive style', u'squeeze', u'spirit', u'felicitousness', u'disembodied spirit', u'flavour', u'look', u'military action', u'action at law', u'challenge', u'work', u'human action', u'somatesthesia', u'fulfill', u'somesthesia', u'feeling', u'carry out', u'spiritedness', u'heart', u'physical process', u'visage', u'effectuate', u'process', u'demo', u'supernatural being', u'Beatitude', u'liven up', u'formulation', u'signification', u'demonstration', u'complete', u'propriety', u'mechanism', u'activeness', u'animation', u'speech', u'facial expression', u'spoken language', u'smell', u'religious ritual', u'finish', u'communicating', u'spirit up', u'effect', u'meaning', u'intent', u'inspirit', u'temperament', u'reflection', u'beatification', u'drive', u'face', u'thought', u'religious ceremony', u'proceedings', u'expression', u'communication', u'significance', u'blessedness', u'notion']
+2016-08-03 23:38:17,590 INFO     =====END FLAT LIST=====
+2016-08-03 23:38:17,591 INFO     Length of list is:
+2016-08-03 23:38:17,591 INFO     211
+2016-08-03 23:38:17,591 INFO     Length of setlist is:
+2016-08-03 23:38:17,591 INFO     153
+2016-08-03 23:38:17,591 INFO     ***************************
+2016-08-03 23:38:17,591 INFO     127.0.0.1 - - [03/Aug/2016 23:38:17] "POST /corpus/y HTTP/1.1" 200 -
