@@ -1,0 +1,67 @@
+2016-08-03 23:41:08,950 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-03 23:41:08,951 INFO      * Restarting with stat
+2016-08-03 23:41:09,207 WARNING   * Debugger is active!
+2016-08-03 23:41:09,212 INFO      * Debugger pin code: 294-815-374
+2016-08-03 23:41:15,335 INFO     ***************************
+2016-08-03 23:41:15,335 INFO     List is in the following mongo collection:
+2016-08-03 23:41:15,335 INFO     cautiousness-corpus-only-syn-unq-order-1
+2016-08-03 23:41:15,342 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:15,471 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-03 23:41:15,471 INFO     [u'attentiveness', u'caution', u'carefulness']
+2016-08-03 23:41:15,471 INFO     =====END FLAT LIST=====
+2016-08-03 23:41:15,472 INFO     Length of list is:
+2016-08-03 23:41:15,472 INFO     3
+2016-08-03 23:41:15,472 INFO     Length of setlist is:
+2016-08-03 23:41:15,472 INFO     3
+2016-08-03 23:41:15,472 INFO     ***************************
+2016-08-03 23:41:15,472 INFO     ***************************
+2016-08-03 23:41:15,472 INFO     List is in the following mongo collection:
+2016-08-03 23:41:15,473 INFO     cautiousness-corpus-only-syn-unq-order-2
+2016-08-03 23:41:15,476 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:15,609 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:15,731 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:15,854 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-03 23:41:15,854 INFO     [u'warning', u'caution', u'thoughtfulness', u'circumspection', u'discretion', u'monish', u'regard', u'heed', u'trait', u'attention', u'carefulness', u'warn', u'admonish', u'forethought', u'consideration', u'cautiousness', u'care', u'considerateness', u'attentiveness', u'attending', u'paying attention', u'discernment', u'judiciousness', u'caveat', u'precaution']
+2016-08-03 23:41:15,854 INFO     =====END FLAT LIST=====
+2016-08-03 23:41:15,855 INFO     Length of list is:
+2016-08-03 23:41:15,855 INFO     27
+2016-08-03 23:41:15,855 INFO     Length of setlist is:
+2016-08-03 23:41:15,855 INFO     25
+2016-08-03 23:41:15,855 INFO     ***************************
+2016-08-03 23:41:15,855 INFO     ***************************
+2016-08-03 23:41:15,856 INFO     List is in the following mongo collection:
+2016-08-03 23:41:15,856 INFO     cautiousness-corpus-only-syn-unq-order-3
+2016-08-03 23:41:15,859 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:15,983 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:16,114 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:16,236 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:16,358 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:16,483 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:16,608 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:16,738 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:16,869 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:16,998 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:17,125 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:17,253 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:17,386 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:17,512 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:17,637 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:17,778 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:17,901 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:18,021 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:18,149 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:18,292 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:18,415 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:18,540 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:18,667 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:18,790 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:18,916 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-03 23:41:19,039 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-03 23:41:19,039 INFO     [u'benignity', u'fixture', u'consider', u'repair', u'mending', u'warmheartedness', u'mental faculty', u'attitude', u'word of advice', u'upkeep', u'touch', u'fear', u'thoughtfulness', u'wiseness', u'tending', u'safeguard', u'thinking', u'fix', u'point', u'help', u'discourse', u'attraction', u'charge', u'condition', u'relate', u'monish', u'premeditation', u'handle', u'prudence', u'judgement', u'mental attitude', u'group action', u'affect', u'kindness', u'provision', u'cautiousness', u'desire', u'knock', u'attentiveness', u'like', u'laurels', u'conceive', u'compassionate', u'paying attention', u'greeting', u'magnet', u'item', u'planning', u'heed', u'touch on', u'precaution', u'view', u'attractive feature', u'deal', u'admonition', u'module', u'see', u'perception', u'enjoin', u'salutation', u'sympathize with', u'plight', u'concern', u'circumspection', u'stance', u'tenderness', u'attendance', u'liberty', u'discretion', u'honour', u'refer', u'knowing', u'notice', u'philia', u'obey', u'power', u'circumstance', u'delicacy', u'attention', u'carefulness', u'understanding', u'attending', u'step', u'protection', u'musing', u'consideration', u'fondness', u'care', u'pity', u'contemplation', u'warmness', u'pertain', u'secernment', u'informing', u'retainer', u'give care', u'thought process', u'think', u'attractor', u'heart', u'criticise', u'reflexion', u'manage', u'treatment', u'intellection', u'esteem', u'rede', u'respect', u'guard', u'tutelage', u'making known', u'stare', u'cerebration', u'fee', u'pick apart', u'sapience', u'discrimination', u'feel for', u'mentation', u'gaze', u'maintenance', u'tell', u'listen', u'reparation', u'trait', u'regard', u'forethought', u'wisdom', u'warn', u'admonish', u'believe', u'predicament', u'counsel', u'anxiety', u'compliments', u'look', u'apprehension', u'wish', u'sagaciousness', u'basic cognitive process', u'discernment', u'preparation', u'judiciousness', u'caveat', u'aid', u'affection', u'guardianship', u'control', u'monition', u'want', u'taste', u'attribute', u'measure', u'mind', u'discreetness', u'involve', u'powerfulness', u'say', u'warning', u'caution', u'bear on', u'work', u'reprove', u'worry', u'information', u'inform', u'fixing', u'discussion', u'detail', u'rumination', u'mend', u'free will', u'affectionateness', u'advise', u'reckon', u'advice', u'assist', u'come to', u'condole with', u'courtesy', u'faculty', u'judgment', u'considerateness', u'discourage', u'criticize', u'reflection', u'appreciation', u'attracter', u'quandary', u'honor', u'thought', u'sagacity', u'command', u'savvy', u'perceptiveness', u'order']
+2016-08-03 23:41:19,040 INFO     =====END FLAT LIST=====
+2016-08-03 23:41:19,040 INFO     Length of list is:
+2016-08-03 23:41:19,040 INFO     297
+2016-08-03 23:41:19,040 INFO     Length of setlist is:
+2016-08-03 23:41:19,040 INFO     196
+2016-08-03 23:41:19,040 INFO     ***************************
+2016-08-03 23:41:19,042 INFO     127.0.0.1 - - [03/Aug/2016 23:41:19] "POST /corpus/y HTTP/1.1" 200 -
