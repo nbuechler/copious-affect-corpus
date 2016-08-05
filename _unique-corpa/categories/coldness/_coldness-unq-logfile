@@ -1,0 +1,96 @@
+2016-08-04 22:59:00,628 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-04 22:59:00,628 INFO      * Restarting with stat
+2016-08-04 22:59:00,893 WARNING   * Debugger is active!
+2016-08-04 22:59:00,897 INFO      * Debugger pin code: 294-815-374
+2016-08-04 22:59:07,163 INFO     ***************************
+2016-08-04 22:59:07,163 INFO     List is in the following mongo collection:
+2016-08-04 22:59:07,163 INFO     coldness-corpus-only-syn-unq-order-1
+2016-08-04 22:59:07,171 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:07,312 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-04 22:59:07,312 INFO     [u'frigidness', u'low temperature', u'temperature', u'unemotionality', u'coolness', u'iciness', u'vasoconstrictive', u'chilliness', u'vasoconstrictor', u'cold', u'frigidity', u'pressor', u'emotionlessness']
+2016-08-04 22:59:07,312 INFO     =====END FLAT LIST=====
+2016-08-04 22:59:07,312 INFO     Length of list is:
+2016-08-04 22:59:07,312 INFO     13
+2016-08-04 22:59:07,312 INFO     Length of setlist is:
+2016-08-04 22:59:07,312 INFO     13
+2016-08-04 22:59:07,312 INFO     ***************************
+2016-08-04 22:59:07,312 INFO     ***************************
+2016-08-04 22:59:07,312 INFO     List is in the following mongo collection:
+2016-08-04 22:59:07,312 INFO     coldness-corpus-only-syn-unq-order-2
+2016-08-04 22:59:07,314 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:07,441 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:07,572 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:07,696 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:07,842 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:07,968 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:08,099 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:08,223 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:08,343 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:08,468 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:08,594 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:08,720 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:08,846 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:08,969 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-04 22:59:08,969 INFO     [u'frigidness', u'apathy', u'impassiveness', u'coolness', u'physical property', u'fundamental quantity', u'agent', u'fundamental measure', u'unresponsiveness', u'cold', u'communicable disease', u'stolidity', u'temperature', u'iciness', u'coldness', u'chilliness', u'impassivity', u'vasoconstrictor', u'common cold', u'respiratory illness', u'indifference', u'somatic sensation', u'emotionlessness', u'fearlessness', u'trait', u'respiratory disorder', u'nervelessness', u'imperturbability', u'nip', u'pressor', u'imperturbableness', u'chill', u'unemotionality', u'somesthesia', u'low temperature', u'respiratory disease', u'somatesthesia', u'calmness', u'vasoconstrictive', u'phlegm', u'frigidity', u'gelidity', u'somaesthesia', u'deadness']
+2016-08-04 22:59:08,969 INFO     =====END FLAT LIST=====
+2016-08-04 22:59:08,969 INFO     Length of list is:
+2016-08-04 22:59:08,969 INFO     119
+2016-08-04 22:59:08,970 INFO     Length of setlist is:
+2016-08-04 22:59:08,970 INFO     44
+2016-08-04 22:59:08,970 INFO     ***************************
+2016-08-04 22:59:08,970 INFO     ***************************
+2016-08-04 22:59:08,970 INFO     List is in the following mongo collection:
+2016-08-04 22:59:08,970 INFO     coldness-corpus-only-syn-unq-order-3
+2016-08-04 22:59:08,973 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:09,099 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:09,224 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:09,352 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:09,480 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:09,606 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:09,732 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:09,857 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:09,988 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:10,125 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:10,250 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:10,371 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:10,494 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:10,622 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:10,747 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:10,874 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:11,006 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:11,127 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:11,253 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:11,380 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:11,506 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:11,631 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:11,756 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:11,880 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:12,012 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:12,131 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:12,260 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:12,382 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:12,512 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:12,656 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:12,779 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:12,902 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:13,036 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:13,159 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:13,285 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:13,414 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:13,538 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:13,663 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:13,786 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:13,905 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:14,033 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:14,166 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:14,293 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:14,423 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:59:14,548 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-04 22:59:14,548 INFO     [u'sluggishness', u'shot', u'dispirit', u'shivering', u'fundamental quantity', u'stoicism', u'Jap', u'snip', u'semantic role', u'inelasticity', u'taste sensation', u'cold', u'cut', u'equanimity', u'interoception', u'tweet', u'shudder', u'nonchalance', u'imperturbableness', u'fright', u'factor', u'chill', u'indifference', u'alter', u'demoralize', u'passivity', u'grip', u'Nipponese', u'smack', u'nervelessness', u'somatic sense', u'federal agent', u'fear', u'relish', u'bravery', u'cool', u'frisson', u'thrill', u'pinch', u'somaesthesis', u'taste perception', u'good weather', u'apprehension', u'frigidity', u'somaesthesia', u'tanginess', u'clipping', u'spiritlessness', u'lethargy', u'spiciness', u'chomp', u'businessperson', u'somatic sensory system', u'pall', u'measure', u'languor', u'inactivity', u'carefreeness', u'flavor', u'depress', u'turn', u'get down', u'iciness', u'tingle', u'vasoconstrictor', u'small indefinite amount', u'cause', u'emotionlessness', u'fearlessness', u'perception', u'passiveness', u'zest', u'stolidness', u'modify', u'broker', u'disposition', u'cool down', u'pressor', u'change', u'feeling', u'sputum', u'communicable disease', u'small indefinite quantity', u'respiratory disease', u'amount', u'twitch', u'piquantness', u'somesthesis', u'impassiveness', u'savour', u'physical property', u'vasoconstrictive', u'fundamental measure', u'unresponsiveness', u'quality', u'somesthesia', u'temperature', u'composure', u'deject', u'bite', u'inertia', u'mucus', u'shiver', u'chilliness', u'somatosensory system', u'somatic sensation', u'spicery', u'calm', u'participant role', u'piquance', u'trait', u'twinge', u'inactiveness', u'gustatory perception', u'mucous secretion', u'change state', u'representative', u'temperament', u'imperturbability', u'piquancy', u'squeeze', u'agentive role', u'symptom', u'respiratory illness', u'causal agency', u'flavour', u'tang', u'official', u'fearfulness', u'somatesthesia', u'braveness', u'property', u'deadness', u'frigidness', u'apathy', u'quiver', u'clip', u'dismay', u'taste', u'attribute', u'coolness', u'agent', u'Japanese', u'flatness', u'demoralise', u'snip off', u'spice', u'stolidity', u'sapidity', u'savor', u'seize with teeth', u'coldness', u'gustatory sensation', u'cast down', u'impassivity', u'respiratory disorder', u'calmness', u'Nip', u'unconcern', u'inanimateness', u'lifelessness', u'apprehensiveness', u'nip', u'causal agent', u'bourgeois', u'numbness', u'courageousness', u'nip off', u'unemotionality', u'low temperature', u'disease', u'somataesthesis', u'courage', u'common cold', u'dread', u'functionary', u'quantity', u'gelidity', u'phlegm']
+2016-08-04 22:59:14,548 INFO     =====END FLAT LIST=====
+2016-08-04 22:59:14,548 INFO     Length of list is:
+2016-08-04 22:59:14,548 INFO     393
+2016-08-04 22:59:14,548 INFO     Length of setlist is:
+2016-08-04 22:59:14,548 INFO     179
+2016-08-04 22:59:14,548 INFO     ***************************
+2016-08-04 22:59:14,549 INFO     127.0.0.1 - - [04/Aug/2016 22:59:14] "POST /corpus/y HTTP/1.1" 200 -
