@@ -1,0 +1,102 @@
+2016-08-04 22:58:06,961 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-04 22:58:06,961 INFO      * Restarting with stat
+2016-08-04 22:58:07,226 WARNING   * Debugger is active!
+2016-08-04 22:58:07,230 INFO      * Debugger pin code: 294-815-374
+2016-08-04 22:58:15,141 INFO     ***************************
+2016-08-04 22:58:15,142 INFO     List is in the following mongo collection:
+2016-08-04 22:58:15,142 INFO     cloudiness-corpus-only-syn-unq-order-1
+2016-08-04 22:58:15,149 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:15,278 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-04 22:58:15,278 INFO     [u'opacity', u'opaqueness', u'inclemency', u'overcast', u'murkiness', u'muddiness', u'cloud cover', u'inclementness', u'semidarkness', u'bad weather']
+2016-08-04 22:58:15,278 INFO     =====END FLAT LIST=====
+2016-08-04 22:58:15,278 INFO     Length of list is:
+2016-08-04 22:58:15,278 INFO     10
+2016-08-04 22:58:15,279 INFO     Length of setlist is:
+2016-08-04 22:58:15,279 INFO     10
+2016-08-04 22:58:15,279 INFO     ***************************
+2016-08-04 22:58:15,279 INFO     ***************************
+2016-08-04 22:58:15,279 INFO     List is in the following mongo collection:
+2016-08-04 22:58:15,279 INFO     cloudiness-corpus-only-syn-unq-order-2
+2016-08-04 22:58:15,280 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:15,406 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:15,532 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:15,658 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:15,782 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:15,910 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:16,035 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:16,162 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:16,287 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:16,431 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:16,554 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-04 22:58:16,555 INFO     [u'sew', u'atmosphere', u'murk', u'cognitive state', u'run up', u'inclementness', u'wetness', u'overcasting', u'weather', u'rigorousness', u'physical phenomenon', u'state of mind', u'quality', u'cloud', u'incomprehensibility', u'severity', u'opaqueness', u'disarray', u'murkiness', u'casting', u'stitch', u'fog', u'atmospheric state', u'bad weather', u'inclemency', u'weather condition', u'fogginess', u'sloppiness', u'cloud cover', u'opacity', u'strictness', u'rigour', u'severeness', u'confusion', u'muddiness', u'dark', u'mental confusion', u'rigor', u'atmospheric condition', u'semidarkness', u'confusedness', u'hardness', u'rigourousness', u'harshness', u'darkness', u'darken', u'sternness', u'overcast', u'cast', u'stiffness', u'cloudiness', u'wateriness', u'sew together']
+2016-08-04 22:58:16,555 INFO     =====END FLAT LIST=====
+2016-08-04 22:58:16,555 INFO     Length of list is:
+2016-08-04 22:58:16,555 INFO     78
+2016-08-04 22:58:16,555 INFO     Length of setlist is:
+2016-08-04 22:58:16,555 INFO     53
+2016-08-04 22:58:16,555 INFO     ***************************
+2016-08-04 22:58:16,555 INFO     ***************************
+2016-08-04 22:58:16,555 INFO     List is in the following mongo collection:
+2016-08-04 22:58:16,556 INFO     cloudiness-corpus-only-syn-unq-order-3
+2016-08-04 22:58:16,557 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:16,683 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:16,808 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:16,936 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:17,065 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:17,198 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:17,331 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:17,459 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:17,584 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:17,709 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:17,833 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:17,959 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:18,087 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:18,217 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:18,342 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:18,466 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:18,592 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:18,716 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:18,841 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:18,974 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:19,100 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:19,246 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:19,377 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:19,502 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:19,625 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:19,749 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:19,877 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:20,003 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:20,132 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:20,260 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:20,383 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:20,514 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:20,640 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:20,766 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:20,895 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:21,020 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:21,145 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:21,268 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:21,393 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:21,521 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:21,647 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:21,783 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:21,915 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:22,046 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:22,174 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:22,303 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:22,429 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:22,557 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:22,678 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:22,803 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:22,935 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:23,060 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:23,186 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 22:58:23,308 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-04 22:58:23,308 INFO     [u'retch', u'go', u'obnubilate', u'upchuck', u'spew', u'soupiness', u'blurriness', u'send', u'thinness', u'daze', u'inclementness', u'ambience', u'dapple', u'shake off', u'choice', u'redact', u'semidarkness', u'affect', u'standard atmosphere', u'plainness', u'discombobulation', u'dim', u'level', u'iniquity', u'delegate', u'cloudiness', u'assemblage', u'brave', u'malice', u'unkemptness', u'pass', u'period of time', u'creating from raw materials', u'hide', u'darkness', u'glumness', u'haze', u'body', u'degree', u'error', u'modify', u'bring up', u'change', u'skin colour', u'mottle', u'stiffness', u'pick', u'delapidate', u'swan', u'secure', u'stray', u'run up', u'roll up', u'mawkishness', u'cogency', u'illumination', u'unpleasantness', u'depute', u'cloud', u'regorge', u'callosity', u'puke', u'mental state', u'impress', u'validity', u'hurl', u'hold', u'inelegance', u'word', u'abrasiveness', u'work', u'sound property', u'cat', u'purge', u'believability', u'defile', u'give', u'attribute', u'drippiness', u'impair', u'phrase', u'throw up', u'visual aspect', u'incomprehensibility', u'awkwardness', u'malevolence', u'emotionalism', u'travel', u'roughness', u'malevolency', u'mould', u'mar', u'befog', u'spot', u'emotionality', u'rove', u'tilt', u'cognitive state', u'restrictiveness', u'move', u'scantness', u'rigorousness', u'wickedness', u'decay', u'raggedness', u'fix', u'meagreness', u'hold up', u'indistinctness', u'suspicion', u'condition', u'swarthiness', u'alter', u'hurting', u'combination', u'insensibility', u'vomit', u'accumulate', u'gloom', u'drop', u'chuck', u'weather', u'standard pressure', u'scratchiness', u'formulate', u'ambiance', u'plaster cast', u'combining', u'strictness', u'gloominess', u'state of mind', u'wander', u'container', u'stitch', u'disarray', u'vitiate', u'compounding', u'give voice', u'pressure unit', u'social rank', u'muddiness', u'untidiness', u'difficulty', u'mental confusion', u'put', u'frame of mind', u'atm', u'exiguity', u'assign', u'grade', u'scene', u'rank', u'mist', u'quality', u'animal group', u'bad weather', u'duskiness', u'swarm', u'regurgitate', u'badness', u'fuzziness', u'option', u'painstakingness', u'direct', u'part', u'conscientiousness', u'copy', u'grimness', u'project', u'endure', u'be sick', u'time period', u'amass', u'gathering', u'fashion', u'inclemency', u'unfeelingness', u'angle', u'tarnish', u'couch', u'take', u'gracelessness', u'caliber', u'hurtle', u'disgorge', u'dramatis personae', u'sewing', u'rigor', u'billow', u'rigourousness', u'unpermissiveness', u'stringency', u'opaqueness', u'nighttime', u'temporary state', u'dimension', u'aerosol', u'ruggedness', u'overcasting', u'atmosphere', u'selection', u'atmospheric state', u'throw away', u'elevate', u'leanness', u'pile up', u'get up', u'unreality', u'stain', u'hoard', u'cast of characters', u'severeness', u'spue', u'tailor', u'clumsiness', u'messiness', u'resolve', u'remove', u'patch', u'obscure', u'sew', u'withstand', u'frame', u'austereness', u'intensity', u'barf', u'corrupt', u'becloud', u'asperity', u'sail', u'murkiness', u'state', u'complexion', u'hardship', u'confusion', u'lineament', u'embarrassment', u'firmness', u'spoil', u'fault', u'region', u'aura', u'sew together', u'tone', u'wateriness', u'period', u'meagerness', u'insensitiveness', u'raise', u'tramp', u'stamp', u'atmospheric phenomenon', u'cloud cover', u'weather condition', u'deflower', u'sloppiness', u'psychological state', u'gas', u'sentimentality', u'lift', u'locomote', u'hardness', u'harshness', u'solid', u'appearance', u'value', u'air', u'compile', u'cast', u'rigour', u'carelessness', u'property', u'mistake', u'slovenliness', u'contrive', u'severity', u'natural phenomenon', u'honk', u'status', u'maculate', u'defy', u'disorderliness', u'confusedness', u'timbre', u'consistence', u'taint', u'difficultness', u'sportfishing', u'withdraw', u'consistency', u'haze over', u'take away', u'cruelness', u'inelasticity', u'shape', u'fishing', u'unenlightenment', u'timber', u'throw off', u'character', u'calibre', u'designate', u'casting', u'molding', u'dark', u'bandage', u'shadow', u'mushiness', u'collect', u'night', u'softness', u'disorder', u'overcast', u'resoluteness', u'sully', u'shed', u'murk', u'intensiveness', u'physical phenomenon', u'cast off', u'scantiness', u'lean', u'stitchery', u'fog', u'social status', u'eliminate', u'egest', u'skin color', u'throw', u'tailor-make', u'conceal', u'range', u'roam', u'owe', u'social station', u'articulate', u'inattentiveness', u'vagabond', u'plaster bandage', u'sternness', u'firmness of purpose', u'insensitivity', u'form', u'strike', u'poorness', u'pain', u'dull', u'darken', u'brave out', u'fogginess', u'wetness', u'credibleness', u'crumble', u'change intensity', u'callousness', u'mold', u'irreality', u'credibility', u'tip', u'excrete', u'sick', u'forge', u'roll', u'opacity', u'draw', u'drift', u'slant', u'cruelty', u'wallow', u'atmospheric condition', u'fasten', u'vomit up', u'chalk up', u'ramble', u'hoist', u'mix-up', u'resolution']
+2016-08-04 22:58:23,309 INFO     =====END FLAT LIST=====
+2016-08-04 22:58:23,309 INFO     Length of list is:
+2016-08-04 22:58:23,309 INFO     709
+2016-08-04 22:58:23,309 INFO     Length of setlist is:
+2016-08-04 22:58:23,309 INFO     377
+2016-08-04 22:58:23,310 INFO     ***************************
+2016-08-04 22:58:23,311 INFO     127.0.0.1 - - [04/Aug/2016 22:58:23] "POST /corpus/y HTTP/1.1" 200 -

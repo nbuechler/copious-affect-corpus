@@ -1,0 +1,67 @@
+2016-08-04 23:00:22,695 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-04 23:00:22,696 INFO      * Restarting with stat
+2016-08-04 23:00:22,953 WARNING   * Debugger is active!
+2016-08-04 23:00:22,958 INFO      * Debugger pin code: 294-815-374
+2016-08-04 23:00:37,681 INFO     ***************************
+2016-08-04 23:00:37,681 INFO     List is in the following mongo collection:
+2016-08-04 23:00:37,681 INFO     consciousness-corpus-only-syn-unq-order-1
+2016-08-04 23:00:37,689 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:37,828 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-04 23:00:37,829 INFO     [u'knowing', u'cognitive state', u'knowingness', u'cognizance', u'cognisance', u'state of mind', u'awareness']
+2016-08-04 23:00:37,829 INFO     =====END FLAT LIST=====
+2016-08-04 23:00:37,829 INFO     Length of list is:
+2016-08-04 23:00:37,829 INFO     7
+2016-08-04 23:00:37,829 INFO     Length of setlist is:
+2016-08-04 23:00:37,829 INFO     7
+2016-08-04 23:00:37,829 INFO     ***************************
+2016-08-04 23:00:37,829 INFO     ***************************
+2016-08-04 23:00:37,829 INFO     List is in the following mongo collection:
+2016-08-04 23:00:37,829 INFO     consciousness-corpus-only-syn-unq-order-2
+2016-08-04 23:00:37,832 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:37,959 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:38,090 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:38,216 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:38,361 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:38,488 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:38,617 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:38,750 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-04 23:00:38,750 INFO     [u'knowing', u'ken', u'astuteness', u'perspicaciousness', u'higher cognitive process', u'consciousness', u'psychological state', u'frame of mind', u'sentience', u'temporary state', u'cognitive state', u'mental state', u'state', u'perception', u'knowingness', u'cognizance', u'shrewdness', u'perspicacity', u'cognisance', u'state of mind', u'awareness']
+2016-08-04 23:00:38,750 INFO     =====END FLAT LIST=====
+2016-08-04 23:00:38,750 INFO     Length of list is:
+2016-08-04 23:00:38,750 INFO     36
+2016-08-04 23:00:38,750 INFO     Length of setlist is:
+2016-08-04 23:00:38,751 INFO     21
+2016-08-04 23:00:38,751 INFO     ***************************
+2016-08-04 23:00:38,751 INFO     ***************************
+2016-08-04 23:00:38,751 INFO     List is in the following mongo collection:
+2016-08-04 23:00:38,751 INFO     consciousness-corpus-only-syn-unq-order-3
+2016-08-04 23:00:38,752 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:38,883 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:39,010 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:39,148 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:39,272 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:39,401 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:39,524 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:39,651 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:39,773 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:39,914 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:40,042 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:40,169 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:40,298 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:40,436 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:40,572 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:40,694 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:40,814 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:40,941 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:41,075 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:41,209 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:41,339 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-04 23:00:41,480 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-04 23:00:41,480 INFO     [u'cognitive state', u'higher cognitive process', u'give tongue to', u'knowingness', u'utter', u'sound judgment', u'consciousness', u'mental representation', u'conceptualisation', u'profoundness', u'awareness', u'government', u'propose', u'express', u'nation', u'judgement', u'chemical phenomenon', u'compass', u'state of matter', u'condition', u'perspicacity', u'cognition', u'deepness', u'commonwealth', u'province', u'representation', u'intelligence', u'sensation', u'module', u'State', u'sight', u'operation', u'state of mind', u'sentience', u'sensory activity', u'State Department', u'verbalize', u'state', u'political entity', u'sentiency', u'refer', u'knowing', u'ken', u'perception', u'perspicaciousness', u'United States Department of State', u'posit', u'perceptual experience', u'sensory faculty', u'mental process', u'knowledge', u'frame of mind', u'administrative district', u'emotional state', u'country', u'political unit', u'conceptuality', u'range', u'verbalise', u'cognizance', u'shrewdness', u'cognisance', u'astuteness', u'body politic', u'sound judgement', u'sapience', u'conceptualization', u'submit', u'percept', u'mental state', u'tell', u'psychological state', u'trait', u'wisdom', u'internal representation', u'spirit', u'liveness', u'executive department', u'basic cognitive process', u'territorial division', u'animateness', u'grasp', u'res publica', u'process', u'attribute', u'denote', u'say', u'sense', u'regime', u'put forward', u'suggest', u'mental faculty', u'advise', u'Department of State', u'status', u'reach', u'cognitive operation', u'faculty', u'authorities', u'judgment', u'land', u'administrative division', u'cognitive process', u'temporary state', u'depth', u'DoS', u'profundity', u'aliveness', u'sensing', u'noesis']
+2016-08-04 23:00:41,480 INFO     =====END FLAT LIST=====
+2016-08-04 23:00:41,480 INFO     Length of list is:
+2016-08-04 23:00:41,481 INFO     160
+2016-08-04 23:00:41,481 INFO     Length of setlist is:
+2016-08-04 23:00:41,481 INFO     110
+2016-08-04 23:00:41,481 INFO     ***************************
+2016-08-04 23:00:41,483 INFO     127.0.0.1 - - [04/Aug/2016 23:00:41] "POST /corpus/y HTTP/1.1" 200 -
