@@ -1,0 +1,55 @@
+2016-08-05 23:20:30,999 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-05 23:20:31,000 INFO      * Restarting with stat
+2016-08-05 23:20:31,257 WARNING   * Debugger is active!
+2016-08-05 23:20:31,263 INFO      * Debugger pin code: 294-815-374
+2016-08-05 23:20:43,430 INFO     ***************************
+2016-08-05 23:20:43,430 INFO     List is in the following mongo collection:
+2016-08-05 23:20:43,430 INFO     criticalness-corpus-only-syn-unq-order-1
+2016-08-05 23:20:43,443 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:20:43,595 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-05 23:20:43,595 INFO     [u'urgency', u'criticality', u'cruciality']
+2016-08-05 23:20:43,595 INFO     =====END FLAT LIST=====
+2016-08-05 23:20:43,595 INFO     Length of list is:
+2016-08-05 23:20:43,595 INFO     3
+2016-08-05 23:20:43,595 INFO     Length of setlist is:
+2016-08-05 23:20:43,596 INFO     3
+2016-08-05 23:20:43,596 INFO     ***************************
+2016-08-05 23:20:43,596 INFO     ***************************
+2016-08-05 23:20:43,596 INFO     List is in the following mongo collection:
+2016-08-05 23:20:43,596 INFO     criticalness-corpus-only-syn-unq-order-2
+2016-08-05 23:20:43,597 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:20:43,761 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:20:43,888 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:20:44,009 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-05 23:20:44,009 INFO     [u'solicitation', u'criticality', u'critical point', u'importance', u'importunity', u'criticalness', u'crossroads', u'juncture', u'urgency', u'necessity', u'cruciality', u'situation', u'urging']
+2016-08-05 23:20:44,009 INFO     =====END FLAT LIST=====
+2016-08-05 23:20:44,009 INFO     Length of list is:
+2016-08-05 23:20:44,009 INFO     15
+2016-08-05 23:20:44,010 INFO     Length of setlist is:
+2016-08-05 23:20:44,010 INFO     13
+2016-08-05 23:20:44,010 INFO     ***************************
+2016-08-05 23:20:44,010 INFO     ***************************
+2016-08-05 23:20:44,010 INFO     List is in the following mongo collection:
+2016-08-05 23:20:44,010 INFO     criticalness-corpus-only-syn-unq-order-3
+2016-08-05 23:20:44,013 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:20:44,140 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:20:44,272 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:20:44,402 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:20:44,539 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:20:44,660 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:20:44,787 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:20:44,922 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:20:45,056 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:20:45,182 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:20:45,316 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:20:45,442 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:20:45,559 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:20:45,681 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-05 23:20:45,682 INFO     [u'requirement', u'occurrence', u'office', u'critical point', u'demand', u'importunity', u'community', u'hamlet', u'juncture', u'need', u'prod', u'line of work', u'criticalness', u'prayer', u'link', u'goad', u'connexion', u'crisis', u'spurring', u'situation', u'standing', u'line', u'position', u'solicitation', u'criticality', u'temptation', u'goading', u'state', u'overlap', u'business', u'post', u'natural event', u'ingathering', u'appeal', u'protagonism', u'petition', u'status', u'junction', u'grandness', u'articulation', u'importance', u'billet', u'prodding', u'spot', u'collection', u'site', u'occurrent', u'joint', u'job', u'postulation', u'entreaty', u'encouragement', u'necessity', u'cruciality', u'convergence', u'necessary', u'requisite', u'intersection', u'spur', u'condition', u'advocacy', u'berth', u'allurement', u'join', u'happening', u'difficulty', u'request', u'value', u'crossroads', u'thing', u'connection', u'occupation', u'place', u'urging', u'enticement', u'occasion', u'state of affairs', u'essential', u'urgency']
+2016-08-05 23:20:45,682 INFO     =====END FLAT LIST=====
+2016-08-05 23:20:45,682 INFO     Length of list is:
+2016-08-05 23:20:45,682 INFO     98
+2016-08-05 23:20:45,682 INFO     Length of setlist is:
+2016-08-05 23:20:45,683 INFO     79
+2016-08-05 23:20:45,683 INFO     ***************************
+2016-08-05 23:20:45,684 INFO     127.0.0.1 - - [05/Aug/2016 23:20:45] "POST /corpus/y HTTP/1.1" 200 -
