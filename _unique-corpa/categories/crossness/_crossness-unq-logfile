@@ -1,0 +1,90 @@
+2016-08-05 23:21:11,722 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-05 23:21:11,723 INFO      * Restarting with stat
+2016-08-05 23:21:11,992 WARNING   * Debugger is active!
+2016-08-05 23:21:11,997 INFO      * Debugger pin code: 294-815-374
+2016-08-05 23:21:15,608 INFO     ***************************
+2016-08-05 23:21:15,608 INFO     List is in the following mongo collection:
+2016-08-05 23:21:15,608 INFO     crossness-corpus-only-syn-unq-order-1
+2016-08-05 23:21:15,616 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:15,741 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-05 23:21:15,741 INFO     [u'irritability', u'choler', u'ill humor', u'ill nature', u'crabbiness', u'fretfulness', u'petulance', u'distemper', u'ill humour', u'peevishness', u'crabbedness', u'fussiness']
+2016-08-05 23:21:15,741 INFO     =====END FLAT LIST=====
+2016-08-05 23:21:15,741 INFO     Length of list is:
+2016-08-05 23:21:15,741 INFO     12
+2016-08-05 23:21:15,741 INFO     Length of setlist is:
+2016-08-05 23:21:15,741 INFO     12
+2016-08-05 23:21:15,742 INFO     ***************************
+2016-08-05 23:21:15,742 INFO     ***************************
+2016-08-05 23:21:15,742 INFO     List is in the following mongo collection:
+2016-08-05 23:21:15,742 INFO     crossness-corpus-only-syn-unq-order-2
+2016-08-05 23:21:15,743 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:15,871 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:15,999 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:16,123 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:16,250 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:16,377 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:16,502 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:16,625 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:16,746 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:16,875 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:16,998 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:17,123 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:17,257 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-05 23:21:17,257 INFO     [u'emotion', u'disposition', u'humour', u'ill nature', u'pettishness', u'elaborateness', u'anger', u'irritability', u'responsiveness', u'choler', u'humor', u'mood', u'biliousness', u'crossness', u'distemper', u'paint', u'reactivity', u'surliness', u'yellow bile', u'ire', u'picture', u'crabbiness', u'fretfulness', u'petulance', u'body fluid', u'temperament', u'ornateness', u'peevishness', u'liquid body substance', u'crabbedness', u'fussiness', u'bodily fluid', u'ill humor', u'snappishness', u'excitability', u'animal disease', u'ill humour', u'painting', u'temper']
+2016-08-05 23:21:17,257 INFO     =====END FLAT LIST=====
+2016-08-05 23:21:17,257 INFO     Length of list is:
+2016-08-05 23:21:17,258 INFO     111
+2016-08-05 23:21:17,258 INFO     Length of setlist is:
+2016-08-05 23:21:17,258 INFO     39
+2016-08-05 23:21:17,258 INFO     ***************************
+2016-08-05 23:21:17,258 INFO     ***************************
+2016-08-05 23:21:17,258 INFO     List is in the following mongo collection:
+2016-08-05 23:21:17,259 INFO     crossness-corpus-only-syn-unq-order-3
+2016-08-05 23:21:17,260 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:17,397 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:17,525 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:17,649 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:17,774 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:17,896 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:18,021 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:18,150 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:18,289 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:18,420 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:18,548 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:18,675 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:18,801 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:18,919 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:19,043 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:19,165 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:19,293 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:19,414 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:19,539 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:19,665 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:19,788 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:19,917 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:20,046 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:20,173 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:20,297 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:20,426 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:20,558 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:20,684 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:20,813 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:20,939 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:21,063 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:21,189 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:21,310 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:21,433 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:21,556 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:21,686 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:21,813 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:21,935 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:22,070 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:21:22,214 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-05 23:21:22,215 INFO     [u'represent', u'impression', u'show', u'ill nature', u'trade', u'pique', u'attitude', u'moving-picture show', u'rouge', u'exemplification', u'excitableness', u'adjustment', u'feat', u'annoyance', u'tendency', u'toughness', u'responsiveness', u'word-painting', u'humour', u'house painting', u'disposal', u'see red', u'color', u'surliness', u'ikon', u'snap', u'anneal', u'alter', u'mental picture', u'gratify', u'sense of humour', u'artistic creation', u'susceptibility', u'grammatical relation', u'elasticity', u'petulance', u'property', u'body fluid', u'indulge', u'envisage', u'condition', u'volatility', u'bodily fluid', u'rhetoric', u'health problem', u'covering', u'blusher', u'readjustment', u'correct', u'involution', u'adjust', u'mode', u'motion picture', u'state of affairs', u'flick', u'set', u'art', u'envision', u'picture', u'unhealthiness', u'sensitivity', u'artistic production', u'see', u'arouse', u'video', u'beaux arts', u'irritation', u'toughen', u'emotional arousal', u'situation', u'irritability', u'pictorial matter', u'visualize', u'humor', u'mood', u'intricacy', u'movie', u'ideate', u'war paint', u'content', u'graphic art', u'yellow bile', u'ira', u'moderate', u'ire', u'inclination', u'colouring material', u'nature', u'visualise', u'modify', u'makeup', u'mental image', u'style', u'fretfulness', u'angriness', u'illustration', u'disposition', u'imagine', u'witticism', u'peevishness', u'fussiness', u'wrath', u'chafe', u'climate', u'substance', u'ill humor', u'verbal description', u'vexation', u'experience', u'enkindle', u'animal disease', u'evoke', u'characterisation', u'wittiness', u'sensitiveness', u'typification', u'emotion', u'key', u'complexness', u'characterization', u'feel', u'image', u'visual communication', u'scene', u'fancy', u'harden', u'exploit', u'wit', u'registration', u'message', u'quality', u'conceive of', u'subject matter', u'raise', u'crossness', u'create', u'paint', u'interpret', u'make-up', u'mollify', u'icon', u'body substance', u'elaboration', u'fire', u'season', u'change', u'magniloquence', u'temperament', u'expressive style', u'ill health', u'effort', u'crabbedness', u'snappishness', u'appearance', u'excitability', u'project', u'weaken', u'fun', u'kindle', u'feeling', u'temper', u'chasten', u'motion-picture show', u'figure', u'grandiloquence', u'pettishness', u'pic', u'coating', u'surface', u'depiction', u'elicit', u'picture show', u'elaborateness', u'anger', u'deed', u'provoke', u'modality', u'film', u'coloring material', u'normalize', u'visual aspect', u'choler', u'biliousness', u'emotionalism', u'distemper', u'application', u'reactivity', u'mental attitude', u'deadly sin', u'crabbiness', u'status', u'pander', u'description', u'moving picture', u'word picture', u'render', u'depict', u'susceptibleness', u'ornateness', u'representation', u'sense of humor', u'liquid body substance', u'playfulness', u'grandiosity', u'mortal sin', u'delineation', u'fine arts', u'emotionality', u'coat', u'colour', u'space', u'cover', u'disease', u'complexity', u'craft', u'ill humour', u'sensibility', u'painting']
+2016-08-05 23:21:22,215 INFO     =====END FLAT LIST=====
+2016-08-05 23:21:22,215 INFO     Length of list is:
+2016-08-05 23:21:22,215 INFO     435
+2016-08-05 23:21:22,215 INFO     Length of setlist is:
+2016-08-05 23:21:22,215 INFO     218
+2016-08-05 23:21:22,215 INFO     ***************************
+2016-08-05 23:21:22,216 INFO     127.0.0.1 - - [05/Aug/2016 23:21:22] "POST /corpus/y HTTP/1.1" 200 -

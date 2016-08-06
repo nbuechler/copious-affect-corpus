@@ -1,0 +1,92 @@
+2016-08-05 23:26:27,616 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-05 23:26:27,617 INFO      * Restarting with stat
+2016-08-05 23:26:27,876 WARNING   * Debugger is active!
+2016-08-05 23:26:27,881 INFO      * Debugger pin code: 294-815-374
+2016-08-05 23:26:36,618 INFO     ***************************
+2016-08-05 23:26:36,618 INFO     List is in the following mongo collection:
+2016-08-05 23:26:36,618 INFO     defiance-corpus-only-syn-unq-order-1
+2016-08-05 23:26:36,629 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:36,754 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-05 23:26:36,755 INFO     [u'challenge', u'rebelliousness', u'intractableness', u'resistance', u'intractability']
+2016-08-05 23:26:36,755 INFO     =====END FLAT LIST=====
+2016-08-05 23:26:36,755 INFO     Length of list is:
+2016-08-05 23:26:36,755 INFO     5
+2016-08-05 23:26:36,755 INFO     Length of setlist is:
+2016-08-05 23:26:36,756 INFO     5
+2016-08-05 23:26:36,756 INFO     ***************************
+2016-08-05 23:26:36,756 INFO     ***************************
+2016-08-05 23:26:36,756 INFO     List is in the following mongo collection:
+2016-08-05 23:26:36,756 INFO     defiance-corpus-only-syn-unq-order-2
+2016-08-05 23:26:36,759 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:36,896 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:37,026 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:37,149 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:37,273 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:37,394 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-05 23:26:37,394 INFO     [u'status', u'resistivity', u'involuntariness', u'defiance', u'resistance', u'repugn', u'take exception', u'electrical device', u'unresponsiveness', u'call for', u'intractability', u'contend', u'contest', u'objection', u'insubordination', u'revolutionary group', u'bespeak', u'mechanical phenomenon', u'resistor', u'immunity', u'dispute', u'speech act', u'invite', u'trait', u'bid', u'object', u'questioning', u'underground', u'quest', u'group action', u'opposition', u'demand', u'impedance', u'gainsay', u'condition', u'electrical phenomenon', u'electrical resistance', u'military action', u'unwillingness', u'ohmic resistance', u'intractableness', u'request', u'electric resistance', u'action', u'situation', u'inquiring', u'state of affairs', u'deadness']
+2016-08-05 23:26:37,394 INFO     =====END FLAT LIST=====
+2016-08-05 23:26:37,394 INFO     Length of list is:
+2016-08-05 23:26:37,395 INFO     51
+2016-08-05 23:26:37,395 INFO     Length of setlist is:
+2016-08-05 23:26:37,395 INFO     48
+2016-08-05 23:26:37,395 INFO     ***************************
+2016-08-05 23:26:37,395 INFO     ***************************
+2016-08-05 23:26:37,395 INFO     List is in the following mongo collection:
+2016-08-05 23:26:37,395 INFO     defiance-corpus-only-syn-unq-order-3
+2016-08-05 23:26:37,396 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:37,521 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:37,656 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:37,778 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:37,920 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:38,043 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:38,164 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:38,286 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:38,405 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:38,549 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:38,674 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:38,798 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:38,923 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:39,052 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:39,175 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:39,298 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:39,422 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:39,548 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:39,689 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:39,822 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:39,948 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:40,097 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:40,239 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:40,365 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:40,489 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:40,618 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:40,747 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:40,872 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:40,996 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:41,123 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:41,257 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:41,382 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:41,510 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:41,683 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:41,808 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:41,932 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:42,056 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:42,183 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:42,315 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:42,440 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:42,564 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:42,677 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:42,802 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:42,926 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:43,054 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:43,188 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:43,313 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:43,442 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-05 23:26:43,590 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-05 23:26:43,590 INFO     [u'pursuit', u'endeavour', u'pass on', u'office', u'expostulation', u'temperament', u'resistance', u'tempt', u'experimental condition', u'protest', u'relation', u'legal action', u'invitation', u'shake', u'finish', u'debate', u'conjure', u'discipline', u'physical object', u'hunting', u'activeness', u'effort', u'point', u'legal proceeding', u'grapple', u'better', u'tail', u'antagonist', u'solicit', u'bespeak', u'take in', u'situation', u'make grow', u'petition', u'dispute', u'proceedings', u'precondition', u'move', u'contention', u'get', u'argufy', u'bid', u'reject', u'disagreement', u'contravention', u'constituent', u'necessitate', u'objective', u'complete', u'quest', u'group action', u'party', u'press', u'railroad', u'difference', u'oppositeness', u'gainsay', u'condition', u'premise', u'enemy', u'beseech', u'stipulate', u'signal', u'hunt', u'shape', u'bay', u'altercate', u'collect', u'chase after', u'electric resistance', u'conflict', u'activity', u'release', u'state of affairs', u'require', u'political party', u'fulfil', u'body', u'requirement', u'fence', u'job', u'set up', u'train', u'play', u'competition', u'beg', u'opposite', u'grammatical constituent', u'rebelliousness', u'line of work', u'pursuance', u'undertake', u'pass', u'tender', u'physical phenomenon', u'railway system', u'summon', u'endeavor', u'intractability', u'contend', u'try', u'sue', u'accomplish', u'proceeding', u'make do', u'scrap', u'physical entity', u'pick up', u'content', u'foe', u'state', u'asking', u'berth', u'political entity', u'healthiness', u'occupation', u'resistor', u'subway', u'speech act', u'be', u'action at law', u'business', u'circumstance', u'go after', u'communicate', u'attempt', u'mental object', u'difficulty', u'qualify', u'carry through', u'struggle', u'disposition', u'defiance', u'ask', u'consideration', u'obligation', u'adversary', u'ask for', u'natural action', u'search', u'substance', u'exemption', u'contestant', u'metro', u'unwillingness', u'receive', u'seeking', u'political unit', u'plot', u'contract', u'remonstration', u'oppose', u'remonstrance', u'act', u'action', u'greet', u'railway', u'argue', u'stimulate', u'give chase', u'duty', u'litigate', u'term', u'opposition', u'ask in', u'vie', u'human activity', u'communication', u'manage', u'bark', u'get by', u'repugn', u'recognize', u'electrical device', u'instruct', u'foeman', u'physical process', u'unresponsiveness', u'action mechanism', u'quality', u'shake up', u'subject matter', u'line', u'opposer', u'deal', u'teach', u'interact', u'subway system', u'cite', u'responsibility', u'fight', u'indicate', u'confrontation', u'assumption', u'call', u'granting immunity', u'statement', u'attribute', u'postulate', u'improve', u'tell', u'opponent', u'natural process', u'direction', u'invite', u'offering', u'cope', u'fire', u'trait', u'billet', u'converse', u'excite', u'betoken', u'disapprove', u'electrical phenomenon', u'execute', u'exact', u'bidding', u'demand', u'impedance', u'good health', u'stipulation', u'rivalry', u'message', u'specify', u'involve', u'cognitive content', u'develop', u'target', u'military action', u'difference of opinion', u'amend', u'wish', u'challenge', u'work', u'shampoo', u'social event', u'human action', u'aim', u'ask over', u'learn', u'site', u'kindle', u'inquiring', u'carry out', u'procedure', u'deadness', u'post', u'claim', u'resistivity', u'tap', u'involuntariness', u'effectuate', u'process', u'dissent', u'plead', u'command', u'raise', u'electrical resistance', u'put across', u'elicit', u'tag', u'Opposition', u'pay for', u'dictation', u'ameliorate', u'need', u'drive', u'provoke', u'seek', u'call for', u'chase', u'information', u'meliorate', u'end', u'goal', u'contest', u'check', u'invulnerability', u'offer', u'enkindle', u'mechanism', u'event', u'economic process', u'discourse', u'enquire', u'take', u'unsusceptibility', u'revolutionary group', u'underground', u'gather up', u'ask round', u'wonder', u'stir', u'immunity', u'evoke', u'status', u'pass along', u'acquire', u'ohmic resistance', u'communicating', u'track', u'object', u'spot', u'effect', u'inanimateness', u'questioning', u'summons', u'postulation', u'lifelessness', u'mechanical phenomenon', u'recognise', u'device', u'discharge', u'inelasticity', u'resister', u'adjure', u'railway line', u'arouse', u'trail', u'fulfill', u'intractableness', u'request', u'dog', u'make out', u'railroad line', u'entreat', u'inquire', u'premiss', u'quarrel', u'compete', u'place', u'position', u'tube', u'waiver']
+2016-08-05 23:26:43,591 INFO     =====END FLAT LIST=====
+2016-08-05 23:26:43,591 INFO     Length of list is:
+2016-08-05 23:26:43,591 INFO     493
+2016-08-05 23:26:43,591 INFO     Length of setlist is:
+2016-08-05 23:26:43,591 INFO     335
+2016-08-05 23:26:43,592 INFO     ***************************
+2016-08-05 23:26:43,593 INFO     127.0.0.1 - - [05/Aug/2016 23:26:43] "POST /corpus/y HTTP/1.1" 200 -
