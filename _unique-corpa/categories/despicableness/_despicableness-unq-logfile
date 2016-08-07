@@ -1,0 +1,60 @@
+2016-08-06 23:40:09,985 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-06 23:40:09,987 INFO      * Restarting with stat
+2016-08-06 23:40:10,234 WARNING   * Debugger is active!
+2016-08-06 23:40:10,240 INFO      * Debugger pin code: 294-815-374
+2016-08-06 23:40:46,318 INFO     ***************************
+2016-08-06 23:40:46,318 INFO     List is in the following mongo collection:
+2016-08-06 23:40:46,319 INFO     despicableness-corpus-only-syn-unq-order-1
+2016-08-06 23:40:46,331 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:46,482 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-06 23:40:46,482 INFO     [u'sordidness', u'unworthiness', u'despicability', u'baseness', u'contemptibility']
+2016-08-06 23:40:46,482 INFO     =====END FLAT LIST=====
+2016-08-06 23:40:46,482 INFO     Length of list is:
+2016-08-06 23:40:46,483 INFO     5
+2016-08-06 23:40:46,483 INFO     Length of setlist is:
+2016-08-06 23:40:46,483 INFO     5
+2016-08-06 23:40:46,483 INFO     ***************************
+2016-08-06 23:40:46,483 INFO     ***************************
+2016-08-06 23:40:46,483 INFO     List is in the following mongo collection:
+2016-08-06 23:40:46,483 INFO     despicableness-corpus-only-syn-unq-order-2
+2016-08-06 23:40:46,484 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:46,633 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:46,784 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:46,916 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:47,063 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:47,183 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-06 23:40:47,184 INFO     [u'dirtiness', u'ineptness', u'badness', u'inappropriateness', u'baseness', u'sordidness', u'unworthiness', u'squalor', u'contemptibility', u'unsuitableness', u'bad', u'squalidness', u'unsuitability', u'uncleanness', u'despicableness', u'despicability']
+2016-08-06 23:40:47,184 INFO     =====END FLAT LIST=====
+2016-08-06 23:40:47,184 INFO     Length of list is:
+2016-08-06 23:40:47,184 INFO     30
+2016-08-06 23:40:47,184 INFO     Length of setlist is:
+2016-08-06 23:40:47,184 INFO     16
+2016-08-06 23:40:47,184 INFO     ***************************
+2016-08-06 23:40:47,184 INFO     ***************************
+2016-08-06 23:40:47,184 INFO     List is in the following mongo collection:
+2016-08-06 23:40:47,184 INFO     despicableness-corpus-only-syn-unq-order-3
+2016-08-06 23:40:47,186 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:47,314 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:47,443 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:47,566 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:47,702 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:47,825 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:47,946 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:48,074 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:48,201 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:48,323 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:48,445 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:48,569 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:48,690 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:48,824 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:48,952 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:49,075 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-06 23:40:49,197 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-06 23:40:49,197 INFO     [u'obscenity', u'impropriety', u'inappropriateness', u'unworthiness', u'despicability', u'intensity', u'intensiveness', u'lewdness', u'uncleanness', u'quality', u'improperness', u'dirtiness', u'impurity', u'awkwardness', u'severeness', u'unsuitableness', u'squalidness', u'smuttiness', u'mischievousness', u'salaciousness', u'despicableness', u'squalor', u'salacity', u'disobedience', u'impureness', u'sordidness', u'ineptitude', u'unskillfulness', u'sanitary condition', u'clumsiness', u'unsuitability', u'severity', u'ineptness', u'badness', u'baseness', u'naughtiness', u'wrongness', u'contemptibility', u'bad', u'maladroitness', u'slowness', u'bawdiness']
+2016-08-06 23:40:49,197 INFO     =====END FLAT LIST=====
+2016-08-06 23:40:49,198 INFO     Length of list is:
+2016-08-06 23:40:49,198 INFO     88
+2016-08-06 23:40:49,198 INFO     Length of setlist is:
+2016-08-06 23:40:49,198 INFO     42
+2016-08-06 23:40:49,198 INFO     ***************************
+2016-08-06 23:40:49,200 INFO     127.0.0.1 - - [06/Aug/2016 23:40:49] "POST /corpus/y HTTP/1.1" 200 -
