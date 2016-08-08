@@ -1,0 +1,64 @@
+2016-08-07 23:48:00,882 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-07 23:48:00,882 INFO      * Restarting with stat
+2016-08-07 23:48:01,128 WARNING   * Debugger is active!
+2016-08-07 23:48:01,133 INFO      * Debugger pin code: 294-815-374
+2016-08-07 23:48:12,642 INFO     ***************************
+2016-08-07 23:48:12,642 INFO     List is in the following mongo collection:
+2016-08-07 23:48:12,642 INFO     disillusionment-corpus-only-syn-unq-order-1
+2016-08-07 23:48:12,651 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:12,817 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-07 23:48:12,817 INFO     [u'disenchantment', u'disillusion', u'edification', u'sophistication']
+2016-08-07 23:48:12,817 INFO     =====END FLAT LIST=====
+2016-08-07 23:48:12,817 INFO     Length of list is:
+2016-08-07 23:48:12,817 INFO     4
+2016-08-07 23:48:12,817 INFO     Length of setlist is:
+2016-08-07 23:48:12,817 INFO     4
+2016-08-07 23:48:12,817 INFO     ***************************
+2016-08-07 23:48:12,817 INFO     ***************************
+2016-08-07 23:48:12,817 INFO     List is in the following mongo collection:
+2016-08-07 23:48:12,817 INFO     disillusionment-corpus-only-syn-unq-order-2
+2016-08-07 23:48:12,819 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:12,974 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:13,119 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:13,266 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:13,393 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-07 23:48:13,394 INFO     [u'disillusion', u'expertness', u'worldliness', u'disenchantment', u'disillusionment', u'falsehood', u'mundanity', u'sophistication', u'false belief', u'let down', u'sophism', u'disenchant', u'falsification', u'sophistry', u'mundaneness', u'disappoint', u'expertise', u'enlightenment', u'quality', u'edification', u'fallacy']
+2016-08-07 23:48:13,394 INFO     =====END FLAT LIST=====
+2016-08-07 23:48:13,394 INFO     Length of list is:
+2016-08-07 23:48:13,394 INFO     27
+2016-08-07 23:48:13,394 INFO     Length of setlist is:
+2016-08-07 23:48:13,394 INFO     21
+2016-08-07 23:48:13,394 INFO     ***************************
+2016-08-07 23:48:13,394 INFO     ***************************
+2016-08-07 23:48:13,394 INFO     List is in the following mongo collection:
+2016-08-07 23:48:13,394 INFO     disillusionment-corpus-only-syn-unq-order-3
+2016-08-07 23:48:13,397 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:13,530 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:13,653 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:13,777 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:13,928 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:14,088 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:14,239 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:14,398 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:14,532 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:14,681 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:14,830 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:15,243 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:15,366 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:15,490 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:15,613 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:15,742 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:15,887 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:16,031 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:16,178 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:16,298 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:16,434 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-07 23:48:16,555 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-07 23:48:16,556 INFO     [u'social rank', u'falsehood', u'thwart', u'worldliness', u'grade', u'character', u'move', u'mundanity', u'evidence', u'false belief', u'expertise', u'queer', u'externality', u'misconduct', u'Enlightenment', u'dishonesty', u'take down', u'edification', u'timber', u'disillusion', u'education', u'level', u'tone', u'wrongful conduct', u'get down', u'quality', u'falsity', u'beatitude', u'cross', u'Nirvana', u'let down', u'ordinariness', u'social status', u'disenchant', u'statement', u'attribute', u'mundaneness', u'disappoint', u'bring down', u'enlightenment', u'dimension', u'Age of Reason', u'caliber', u'refutal', u'wrongdoing', u'degree', u'property', u'disenchantment', u'lineament', u'outwardness', u'displace', u'sophistication', u'baffle', u'finding', u'foil', u'untruth', u'sophism', u'rank', u'spoil', u'grounds', u'misconception', u'frustrate', u'falsifying', u'disproof', u'actus reus', u'misrepresentaation', u'lower', u'expertness', u'skillfulness', u'calibre', u'falsification', u'disillusionment', u'reform movement', u'bilk', u'sound property', u'timbre', u'social station', u'refutation', u'sophistry', u'beatification', u'determination', u'fallacy', u'scotch', u'blessedness', u'knavery']
+2016-08-07 23:48:16,556 INFO     =====END FLAT LIST=====
+2016-08-07 23:48:16,556 INFO     Length of list is:
+2016-08-07 23:48:16,556 INFO     140
+2016-08-07 23:48:16,556 INFO     Length of setlist is:
+2016-08-07 23:48:16,556 INFO     85
+2016-08-07 23:48:16,556 INFO     ***************************
+2016-08-07 23:48:16,557 INFO     127.0.0.1 - - [07/Aug/2016 23:48:16] "POST /corpus/y HTTP/1.1" 200 -
