@@ -1,0 +1,76 @@
+2016-08-10 23:12:26,870 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-10 23:12:26,871 INFO      * Restarting with stat
+2016-08-10 23:12:27,116 WARNING   * Debugger is active!
+2016-08-10 23:12:27,121 INFO      * Debugger pin code: 294-815-374
+2016-08-10 23:12:30,582 INFO     ***************************
+2016-08-10 23:12:30,582 INFO     List is in the following mongo collection:
+2016-08-10 23:12:30,582 INFO     elation-corpus-only-syn-unq-order-1
+2016-08-10 23:12:30,593 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:30,729 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-10 23:12:30,729 INFO     [u'psychological state', u'joyousness', u'joyfulness', u'joy', u'high spirits', u'mental state', u'lightness']
+2016-08-10 23:12:30,729 INFO     =====END FLAT LIST=====
+2016-08-10 23:12:30,729 INFO     Length of list is:
+2016-08-10 23:12:30,729 INFO     7
+2016-08-10 23:12:30,729 INFO     Length of setlist is:
+2016-08-10 23:12:30,729 INFO     7
+2016-08-10 23:12:30,729 INFO     ***************************
+2016-08-10 23:12:30,729 INFO     ***************************
+2016-08-10 23:12:30,729 INFO     List is in the following mongo collection:
+2016-08-10 23:12:30,729 INFO     elation-corpus-only-syn-unq-order-2
+2016-08-10 23:12:30,731 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:30,860 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:30,978 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:31,107 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:31,230 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:31,357 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:31,479 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:31,605 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-10 23:12:31,605 INFO     [u'emotion', u'joyousness', u'feel', u'value', u'legerity', u'rejoice', u'weight', u'elation', u'weightlessness', u'giddiness', u'gladden', u'status', u'psychological state', u'agility', u'joy', u'positive stimulus', u'delight', u'mental state', u'high spirits', u'lightness', u'condition', u'gracefulness', u'nimbleness', u'silliness', u'joyfulness', u'light', u'experience', u'lightsomeness', u'visual property', u'pleasure']
+2016-08-10 23:12:31,606 INFO     =====END FLAT LIST=====
+2016-08-10 23:12:31,606 INFO     Length of list is:
+2016-08-10 23:12:31,606 INFO     44
+2016-08-10 23:12:31,606 INFO     Length of setlist is:
+2016-08-10 23:12:31,606 INFO     30
+2016-08-10 23:12:31,606 INFO     ***************************
+2016-08-10 23:12:31,607 INFO     ***************************
+2016-08-10 23:12:31,607 INFO     List is in the following mongo collection:
+2016-08-10 23:12:31,607 INFO     elation-corpus-only-syn-unq-order-3
+2016-08-10 23:12:31,610 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:31,751 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:31,876 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:31,997 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:32,123 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:32,253 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:32,391 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:32,514 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:32,638 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:32,765 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:32,907 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:33,039 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:33,169 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:33,292 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:33,420 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:33,543 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:33,677 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:33,808 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:33,940 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:34,064 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:34,206 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:34,333 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:34,461 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:34,589 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:34,716 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:34,844 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:34,978 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:35,102 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:35,225 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:35,355 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-10 23:12:35,492 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-10 23:12:35,493 INFO     [u'ignite', u'perch', u'atmosphere', u'luminance', u'consider', u'consciousness', u'visual property', u'alight', u'visual signal', u'experimental condition', u'precondition', u'exuberate', u'shape', u'selection', u'knowingness', u'aspect', u'participate', u'touch', u'flavor', u'find', u'fatuity', u'discipline', u'go down', u'sexual practice', u'illumine', u'treasure', u'state', u'comprehend', u'better', u'time value', u'visible light', u'weightlessness', u'condition', u'color property', u'actinic radiation', u'ambience', u'input', u'giddiness', u'posture', u'pass', u'worth', u'awareness', u'combust', u'gratify', u'frivolousness', u'return', u'exult', u'lightheadedness', u'brightness level', u'evaluate', u'lighten', u'perceive', u'stipulate', u'choice', u'sexual activity', u'dismount', u'occurrent', u'know', u'burden', u'fall', u'judge', u'look for', u'unit of measurement', u'silliness', u'term', u'oppressiveness', u'nimbleness', u'prize', u'brightness', u'stimulus', u'luminosity', u'conceive', u'source of illumination', u'amend', u'come down', u'activity', u'system of weights', u'enrapture', u'dizziness', u'weight down', u'pass judgment', u'predetermine', u'triumph', u'view', u'enjoy', u'coefficient', u'set', u'illuminate', u'occurrence', u'weight', u'intelligence', u'ambiance', u'weightiness', u'revel', u'see', u'verve', u'delight', u'perspective', u'undertake', u'measure', u'duration', u'ameliorate', u'lighten up', u'absurdity', u'transport', u'brainwave', u'good health', u'vertigo', u'appear', u'twinkle', u'get down', u'tactile property', u'please', u'delectation', u'content', u'sparkle', u'reason out', u'finger', u'be on cloud nine', u'gladden', u'lightheartedness', u'set down', u'jump for joy', u'regain', u'be', u'light source', u'circumstance', u'importance', u'joy', u'ignitor', u'burn', u'mental object', u'chirk up', u'reason', u'visible radiation', u'premise', u'illumination', u'consideration', u'teach', u'lightness', u'change', u'improve', u'insouciance', u'wallow', u'search', u'feeling', u'ravish', u'receive', u'enchant', u'sex', u'qualify', u'experience', u'foolishness', u'amount', u'natural event', u'cognizance', u'lighting', u'cognisance', u'undergo', u'devolve', u'think', u'emotion', u'artefact', u'numerical quantity', u'tone', u'general knowledge', u'morals', u'conclude', u'feel', u'burthen', u'physical property', u'scene', u'mental dexterity', u'assess', u'device', u'instruct', u'esteem', u'determine', u'respect', u'jubilate', u'spark', u'unit', u'carefreeness', u'rejoice', u'enthral', u'stipulation', u'charge', u'stimulation', u'weight unit', u'live', u'assumption', u'make grow', u'Light Within', u'statement', u'exercising weight', u'meliorate', u'friend', u'psychological state', u'agility', u'enthrall', u'blitheness', u'foreplay', u'take part', u'regard', u'artifact', u'specify', u'gracefulness', u'mental state', u'train', u'unwiseness', u'Inner Light', u'Light', u'believe', u'spirit', u'symptom', u'continuance', u'cognitive content', u'flavour', u'look', u'joyfulness', u'folly', u'shampoo', u'rate', u'value', u'brainstorm', u'frivolity', u'carriage', u'learn', u'sports equipment', u'property', u'lighter', u'procedure', u'appraise', u'bearing', u'joyousness', u'pleasance', u'process', u'metric', u'legerity', u'healthiness', u'actinic ray', u'weighting', u'bias', u'contract', u'have', u'sense', u'arousal', u'seem', u'face', u'seek', u'check', u'economic value', u'information', u'education', u'angle', u'insight', u'fire up', u'get', u'fatuousness', u'elation', u'ideal', u'light up', u'vitality', u'descend', u'ethical motive', u'facial expression', u'prise', u'go through', u'smell', u'stimulant', u'system of measurement', u'status', u'unhorse', u'reckon', u'valuate', u'oppression', u'pick', u'satisfy', u'slant', u'positive stimulus', u'palpate', u'sex activity', u'high spirits', u'luminousness', u'get off', u'note value', u'cheer up', u'pleasure', u'Christ Within', u'develop', u'ethics', u'morality', u'land', u'happening', u'igniter', u'lightsomeness', u'light', u'public knowledge', u'premiss', u'appreciate', u'free weight', u'walk on air', u'cheer', u'expression', u'illume', u'position', u'cheerfulness', u'quantity']
+2016-08-10 23:12:35,493 INFO     =====END FLAT LIST=====
+2016-08-10 23:12:35,493 INFO     Length of list is:
+2016-08-10 23:12:35,493 INFO     397
+2016-08-10 23:12:35,493 INFO     Length of setlist is:
+2016-08-10 23:12:35,494 INFO     308
+2016-08-10 23:12:35,494 INFO     ***************************
+2016-08-10 23:12:35,495 INFO     127.0.0.1 - - [10/Aug/2016 23:12:35] "POST /corpus/y HTTP/1.1" 200 -
