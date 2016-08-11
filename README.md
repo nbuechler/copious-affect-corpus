@@ -43,6 +43,12 @@ See the emotions spreadsheet in _unique_corpra
 # Also notes...
 dimensions are known as a special kind of category
 
+# Tech notes
+to export the mongo database:
+```
+mongodump -d affect-corpus -o ./<dir name>
+```
+
 # CREDITS
 ```
 To build a corpus ('Be Excellent to Each Other')
