@@ -1,0 +1,72 @@
+2016-08-12 22:16:15,879 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-12 22:16:15,880 INFO      * Restarting with stat
+2016-08-12 22:16:16,128 WARNING   * Debugger is active!
+2016-08-12 22:16:16,133 INFO      * Debugger pin code: 294-815-374
+2016-08-12 22:16:20,913 INFO     ***************************
+2016-08-12 22:16:20,913 INFO     List is in the following mongo collection:
+2016-08-12 22:16:20,913 INFO     forgiveness-corpus-only-syn-unq-order-1
+2016-08-12 22:16:20,920 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:21,045 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-12 22:16:21,045 INFO     [u'benignity', u'mercy', u'kindness', u'mercifulness', u'pardon']
+2016-08-12 22:16:21,045 INFO     =====END FLAT LIST=====
+2016-08-12 22:16:21,045 INFO     Length of list is:
+2016-08-12 22:16:21,046 INFO     5
+2016-08-12 22:16:21,046 INFO     Length of setlist is:
+2016-08-12 22:16:21,046 INFO     5
+2016-08-12 22:16:21,046 INFO     ***************************
+2016-08-12 22:16:21,046 INFO     ***************************
+2016-08-12 22:16:21,046 INFO     List is in the following mongo collection:
+2016-08-12 22:16:21,046 INFO     forgiveness-corpus-only-syn-unq-order-2
+2016-08-12 22:16:21,048 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:21,188 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:21,311 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:21,439 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:21,562 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:21,686 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-12 22:16:21,686 INFO     [u'benignity', u'ministration', u'kindness', u'forgivingness', u'leniency', u'lenience', u'mercifulness', u'goodness', u'succour', u'boon', u'free pardon', u'forgiveness', u'compassionateness', u'good', u'compassion', u'blessing', u'forgive', u'excuse', u'clemency', u'humaneness', u'mercy', u'graciousness', u'warrant', u'succor', u'relief', u'action', u'amnesty', u'benignancy']
+2016-08-12 22:16:21,686 INFO     =====END FLAT LIST=====
+2016-08-12 22:16:21,686 INFO     Length of list is:
+2016-08-12 22:16:21,686 INFO     44
+2016-08-12 22:16:21,687 INFO     Length of setlist is:
+2016-08-12 22:16:21,687 INFO     28
+2016-08-12 22:16:21,687 INFO     ***************************
+2016-08-12 22:16:21,687 INFO     ***************************
+2016-08-12 22:16:21,687 INFO     List is in the following mongo collection:
+2016-08-12 22:16:21,687 INFO     forgiveness-corpus-only-syn-unq-order-3
+2016-08-12 22:16:21,690 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:21,839 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:21,975 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:22,096 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:22,224 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:22,363 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:22,486 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:22,617 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:22,746 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:22,875 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:23,002 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:23,124 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:23,244 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:23,368 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:23,499 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:23,623 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:23,754 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:23,880 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:24,004 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:24,140 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:24,262 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:24,394 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:24,528 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:24,651 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:24,768 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:24,898 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:25,032 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:25,158 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-12 22:16:25,291 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-12 22:16:25,291 INFO     [u'benignity', u'ministration', u'social welfare', u'help', u'pardon', u'good manners', u'relieve', u'rest', u'humaneness', u'legal proceeding', u'comfortableness', u'welfare', u'commendation', u'succour', u'activeness', u'explain', u'alleviation', u'liberation', u'reliever', u'exempt', u'bespeak', u'suspension', u'match', u'warrant', u'petition', u'sculptural relief', u'good', u'exculpation', u'advantage', u'compassion', u'legal action', u'finish', u'warrantee', u'quest', u'group action', u'clemency', u'drive', u'kindness', u'execute', u'relievo', u'military action', u'pause', u'absolve', u'yield', u'good weather', u'action at law', u'embossment', u'activity', u'break', u'amnesty', u'fulfil', u'interruption', u'rest period', u'work', u'pledge', u'set up', u'apologize', u'peer', u'back', u'alteration', u'defense', u'mercifulness', u'orison', u'complete', u'carry out', u'substitute', u'sue', u'defence', u'proceeding', u'permissiveness', u'confirm', u'surety', u'defend', u'state', u'endorse', u'imprimatur', u'tolerance', u'natural action', u'assurance', u'plot', u'forgive', u'free', u'release', u'short letter', u'let off', u'illustration', u'effectuate', u'fulfill', u'diminution', u'approval', u'security', u'change', u'pity', u'action mechanism', u'graciousness', u'fellow feeling', u'exemption', u'stock warrant', u'sculpture', u'judicial writ', u'countenance', u'carry through', u'act', u'action', u'benediction', u'trade good', u'stand-in', u'ease', u'respite', u'warranty', u'freeing', u'artefact', u'human activity', u'rilievo', u'leniency', u'sympathy', u'lenience', u'decrease', u'good luck', u'physical process', u'quality', u'good fortune', u'lenity', u'self-justification', u'support', u'assuagement', u'concede', u'rationalise', u'reduction', u'free pardon', u'condone', u'natural process', u'sanction', u'compassionateness', u'litigate', u'billet', u'blessing', u'apologise', u'artifact', u'approving', u'fend for', u'moderation', u'representative', u'vindication', u'luckiness', u'line', u'grace', u'beg off', u'mercy', u'indorse', u'commodity', u'easement', u'intermission', u'challenge', u'stock-purchase warrant', u'human action', u'redress', u'fill-in', u'freedom', u'backup man', u'aid', u'benignancy', u'example', u'indulgence', u'step-down', u'forgivingness', u'process', u'reassert', u'equal', u'goodness', u'prayer', u'plump for', u'call for', u'guarantee', u'vindicate', u'alibi', u'grant', u'plunk for', u'comfort', u'proceedings', u'mechanism', u'note', u'instance', u'succor', u'damages', u'boon', u'endorsement', u'modification', u'restitution', u'mildness', u'assist', u'indemnification', u'effect', u'courtesy', u'accomplish', u'indemnity', u'compeer', u'morality', u'vantage', u'apology', u'rationalize', u'backup', u'indorsement', u'request', u'thanksgiving', u'amends', u'supplication', u'writ', u'relief', u'easing', u'assistance', u'justify']
+2016-08-12 22:16:25,291 INFO     =====END FLAT LIST=====
+2016-08-12 22:16:25,292 INFO     Length of list is:
+2016-08-12 22:16:25,292 INFO     321
+2016-08-12 22:16:25,292 INFO     Length of setlist is:
+2016-08-12 22:16:25,292 INFO     212
+2016-08-12 22:16:25,292 INFO     ***************************
+2016-08-12 22:16:25,294 INFO     127.0.0.1 - - [12/Aug/2016 22:16:25] "POST /corpus/y HTTP/1.1" 200 -
