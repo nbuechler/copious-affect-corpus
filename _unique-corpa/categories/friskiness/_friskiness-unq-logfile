@@ -1,0 +1,63 @@
+2016-08-13 21:51:14,947 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-13 21:51:14,948 INFO      * Restarting with stat
+2016-08-13 21:51:15,210 WARNING   * Debugger is active!
+2016-08-13 21:51:15,215 INFO      * Debugger pin code: 294-815-374
+2016-08-13 21:51:19,713 INFO     ***************************
+2016-08-13 21:51:19,713 INFO     List is in the following mongo collection:
+2016-08-13 21:51:19,713 INFO     friskiness-corpus-only-syn-unq-order-1
+2016-08-13 21:51:19,721 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:19,866 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-13 21:51:19,866 INFO     [u'fun', u'frolicsomeness', u'sportiveness', u'playfulness']
+2016-08-13 21:51:19,866 INFO     =====END FLAT LIST=====
+2016-08-13 21:51:19,866 INFO     Length of list is:
+2016-08-13 21:51:19,866 INFO     4
+2016-08-13 21:51:19,866 INFO     Length of setlist is:
+2016-08-13 21:51:19,867 INFO     4
+2016-08-13 21:51:19,867 INFO     ***************************
+2016-08-13 21:51:19,867 INFO     ***************************
+2016-08-13 21:51:19,867 INFO     List is in the following mongo collection:
+2016-08-13 21:51:19,867 INFO     friskiness-corpus-only-syn-unq-order-2
+2016-08-13 21:51:19,869 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:20,014 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:20,157 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:20,298 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:20,439 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-13 21:51:20,439 INFO     [u'fun', u'play', u'frivolousness', u'humor', u'playfulness', u'humour', u'gaiety', u'frolicsomeness', u'merriment', u'sportiveness', u'recreation', u'frivolity', u'diversion', u'wit', u'friskiness', u'activity', u'witticism', u'wittiness', u'sport', u'levity']
+2016-08-13 21:51:20,439 INFO     =====END FLAT LIST=====
+2016-08-13 21:51:20,439 INFO     Length of list is:
+2016-08-13 21:51:20,440 INFO     30
+2016-08-13 21:51:20,440 INFO     Length of setlist is:
+2016-08-13 21:51:20,440 INFO     20
+2016-08-13 21:51:20,440 INFO     ***************************
+2016-08-13 21:51:20,440 INFO     ***************************
+2016-08-13 21:51:20,440 INFO     List is in the following mongo collection:
+2016-08-13 21:51:20,441 INFO     friskiness-corpus-only-syn-unq-order-3
+2016-08-13 21:51:20,444 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:20,588 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:20,737 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:20,879 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:21,025 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:21,221 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:21,363 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:21,502 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:21,643 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:21,786 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:21,931 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:22,077 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:22,220 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:22,362 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:22,504 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:22,645 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:22,789 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:22,933 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:23,077 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:23,223 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:51:23,370 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-13 21:51:23,370 INFO     [u'represent', u'endeavour', u'consider', u'show', u'being', u'move', u'sportiveness', u'bring', u'go', u'divagation', u'happiness', u'jock', u'trifle', u'skylark', u'cavort', u'craziness', u'tomfoolery', u'frippery', u'wreak', u'shimmer', u're-create', u'manoeuvre', u'dramatic composition', u'usage', u'organic process', u'do', u'frivolousness', u'hit', u'beat', u'bid', u'displace', u'make for', u'tucker', u'body fluid', u'indulge', u'feature', u'lunacy', u'encounter', u'humourist', u'capability', u'bodily fluid', u'recreation', u'trivia', u'foolery', u'brain', u'vacationist', u'plan of action', u'alteration', u'try', u'someone', u'tucker out', u'gamble', u'activity', u'athletics', u'free rein', u'folly', u'deal', u'gaming', u'intelligence', u'act as', u'sportsman', u'deflection', u'biological process', u'individual', u'line of work', u'physical process', u'measure', u'turning', u'sport', u'employment', u'message', u'contend', u'flirt', u'humor', u'playfulness', u'diversionary attack', u'diddle', u'deflexion', u'content', u'state', u'behave', u'mutation', u'lark', u'fiddle', u'humorist', u'movableness', u'natural action', u'exercise', u'movement', u'maneuver', u'run', u'business', u'harlequinade', u'movability', u'pander', u'brainpower', u'spiel', u'job', u'vice', u'witticism', u'dally', u'mutant', u'playact', u'change', u'merriment', u'substance', u'rollick', u'boast', u'freedom', u'triviality', u'occupation', u'body process', u'drama', u'turn', u'amount', u'run around', u'gambol', u'act', u'action', u'wittiness', u'sportswoman', u'feign', u'bodily process', u'humour', u'vie', u'human activity', u'recreate', u'utilisation', u'gaiety', u'exploit', u'wit', u'refreshment', u'apply', u'endeavor', u'wager', u'quality', u'manipulate', u'prank', u'subject matter', u'use', u'toy', u'fluff', u'utilization', u'wag', u'capacity', u'create', u'card', u'attack', u'bagatelle', u'frisk', u'onslaught', u'natural process', u'body substance', u'small beer', u'trait', u'period of play', u'mentality', u'looseness', u'digression', u'locomote', u'onrush', u'simulate', u'playing period', u'line', u'summercater', u'effort', u'sound', u'learning ability', u'rejuvenation', u'disport', u'athlete', u'work', u'soul', u'human action', u'employ', u'frivolity', u'fun', u'meet', u'feeling', u'temper', u'bet', u'buffoonery', u'indulgence', u'gratify', u'process', u'frolicsomeness', u'take on', u'lark about', u'wash up', u'somebody', u'japery', u'have', u'sense of humour', u'swordplay', u'levity', u'motion', u'perform', u'make', u'utilize', u'onset', u'activeness', u'take', u'modification', u'gambling', u'frolic', u'roleplay', u'sham', u'deviation', u'exhaust', u'play', u'utilise', u'deploy', u'friskiness', u'look at', u'variation', u'mortal', u'diversion', u'dramatic work', u'bodily function', u'discharge', u'sense of humor', u'liquid body substance', u'mood', u'attempt', u'vacationer', u'romp', u'caper', u'assume', u'mental capacity', u'clowning', u'person', u'compete', u'quantity', u'organism', u"child's play", u'dramatic play', u'travel']
+2016-08-13 21:51:23,370 INFO     =====END FLAT LIST=====
+2016-08-13 21:51:23,370 INFO     Length of list is:
+2016-08-13 21:51:23,371 INFO     357
+2016-08-13 21:51:23,371 INFO     Length of setlist is:
+2016-08-13 21:51:23,371 INFO     237
+2016-08-13 21:51:23,371 INFO     ***************************
+2016-08-13 21:51:23,372 INFO     127.0.0.1 - - [13/Aug/2016 21:51:23] "POST /corpus/y HTTP/1.1" 200 -

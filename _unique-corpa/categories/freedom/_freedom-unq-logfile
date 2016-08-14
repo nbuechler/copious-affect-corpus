@@ -1,0 +1,99 @@
+2016-08-13 21:49:42,000 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-13 21:49:42,000 INFO      * Restarting with stat
+2016-08-13 21:49:42,243 WARNING   * Debugger is active!
+2016-08-13 21:49:42,247 INFO      * Debugger pin code: 294-815-374
+2016-08-13 21:49:45,410 INFO     ***************************
+2016-08-13 21:49:45,410 INFO     List is in the following mongo collection:
+2016-08-13 21:49:45,410 INFO     freedom-corpus-only-syn-unq-order-1
+2016-08-13 21:49:45,421 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:45,569 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-13 21:49:45,570 INFO     [u'state', u'exemption', u'unsusceptibility', u'immunity']
+2016-08-13 21:49:45,570 INFO     =====END FLAT LIST=====
+2016-08-13 21:49:45,570 INFO     Length of list is:
+2016-08-13 21:49:45,570 INFO     4
+2016-08-13 21:49:45,570 INFO     Length of setlist is:
+2016-08-13 21:49:45,570 INFO     4
+2016-08-13 21:49:45,571 INFO     ***************************
+2016-08-13 21:49:45,571 INFO     ***************************
+2016-08-13 21:49:45,571 INFO     List is in the following mongo collection:
+2016-08-13 21:49:45,571 INFO     freedom-corpus-only-syn-unq-order-2
+2016-08-13 21:49:45,573 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:45,721 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:45,870 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:46,015 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:46,159 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-13 21:49:46,159 INFO     [u'commonwealth', u'status', u'attribute', u'resistance', u'denote', u'give tongue to', u'body politic', u'utter', u'regime', u'put forward', u'suggest', u'invulnerability', u'State Department', u'submit', u'verbalize', u'granting immunity', u'political entity', u'advise', u'tell', u'immunity', u'refer', u'province', u'unsusceptibility', u'government', u'propose', u'express', u'United States Department of State', u'nation', u'release', u'chemical phenomenon', u'DoS', u'authorities', u'discharge', u'state of matter', u'spirit', u'condition', u'land', u'exemption', u'State', u'administrative district', u'administrative division', u'country', u'political unit', u'executive department', u'say', u'Department of State', u'deduction', u'emotional state', u'territorial division', u'tax write-off', u'verbalise', u'freedom', u'posit', u'res publica', u'waiver', u'tax deduction']
+2016-08-13 21:49:46,160 INFO     =====END FLAT LIST=====
+2016-08-13 21:49:46,160 INFO     Length of list is:
+2016-08-13 21:49:46,160 INFO     64
+2016-08-13 21:49:46,160 INFO     Length of setlist is:
+2016-08-13 21:49:46,160 INFO     56
+2016-08-13 21:49:46,160 INFO     ***************************
+2016-08-13 21:49:46,160 INFO     ***************************
+2016-08-13 21:49:46,160 INFO     List is in the following mongo collection:
+2016-08-13 21:49:46,160 INFO     freedom-corpus-only-syn-unq-order-3
+2016-08-13 21:49:46,163 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:46,310 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:46,450 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:46,604 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:46,751 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:46,897 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:47,042 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:47,186 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:47,330 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:47,484 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:47,630 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:47,778 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:47,922 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:48,064 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:48,212 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:48,361 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:48,511 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:48,655 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:48,800 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:48,944 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:49,089 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:49,233 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:49,378 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:49,521 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:49,664 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:49,808 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:49,960 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:50,107 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:50,251 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:50,398 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:50,543 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:50,697 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:50,841 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:50,985 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:51,133 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:51,279 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:51,427 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:51,577 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:51,717 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:51,860 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:52,005 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:52,146 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:52,287 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:52,429 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:52,573 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:52,716 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:52,863 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:53,008 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:53,169 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:53,317 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:53,470 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:53,616 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:53,763 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:53,907 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:54,057 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:54,201 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-13 21:49:54,343 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-13 21:49:54,343 INFO     [u'limited', u'precondition', u'concept', u'pass on', u'write-off', u'experimental condition', u'official document', u'resistance', u'unblock', u'publish', u'adjustment', u'reasoning', u'conjure', u'swan', u'send', u'expelling', u'dominion', u'program', u'ambience', u'spillage', u'stick out', u'stipulate', u'group action', u'physical object', u'condition', u'price reduction', u'button', u'global organization', u'handout', u'amend', u'proposition', u'real estate', u'pass judgment', u'programme', u'intercommunicate', u'look up', u'occurrence', u'give notice', u'direct', u'imply', u'pass', u'channelize', u'enounce', u'verbalize', u'political entity', u'conduct', u'occupation', u'set down', u'succumb', u'transportation', u'loose', u'modify', u'United States Department of State', u'free', u'fulfill', u'consideration', u'geographic region', u'bring up', u'change', u'arena', u'convert', u'exemption', u'unwillingness', u'pop the question', u'bow', u'verbalise', u'procedure', u'action', u'geographical region', u'call forth', u'inference', u'heart', u'electrical device', u'decrease', u'rede', u'apply', u'unresponsiveness', u'set ashore', u'select', u'estate', u'enliven', u'governance', u'meliorate', u'sort', u'Land', u'solid ground', u'freedom', u'ascribe', u'emission', u'healthiness', u'train', u'stick', u'recount', u'ware', u'earth', u'assoil', u'accomplishment', u'channelise', u'archer', u'firing off', u'learn', u'res publica', u'territorial dominion', u'arrive', u'defer', u'firing', u'stream', u'give', u'process', u'attribute', u'accept', u'electric discharge', u'sphere', u'supernatural being', u'allege', u'publicise', u'secern', u'federation', u'information', u'sound out', u'democracy', u'verify', u'invulnerability', u'feature', u'venting', u'significance', u'legal instrument', u'stir', u'classify', u'stand', u'product', u'abstraction', u'ohmic resistance', u'come to', u'lay', u'political science', u'bodily function', u'give up', u'relinquish', u'administrative division', u'register', u'departure', u'assign', u'outpouring', u'inform', u'shore', u'maintain', u'unfreeze', u'deposit', u'DoS', u'presuppose', u'order', u'talk', u'emotion', u'social science', u'let go of', u'brio', u'rural area', u'suffer', u'digest', u'relegate', u'electric arc', u'fix', u'brook', u'acres', u'better', u'electrical conduction', u'choose', u'electrical phenomenon', u'mail', u'alter', u'put up', u'propose', u'material', u'invigoration', u'nation', u'mention', u'chemical phenomenon', u'subtraction', u'speculate', u'discuss', u'execute', u'name', u'drop', u'write-down', u'bring out', u'touch on', u'mean', u'commonwealth', u'status', u'domain', u'ambiance', u'call down', u'vital principle', u'asseverate', u'line of work', u'remove', u'undertake', u'ameliorate', u'geographic area', u'extract', u'good health', u'accomplish', u'shoot down', u'federal department', u'dismissal', u'State Department', u'abide', u'research', u'liveliness', u'make grow', u'send word', u'safety', u'impart', u'bring down', u'issue', u'resistor', u'fiber', u'circumstance', u'governing', u'qualify', u'disposition', u'put', u'teach', u'give in', u'change state', u'acquittance', u'bowman', u'spill', u'emotional state', u'Edwin Herbert Land', u'turn', u'place', u'undergo', u'think', u'recite', u'render', u'purport', u'feel', u'relate', u'unloose', u'sack', u'abstract thought', u'instruct', u'notify', u'carry', u'fire', u'guess', u'district', u'immovable', u'international organisation', u'muster out', u'system', u'body politic', u'indicate', u'assort', u'assumption', u'statement', u'aver', u'ooze out', u'postulate', u'farming', u'cite', u'circulate', u'form of government', u'acquire', u'relinquishing', u'spiritedness', u'differentiate', u'consult', u'government department', u'specify', u'inventor', u'artificer', u'nominate', u'exudate', u'legal document', u'State', u'project', u'arc', u'ooze', u'posit', u'natural process', u'declare', u'resistivity', u'emanation', u'enjoin', u'say', u'liven up', u'have', u'stomach', u'tell apart', u'strength', u'realm', u'severalize', u'apprise', u'animation', u'take', u'revolutionary group', u'transmit', u'responsibility', u'concern', u'channel', u'province', u'world organization', u'apprize', u'object', u'reach', u'declare oneself', u'mouth', u'plan', u'inspirit', u'termination', u'device', u'class', u'achievement', u'eject', u'clear', u'request', u'liberate', u'confederation', u'atmosphere', u'shot', u'discoverer', u'show', u'press release', u'ending', u'bring', u'give tongue to', u'industrialist', u'utter', u'impregnability', u'ground', u'fibre', u'acquit', u'social control', u'liberation', u'going', u'spiritual being', u'transude', u'announce', u'sacking', u'think of', u'invoke', u'get', u'express', u'regimen', u'bear', u'talk over', u'outlet', u'spirit', u'flavour', u'merchandise', u'reveal', u'denominate', u'deductive reasoning', u'shape', u'yield', u'drive home', u'let go', u'stuff', u'activity', u'release', u'implication', u'exude', u'tax deduction', u'life principle', u'landed estate', u'set', u'expel', u'shampoo', u'stipulation', u'arouse', u'bare', u'real property', u'subject', u'tone ending', u'accede', u'government activity', u'label', u'put out', u'state', u'import', u'social unit', u'endure', u'premiss', u'Din Land', u'avow', u'deliver', u'job', u'carry through', u'opposition', u'distinguish', u'spark', u'come', u'improve', u'feeling', u'country', u'pertain', u'contract', u'emit', u'deduction', u'assure', u'passing', u'disembodied spirit', u'department of the federal government', u'secrete', u'allowance', u'vent', u'tone', u'premise', u'supply', u'terra firma', u'dispatch', u'diminution', u'speak', u'raise', u'have in mind', u'create', u'advert', u'Carry Nation', u'granting immunity', u'territory', u'empty', u'exculpate', u'dry', u'life', u'sprightliness', u'system of rules', u'liven', u'assert', u'temperament', u'pass around', u'deport', u'evidence', u'conjure up', u'present', u'conception', u'look', u'affirm', u'invigorate', u'administrative district', u'tolerate', u'air', u'aim', u'territorial division', u'suppose', u'expiration', u'property', u'carry out', u'region', u'natural event', u'deadness', u'paint a picture', u'step-down', u'soil', u'disk operating system', u'comport', u'Tell', u'develop', u'suggest', u'make', u'Nation', u'unsusceptibility', u'underground', u'advise', u'infer', u'let loose', u'spirit up', u'hand', u'occurrent', u'put forward', u'purpose', u'pick out', u'opportunity', u'tax write-off', u'hash out', u'withdraw', u'position', u'publicize', u'dimension', u'unloosen', u'construct', u'take away', u'illation', u'dry land', u'distribute', u'evince', u'identify', u'touch', u'flavor', u'political system', u'discipline', u'announcement', u'death', u'hint', u'character', u'instrument', u'spread', u'drop off', u'federal office', u'flowing', u'confederacy', u'designate', u'kingdom', u'government', u'read', u'evaluate', u'term', u'judge', u'state of matter', u'put down', u'sort out', u'loss', u'logical thinking', u'geographical area', u'vivification', u'gift', u'electric resistance', u'Carry Amelia Moore Nation', u'turn over', u'fulfil', u'decease', u'realty', u'people', u'pronounce', u'convey', u'expressage', u'animate', u'transport', u'public transport', u'William Tell', u'behave', u'exit', u'unit', u'situate', u'natural action', u'refer', u'secernate', u'run', u'business', u'intimate', u'pose', u'communicate', u'enunciate', u'expiry', u'discount', u'post', u'narrate', u'OS', u'political unit', u'let out', u'chance', u'shipping', u'body process', u'buckle under', u'swear', u'evoke', u'prohibitionist', u'freeing', u'severalise', u'bodily process', u'put in', u'articulate', u'down', u'authorities', u'relinquishment', u'area', u'transfer', u'support', u'reduction', u'submit', u'exonerate', u'press out', u'synthesis', u'complete', u'offer', u'impedance', u'line', u'counsel', u'operating system', u'military action', u'executive department', u'tell', u'record', u'impute', u'display', u'world organisation', u'involuntariness', u'flow', u'denote', u'electrical resistance', u'bear on', u'signification', u'politics', u'shooting', u'natural phenomenon', u'check', u'reconcile', u'regime', u'entailment', u'promulgation', u'international organization', u'express mail', u'field', u'republic', u'demesne', u'smell', u'Department of State', u'immunity', u'conclusion', u'intend', u'separate', u'resign', u'polity', u'meaning', u'intent', u'mechanical phenomenon', u'knuckle under', u'discharge', u'land', u'happening', u'unload', u'orbit', u'go off', u'dismission', u'waiver']
+2016-08-13 21:49:54,344 INFO     =====END FLAT LIST=====
+2016-08-13 21:49:54,344 INFO     Length of list is:
+2016-08-13 21:49:54,344 INFO     959
+2016-08-13 21:49:54,344 INFO     Length of setlist is:
+2016-08-13 21:49:54,344 INFO     627
+2016-08-13 21:49:54,344 INFO     ***************************
+2016-08-13 21:49:54,345 INFO     127.0.0.1 - - [13/Aug/2016 21:49:54] "POST /corpus/y HTTP/1.1" 200 -
