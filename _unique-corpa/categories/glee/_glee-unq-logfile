@@ -1,0 +1,90 @@
+2016-08-14 23:56:52,579 INFO      * Restarting with stat
+2016-08-14 23:56:54,823 WARNING   * Debugger is active!
+2016-08-14 23:56:54,825 INFO      * Debugger pin code: 224-221-343
+2016-08-14 23:56:54,838 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-14 23:57:03,529 INFO     ***************************
+2016-08-14 23:57:03,530 INFO     List is in the following mongo collection:
+2016-08-14 23:57:03,530 INFO     glee-corpus-only-syn-unq-order-1
+2016-08-14 23:57:03,549 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:03,880 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-14 23:57:03,880 INFO     [u'merriment', u'satisfaction', u'gaiety', u'gleefulness', u'gloating', u'gloat', u'mirth', u'mirthfulness', u'hilarity']
+2016-08-14 23:57:03,881 INFO     =====END FLAT LIST=====
+2016-08-14 23:57:03,881 INFO     Length of list is:
+2016-08-14 23:57:03,881 INFO     9
+2016-08-14 23:57:03,881 INFO     Length of setlist is:
+2016-08-14 23:57:03,881 INFO     9
+2016-08-14 23:57:03,881 INFO     ***************************
+2016-08-14 23:57:03,881 INFO     ***************************
+2016-08-14 23:57:03,881 INFO     List is in the following mongo collection:
+2016-08-14 23:57:03,881 INFO     glee-corpus-only-syn-unq-order-2
+2016-08-14 23:57:03,885 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:04,256 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:04,411 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:04,568 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:04,697 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:04,867 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:05,019 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:05,157 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:05,286 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:05,404 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-14 23:57:05,404 INFO     [u'crow', u'gasconade', u'satisfaction', u'gaiety', u'redress', u'levity', u'happiness', u'restitution', u'blow', u'playfulness', u'glee', u'gleefulness', u'contentment', u'damages', u'shoot a line', u'atonement', u'tout', u'mirthfulness', u'hilarity', u'gloating', u'gas', u'indemnification', u'merriment', u'expiation', u'diversion', u'gratification', u'gloat', u'spirit', u'change', u'recreation', u'look', u'boast', u'emotional state', u'amends', u'brag', u'fun', u'mirth', u'indemnity', u'swash', u'bluster', u'triumph', u'vaunt']
+2016-08-14 23:57:05,404 INFO     =====END FLAT LIST=====
+2016-08-14 23:57:05,404 INFO     Length of list is:
+2016-08-14 23:57:05,404 INFO     66
+2016-08-14 23:57:05,404 INFO     Length of setlist is:
+2016-08-14 23:57:05,405 INFO     42
+2016-08-14 23:57:05,405 INFO     ***************************
+2016-08-14 23:57:05,405 INFO     ***************************
+2016-08-14 23:57:05,405 INFO     List is in the following mongo collection:
+2016-08-14 23:57:05,405 INFO     glee-corpus-only-syn-unq-order-3
+2016-08-14 23:57:05,410 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:05,734 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:05,874 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:06,007 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:06,145 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:06,269 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:06,444 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:06,605 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:06,740 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:06,910 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:07,052 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:07,181 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:07,355 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:07,516 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:07,683 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:07,875 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:08,036 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:08,191 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:08,319 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:08,441 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:08,566 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:08,733 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:08,908 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:09,061 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:09,206 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:09,364 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:09,507 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:09,645 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:09,778 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:09,911 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:10,055 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:10,217 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:10,352 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:10,507 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:10,683 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:10,808 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:10,928 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:11,084 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:11,232 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:11,398 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:11,539 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:11,706 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:57:11,832 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-14 23:57:11,832 INFO     [u'natural gas', u'screw up', u'commute', u'go', u'looking', u'depend', u'calculate', u'flash', u'jubilance', u'send', u'jubilancy', u'compensate', u'ambience', u'bumble', u'rhodomontade', u'adviser', u'frivolousness', u'treadle', u'be on cloud nine', u'wave', u'felicity', u'gratification', u'blast', u'recreation', u'exaggerate', u'die', u'shock', u'gun', u'indemnity', u'triumph', u'occurrence', u'crow', u'conk out', u'direct', u'accelerator pedal', u'perception', u'gas pedal', u'appear', u'spirt', u'speech act', u'Sioux', u'exchange', u'modify', u'chirk up', u'protection', u'gloat', u'exhale', u'witticism', u'change', u'wait', u'merriment', u'exemption', u'redemption', u'boast', u'shift', u'give away', u'action', u'salvation', u'depart', u'humour', u'search', u'replace', u'wit', u'cocaine', u'use', u'enliven', u'splash', u'contentment', u'swagger', u'splosh', u'expose', u'freedom', u'gasolene', u'fuel', u'foul up', u'breathing out', u'physiological state', u'gasoline', u'frivolity', u'self-praise', u'hard currency', u'swash', u'scatter', u'vaunt', u'heart', u'visage', u'onslaught', u'stroke', u'supernatural being', u'propitiation', u'dress', u'restitution', u'visual aspect', u'boasting', u'turn', u'clothing', u'travel', u'feature', u'significance', u'foot pedal', u'stir', u'braggadocio', u'sprinkle', u'attend', u'deflexion', u'await', u'lay', u'remediation', u'spout', u'correspond', u'ticket tout', u'walk on air', u'switch', u'bungle', u'wind', u'move', u'vary', u'setback', u'louse up', u'brio', u'miscarry', u'difference', u'fit', u'fix', u'glee', u'atonement', u'alter', u'damages', u'float', u'return', u'foot lever', u'break', u'front', u'bank', u'break open', u'give out', u'let on', u'drop', u'bring out', u'muff', u'muck up', u'victory', u'spatter', u'accelerator', u'bump', u'ambiance', u'vital principle', u'expect', u'event', u'Siouan', u'article of clothing', u'crowing', u'liveliness', u'onrush', u'impart', u'expiation', u'surprise', u'mirthfulness', u'correct', u'disclose', u'fiber', u'turning', u'corvine bird', u'disposition', u'advisor', u'care', u'emotional state', u'thing', u'regaining', u'recompense', u'give care', u'consequence', u'stimulate', u'emotion', u'purport', u'feel', u'tipster', u'interchange', u'bollix', u'expel', u'attack', u'fumble', u'upshot', u'flatulence', u'scalper', u'overdraw', u'go wrong', u'fossil fuel', u'discover', u'throttle', u'exultation', u'go down on', u'compensation', u'spurt', u'feeling', u'spiritedness', u'give way', u'reparation', u'get dressed', u'correction', u'overstate', u'breathe out', u'liven up', u'have', u'seem', u'lie', u'issue', u'form', u'snow', u'onset', u'animation', u'play', u'petrol', u'indemnification', u'inspirit', u'coin', u'eject', u'Crow', u'face', u'burn out', u'dot', u'atmosphere', u'air current', u'jactitation', u'relation', u'utter', u'impact', u'fibre', u'fellate', u'refreshment', u'rodomontade', u'looking at', u'spiritual being', u'plash', u'mend', u'do', u'fluid', u'remedy', u'rest', u'reversal', u'reveal', u'fluff', u'gust', u'cry', u'alteration', u'nose candy', u'gush', u'activity', u'release', u'life principle', u'burst', u'black eye', u'see', u'result', u'fail', u'sport', u'constellation', u'divagation', u'hydrocarbon', u'playfulness', u'diversionary attack', u'label', u'state', u'exhalation', u'import', u'C', u'confusion', u'botch up', u'countenance', u'wear', u'spoil', u'mirth', u'outcome', u'reverse', u'vaporing', u'agree', u'tout', u'acquisition', u'puff', u'expression', u'tone', u'physiological condition', u'satisfaction', u'gaiety', u'shove along', u'bollix up', u'trust', u'mess up', u'line-shooting', u'splatter', u'waste', u'hilarity', u'shove off', u'life', u'sprightliness', u'liven', u'gas', u'convert', u'Siouan language', u'ostentation', u'locomote', u'temperament', u'current of air', u'deepen', u'spirit', u'sound', u'look', u'invigorate', u'consultant', u'appearance', u'cash', u'bodge', u'act', u'expiration', u'fun', u'natural event', u'check', u'split', u'facial expression', u'modification', u'brag', u'let loose', u'finish', u'spirit up', u'effect', u'invigoration', u'occurrent', u'diversion', u'cheer up', u'dust', u'pedal', u'expend', u'amends', u'moving ridge', u'sensing', u'spend', u'advertiser', u'ball up', u'mending', u'repose', u'divulge', u'exuberate', u'cheer', u'shape', u'disperse', u'aspect', u'flavor', u'wearable', u'happiness', u'blow', u'Corvus', u'botch', u'hyerbolise', u'character', u'gloating', u'shoot a line', u'win', u'match', u'exult', u'magnify', u'displace', u'flatulency', u'jibe', u'judge', u'state of matter', u'put down', u'vivification', u'success', u'flub', u'gaseous state', u'conclusion', u'right', u'squander', u'pronounce', u'deflection', u'redress', u'convey', u'animate', u'fanfare', u'humor', u'bet', u'jubilate', u'reckon', u'behave', u'jump for joy', u'be', u'expire', u'advertizer', u'go bad', u'let out', u'adman', u'hyperbolize', u'swear', u'go away', u'wittiness', u'bluster', u'hard cash', u'repair', u'rectification', u'break down', u'rely', u'rejoice', u'transfer', u'touter', u'mishandle', u'vesture', u'bollocks', u'be adrift', u'blow out', u'gibe', u'bobble', u'unwrap', u'fixture', u'coke', u'tally', u'jubilation', u'assail', u'amplify', u'count', u'disembodied spirit', u'flavour', u'rejuvenation', u'take care', u'gleefulness', u'emit', u'digression', u'habiliment', u'gasconade', u'examine', u'cocain', u'signification', u'prevail', u'levity', u'variety', u'fixing', u'insurance', u'bragging', u'smell', u'bollocks up', u'deviation', u'shelter', u'excite', u'drift', u'bravado', u'wallow', u'meaning', u'restoration', u'intent', u'discharge', u'happening', u'ending']
+2016-08-14 23:57:11,832 INFO     =====END FLAT LIST=====
+2016-08-14 23:57:11,832 INFO     Length of list is:
+2016-08-14 23:57:11,832 INFO     821
+2016-08-14 23:57:11,834 INFO     Length of setlist is:
+2016-08-14 23:57:11,834 INFO     451
+2016-08-14 23:57:11,834 INFO     ***************************
+2016-08-14 23:57:11,835 INFO     127.0.0.1 - - [14/Aug/2016 23:57:11] "POST /corpus/y HTTP/1.1" 200 -

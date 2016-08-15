@@ -11,6 +11,7 @@ It will use Flask to do the api. It will probably also be structured in a way th
 * first, install virtualenv if not done so already -- https://virtualenv.pypa.io/en/latest/installation.html(https://virtualenv.pypa.io/en/latest/installation.html)
 * then, run this command: $ virtualenv venv
 * (make sure you get the'.'): $ . venv/bin/activate
+* IMPORTANT: For windows 10 it is: . venv/Scripts/activate (on the git bash)
 * pip install -r requirements.txt
 
 # Run Server
@@ -46,7 +47,20 @@ dimensions are known as a special kind of category
 # Tech notes
 to export the mongo database:
 ```
+for linux:
 mongodump -d affect-corpus -o ./<dir name>
+
+for windows:
+<NOT SURE YET>
+```
+to import the mongo database:
+
+```
+for linux:
+<NOT SURE YET>
+
+for windows:
+mongorestore.exe --db affect-corpus C:\Users\Nate\src\copious-affect-corpus\mongo_database_backup\affect-corpus
 ```
 
 # CREDITS

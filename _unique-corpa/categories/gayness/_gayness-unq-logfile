@@ -1,0 +1,91 @@
+2016-08-14 23:53:04,473 INFO      * Restarting with stat
+2016-08-14 23:53:06,684 WARNING   * Debugger is active!
+2016-08-14 23:53:06,684 INFO      * Debugger pin code: 224-221-343
+2016-08-14 23:53:06,697 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-14 23:53:08,950 INFO     ***************************
+2016-08-14 23:53:08,950 INFO     List is in the following mongo collection:
+2016-08-14 23:53:08,951 INFO     gayness-corpus-only-syn-unq-order-1
+2016-08-14 23:53:09,003 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:09,306 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-14 23:53:09,306 INFO     [u'sexual practice', u'sexual activity', u'queerness', u'homoeroticism', u'sex', u'homosexuality', u'sex activity', u'homosexualism']
+2016-08-14 23:53:09,308 INFO     =====END FLAT LIST=====
+2016-08-14 23:53:09,309 INFO     Length of list is:
+2016-08-14 23:53:09,309 INFO     8
+2016-08-14 23:53:09,309 INFO     Length of setlist is:
+2016-08-14 23:53:09,309 INFO     8
+2016-08-14 23:53:09,309 INFO     ***************************
+2016-08-14 23:53:09,309 INFO     ***************************
+2016-08-14 23:53:09,309 INFO     List is in the following mongo collection:
+2016-08-14 23:53:09,311 INFO     gayness-corpus-only-syn-unq-order-2
+2016-08-14 23:53:09,315 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:09,599 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:09,783 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:09,934 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:10,089 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:10,239 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:10,413 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:10,559 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:10,700 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-14 23:53:10,700 INFO     [u'severalise', u'bodily process', u'strangeness', u'oddity', u'crotchet', u'shake', u'sex', u'distinguish', u'homosexuality', u'arouse', u'gayness', u'shake up', u'secern', u'category', u'sexual practice', u'unfamiliarity', u'queerness', u'severalize', u'separate', u'homoeroticism', u'tell apart', u'physiological property', u'stir', u'tell', u'secernate', u'family', u'quirk', u'excite', u'homosexualism', u'sexual activity', u'differentiate', u'sex activity', u'bodily function', u'class', u'turn on', u'gender', u'wind up', u'body process', u'sexual urge', u'sexuality', u'activity', u'feeling', u'quirkiness', u'stimulate']
+2016-08-14 23:53:10,701 INFO     =====END FLAT LIST=====
+2016-08-14 23:53:10,701 INFO     Length of list is:
+2016-08-14 23:53:10,703 INFO     91
+2016-08-14 23:53:10,703 INFO     Length of setlist is:
+2016-08-14 23:53:10,703 INFO     44
+2016-08-14 23:53:10,703 INFO     ***************************
+2016-08-14 23:53:10,703 INFO     ***************************
+2016-08-14 23:53:10,706 INFO     List is in the following mongo collection:
+2016-08-14 23:53:10,706 INFO     gayness-corpus-only-syn-unq-order-3
+2016-08-14 23:53:10,713 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:11,086 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:11,244 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:11,433 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:11,608 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:11,734 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:11,861 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:12,016 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:12,178 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:12,335 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:12,489 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:12,632 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:12,773 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:12,927 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:13,061 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:13,196 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:13,332 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:13,477 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:13,611 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:13,780 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:13,940 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:14,108 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:14,243 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:14,388 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:14,510 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:14,671 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:14,799 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:14,944 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:15,094 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:15,255 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:15,382 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:15,505 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:15,671 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:15,859 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:16,042 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:16,180 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:16,315 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:16,499 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:16,631 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:16,801 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:16,938 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:17,089 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:17,214 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:17,381 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:53:17,549 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-14 23:53:17,549 INFO     [u'concept', u'eccentricity', u'quarter note', u'signalize', u'discern', u'sexual practice', u'calculate', u'raise up', u'swan', u'vex', u'spirit', u'charge', u'wake up', u'teaching', u'sway', u'division', u'shake off', u'induce', u'sexual activity', u'bustle', u'affect', u'trouble', u'physical object', u'disturb', u'gender', u'bump around', u'call down', u'accumulation', u'assemblage', u'milk shake', u'set up', u'discover', u'agitate', u'enjoin', u'folk', u'verbalize', u'touch sensation', u'somatesthesia', u'conjure', u'menage', u'kindred', u'specialise', u'kinsfolk', u'bring up', u'somesthesia', u'change', u'plump up', u'shift', u'sexual urge', u'milkshake', u'succuss', u'action', u'opinion', u'specialize', u'call forth', u'divide', u'family', u'kinfolk', u'sensitize', u'gesticulate', u'unit', u'sensitise', u'splash', u'strike', u'tactual sensation', u'tell', u'unconditioned reflex', u'sort', u'trait', u'impress', u'disruption', u'recount', u'judder', u'ride', u'work', u'move reflexively', u'human action', u'physiological reaction', u'archer', u'dissimilate', u'pedagogy', u'figure', u'fall apart', u'process', u'household', u'tactile sensation', u'provoke', u'secern', u'weaken', u'trill', u'verify', u'speciate', u'stir', u'classify', u'stock', u'collection', u'produce', u'gangdom', u'blood', u'curiosity', u'ruction', u'bodily function', u'flutter', u'descent', u'budge', u'inform', u'switch', u'order', u'gesture', u'origin', u'move', u'intuition', u'course', u'shake', u'change integrity', u'queerness', u'social class', u'feel', u'waggle', u'alter', u'din', u'break', u'association', u'lineage', u'kinship group', u'name', u'curiousness', u'rock', u'touch on', u'stemma', u'garment', u'ambiance', u'idea', u'year', u'category', u'gangland', u'acknowledgment', u'homoeroticism', u'devolve on', u'fellowship', u'cause', u'perception', u'belief', u'course of study', u'qualify', u'ancestry', u'turn on', u'change state', u'bowman', u'motion', u'turn', u'enkindle', u'place', u'somaesthesia', u'swing', u'quirkiness', u'stimulate', u'recite', u'grammatical category', u'organize', u'grade', u'come alive', u'get away', u'sex activity', u'peculiarity', u'hook', u'vibrate', u'categorize', u'quality', u'shake up', u'organized crime', u'guess', u'construct', u'assort', u'shiver', u'aver', u'challenge', u'dissever', u'break up', u'natural process', u'part', u'differentiate', u'foreignness', u'instruction', u'rarity', u'kindle', u'charge up', u'feeling', u'gathering', u'effectuate', u'ruckus', u'say', u'have', u'waken', u'tell apart', u'bring forth', u'put forward', u'severalize', u'commotion', u'elegance', u'note', u'physiological property', u'brace', u'handshaking', u'channel', u'to-do', u'depend upon', u'reckon', u'taxonomic category', u'object', u'cipher', u'get off', u'energise', u'class', u'energize', u'upset', u'organise', u'wind', u'switch on', u'instinctive reflex', u'curio', u'notion', u'impression', u'atmosphere', u'crotchet', u'reorganize', u'depend on', u'give tongue to', u'relation', u'disunite', u'utter', u'impact', u'move back and forth', u'jar', u'organic process', u'invoke', u'get', u'express', u'homosexualism', u'reorganise', u'flavour', u'reprint', u'end up', u'tumult', u'signalise', u'activity', u'hasten', u'sex', u'relative', u'biological process', u'arouse', u'oddment', u'capacity', u'pedigree', u'diverge', u'state', u'phratry', u'social unit', u'avow', u'modify', u'hoo-ha', u'key', u'distinguish', u'article', u'league', u'shingle', u'didder', u'assure', u'escape from', u'tone', u'human activity', u'homosexuality', u'course of instruction', u'conference', u'raise', u'create', u'mark', u'reflex', u'trip out', u'describe', u'fire', u'excite', u'assert', u'finish up', u'awake', u'ambience', u'conjure up', u'line of descent', u'cypher', u'conception', u'look', u'affirm', u'sexuality', u'family line', u'come apart', u'unusualness', u'musical note', u'crime syndicate', u'physical process', u'agitation', u'gayness', u'bear upon', u'characterize', u'elicit', u'Tell', u'hinge upon', u'develop', u'unfamiliarity', u'make', u'innate reflex', u'split', u'verbalise', u'infer', u'evolve', u'tighten', u'finish', u'fuss', u'drink', u'effect', u'aggregation', u'flurry', u'kin', u'pick out', u'acknowledgement', u'carve up', u'thought', u'single out', u'identify', u'touch', u'flavor', u'oddness', u'handshake', u'disturbance', u'throw off', u'land up', u'handclasp', u'move involuntarily', u'ado', u'clan', u'quirk', u'characterise', u'displace', u'mob', u'key out', u'awaken', u'sort out', u'commove', u'wind up', u'perk up', u'people', u'escape', u'hoo-hah', u'work out', u'capability', u'curved shape', u'William Tell', u'family unit', u'grammatical gender', u'intuitive feeling', u'socio-economic class', u'natural action', u'hustle', u'syntactic category', u'secernate', u'hinge on', u'throw', u'narrate', u'blood line', u'taxon', u'body process', u'swear', u'evoke', u'rumpus', u'act', u'sept', u'tribe', u'severalise', u'bodily process', u'strangeness', u'kinsperson', u'parentage', u'wag', u'furcate', u'house', u'somatic sensation', u'fetch up', u'fork', u'ramify', u'form', u'break loose', u'didactics', u'syndicate', u'line', u'rouse', u'rush', u'compute', u'bloodline', u'flip', u'bodily property', u'groove', u'taxonomic group', u'educational activity', u'oddity', u'recognize', u'split up', u'evidence', u'twist', u'bear on', u'home', u'request', u'education', u'tremble', u'trip', u'discriminate', u'fluff up', u'activeness', u'hurly burly', u'branch', u'smell', u'categorise', u'separate', u'kerfuffle', u'recognise', u'fasten', u'building material', u'offprint', u'curve', u'make out', u'stir up', u'inborn reflex', u'wake', u'kin group']
+2016-08-14 23:53:17,551 INFO     =====END FLAT LIST=====
+2016-08-14 23:53:17,552 INFO     Length of list is:
+2016-08-14 23:53:17,552 INFO     822
+2016-08-14 23:53:17,552 INFO     Length of setlist is:
+2016-08-14 23:53:17,552 INFO     432
+2016-08-14 23:53:17,552 INFO     ***************************
+2016-08-14 23:53:17,555 INFO     127.0.0.1 - - [14/Aug/2016 23:53:17] "POST /corpus/y HTTP/1.1" 200 -
