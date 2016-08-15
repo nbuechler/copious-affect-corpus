@@ -51,7 +51,7 @@ for linux:
 mongodump -d affect-corpus -o ./<dir name>
 
 for windows:
-<NOT SURE YET>
+mongodump -d affect-corpus -o ./<dir name>
 ```
 to import the mongo database:
 
