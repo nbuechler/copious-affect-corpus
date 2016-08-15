@@ -46,7 +46,20 @@ dimensions are known as a special kind of category
 # Tech notes
 to export the mongo database:
 ```
+for linux:
 mongodump -d affect-corpus -o ./<dir name>
+
+for windows:
+<NOT SURE YET>
+```
+to import the mongo database:
+
+```
+for linux:
+<NOT SURE YET>
+
+for windows:
+mongorestore.exe --db affect-corpus C:\Users\Nate\src\copious-affect-corpus\mongo_database_backup\affect-corpus
 ```
 
 # CREDITS
