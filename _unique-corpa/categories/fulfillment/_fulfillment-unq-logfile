@@ -1,0 +1,63 @@
+2016-08-14 23:46:06,497 INFO      * Restarting with stat
+2016-08-14 23:46:08,651 WARNING   * Debugger is active!
+2016-08-14 23:46:08,651 INFO      * Debugger pin code: 224-221-343
+2016-08-14 23:46:08,664 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-14 23:46:09,489 INFO     ***************************
+2016-08-14 23:46:09,490 INFO     List is in the following mongo collection:
+2016-08-14 23:46:09,490 INFO     fulfillment-corpus-only-syn-unq-order-1
+2016-08-14 23:46:09,530 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:09,846 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-14 23:46:09,848 INFO     [u'satisfaction', u'consummation', u'fulfilment']
+2016-08-14 23:46:09,848 INFO     =====END FLAT LIST=====
+2016-08-14 23:46:09,848 INFO     Length of list is:
+2016-08-14 23:46:09,848 INFO     3
+2016-08-14 23:46:09,848 INFO     Length of setlist is:
+2016-08-14 23:46:09,848 INFO     3
+2016-08-14 23:46:09,848 INFO     ***************************
+2016-08-14 23:46:09,849 INFO     ***************************
+2016-08-14 23:46:09,849 INFO     List is in the following mongo collection:
+2016-08-14 23:46:09,849 INFO     fulfillment-corpus-only-syn-unq-order-2
+2016-08-14 23:46:09,854 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:10,134 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:10,305 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:10,430 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-14 23:46:10,430 INFO     [u'completion', u'closing', u'mop up', u'emotional state', u'consummation', u'windup', u'indemnification', u'fulfillment', u'satisfaction', u'expiation', u'amends', u'redress', u'contentment', u'gratification', u'culmination', u'atonement', u'indemnity', u'restitution', u'spirit', u'change', u'damages']
+2016-08-14 23:46:10,430 INFO     =====END FLAT LIST=====
+2016-08-14 23:46:10,430 INFO     Length of list is:
+2016-08-14 23:46:10,430 INFO     21
+2016-08-14 23:46:10,430 INFO     Length of setlist is:
+2016-08-14 23:46:10,430 INFO     21
+2016-08-14 23:46:10,430 INFO     ***************************
+2016-08-14 23:46:10,431 INFO     ***************************
+2016-08-14 23:46:10,431 INFO     List is in the following mongo collection:
+2016-08-14 23:46:10,431 INFO     fulfillment-corpus-only-syn-unq-order-3
+2016-08-14 23:46:10,434 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:10,811 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:10,996 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:11,134 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:11,267 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:11,431 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:11,615 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:11,763 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:11,894 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:12,036 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:12,174 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:12,331 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:12,479 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:12,618 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:13,391 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:13,556 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:13,743 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:14,003 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:14,257 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:14,490 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:14,864 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-14 23:46:15,213 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-14 23:46:15,213 INFO     [u'atmosphere', u'move', u'vary', u'ending', u'ambiance', u'signification', u'sop up', u'brio', u'deepen', u'go', u'flavor', u'wearable', u'happiness', u'culmination', u'liveliness', u'fix', u'character', u'compensate', u'spiritual being', u'atonement', u'closedown', u'celestial point', u'alter', u'mop', u'mending', u'return', u'beat', u'rack up', u'invigoration', u'shutting', u'worst', u'gratification', u'difference', u'minute', u'closure', u'manoeuvre', u'vivification', u'issue', u'windup', u'alteration', u'invigorate', u'commute', u'relation', u'indemnity', u'vanquish', u'life principle', u'right', u'occurrence', u'imbibe', u'consummation', u'get through', u'play', u'vital principle', u'second', u'redress', u'result', u'close', u'animate', u'insurance', u'whip', u'article of clothing', u'section', u'exchange', u'consequence', u'crush', u'mend', u'expiation', u'import', u'approach', u'correct', u'movement', u'maneuver', u'fiber', u'fibre', u'indemnification', u'wrap up', u'protection', u'wear', u'disposition', u'change', u'stage', u'convert', u'natural event', u'instant', u'redemption', u'emotional state', u'freedom', u'meaning', u'motion', u'thing', u'regaining', u'recompense', u'pass completion', u'approaching', u'salvation', u'hard cash', u'emotion', u'repair', u'wipe up', u'tone', u'purport', u'feel', u'rectification', u'replace', u'satisfaction', u'phase', u'shutdown', u'habiliment', u'interchange', u'enliven', u'transfer', u'trounce', u'take up', u'contentment', u'motility', u'vesture', u'upshot', u'climax', u'reparation', u'soak up', u'shell', u'sprightliness', u'complete', u'fixture', u'finish up', u'outcome', u'locomote', u'take in', u'exemption', u'spirit', u'mop up', u'disembodied spirit', u'flavour', u'look', u'completion', u'beat out', u'ambience', u'finish off', u'cash', u'clear up', u'apogee', u'compensation', u'modify', u'shift', u'hard currency', u'closing', u'feeling', u'spiritedness', u'acquisition', u'heart', u'significance', u'get dressed', u'correction', u'life', u'propitiation', u'liven up', u'supernatural being', u'pip', u'clothing', u'dress', u'restitution', u'end', u'suck up', u'variety', u'fixing', u'travel', u'switch', u'event', u'animation', u'damages', u'liven', u'modification', u'smell', u'conclusion', u'draw', u'finish', u'shelter', u'absorb', u'spirit up', u'fulfilment', u'effect', u'occurrent', u'action', u'moment', u'restoration', u'intent', u'inspirit', u'coming', u'remediation', u'suck', u'coin', u'temperament', u'subdivision', u'happening', u'polish off', u'remedy', u'amends', u'termination']
+2016-08-14 23:46:15,213 INFO     =====END FLAT LIST=====
+2016-08-14 23:46:15,214 INFO     Length of list is:
+2016-08-14 23:46:15,214 INFO     299
+2016-08-14 23:46:15,214 INFO     Length of setlist is:
+2016-08-14 23:46:15,214 INFO     198
+2016-08-14 23:46:15,216 INFO     ***************************
+2016-08-14 23:46:15,219 INFO     127.0.0.1 - - [14/Aug/2016 23:46:15] "POST /corpus/y HTTP/1.1" 200 -
