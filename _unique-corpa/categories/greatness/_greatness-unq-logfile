@@ -1,0 +1,83 @@
+2016-08-15 00:05:09,857 INFO      * Restarting with stat
+2016-08-15 00:05:12,216 WARNING   * Debugger is active!
+2016-08-15 00:05:12,217 INFO      * Debugger pin code: 224-221-343
+2016-08-15 00:05:12,233 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-15 00:05:14,677 INFO     ***************************
+2016-08-15 00:05:14,677 INFO     List is in the following mongo collection:
+2016-08-15 00:05:14,678 INFO     greatness-corpus-only-syn-unq-order-1
+2016-08-15 00:05:14,720 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:15,029 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-15 00:05:15,029 INFO     [u'grandness', u'immenseness', u'largeness', u'vastness', u'bigness', u'illustriousness', u'immensity', u'wideness', u'enormousness', u'importance', u'sizeableness']
+2016-08-15 00:05:15,030 INFO     =====END FLAT LIST=====
+2016-08-15 00:05:15,030 INFO     Length of list is:
+2016-08-15 00:05:15,030 INFO     11
+2016-08-15 00:05:15,032 INFO     Length of setlist is:
+2016-08-15 00:05:15,032 INFO     11
+2016-08-15 00:05:15,032 INFO     ***************************
+2016-08-15 00:05:15,032 INFO     ***************************
+2016-08-15 00:05:15,032 INFO     List is in the following mongo collection:
+2016-08-15 00:05:15,033 INFO     greatness-corpus-only-syn-unq-order-2
+2016-08-15 00:05:15,039 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:15,413 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:15,549 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:15,680 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:15,805 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:15,937 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:16,075 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:16,221 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:16,358 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:16,486 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:16,627 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:16,766 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-15 00:05:16,766 INFO     [u'breadth', u'largeness', u'brilliance', u'vastness', u'pretension', u'splendour', u'intelligence', u'broadness', u'size', u'standing', u'elegance', u'bigness', u'width', u'greatness', u'impressiveness', u'grandeur', u'splendor', u'grandness', u'richness', u'importance', u'comprehensiveness', u'wideness', u'magnificence', u'enormousness', u'unnaturalness', u'extensiveness', u'immenseness', u'value', u'pretentiousness', u'magnitude', u'excellence', u'sizeableness', u'immensity']
+2016-08-15 00:05:16,766 INFO     =====END FLAT LIST=====
+2016-08-15 00:05:16,767 INFO     Length of list is:
+2016-08-15 00:05:16,767 INFO     94
+2016-08-15 00:05:16,769 INFO     Length of setlist is:
+2016-08-15 00:05:16,769 INFO     33
+2016-08-15 00:05:16,769 INFO     ***************************
+2016-08-15 00:05:16,769 INFO     ***************************
+2016-08-15 00:05:16,770 INFO     List is in the following mongo collection:
+2016-08-15 00:05:16,770 INFO     greatness-corpus-only-syn-unq-order-3
+2016-08-15 00:05:16,779 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:17,119 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:17,252 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:17,430 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:17,592 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:17,765 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:17,901 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:18,038 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:18,176 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:18,305 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:18,451 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:18,582 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:18,706 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:18,832 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:18,960 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:19,125 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:19,273 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:19,401 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:19,565 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:19,694 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:19,822 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:19,950 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:20,088 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:20,257 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:20,403 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:20,572 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:20,737 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:20,869 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:21,026 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:21,183 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:21,345 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:21,473 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:21,607 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:05:21,744 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-15 00:05:21,746 INFO     [u'breadth', u'consider', u'tincture', u'tidings', u'brilliance', u'feature', u'brilliancy', u'fullness', u'information gathering', u'ratio', u'honourableness', u'treasure', u'ideal', u'abundance', u'time value', u'blaze', u'color property', u'listing', u'impressiveness', u'worth', u'info', u'move', u'richness', u'evaluate', u'administrative body', u'inflation', u'pomposity', u'judge', u'intelligence agency', u'sort out', u'unnaturalness', u'prize', u'brightness', u'excellency', u'list', u'intelligence service', u'illustriousness', u'magnitude', u'excellence', u'classify', u'continuance', u'fertility', u'state of affairs', u'ostentatiousness', u'view', u'set', u'glare', u'artificiality', u'intelligence', u'pretension', u'rate', u'respect', u'duration', u'copiousness', u'administrative unit', u'inelegance', u'filler', u'intelligence information', u'profuseness', u'genius', u'movement', u'ability', u'power', u'importance', u'mellowness', u'news', u'teemingness', u'cornucopia', u'splashiness', u'pass judgment', u'splendor', u'motion', u'pretentiousness', u'greatness', u'prolificacy', u'sizeableness', u'wealthiness', u'numerical quantity', u'tone', u'assess', u'reckon', u'esteem', u'determine', u'pretence', u'quality', u'size', u'standing', u'tint', u'wealth', u'puffiness', u'bigness', u'width', u'assort', u'honorableness', u'motility', u'lustre', u'affluence', u'sort', u'quantity', u'magnanimousness', u'comprehensiveness', u'ostentation', u'nobleness', u'intelligence activity', u'pretense', u'sizing', u'word', u'extensiveness', u'immenseness', u'characteristic', u'intelligence operation', u'see', u'value', u'fruitfulness', u'situation', u'property', u'appraise', u'profusion', u'claim', u'pompousness', u'measure', u'surface', u'vastness', u'splendour', u'broadness', u'economic value', u'information', u'completeness', u'amount', u'elegance', u'order of magnitude', u'change magnitude', u'wideness', u'prise', u'grandeur', u'luster', u'status', u'regard', u'grandness', u'separate', u'largeness', u'valuate', u'fecundity', u'note value', u'magnificence', u'enormousness', u'class', u'coat', u'appreciate', u'immensity', u'shade', u'position', u'rankness', u'dimension', u'nobility', u'size of it']
+2016-08-15 00:05:21,746 INFO     =====END FLAT LIST=====
+2016-08-15 00:05:21,746 INFO     Length of list is:
+2016-08-15 00:05:21,746 INFO     303
+2016-08-15 00:05:21,747 INFO     Length of setlist is:
+2016-08-15 00:05:21,747 INFO     156
+2016-08-15 00:05:21,747 INFO     ***************************
+2016-08-15 00:05:21,750 INFO     127.0.0.1 - - [15/Aug/2016 00:05:21] "POST /corpus/y HTTP/1.1" 200 -

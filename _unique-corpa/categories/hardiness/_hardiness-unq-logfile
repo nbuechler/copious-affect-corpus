@@ -1,0 +1,103 @@
+2016-08-15 00:08:06,414 INFO      * Restarting with stat
+2016-08-15 00:08:08,588 WARNING   * Debugger is active!
+2016-08-15 00:08:08,589 INFO      * Debugger pin code: 224-221-343
+2016-08-15 00:08:08,604 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-15 00:08:12,313 INFO     ***************************
+2016-08-15 00:08:12,313 INFO     List is in the following mongo collection:
+2016-08-15 00:08:12,315 INFO     hardiness-corpus-only-syn-unq-order-1
+2016-08-15 00:08:12,338 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:12,706 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-15 00:08:12,706 INFO     [u'fearlessness', u'strength', u'boldness', u'daring', u'lustiness', u'robustness', u'hardihood']
+2016-08-15 00:08:12,707 INFO     =====END FLAT LIST=====
+2016-08-15 00:08:12,707 INFO     Length of list is:
+2016-08-15 00:08:12,707 INFO     7
+2016-08-15 00:08:12,707 INFO     Length of setlist is:
+2016-08-15 00:08:12,707 INFO     7
+2016-08-15 00:08:12,707 INFO     ***************************
+2016-08-15 00:08:12,709 INFO     ***************************
+2016-08-15 00:08:12,709 INFO     List is in the following mongo collection:
+2016-08-15 00:08:12,709 INFO     hardiness-corpus-only-syn-unq-order-2
+2016-08-15 00:08:12,711 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:13,028 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:13,203 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:13,361 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:13,497 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:13,624 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:13,782 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:13,934 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-15 00:08:13,936 INFO     [u'nerve', u'hardihood', u'force', u'speciality', u'durability', u'aggressiveness', u'characteristic', u'powerfulness', u'intensity', u'hardiness', u'strong point', u'intensiveness', u'strong suit', u'metier', u'strikingness', u'prosperity', u'strength', u'daring', u'permanence', u'forte', u'magnitude', u'permanency', u'asset', u'enduringness', u'plus', u'military capability', u'effectiveness', u'intensity level', u'fearlessness', u'boldness', u'power', u'specialty', u'property', u'courage', u'conspicuousness', u'brass', u'lastingness', u'bravery', u'posture', u'courageousness', u'persuasiveness', u'potency', u'military strength', u'successfulness', u'capableness', u'challenge', u'cheek', u'robustness', u'military posture', u'face', u'capability', u'forcefulness', u'long suit', u'lustiness', u'braveness', u'feeling', u'dare']
+2016-08-15 00:08:13,936 INFO     =====END FLAT LIST=====
+2016-08-15 00:08:13,937 INFO     Length of list is:
+2016-08-15 00:08:13,937 INFO     67
+2016-08-15 00:08:13,937 INFO     Length of setlist is:
+2016-08-15 00:08:13,937 INFO     57
+2016-08-15 00:08:13,938 INFO     ***************************
+2016-08-15 00:08:13,938 INFO     ***************************
+2016-08-15 00:08:13,940 INFO     List is in the following mongo collection:
+2016-08-15 00:08:13,940 INFO     hardiness-corpus-only-syn-unq-order-3
+2016-08-15 00:08:13,948 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:14,339 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:14,493 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:14,657 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:14,792 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:14,926 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:15,101 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:15,273 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:15,457 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:15,631 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:15,799 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:15,943 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:16,075 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:16,203 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:16,339 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:16,483 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:16,631 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:16,753 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:16,927 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:17,056 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:17,200 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:17,328 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:17,459 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:17,585 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:17,753 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:17,924 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:18,108 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:18,299 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:18,482 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:18,653 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:18,783 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:18,956 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:19,124 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:19,302 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:19,440 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:19,578 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:19,743 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:19,878 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:20,029 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:20,219 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:20,381 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:20,510 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:20,640 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:20,766 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:20,898 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:21,033 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:21,160 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:21,292 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:21,414 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:21,548 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:21,684 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:21,821 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:21,947 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:22,071 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:22,203 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:22,322 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:22,466 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-15 00:08:22,588 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-15 00:08:22,588 INFO     [u'concept', u'aggression', u'baron', u'fascicle', u'material possession', u'physical object', u'gainsay', u'encounter', u'posture', u'magnate', u'level', u'cause', u'long suit', u'grimace', u'accumulation', u'assemblage', u'force', u'appearance', u'possibleness', u'impertinence', u'index', u'power', u'section', u'touch sensation', u'somatesthesia', u'superpower', u'conduct', u'perforate', u'intensity level', u'body', u'degree', u'social group', u'military group', u'successfulness', u'res publica', u'specialism', u'geographic region', u'vividness', u'enmity', u'opinion', u'heart', u'speech act', u'repugn', u'aptitude', u'summation', u'intensiveness', u'unit', u'visage', u'feel', u'governance', u'good fortune', u'asset', u'type', u'authorization', u'possession', u'financial condition', u'expose', u'somaesthesia', u'validity', u'force play', u'ambience', u'surface', u'coerce', u'physiological state', u'challenge', u'soul', u'sound property', u'impel', u'force-out', u'meet', u'somesthesia', u'control', u'wedge', u'typeface', u'speciality', u'attribute', u'aggressiveness', u'powerfulness', u'visual aspect', u'daring', u'sit', u'provide', u'feature', u'effectualness', u'specialisation', u'establishment', u'dominance', u'spunk', u'collection', u'questioning', u'susceptibleness', u'belongings', u'persuasiveness', u'conspicuousness', u'talk', u'office', u'effectuality', u'move', u'economic condition', u'take exception', u'attitude', u'mightiness', u'vocation', u'pugnacity', u'organisation', u'force out', u'bespeak', u'might', u'someone', u'somebody', u'nervus', u'nation', u'ill will', u'hale', u'front', u'susceptibility', u'big businessman', u'cognition', u'capability', u'magnitude', u'authorisation', u'lastingness', u'side', u'commonwealth', u'durability', u'ambiance', u'idea', u'line of work', u'geographic area', u'contend', u'geographical region', u'belligerence', u'forte', u'enduringness', u'whole number', u'military capability', u'device characteristic', u'impudence', u'disclose', u'perception', u'boldness', u'memorial tablet', u'possibility', u'disrespect', u'thrust', u'tactual sensation', u'turn', u'length', u'place', u'face up', u'mortal', u'loudness', u'intuition', u'grade', u'buttock', u'peculiarity', u'body politic', u'carry', u'quality', u'military force', u'construct', u'storm', u'part', u'luckiness', u'fiber bundle', u'hardihood', u'steel', u'king', u'feeling', u'exhibit', u'ram', u'mogul', u'strong suit', u'prosperity', u'strength', u'external body part', u'permanence', u'belief', u'potential', u'permanency', u'mental attitude', u'effectiveness', u'brace', u'play', u'top executive', u'object', u'organization', u'mettle', u'putout', u'courageousness', u'potency', u'lustiness', u'cover', u'drive', u'copper-base alloy', u'wind', u'businessman', u'notion', u'potence', u'impression', u'atmosphere', u'font', u'occupation', u'acquit', u'ratio', u'knowledge', u'saliency', u'salience', u'color property', u'dispute', u'do', u'causal agency', u'go about', u'hostility', u'bear', u'courage', u'penetrate', u'great power', u'approach', u'calling', u'body part', u'major power', u'fearlessness', u'aspect', u'robustness', u'intensity', u'individual', u'disagreeableness', u'capacity', u'exponent', u'ornament', u'state', u'social unit', u'military unit', u'ability', u'importance', u'lineament', u'job', u'capableness', u'inquiring', u'military strength', u'career', u'country', u'countenance', u'expression', u'business leader', u'stance', u'tone', u'physiological condition', u'supply', u'individuation', u'wind instrument', u'speak', u'addition', u'chroma', u'demand', u'deport', u'arithmetic operation', u'spirit', u'present', u'conception', u'look', u'prominence', u'fibre bundle', u'situation', u'property', u'comport', u'set about', u'decoration', u'strong point', u'memorial', u'specialization', u'human face', u'make', u'administration', u'order of magnitude', u'facial expression', u'status', u'lie', u'defy', u'effect', u'aggregation', u'strikingness', u'effectivity', u'facial gesture', u'cheek', u'military posture', u'thought', u'person', u'governing body', u'position', u'model', u'dimension', u'plaque', u'noesis', u'potentiality', u'touch', u'flavor', u'bravery', u'man of affairs', u'saturation', u'visibleness', u'bid', u'displace', u'quest', u'presume', u'integer', u'dare', u'geographical area', u'confront', u'forcefulness', u'fount', u'state of affairs', u'specialness', u'authority', u'duration', u'physical phenomenon', u'prop', u'behave', u'intuitive feeling', u'fasciculus', u'ornamentation', u'be', u'business', u'pose', u'poise', u'ply', u'pressure', u'individualism', u'violence', u'tactile sensation', u'plus', u'act', u'nerve', u'brass section', u'say-so', u'obligate', u'good luck', u'distinctiveness', u'discourtesy', u'somatic sensation', u'tycoon', u'medium', u'invite', u'specialty', u'volume', u'line', u'squeeze', u'pull', u'flavour', u'characteristic', u'world power', u'carriage', u'monument', u'braveness', u'bodily property', u'display', u'bearing', u'individuality', u'request', u'take on', u'influence', u'brass instrument', u'hardiness', u'face', u'metier', u'call for', u'contest', u'objection', u'personnel', u'compel', u'vertical surface', u'holding', u'mathematical notation', u'smell', u'draw', u'oblige', u'cater', u'visibility', u'brass', u'causal agent', u'land', u'fortissimo', u'validness', u'portion', u'push', u'make bold']
+2016-08-15 00:08:22,588 INFO     =====END FLAT LIST=====
+2016-08-15 00:08:22,588 INFO     Length of list is:
+2016-08-15 00:08:22,588 INFO     653
+2016-08-15 00:08:22,589 INFO     Length of setlist is:
+2016-08-15 00:08:22,589 INFO     387
+2016-08-15 00:08:22,589 INFO     ***************************
+2016-08-15 00:08:22,592 INFO     127.0.0.1 - - [15/Aug/2016 00:08:22] "POST /corpus/y HTTP/1.1" 200 -
