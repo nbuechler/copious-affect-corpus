@@ -1,0 +1,115 @@
+2016-08-16 13:07:45,795 INFO      * Restarting with stat
+2016-08-16 13:07:47,960 WARNING   * Debugger is active!
+2016-08-16 13:07:47,960 INFO      * Debugger pin code: 224-221-343
+2016-08-16 13:07:47,973 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-16 13:11:28,913 INFO     ***************************
+2016-08-16 13:11:28,933 INFO     List is in the following mongo collection:
+2016-08-16 13:11:28,933 INFO     helplessness-corpus-only-syn-unq-order-1
+2016-08-16 13:11:29,109 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:29,644 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-16 13:11:29,644 INFO     [u'impuissance', u'powerlessness', u'impotency', u'weakness', u'dependence', u'dependency', u'dependance', u'depression', u'impotence']
+2016-08-16 13:11:29,733 INFO     =====END FLAT LIST=====
+2016-08-16 13:11:29,733 INFO     Length of list is:
+2016-08-16 13:11:29,733 INFO     9
+2016-08-16 13:11:29,734 INFO     Length of setlist is:
+2016-08-16 13:11:29,734 INFO     9
+2016-08-16 13:11:29,734 INFO     ***************************
+2016-08-16 13:11:29,736 INFO     ***************************
+2016-08-16 13:11:29,736 INFO     List is in the following mongo collection:
+2016-08-16 13:11:29,736 INFO     helplessness-corpus-only-syn-unq-order-2
+2016-08-16 13:11:29,743 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:30,255 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:30,581 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:30,911 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:31,207 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:31,530 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:31,838 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:32,033 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:32,219 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:32,401 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-16 13:11:32,401 INFO     [u'major affective disorder', u'impuissance', u'physiological condition', u'impression', u'taste', u'emotional disturbance', u'ill luck', u'Great Depression', u'economic condition', u'habituation', u'imprint', u'pushing', u'quality', u'unhappiness', u'geographical region', u'misfortune', u'helplessness', u'imperfectness', u'angular position', u'depressive disorder', u'imperfection', u'state', u'concavity', u'low', u'concave shape', u'mental state', u'sterility', u'impotence', u'powerlessness', u'psychological state', u'emotional disorder', u'air mass', u'tough luck', u'historic period', u'low pressure', u'weakness', u'natural depression', u'slump', u'push', u'penchant', u'formation', u'preference', u'colony', u'dependance', u'geographic region', u'affective disorder', u'incurvature', u'financial condition', u'geological formation', u'clinical depression', u'geographical area', u'economic crisis', u'infertility', u'incurvation', u'impotency', u'age', u'failing', u'dependence', u'geographic area', u'dependency', u'sadness', u'bad luck', u'physiological state', u'predilection', u'addiction', u'property', u'Depression']
+2016-08-16 13:11:32,403 INFO     =====END FLAT LIST=====
+2016-08-16 13:11:32,403 INFO     Length of list is:
+2016-08-16 13:11:32,403 INFO     94
+2016-08-16 13:11:32,404 INFO     Length of setlist is:
+2016-08-16 13:11:32,404 INFO     67
+2016-08-16 13:11:32,404 INFO     ***************************
+2016-08-16 13:11:32,404 INFO     ***************************
+2016-08-16 13:11:32,404 INFO     List is in the following mongo collection:
+2016-08-16 13:11:32,404 INFO     helplessness-corpus-only-syn-unq-order-3
+2016-08-16 13:11:32,407 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:32,953 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:33,125 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:33,315 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:33,479 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:33,697 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:33,871 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:34,026 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:34,184 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:34,321 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:34,467 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:34,755 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:34,964 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:35,259 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:35,576 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:35,790 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:35,953 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:36,174 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:36,348 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:36,493 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:36,630 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:36,869 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:37,026 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:37,296 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:37,805 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:38,132 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:38,381 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:38,509 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:38,737 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:38,924 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:39,092 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:39,250 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:39,433 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:39,585 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:39,733 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:39,888 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:40,032 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:40,243 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:40,388 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:40,542 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:40,720 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:40,865 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:41,013 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:41,186 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:41,361 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:41,516 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:41,678 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:41,914 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:42,088 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:42,240 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:42,407 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:42,703 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:42,901 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:43,053 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:43,279 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:43,444 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:43,601 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:43,819 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:44,003 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:44,240 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:44,516 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:44,762 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:44,917 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:45,168 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:45,415 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:45,721 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:45,957 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:11:46,167 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-16 13:11:46,167 INFO     [u'concept', u'founder', u'drop-off', u'go', u'settlement', u'long time', u'swag', u'fall off', u'sensory system', u'advantage', u'choice', u'smack', u'esthesis', u'fall', u'David Low', u'trouble', u'physical object', u'condition', u'psychological disorder', u'low gear', u'geological formation', u'progression', u'level', u'button', u'correct', u'try', u'time of life', u'force', u'procession', u'agitate', u'State', u'depression', u'period of time', u'constitution', u'gustatory sensation', u'near', u'verbalize', u'political entity', u'body', u'degree', u'actuation', u'pushing', u'mental image', u'United States Department of State', u'electrical switch', u'sink', u'geographic region', u'lugubriousness', u'change', u'clinical depression', u'administrative district', u'experience', u'verbalise', u'action', u'opinion', u'major affective disorder', u'falling off', u'campaign', u'enactment', u'sorrowfulness', u'low pressure', u'impotency', u'flunk', u'exhort', u'change surface', u'live', u'attribute', u'mental state', u'tell', u'impotence', u'possession', u'concave shape', u'impress', u'falloff', u'award', u'flag', u'antisepsis', u'circumstances', u'economic crisis', u'physiological state', u'work', u'sound property', u'printing', u'era', u'praise', u'res publica', u'mental disorder', u'give', u'small indefinite quantity', u'sample', u'visual aspect', u'savor', u'travel', u'emotional disturbance', u'arrangement', u'let loose', u'option', u'establishment', u'hazard', u'belongings', u'draw close', u'decline in quality', u'administrative division', u'switch', u'deterioration', u'DoS', u'addiction', u'slouch', u'move', u'economic condition', u'trade', u'spatial relation', u'go down', u'organisation', u'imperfection', u'comprehend', u'take in', u'sterility', u'alter', u'mental picture', u'sanitariness', u'weakness', u'awarding', u'nation', u'break', u'chemical phenomenon', u'drop', u'predilection', u'luck', u'commonwealth', u'status', u'taste sensation', u'energy', u'idea', u'gloominess', u'geographical region', u'misfortune', u'angular position', u'State Department', u'small indefinite amount', u'gustation', u'craving', u'perception', u'belief', u'social rank', u'formation', u'struggle', u'thrust', u'beginning', u'accommodation', u'publication', u'advance', u'incurvation', u'emotional state', u'come on', u'asepsis', u'place', u'Depression', u'first', u'grade', u'savour', u'Great Depression', u'rank', u'embossment', u'maturate', u'quality', u'animal group', u'droop', u'body politic', u'powerlessness', u'advertize', u'natural process', u'collapse', u'sensation', u'sense datum', u'appreciation', u'mishap', u'emotional disorder', u'slack', u'cartoonist', u'discernment', u'electric switch', u'posit', u'feeling', u'time period', u'give way', u'sag', u'say', u'have', u'modality', u'gear', u'sell', u'put forward', u'imperfectness', u'urge on', u'incurvature', u'take', u'worsening', u'province', u'urge', u'caliber', u'object', u'onward motion', u'gustatory modality', u'Sir David Low', u'position', u'device', u'material possession', u'placement', u'drive', u'notion', u'impression', u'atmosphere', u'get-up-and-go', u'atmospheric state', u'habituation', u'give tongue to', u'utter', u'express', u'perceive', u'sense impression', u'years', u'shaping', u'geographic area', u'activity', u'contour', u'cave in', u'destiny', u'propulsion', u'state', u'push button', u'identification', u'progress', u'mouthful', u'approach', u'sorrow', u'natural depression', u'air mass', u'modify', u'lineament', u'penchant', u'dependance', u'configuration', u'tug', u'country', u'region', u'secernment', u'old age', u'aesthesis', u'senesce', u'forward motion', u'tone', u'physiological condition', u'characterization', u'colony', u'period', u'advancement', u'Low', u'labor', u'unhappiness', u'decline', u'stamp', u'discrimination', u'taste', u'psychological state', u'consume', u'locomote', u'try out', u'spirit', u'conception', u'solid', u'appearance', u'territorial division', u'bad luck', u'property', u'geezerhood', u'orientation', u'come near', u'pressing', u'personation', u'develop', u'suggest', u'epoch', u'concavity', u'descend', u'historical period', u'propose', u'advise', u'impuissance', u'tough luck', u'effect', u'concaveness', u'fabrication', u'exteroception', u'vantage', u'infertility', u'timbre', u'failing', u'thought', u'mental disturbance', u'organization', u'perceptiveness', u'sensing', u'dimension', u'preference', u'bending', u'construct', u'sense modality', u'go up', u'ill luck', u'first gear', u'sterileness', u'imprint', u'shape', u'identify', u'alternative', u'timber', u'disturbance', u'character', u'calibre', u'eld', u'labour', u'fate', u'government', u'displace', u'mischance', u'moo', u'know', u'uncheerfulness', u'press', u'fortune', u'state of matter', u'affective disorder', u'geographical area', u'Colony', u'taste perception', u'come down', u'depressive disorder', u'crowd', u'advertise', u'helplessness', u'get on', u'prop', u'social status', u'declension', u'natural action', u'refer', u'act upon', u'conformation', u'fall in', u'pressure', u'druthers', u'sense of taste', u'predisposition', u'political unit', u'let out', u'dependence', u'ingest', u'dependency', u'image', u'social station', u'Sir David Alexander Cecil Low', u'portrayal', u'deal', u'sense experience', u'tasting', u'submit', u'fight', u'start', u'low', u'lot', u'manufacture', u'form', u'slump', u'gustatory perception', u'failure', u'promote', u'executive department', u'sadness', u'mature', u'emit', u'gear mechanism', u'influence', u'denote', u'crusade', u'bear on', u'liking', u'regime', u'historic period', u'folie', u'draw near', u'holding', u'financial condition', u'Department of State', u'picture', u'symbol', u'chance', u'slide down', u'authorities', u'creating by mental acts', u'land', u'age', u'portion', u'push', u'commencement']
+2016-08-16 13:11:46,167 INFO     =====END FLAT LIST=====
+2016-08-16 13:11:46,167 INFO     Length of list is:
+2016-08-16 13:11:46,167 INFO     684
+2016-08-16 13:11:46,168 INFO     Length of setlist is:
+2016-08-16 13:11:46,168 INFO     405
+2016-08-16 13:11:46,168 INFO     ***************************
+2016-08-16 13:11:46,171 INFO     127.0.0.1 - - [16/Aug/2016 13:11:46] "POST /corpus/y HTTP/1.1" 200 -

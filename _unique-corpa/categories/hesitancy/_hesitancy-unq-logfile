@@ -1,0 +1,79 @@
+2016-08-16 13:19:24,464 INFO      * Restarting with stat
+2016-08-16 13:19:26,877 WARNING   * Debugger is active!
+2016-08-16 13:19:26,878 INFO      * Debugger pin code: 224-221-343
+2016-08-16 13:19:26,891 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-16 13:19:32,181 INFO     ***************************
+2016-08-16 13:19:32,183 INFO     List is in the following mongo collection:
+2016-08-16 13:19:32,184 INFO     hesitancy-corpus-only-syn-unq-order-1
+2016-08-16 13:19:32,230 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:32,760 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-16 13:19:32,762 INFO     [u'diffidence', u'hesitation', u'involuntariness', u'disinclination', u'hesitance', u'unwillingness', u'reluctance', u'indisposition', u'self-distrust', u'self-doubt']
+2016-08-16 13:19:32,789 INFO     =====END FLAT LIST=====
+2016-08-16 13:19:32,789 INFO     Length of list is:
+2016-08-16 13:19:32,789 INFO     10
+2016-08-16 13:19:32,789 INFO     Length of setlist is:
+2016-08-16 13:19:32,790 INFO     10
+2016-08-16 13:19:32,790 INFO     ***************************
+2016-08-16 13:19:32,790 INFO     ***************************
+2016-08-16 13:19:32,790 INFO     List is in the following mongo collection:
+2016-08-16 13:19:32,790 INFO     hesitancy-corpus-only-syn-unq-order-2
+2016-08-16 13:19:32,795 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:33,230 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:33,414 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:33,553 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:33,720 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:33,868 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:34,013 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:34,141 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:34,276 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:34,405 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:34,573 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-16 13:19:34,573 INFO     [u'timidness', u'illness', u'self-distrust', u'involuntariness', u'irresolution', u'diffidence', u'pause', u'hesitation', u'waver', u'faltering', u'reluctance', u'wavering', u'falter', u'dislike', u'indecisiveness', u'self-doubt', u'malady', u'vacillation', u'sickness', u'timidity', u'indecision', u'electrical phenomenon', u'disposition', u'temperament', u'hesitancy', u'disinclination', u'unwillingness', u'unwellness', u'indisposition', u'timorousness']
+2016-08-16 13:19:34,575 INFO     =====END FLAT LIST=====
+2016-08-16 13:19:34,575 INFO     Length of list is:
+2016-08-16 13:19:34,575 INFO     64
+2016-08-16 13:19:34,575 INFO     Length of setlist is:
+2016-08-16 13:19:34,576 INFO     30
+2016-08-16 13:19:34,576 INFO     ***************************
+2016-08-16 13:19:34,576 INFO     ***************************
+2016-08-16 13:19:34,578 INFO     List is in the following mongo collection:
+2016-08-16 13:19:34,578 INFO     hesitancy-corpus-only-syn-unq-order-3
+2016-08-16 13:19:34,584 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:35,092 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:35,223 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:35,410 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:35,559 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:35,683 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:35,990 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:36,119 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:36,265 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:36,411 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:36,561 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:36,694 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:36,838 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:37,094 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:37,253 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:37,407 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:37,538 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:37,678 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:37,813 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:37,953 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:38,104 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:38,273 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:38,417 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:38,670 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:38,792 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:38,937 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:39,072 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:39,213 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:39,374 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:39,496 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-16 13:19:39,618 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-16 13:19:39,619 INFO     [u'time interval', u'attitude', u'dubiety', u'fear', u'adjustment', u'feat', u'tendency', u'pause', u'move back and forth', u'disposal', u'reluctance', u'dubiousness', u'electrical phenomenon', u'suspension', u'dislike', u'sway', u'move', u'break', u'irresolution', u'interrupt', u'defectiveness', u'condition', u'nausea', u'malady', u'irresoluteness', u'health problem', u'disinclination', u'readjustment', u'inclination', u'disrupt', u'interruption', u'unhealthiness', u'waffle', u'utter', u'physical phenomenon', u'diffidence', u'hesitation', u'timidity', u'verbalize', u'intermit', u'timidness', u'movement', u'vacillation', u'unregularity', u'nature', u'indecision', u'incertitude', u'disposition', u'feeling', u'vacillate', u'unwillingness', u'uncertainty', u'flicker', u'verbalise', u'swing', u'timorousness', u'faultiness', u'faltering', u'walk', u'exploit', u'registration', u'quiver', u'stumble', u'speak', u'vocalize', u'quaver', u'disapproval', u'doubt', u'wavering', u'fearfulness', u'motility', u'break up', u'bumble', u'hesitance', u'trait', u'stutter', u'falter', u'doubtfulness', u'temperament', u'disfavor', u'hesitancy', u'effort', u'symptom', u'sound', u'intermission', u'indecisiveness', u'stammer', u'unwellness', u'indisposition', u'voice', u'motion', u'flitter', u'illness', u'self-distrust', u'involuntariness', u'fright', u'fluctuation', u'swinging', u'ill health', u'property', u'deed', u'cut off', u'hesitate', u'emotionalism', u'delay', u'mental attitude', u'self-doubt', u'disfavour', u'status', u'sickness', u'vocalise', u'mouth', u'waver', u'communicator', u'fluctuate', u'flutter', u'weave', u'inactivity', u'emotionality', u'interval', u'irregularity', u'talk']
+2016-08-16 13:19:39,619 INFO     =====END FLAT LIST=====
+2016-08-16 13:19:39,619 INFO     Length of list is:
+2016-08-16 13:19:39,619 INFO     257
+2016-08-16 13:19:39,621 INFO     Length of setlist is:
+2016-08-16 13:19:39,621 INFO     122
+2016-08-16 13:19:39,621 INFO     ***************************
+2016-08-16 13:19:39,622 INFO     127.0.0.1 - - [16/Aug/2016 13:19:39] "POST /corpus/y HTTP/1.1" 200 -
