@@ -42,7 +42,9 @@ See the emotions spreadsheet in _unique_corpra
 ```
 
 # Also notes...
-dimensions are known as a special kind of category
+*dimensions are known as a special kind of category
+*categories are thus the basis for an r-emotion
+*multiple r-emotions correspond to a n-emotion (future scope)
 
 # Tech notes
 to export the mongo database:
