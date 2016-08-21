@@ -1,0 +1,93 @@
+2016-08-20 23:04:12,513 INFO      * Restarting with stat
+2016-08-20 23:04:14,575 WARNING   * Debugger is active!
+2016-08-20 23:04:14,575 INFO      * Debugger pin code: 224-221-343
+2016-08-20 23:04:14,588 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-20 23:04:37,759 INFO     ***************************
+2016-08-20 23:04:37,759 INFO     List is in the following mongo collection:
+2016-08-20 23:04:37,760 INFO     inadequacy-corpus-only-syn-unq-order-1
+2016-08-20 23:04:37,801 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:38,226 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-20 23:04:38,227 INFO     [u'weakness', u'failing', u'amount', u'deficiency', u'insufficiency', u'inadequateness', u'unsatisfactoriness']
+2016-08-20 23:04:38,229 INFO     =====END FLAT LIST=====
+2016-08-20 23:04:38,229 INFO     Length of list is:
+2016-08-20 23:04:38,229 INFO     7
+2016-08-20 23:04:38,229 INFO     Length of setlist is:
+2016-08-20 23:04:38,230 INFO     7
+2016-08-20 23:04:38,230 INFO     ***************************
+2016-08-20 23:04:38,230 INFO     ***************************
+2016-08-20 23:04:38,230 INFO     List is in the following mongo collection:
+2016-08-20 23:04:38,230 INFO     inadequacy-corpus-only-syn-unq-order-2
+2016-08-20 23:04:38,233 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:38,654 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:38,803 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:38,964 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:39,128 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:39,321 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:39,529 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:39,687 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-20 23:04:39,688 INFO     [u'powerlessness', u'inability', u'flunk', u'taste', u'lack', u'ill luck', u'number', u'deficiency', u'want', u'measure', u'need', u'total', u'quality', u'misfortune', u'helplessness', u'imperfectness', u'sum', u'inadequacy', u'imperfection', u'add up', u'unsatisfactoriness', u'sum of money', u'impotence', u'impuissance', u'be', u'abstraction', u'tough luck', u'weakness', u'unfitness', u'failure', u'insufficiency', u'penchant', u'preference', u'demand', u'amount of money', u'come', u'assets', u'impotency', u'failing', u'turn', u'amount', u'magnitude', u'bad luck', u'predilection', u'become', u'property', u'quantity']
+2016-08-20 23:04:39,688 INFO     =====END FLAT LIST=====
+2016-08-20 23:04:39,688 INFO     Length of list is:
+2016-08-20 23:04:39,690 INFO     55
+2016-08-20 23:04:39,690 INFO     Length of setlist is:
+2016-08-20 23:04:39,690 INFO     47
+2016-08-20 23:04:39,690 INFO     ***************************
+2016-08-20 23:04:39,690 INFO     ***************************
+2016-08-20 23:04:39,690 INFO     List is in the following mongo collection:
+2016-08-20 23:04:39,690 INFO     inadequacy-corpus-only-syn-unq-order-3
+2016-08-20 23:04:39,696 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:40,125 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:40,289 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:40,444 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:40,605 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:40,802 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:41,013 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:41,161 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:41,322 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:41,559 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:41,734 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:41,878 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:42,033 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:42,177 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:42,368 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:42,565 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:42,737 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:42,987 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:43,154 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:43,305 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:43,492 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:43,701 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:43,861 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:44,020 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:44,214 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:44,371 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:44,528 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:44,719 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:44,903 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:45,099 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:45,256 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:45,444 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:45,631 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:45,776 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:45,917 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:46,088 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:46,282 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:46,473 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:46,686 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:46,865 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:47,062 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:47,266 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:47,447 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:47,648 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:47,855 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:48,039 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:48,230 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:04:48,411 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-20 23:04:48,411 INFO     [u'represent', u'positive identification', u'concept', u'ejaculate', u'measure out', u'skip', u'lack', u'spring up', u'preoccupancy', u'go', u'follow', u'heart and soul', u'send', u'removal', u'unsuitableness', u'sensory system', u'impoverishment', u'advantage', u'rise', u'ineptness', u'choice', u'smack', u'esthesis', u'decide', u'fall', u'trouble', u'physical object', u'look for', u'condition', u'change of direction', u'point of reference', u'level', u'psychological feature', u'list', u'try', u'sum of money', u'pauperism', u'pass judgment', u'accumulation', u'assemblage', u'syntactic category', u'originate', u'occurrence', u"make up one's mind", u'unhealthiness', u'sensation', u'mishap', u'sign', u'neediness', u'cost', u'make up', u'pass', u'channelize', u'prosody', u'depression', u'sum', u'favour', u'mensurate', u'atomic number 4', u'numeral', u'appeal', u'movement', u'mensuration', u'degree', u'remotion', u'modify', u'metamorphose', u'poverty', u'geographic region', u'change', u'search', u'substance', u'shift', u'metre', u'experience', u'amount', u'engrossment', u'summate', u'personify', u'geographical region', u'humour', u'claim', u'uprise', u'summons', u'work shift', u'summation', u'circumscribe', u'total', u'unit', u'orientation', u'plow', u'impotency', u'proceed', u'injure', u'live', u'totality', u'tell', u'impotence', u'sort', u'economic process', u'company', u'insufficiency', u'train', u'ware', u'circumstances', u'sample', u'cognitive content', u'join', u'work', u'sound property', u'channelise', u'remain', u'sour', u'musical notation', u'change of course', u'arrive', u'control', u'heart', u'figure', u'flunk', u'attribute', u'involve', u'bend', u'want', u'arise', u'occur', u'savor', u'travel', u'damage', u'till', u'criterion', u'legal instrument', u'flush it', u'cadence', u'fare', u'find out', u'product', u'abstraction', u'unfitness', u'collection', u'belongings', u'core', u'grow', u'undergo', u'nonstarter', u'wrench', u'call on', u'operate', u'deform', u'privation', u'essence', u'move', u'wishing', u'meter', u'mischance', u'order of magnitude', u'rotary motion', u'change form', u'derive', u'exact', u'imperfection', u'comprehend', u'hazard', u'fall out', u'identification number', u'take in', u'bout', u'sterility', u'alter', u'petition', u'descend', u'flex', u'tote up', u'weakness', u'spell', u'make sense', u'maturate', u'body fluid', u'rotation', u'meat', u'cognition', u'magnitude', u'classify', u'predilection', u'theorization', u'luck', u'powerlessness', u'taste sensation', u'constitute', u'deficiency', u'measurement', u'happen', u'geographic area', u'semen', u'misfortune', u'quality', u'official document', u'inadequacy', u'content', u'small indefinite amount', u'metallic element', u'issue', u'gustation', u'maneuver', u'take place', u'perception', u'turning', u'theorisation', u'social rank', u'activity', u'standard', u'measuring device', u'ask', u'obligation', u'change state', u'deprivation', u'small indefinite quantity', u'round', u'motion', u'turn', u'change shape', u'place', u'symbolize', u'penury', u'grammatical category', u'grade', u'savour', u'number', u'rank', u'aggregate', u'omission', u'tot', u'periodical', u'enumerate', u'carry', u'miss', u'marrow', u'size', u'good turn', u'construct', u'assort', u'unsatisfactoriness', u'abstract entity', u'postulate', u'cite', u'measuring stick', u'option', u'poor shape', u'period of play', u'acquire', u'embellish', u'direct', u'sense datum', u'appreciation', u'prettify', u'signaling', u'requisite', u'turn of events', u'crook', u'require', u'legal document', u'discernment', u'discolor', u'nonachievement', u'embody', u'motivation', u'issue forth', u'generalization', u'come up', u'say', u'seed', u'rhythmic pattern', u'need', u'measuring rod', u'seek', u'modality', u'sprain', u'imperfectness', u'move around', u'geographical area', u'take', u'transmit', u'performance', u'go through', u'channel', u'play', u'caliber', u'go on', u'phone number', u'gustatory modality', u'turn over', u'class', u'pauperization', u'sensing', u'metal', u'seminal fluid', u'noesis', u'painting', u'quantity', u'bomb', u'add together', u'find', u'duty period', u'ratio', u'knowledge', u'state', u'unfortunate person', u'manoeuvre', u'rick', u'inadequateness', u'do', u'invoke', u'get', u'beat', u'express', u'perceive', u'sense impression', u'merchandise', u'bankruptcy', u'bodily fluid', u'playing period', u'bar', u'summon', u'tot up', u'ascertain', u'release', u'tactical maneuver', u'kernel', u'requirement', u'set', u'reference', u'plough', u'poetic rhythm', u'see', u'result', u'fail', u'come in', u'nub', u'destiny', u'favor', u'add up', u'beautify', u'routine', u'mouthful', u'use up', u'extend', u'importance', u'lineament', u'dependance', u'come', u'reverse', u'abstractedness', u'keep down', u'equal', u'secernment', u'pith', u'tour', u'aesthesis', u'whole', u'senesce', u'duty', u'generalisation', u'tone', u'consume', u'color', u'walk', u'typify', u'wrick', u'union', u'discrimination', u'responsibility', u'public presentation', u'gist', u'telephone number', u'come about', u'bespeak', u'locomote', u'demand', u'try out', u'ill health', u'conception', u'measuring instrument', u'bill', u'value', u'aim', u'bad luck', u'reference point', u'property', u'natural event', u'measuring system', u'discolour', u'material possession', u'have', u'summarize', u'develop', u'perform', u'wound', u'indigence', u'gustatory sensation', u'unfortunate', u'impuissance', u'tough luck', u'unsuccessful person', u'displace', u'occurrent', u'postulation', u'necessity', u'amount of money', u'liquid body substance', u'exteroception', u'vantage', u'center', u'infertility', u'timbre', u'colour', u'failing', u'bad condition', u'tactical manoeuvre', u'inability', u'perceptiveness', u'inwardness', u'dimension', u'comprise', u'know', u'sense modality', u'ill luck', u'necessitate', u'rest', u'shape', u'identify', u'change by reversal', u'alternative', u'timber', u'Be', u'penchant', u'take aim', u'absorption', u'character', u'calibre', u'instrument', u'add', u'hap', u'beryllium', u'designate', u'sort out', u'fate', u'evaluate', u'aggregation', u'symbolise', u'quest', u'preference', u'judge', u'fortune', u'bit', u'name', u'desire', u'necessary', u'health problem', u'signal', u'taste perception', u'become', u'disorder', u'summarise', u'transmute', u'nitty-gritty', u'hail', u'motive', u'sum total', u'loser', u'convey', u'liking', u'transport', u'helplessness', u'humor', u'lead', u'get on', u'curved shape', u'prop', u'definite quantity', u'social status', u'reorientation', u'measuring', u'be', u'object', u'run', u'mental object', u'step', u'unsuitability', u'softness', u'druthers', u'stand for', u'get along', u'sense of taste', u'predisposition', u'dependence', u'ingest', u'essential', u'pass off', u'dependency', u'act', u'social station', u'ensue', u'assess', u'determine', u'nonaccomplishment', u'numerate', u'sense experience', u'tasting', u'transfer', u'transform', u'occupy', u'development', u'lot', u'suit', u'form', u'Uzbekistani monetary unit', u'tally', u'gustatory perception', u'failure', u'poorness', u'sum up', u'fancify', u'happening', u'count', u'denominate', u'wish', u'limit', u'mature', u'touchstone', u'appraise', u'possession', u'glucinium', u'taste', u'upset', u'abstract', u'measure', u'twist', u'exist', u'request', u'call for', u'holding', u'ferment', u'confine', u'preoccupation', u'picture', u'insolvency', u'separate', u'valuate', u'symbol', u'stay', u'chance', u'assets', u'age', u'curve', u'make out', u'portion', u'status', u'quantify']
+2016-08-20 23:04:48,413 INFO     =====END FLAT LIST=====
+2016-08-20 23:04:48,414 INFO     Length of list is:
+2016-08-20 23:04:48,414 INFO     837
+2016-08-20 23:04:48,414 INFO     Length of setlist is:
+2016-08-20 23:04:48,414 INFO     558
+2016-08-20 23:04:48,414 INFO     ***************************
+2016-08-20 23:04:48,417 INFO     127.0.0.1 - - [20/Aug/2016 23:04:48] "POST /corpus/y HTTP/1.1" 200 -
