@@ -1,0 +1,49 @@
+2016-08-20 23:05:24,223 INFO      * Restarting with stat
+2016-08-20 23:05:26,242 WARNING   * Debugger is active!
+2016-08-20 23:05:26,243 INFO      * Debugger pin code: 224-221-343
+2016-08-20 23:05:26,256 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-20 23:06:09,898 INFO     ***************************
+2016-08-20 23:06:09,901 INFO     List is in the following mongo collection:
+2016-08-20 23:06:09,903 INFO     inadequateness-corpus-only-syn-unq-order-1
+2016-08-20 23:06:09,943 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:06:10,318 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-20 23:06:10,318 INFO     [u'unsatisfactoriness', u'inadequacy']
+2016-08-20 23:06:10,319 INFO     =====END FLAT LIST=====
+2016-08-20 23:06:10,319 INFO     Length of list is:
+2016-08-20 23:06:10,319 INFO     2
+2016-08-20 23:06:10,319 INFO     Length of setlist is:
+2016-08-20 23:06:10,319 INFO     2
+2016-08-20 23:06:10,321 INFO     ***************************
+2016-08-20 23:06:10,321 INFO     ***************************
+2016-08-20 23:06:10,321 INFO     List is in the following mongo collection:
+2016-08-20 23:06:10,321 INFO     inadequateness-corpus-only-syn-unq-order-2
+2016-08-20 23:06:10,323 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:06:10,875 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:06:11,053 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-20 23:06:11,055 INFO     [u'weakness', u'failing', u'amount', u'deficiency', u'insufficiency', u'inadequateness', u'unsatisfactoriness', u'quality']
+2016-08-20 23:06:11,055 INFO     =====END FLAT LIST=====
+2016-08-20 23:06:11,055 INFO     Length of list is:
+2016-08-20 23:06:11,055 INFO     8
+2016-08-20 23:06:11,056 INFO     Length of setlist is:
+2016-08-20 23:06:11,056 INFO     8
+2016-08-20 23:06:11,058 INFO     ***************************
+2016-08-20 23:06:11,059 INFO     ***************************
+2016-08-20 23:06:11,059 INFO     List is in the following mongo collection:
+2016-08-20 23:06:11,059 INFO     inadequateness-corpus-only-syn-unq-order-3
+2016-08-20 23:06:11,069 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:06:11,553 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:06:11,767 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:06:11,953 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:06:12,138 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:06:12,279 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:06:12,444 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:06:12,648 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:06:12,828 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-20 23:06:12,828 INFO     [u'degree', u'powerlessness', u'tone', u'inability', u'flunk', u'taste', u'character', u'lack', u'ill luck', u'number', u'rank', u'calibre', u'deficiency', u'caliber', u'want', u'measure', u'need', u'total', u'quality', u'timber', u'misfortune', u'helplessness', u'imperfectness', u'sum', u'inadequacy', u'imperfection', u'social station', u'grade', u'add up', u'unsatisfactoriness', u'attribute', u'sum of money', u'lineament', u'impotence', u'impuissance', u'be', u'abstraction', u'tough luck', u'social rank', u'weakness', u'unfitness', u'failure', u'insufficiency', u'penchant', u'preference', u'demand', u'amount of money', u'come', u'assets', u'level', u'impotency', u'failing', u'sound property', u'turn', u'amount', u'magnitude', u'bad luck', u'timbre', u'predilection', u'become', u'property', u'dimension', u'social status', u'quantity']
+2016-08-20 23:06:12,829 INFO     =====END FLAT LIST=====
+2016-08-20 23:06:12,832 INFO     Length of list is:
+2016-08-20 23:06:12,832 INFO     73
+2016-08-20 23:06:12,832 INFO     Length of setlist is:
+2016-08-20 23:06:12,834 INFO     64
+2016-08-20 23:06:12,835 INFO     ***************************
+2016-08-20 23:06:12,842 INFO     127.0.0.1 - - [20/Aug/2016 23:06:12] "POST /corpus/y HTTP/1.1" 200 -

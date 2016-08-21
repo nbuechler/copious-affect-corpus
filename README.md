@@ -63,7 +63,7 @@ for linux:
 <NOT SURE YET>
 
 for windows:
-mongorestore.exe --db affect-corpus C:\Users\Nate\src\copious-affect-corpus\mongo_database_backup\affect-corpus
+mongorestore.exe --db affect-corpus C:\Users\<USER>\<dir_name>\copious-affect-corpus\mongo_database_backup\affect-corpus
 ```
 
 # CREDITS

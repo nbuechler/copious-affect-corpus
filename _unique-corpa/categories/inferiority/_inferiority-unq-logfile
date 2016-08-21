@@ -1,0 +1,100 @@
+2016-08-20 23:11:28,733 INFO      * Restarting with stat
+2016-08-20 23:11:30,796 WARNING   * Debugger is active!
+2016-08-20 23:11:30,798 INFO      * Debugger pin code: 224-221-343
+2016-08-20 23:11:30,819 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-20 23:11:30,848 INFO     ***************************
+2016-08-20 23:11:30,849 INFO     List is in the following mongo collection:
+2016-08-20 23:11:30,851 INFO     inferiority-corpus-only-syn-unq-order-1
+2016-08-20 23:11:30,884 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:31,243 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-20 23:11:31,243 INFO     [u'low status', u'caliber', u'lowness', u'quality', u'low quality', u'calibre', u'lowliness', u'lower rank', u'disadvantage', u'unfavorable position', u'lower status']
+2016-08-20 23:11:31,243 INFO     =====END FLAT LIST=====
+2016-08-20 23:11:31,243 INFO     Length of list is:
+2016-08-20 23:11:31,244 INFO     11
+2016-08-20 23:11:31,244 INFO     Length of setlist is:
+2016-08-20 23:11:31,244 INFO     11
+2016-08-20 23:11:31,244 INFO     ***************************
+2016-08-20 23:11:31,244 INFO     ***************************
+2016-08-20 23:11:31,244 INFO     List is in the following mongo collection:
+2016-08-20 23:11:31,246 INFO     inferiority-corpus-only-syn-unq-order-2
+2016-08-20 23:11:31,250 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:31,648 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:31,811 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:31,953 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:32,112 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:32,272 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:32,483 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:32,634 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:32,790 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:32,954 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:33,096 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:33,266 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-20 23:11:33,266 INFO     [u'diameter', u'unimportance', u'tone', u'obscurity', u'grade', u'attribute', u'social station', u'downheartedness', u'rank', u'height', u'low-spiritedness', u'gauge', u'bore', u'quality', u'unhappiness', u'low status', u'diam', u'discriminate', u'character', u'calibre', u'lowliness', u'social status', u'timber', u'social rank', u'disfavour', u'status', u'humbleness', u'caliber', u'degree', u'separate', u'lineament', u'inferiority', u'tallness', u'single out', u'obscureness', u'lower rank', u'disfavor', u'disadvantage', u'lower status', u'liability', u'lowness', u'level', u'timbre', u'dispiritedness', u'sound property', u'dejectedness', u'sadness', u'position', u'property', u'dimension']
+2016-08-20 23:11:33,266 INFO     =====END FLAT LIST=====
+2016-08-20 23:11:33,267 INFO     Length of list is:
+2016-08-20 23:11:33,267 INFO     85
+2016-08-20 23:11:33,269 INFO     Length of setlist is:
+2016-08-20 23:11:33,269 INFO     50
+2016-08-20 23:11:33,270 INFO     ***************************
+2016-08-20 23:11:33,272 INFO     ***************************
+2016-08-20 23:11:33,272 INFO     List is in the following mongo collection:
+2016-08-20 23:11:33,273 INFO     inferiority-corpus-only-syn-unq-order-3
+2016-08-20 23:11:33,283 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:33,640 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:33,848 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:34,016 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:34,230 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:34,506 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:34,657 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:34,905 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:35,061 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:35,250 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:35,436 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:35,602 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:35,749 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:35,903 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:36,127 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:36,289 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:36,444 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:36,607 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:36,755 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:36,914 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:37,055 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:37,229 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:37,380 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:37,539 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:37,763 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:37,926 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:38,079 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:38,361 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:38,517 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:38,723 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:38,890 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:39,028 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:39,384 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:39,585 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:39,732 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:39,898 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:40,141 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:40,398 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:40,546 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:40,724 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:40,874 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:41,015 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:41,174 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:41,334 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:41,493 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:41,668 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:41,834 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:42,043 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:42,308 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:42,480 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:11:42,657 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-20 23:11:42,658 INFO     [u'concept', u'scratch', u'aegir', u'timberland', u'discern', u'calculate', u'charge', u'ambience', u'dislike', u'sound', u'grapheme', u'liability', u'material possession', u'semidarkness', u'physical object', u'condition', u'posture', u'level', u'laurels', u'item', u'relation', u'military position', u'pass judgment', u'assemblage', u'force', u'be', u'direct', u'rate', u'perspective', u'earth', u'even', u'index', u'low status', u'diam', u'business', u'thickness', u'lowliness', u'construction', u'occupation', u'meld', u'body', u'degree', u'honour', u'rase', u'lower rank', u'humility', u'geographic region', u'inscribe', u'change', u'chant', u'dispiritedness', u'verbalise', u'flavour', u'raze', u'honor', u'diameter', u'divide', u'enactment', u'imaginary being', u'exercise', u'immix', u'obligation', u'graphic symbol', u'standing', u'change surface', u'coalesce', u'type', u'tell', u'sort', u'humbleness', u'solid ground', u'trait', u'inflect', u'ascribe', u'award', u'train', u'adult', u'disfavor', u'eagre', u'berth', u'sound property', u'bore-hole', u'colour in', u'lumber', u'musical notation', u'drill', u'stature', u'lugubriousness', u'rank and file', u'figure', u'fall apart', u'attribute', u'cows', u'story', u'secern', u'incomprehensibility', u'feature', u'criterion', u'forest', u'classify', u'even out', u'find out', u'abstraction', u'spot', u'membership', u'susceptibleness', u'tier', u'unfavorable position', u'ablaut', u'shade', u'opinion', u'order', u'tidal current', u'tidal flow', u'move', u'attitude', u'pitch', u'spatial relation', u'change integrity', u'tendency', u'grade', u'choose', u'meridian', u'horizontal surface', u'break', u'obscureness', u'tensity', u'lower status', u'susceptibility', u'acme', u'merge', u'magnitude', u'arcdegree', u'side', u'tension', u'tidal bore', u'garment', u'ambiance', u'downheartedness', u'low-spiritedness', u'line of work', u'pure tone', u'gloominess', u'colourize', u'disagreeable person', u'geographical region', u'gradient', u'quantify', u'bad', u'gradation', u'engrave', u'evaluation', u'fiber', u'angular unit', u'social rank', u'activity', u'inferiority', u'standard', u'measuring device', u'disposition', u'financial obligation', u'put', u'estimate', u'emotional state', u'positioning', u'tonicity', u'length', u'place', u'locating', u'assign', u'lay', u'obscurity', u'feel', u'rank', u'belongings', u'tenseness', u'categorize', u'quality', u'guess', u'top', u'construct', u'assort', u'assumption', u'drill hole', u'badness', u'dissever', u'break up', u'tonus', u'part', u'differentiate', u'distance', u'kine', u'discolor', u'musical interval', u'lowness', u'feeling', u'function', u'gathering', u'tautness', u'strengthen', u'measure', u'tell apart', u'manner of speaking', u'colorise', u'severalize', u'unpleasant person', u'note', u'mix', u'take', u'mental attitude', u'destroy', u'caliber', u'reckon', u'object', u'temperature unit', u'cipher', u'mouth', u'class', u'grave', u'placement', u'destruct', u'reputation', u'talk', u'blend', u'slope', u'rating', u'atmosphere', u'unimportance', u'tincture', u'gauge', u'disunite', u'utter', u'verbalize', u'find', u'ground', u'fibre', u'indicator', u'coloring', u'office', u'tire', u'proportion', u'good word', u'beam', u'rejection', u'reprint', u'pinnacle', u'geographic area', u'body part', u'stead', u'whole tone', u'ascertain', u'grad', u'view', u'set', u'reference', u'excavation', u'cattle', u'reconditeness', u'exponent', u'pull down', u'diverge', u'gage', u'state', u'score', u'sorrow', u'emplacement', u'dullard', u'lineament', u'job', u'distinguish', u'article', u'level off', u'outrank', u'spirit level', u'stance', u'tone', u'characterization', u'color', u'low quality', u'terra firma', u'height', u'unhappiness', u'tint', u'testimonial', u'mark', u'conflate', u'tear down', u'printed symbol', u'spirit', u'case', u'cypher', u'conception', u'look', u'measuring instrument', u'straight line', u'value', u'aim', u'come apart', u'situation', u'property', u'imaginary creature', u'musical note', u'measuring system', u'discolour', u'layer', u'orientation', u'surface', u'color in', u'personation', u'indebtedness', u'woodland', u'speech', u'split', u'status', u'persona', u'eccentric', u'fuse', u'colouring', u'pick out', u'carve up', u'timbre', u'colour', u'written symbol', u'single out', u'position', u'dimension', u'know apart', u'tone up', u'dry land', u'storey', u'shape', u'identify', u'surpass', u'flavor', u'modulate', u'timber', u'biome', u'cut', u'take aim', u'point', u'character', u'calibre', u'eager', u'combine', u'location', u'stratum', u'elevation', u'holding', u'evaluate', u'displace', u'sorrowfulness', u'uncheerfulness', u'judge', u'disadvantage', u'sort out', u'geographical area', u'flux', u'disfavour', u'superlative', u'recommendation', u'auditory sensation', u'bore', u'work out', u'character reference', u'flush', u'prop', u'social status', u'select', u'speak', u'inclination', u'secernate', u'power', u'rub', u'pose', u'fictional character', u'step', u'post', u'stage', u'stand out', u'colourise', u'range', u'academic degree', u'severalise', u'social station', u'assess', u'determine', u'lieu', u'portrayal', u'colorize', u'altitude', u'approximate', u'disapproval', u'intone', u'furcate', u'fork', u'offprint', u'theatrical role', u'form', u'Bos taurus', u'delivery', u'whole step', u'line', u'valuation', u'Cartesian coordinate', u'compute', u'fictitious character', u'tone of voice', u'sadness', u'impute', u'tiptop', u'bodily property', u'touchstone', u'appraise', u'possession', u'oxen', u'recognize', u'split up', u'discriminate', u'floor', u'personnel', u'abstruseness', u'excel', u'commingle', u'role', u'branch', u'repute', u'standardise', u'smell', u'billet', u'categorise', u'standardize', u'separate', u'valuate', u'dismantle', u'tallness', u'peak', u'recognise', u'take down', u'structure', u'ground level', u'ramify', u'land', u'interval', u'make out', u'dejectedness', u'accolade', u'summit', u'standard of measurement', u'grownup', u'building material']
+2016-08-20 23:11:42,661 INFO     =====END FLAT LIST=====
+2016-08-20 23:11:42,661 INFO     Length of list is:
+2016-08-20 23:11:42,661 INFO     734
+2016-08-20 23:11:42,663 INFO     Length of setlist is:
+2016-08-20 23:11:42,663 INFO     450
+2016-08-20 23:11:42,664 INFO     ***************************
+2016-08-20 23:11:42,668 INFO     127.0.0.1 - - [20/Aug/2016 23:11:42] "POST /corpus/y HTTP/1.1" 200 -

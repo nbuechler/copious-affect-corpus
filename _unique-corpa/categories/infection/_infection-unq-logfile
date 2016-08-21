@@ -1,0 +1,120 @@
+2016-08-20 23:09:10,303 INFO      * Restarting with stat
+2016-08-20 23:09:12,322 WARNING   * Debugger is active!
+2016-08-20 23:09:12,322 INFO      * Debugger pin code: 224-221-343
+2016-08-20 23:09:12,335 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-20 23:09:45,688 INFO     ***************************
+2016-08-20 23:09:45,690 INFO     List is in the following mongo collection:
+2016-08-20 23:09:45,690 INFO     infection-corpus-only-syn-unq-order-1
+2016-08-20 23:09:45,726 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:46,276 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-20 23:09:46,276 INFO     [u'illegality', u'health problem', u'linguistic process', u'contagion', u'transmission', u'communication', u'corruptness', u'pathologic process', u'unhealthiness', u'incident', u'pathological process', u'ill health', u'corruption']
+2016-08-20 23:09:46,278 INFO     =====END FLAT LIST=====
+2016-08-20 23:09:46,278 INFO     Length of list is:
+2016-08-20 23:09:46,278 INFO     13
+2016-08-20 23:09:46,279 INFO     Length of setlist is:
+2016-08-20 23:09:46,279 INFO     13
+2016-08-20 23:09:46,279 INFO     ***************************
+2016-08-20 23:09:46,279 INFO     ***************************
+2016-08-20 23:09:46,279 INFO     List is in the following mongo collection:
+2016-08-20 23:09:46,279 INFO     infection-corpus-only-syn-unq-order-2
+2016-08-20 23:09:46,282 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:46,711 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:46,892 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:47,082 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:47,255 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:47,457 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:47,638 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:47,831 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:48,009 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:48,201 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:48,381 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:48,571 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:48,769 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:48,927 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-20 23:09:48,927 INFO     [u'transmittance', u'coefficient', u'putrescence', u'occurrence', u'higher cognitive process', u'rottenness', u'unhealthiness', u'communication', u'depravation', u'rot', u'corruptness', u'biological process', u'pathological process', u'hoo-hah', u'connexion', u'human activity', u'pathological state', u'disturbance', u'unlawfulness', u'dishonesty', u'immorality', u'dishonor', u'human process', u'pathologic process', u'subversion', u'transmitting', u'connection', u'connectedness', u'inducing', u'putridness', u'corruption', u'inducement', u'organic process', u'transmittal', u'to-do', u'abstraction', u'gear', u'communicating', u'kerfuffle', u'commotion', u'infection', u'degradation', u'occurrent', u'disruption', u'incident', u'depravity', u'hoo-ha', u'debasement', u'ill health', u'contagious disease', u'flutter', u'happening', u'sending', u'health problem', u'language', u'communicable disease', u'transmission', u'decay', u'putrefaction', u'contagion', u'transmission system', u'dishonour', u'human action', u'gear mechanism', u'act', u'hurly burly', u'natural event', u'degeneracy']
+2016-08-20 23:09:48,927 INFO     =====END FLAT LIST=====
+2016-08-20 23:09:48,928 INFO     Length of list is:
+2016-08-20 23:09:48,928 INFO     80
+2016-08-20 23:09:48,928 INFO     Length of setlist is:
+2016-08-20 23:09:48,928 INFO     68
+2016-08-20 23:09:48,928 INFO     ***************************
+2016-08-20 23:09:48,928 INFO     ***************************
+2016-08-20 23:09:48,930 INFO     List is in the following mongo collection:
+2016-08-20 23:09:48,930 INFO     infection-corpus-only-syn-unq-order-3
+2016-08-20 23:09:48,934 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:49,276 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:49,454 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:49,654 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:49,852 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:50,012 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:50,167 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:50,316 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:50,460 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:50,619 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:50,776 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:50,923 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:51,092 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:51,267 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:51,426 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:51,573 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:51,719 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:51,894 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:52,119 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:52,335 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:52,526 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:52,687 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:52,831 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:53,029 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:53,217 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:53,418 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:53,618 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:53,819 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:53,970 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:54,161 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:54,335 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:54,477 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:54,663 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:54,812 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:54,987 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:55,135 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:55,285 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:55,427 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:55,582 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:55,730 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:55,907 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:56,092 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:56,259 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:56,408 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:56,584 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:56,796 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:57,006 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:57,158 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:57,312 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:57,467 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:57,630 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:57,775 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:57,923 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:58,078 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:58,246 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:58,411 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:58,578 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:58,914 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:59,128 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:59,414 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:59,642 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:09:59,822 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:10:00,049 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:10:00,262 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:10:00,517 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:10:00,749 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:10:00,980 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:10:01,157 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-20 23:10:01,319 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-20 23:10:01,319 INFO     [u'transmittance', u'concept', u'higher cognitive process', u'rottenness', u'putrescence', u'dishonor', u'move', u'degeneration', u'disintegration', u'performance', u'shape', u'relation', u'mechanism', u'voice communication', u'pitch', u'misconduct', u'manifestation', u'rot', u'change integrity', u'wickedness', u'disturbance', u'violate', u'dramatic work', u'decay', u'absorption', u'corruptness', u'pathologic process', u'subversion', u'transmitting', u'power train', u'behave', u'thump', u'condition', u'turn down', u'depravity', u'wrongful conduct', u'speech', u'hurry', u'causation', u'hurly burly', u'do', u'geared wheel', u'subversive activity', u'linguistic process', u'routine', u'bat', u'degradation', u'break', u'unification', u'words', u'turpitude', u'illegality', u'trouble', u'legal instrument', u'association', u'gearing', u'din', u'health problem', u'decrement', u'transmission', u'tumult', u'drop', u'pathological state', u'preoccupancy', u'natural action', u'undulation', u'iniquity', u'word', u'activity', u'lyric', u'theorization', u'preoccupation', u'disorder', u'terminology', u'abjection', u'instrumentality', u'dissemble', u'motivator', u'work', u'ruffle', u'occurrence', u'humiliation', u'putrefaction', u'legal document', u'quiver', u'instrument', u'communication', u'to-do', u'holdup', u'biological process', u'nictate', u'hoo-hah', u'operation', u'change of state', u'appurtenance', u'event', u'evildoing', u'decadence', u'shame', u'acquaintance', u'represent', u'impurity', u'dishonesty', u'scrap', u'official document', u'interference', u'connective', u'speed', u'unhealthiness', u'playact', u'transgression', u'decomposition', u'adapt', u'provider', u'supplier', u'win', u'corruption', u'inducement', u'movement', u'coefficient', u'be', u'noise', u'transportation', u'gear', u'remotion', u'reflection', u'linguistic communication', u'guff', u'dramatic composition', u'gear wheel', u'succeed', u'hoo-ha', u'bunkum', u'moulder', u'pretend', u'contagious disease', u'play', u'mental process', u'move back and forth', u'hogwash', u'sending', u'abasement', u'zip', u'abstractedness', u'ravish', u'unwholesomeness', u'overthrow', u'dishonour', u'spoken communication', u'motion', u'turn', u'connection', u'engrossment', u'natural event', u'rumpus', u'act', u'action', u'degeneracy', u'devolve', u'change of integrity', u'knavery', u'assault', u'generalisation', u'beat', u'crumble', u'set on', u'garbage', u'presence', u'human activity', u'inducing', u'attaint', u'faculty', u'number', u'blink', u'accommodate', u'travel rapidly', u'decadency', u'decrease', u'nuclear reaction', u'physical process', u'dislocation', u'removal', u'connexion', u'rational motive', u'standing', u'decline', u'perturbation', u'bring home the bacon', u'quality', u'paraphernalia', u'union', u'transfer', u'cogwheel', u'unrighteousness', u'construct', u'fight', u'connector', u'gear mechanism', u'attack', u'molder', u'abstract entity', u'motility', u'wrongdoing', u'putridness', u'interruption', u'perform', u'speech communication', u'waste', u'nictitate', u'friend', u'natural process', u'transmittal', u'morbidness', u'communicable disease', u'bit', u'flap', u'form', u'immorality', u'incident', u'buncombe', u'memory', u'serve', u'pass up', u'infection', u'gap', u'change', u'disruption', u'train', u'link', u'flapping', u'auditory communication', u'wheelwork', u'adulteration', u'assail', u'ill health', u'morbidity', u'actus reus', u'cardiac arrhythmia', u'disintegrate', u'conception', u'psychological disorder', u'affray', u'flit', u'contagion', u'transmission system', u're-create', u'human action', u'conveyance', u'fleet', u'mental disorder', u'organic process', u'decompose', u'remembering', u'flitter', u'pound', u'constant', u'pathological process', u'agitation', u'process', u'abstract', u'ruckus', u'reflexion', u'public presentation', u'generalization', u'nomenclature', u'transferral', u'degenerate', u'outrage', u'wave', u'unsoundness', u'rape', u'oral communication', u'instrumentation', u'organic phenomenon', u'deliver the goods', u'wink', u'folie', u'mental disturbance', u'bunk', u'impureness', u'commotion', u'mental faculty', u'incentive', u'delay', u'equipment', u'textual matter', u'causing', u'wheel', u'connectedness', u'reject', u'radioactive decay', u'disgrace', u'spoken language', u'text', u'roleplay', u'deteriorate', u'status', u'picture', u'connecter', u'abstraction', u'combat', u'communicating', u'kerfuffle', u'come through', u'evil', u'arrhythmia', u'occurrent', u'whirl', u'drivel', u'cognitive operation', u'theorisation', u'waver', u'ruction', u'debasement', u'dart', u'flutter', u'fray', u'refuse', u'palpitate', u'happening', u'enactment', u'rotting', u'fluttering', u'cognitive process', u'upset', u'disease', u'fighting', u'geartrain', u'depravation', u'module', u'expression', u'delapidate', u'act as', u'painting', u'flicker', u'joining']
+2016-08-20 23:10:01,321 INFO     =====END FLAT LIST=====
+2016-08-20 23:10:01,321 INFO     Length of list is:
+2016-08-20 23:10:01,321 INFO     622
+2016-08-20 23:10:01,322 INFO     Length of setlist is:
+2016-08-20 23:10:01,322 INFO     336
+2016-08-20 23:10:01,322 INFO     ***************************
+2016-08-20 23:10:01,323 INFO     127.0.0.1 - - [20/Aug/2016 23:10:01] "POST /corpus/y HTTP/1.1" 200 -
