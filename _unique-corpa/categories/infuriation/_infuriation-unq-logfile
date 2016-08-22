@@ -1,0 +1,80 @@
+2016-08-21 23:28:46,411 INFO      * Restarting with stat
+2016-08-21 23:28:48,477 WARNING   * Debugger is active!
+2016-08-21 23:28:48,480 INFO      * Debugger pin code: 224-221-343
+2016-08-21 23:28:48,493 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-21 23:30:11,174 INFO     ***************************
+2016-08-21 23:30:11,176 INFO     List is in the following mongo collection:
+2016-08-21 23:30:11,177 INFO     infuriation-corpus-only-syn-unq-order-1
+2016-08-21 23:30:11,194 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:12,299 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-21 23:30:12,299 INFO     [u'anger', u'choler', u'enragement', u'ire']
+2016-08-21 23:30:12,299 INFO     =====END FLAT LIST=====
+2016-08-21 23:30:12,301 INFO     Length of list is:
+2016-08-21 23:30:12,301 INFO     4
+2016-08-21 23:30:12,302 INFO     Length of setlist is:
+2016-08-21 23:30:12,302 INFO     4
+2016-08-21 23:30:12,302 INFO     ***************************
+2016-08-21 23:30:12,302 INFO     ***************************
+2016-08-21 23:30:12,302 INFO     List is in the following mongo collection:
+2016-08-21 23:30:12,302 INFO     infuriation-corpus-only-syn-unq-order-2
+2016-08-21 23:30:12,305 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:12,911 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:13,345 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:13,795 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:14,227 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-21 23:30:14,229 INFO     [u'emotion', u'humour', u'feel', u'elicit', u'arouse', u'anger', u'provoke', u'emotional arousal', u'irritability', u'choler', u'humor', u'raise', u'crossness', u'distemper', u'see red', u'yellow bile', u'ira', u'deadly sin', u'ire', u'bodily fluid', u'fire', u'fretfulness', u'angriness', u'petulance', u'body fluid', u'ill humour', u'peevishness', u'liquid body substance', u'fussiness', u'wrath', u'mortal sin', u'infuriation', u'ill humor', u'experience', u'enkindle', u'evoke', u'kindle']
+2016-08-21 23:30:14,229 INFO     =====END FLAT LIST=====
+2016-08-21 23:30:14,229 INFO     Length of list is:
+2016-08-21 23:30:14,229 INFO     49
+2016-08-21 23:30:14,229 INFO     Length of setlist is:
+2016-08-21 23:30:14,230 INFO     37
+2016-08-21 23:30:14,230 INFO     ***************************
+2016-08-21 23:30:14,230 INFO     ***************************
+2016-08-21 23:30:14,230 INFO     List is in the following mongo collection:
+2016-08-21 23:30:14,230 INFO     infuriation-corpus-only-syn-unq-order-3
+2016-08-21 23:30:14,233 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:14,905 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:15,391 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:15,815 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:16,224 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:16,707 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:17,104 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:17,552 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:18,039 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:18,480 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:18,855 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:19,312 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:19,691 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:20,115 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:20,611 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:21,013 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:21,401 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:21,836 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:22,221 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:22,617 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:23,025 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:23,553 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:24,003 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:24,493 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:24,984 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:25,369 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:25,927 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:26,401 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:26,806 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:27,275 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:27,694 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:28,148 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:28,711 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:29,180 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:29,664 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:30,145 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:30,582 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:30:31,108 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-21 23:30:31,109 INFO     [u'consider', u'dispel', u'conjure', u'responsiveness', u'promote', u'vex', u'conjure up', u'fervor', u'ambience', u'gravel', u'annoy', u'retirement plan', u'rise', u'wage increase', u'affect', u'blast', u'look for', u'conceive', u'call down', u'delegate', u'harry', u'enhance', u'occurrence', u'set up', u'give notice', u'bake', u'emotional arousal', u'pander', u'appear', u'tactile property', u'verbalize', u'yellow bile', u'salary increase', u'actuation', u'modify', u'mental object', u'fervency', u'witticism', u'bring up', u'FTO', u'search', u'substance', u'receive', u'experience', u'resurrect', u'trial', u'harass', u'verbalise', u'leaven', u'climb', u'criticism', u'call forth', u'humour', u'wit', u'depute', u'subject matter', u'prove', u'irritate', u'live', u'call', u'meliorate', u'acclivity', u'take part', u'wake up', u'crabbedness', u'flak', u'shoot', u'cognitive content', u'challenge', u'can', u'nurture', u'set off', u'do', u'onslaught', u'sense', u'cultivate', u'provoke', u'end', u'provide', u'nark', u'deadly sin', u'stir', u'sin', u'gamble', u'construe', u'levy', u'farm', u'produce', u'sound out', u'grow', u'light', u'assign', u'increase', u'furnish', u'ignite', u'wage hike', u'move', u'sinning', u'knowingness', u'shake', u'Provisional Irish Republican Army', u'derive', u'fireplace', u'kick up', u'comprehend', u'better', u'feel', u'take in', u'alter', u'put up', u'wake', u'mention', u'body fluid', u'indulge', u'name', u'infer', u'bring out', u'get to', u'side', u'ambiance', u'ameliorate', u'extract', u'irritability', u'give the sack', u'content', u'reason out', u'onrush', u'cause', u'instigate', u'reason', u'individual retirement account', u'element', u'peevishness', u'turn on', u'advance', u'change state', u'chevy', u'turn', u'enkindle', u'foreign terrorist organization', u'undergo', u'think', u'ardour', u'emotion', u'render', u'force out', u'come alive', u'sack', u'chevvy', u'message', u'wager', u'quality', u'shake up', u'wrath', u'burn down', u'send away', u'revive', u'construct', u'stimulation', u'paint', u'attack', u'draft', u'drive out', u'foreplay', u'sex', u'snappishness', u'bother', u'recruit', u'cite', u'flame', u'kindle', u'feeling', u'bet', u'rag', u'pettishness', u'say', u'increment', u'elaborateness', u'anger', u'seem', u'waken', u'seek', u'put forward', u'flaming', u'distemper', u'onset', u'reactivity', u'enounce', u'destroy', u'go through', u'brace', u'visitation', u'play', u'reach', u'palpate', u'multiply', u'energize', u'enlist', u'nettle', u'painting', u'slope', u'atmosphere', u'show', u'ill nature', u'terrorist organization', u'terminate', u'fervour', u'elevate', u'give tongue to', u'participate', u'flack', u'utter', u'molest', u'find', u'upgrade', u'get up', u'draw out', u'ruin', u'see red', u'tribulation', u'chivvy', u'fuel', u'awareness', u'terrorist group', u'gratify', u'sense of humour', u'invoke', u'get', u'ardor', u'crabbiness', u'express', u'perceive', u'intensify', u'bodily fluid', u'turn back', u'Provos', u'remove', u'hike', u'excitability', u'see', u'arouse', u'muster in', u'combustion', u'playfulness', u'propulsion', u'incite', u'finger', u'ira', u'retirement savings plan', u'ire', u'kick upstairs', u'parent', u'retirement savings account', u'improve', u'ill humor', u'give the axe', u'animal disease', u'cognizance', u'tone', u'supply', u'devil', u'raise', u'fervidness', u'create', u'erect', u'advert', u'get hold of', u'passionateness', u'interpret', u'body substance', u'retirement account', u'fire', u'dismiss', u'excite', u'lift', u'awake', u'deepen', u'heighten', u'spirit', u'unfavorable judgment', u'look', u'amend', u'fun', u'property', u'natural event', u'paint a picture', u'have', u'arousal', u'elicit', u'choler', u'biliousness', u'suggest', u'make', u'drive away', u'educe', u'occurrent', u'Provisional IRA', u'get at', u'IRA', u'sense of humor', u'liquid body substance', u'cognisance', u'pension account', u'hearth', u'pension plan', u'contact', u'consciousness', u'compound', u'beset', u'evince', u'touch', u'madness', u'flavor', u'conclude', u'upraise', u'surliness', u'stimulate', u'designate', u'bid', u'displace', u'petulance', u'know', u'drive off', u'awaken', u'rear', u'Irish Republican Army', u'wind up', u'collect', u'perk up', u'deduct', u'pronounce', u'rile', u'hassle', u'ascent', u'retirement program', u'humor', u'mood', u'flare up', u'passion', u'refer', u'regain', u'be', u'burn', u'enunciate', u'fretfulness', u'angriness', u'fussiness', u'chafe', u'chivy', u'incline', u'firing', u'open fire', u'evoke', u'wittiness', u'burning', u'articulate', u'energise', u'resuscitate', u'enragement', u'crossness', u'open fireplace', u'get through', u'believe', u'change', u'plague', u'rouse', u'flavour', u'rage', u'deduce', u'chase away', u'temper', u'run off', u'fury', u'education', u'heave', u'build', u'conflagrate', u'smell', u'picture', u'inflame', u'ornateness', u'discharge', u'mortal sin', u'happening', u'stir up', u'ill humour', u'go off']
+2016-08-21 23:30:31,111 INFO     =====END FLAT LIST=====
+2016-08-21 23:30:31,111 INFO     Length of list is:
+2016-08-21 23:30:31,111 INFO     677
+2016-08-21 23:30:31,111 INFO     Length of setlist is:
+2016-08-21 23:30:31,112 INFO     387
+2016-08-21 23:30:31,112 INFO     ***************************
+2016-08-21 23:30:31,117 INFO     127.0.0.1 - - [21/Aug/2016 23:30:31] "POST /corpus/y HTTP/1.1" 200 -

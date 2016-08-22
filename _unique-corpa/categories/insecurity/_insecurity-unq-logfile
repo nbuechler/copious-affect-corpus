@@ -1,0 +1,55 @@
+2016-08-21 23:32:16,256 INFO      * Restarting with stat
+2016-08-21 23:32:18,267 WARNING   * Debugger is active!
+2016-08-21 23:32:18,269 INFO      * Debugger pin code: 224-221-343
+2016-08-21 23:32:18,280 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-21 23:32:39,730 INFO     ***************************
+2016-08-21 23:32:39,730 INFO     List is in the following mongo collection:
+2016-08-21 23:32:39,732 INFO     insecurity-corpus-only-syn-unq-order-1
+2016-08-21 23:32:39,762 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:32:40,523 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-21 23:32:40,523 INFO     [u'anxiety', u'danger']
+2016-08-21 23:32:40,523 INFO     =====END FLAT LIST=====
+2016-08-21 23:32:40,532 INFO     Length of list is:
+2016-08-21 23:32:40,532 INFO     2
+2016-08-21 23:32:40,532 INFO     Length of setlist is:
+2016-08-21 23:32:40,532 INFO     2
+2016-08-21 23:32:40,532 INFO     ***************************
+2016-08-21 23:32:40,533 INFO     ***************************
+2016-08-21 23:32:40,533 INFO     List is in the following mongo collection:
+2016-08-21 23:32:40,533 INFO     insecurity-corpus-only-syn-unq-order-2
+2016-08-21 23:32:40,536 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:32:41,322 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:32:41,710 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-21 23:32:41,710 INFO     [u'emotion', u'psychological state', u'peril', u'anxiousness', u'area', u'cause', u'causal agency', u'status', u'venture', u'country', u'mental state', u'causal agent', u'condition', u'risk']
+2016-08-21 23:32:41,711 INFO     =====END FLAT LIST=====
+2016-08-21 23:32:41,713 INFO     Length of list is:
+2016-08-21 23:32:41,713 INFO     14
+2016-08-21 23:32:41,713 INFO     Length of setlist is:
+2016-08-21 23:32:41,713 INFO     14
+2016-08-21 23:32:41,714 INFO     ***************************
+2016-08-21 23:32:41,714 INFO     ***************************
+2016-08-21 23:32:41,716 INFO     List is in the following mongo collection:
+2016-08-21 23:32:41,716 INFO     insecurity-corpus-only-syn-unq-order-3
+2016-08-21 23:32:41,723 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:32:42,456 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:32:42,967 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:32:43,368 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:32:43,829 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:32:44,318 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:32:44,789 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:32:45,266 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:32:45,727 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:32:46,211 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:32:46,934 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:32:47,395 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:32:47,861 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:32:48,305 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:32:48,713 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-21 23:32:48,714 INFO     [u'essay', u'precondition', u'stake', u'surface area', u'move', u'shape', u'queer', u'touch', u'take chances', u'impact', u'probability', u'make grow', u'labor', u'environment', u'condition', u'do', u'experimental condition', u'assay', u'risk', u'get', u'origination', u'induce', u'nation', u'embark', u'imperil', u'business enterprise', u'inception', u'affect', u'speculate', u'riskiness', u'term', u'geographical area', u'cause', u'geographic area', u'endangerment', u'good health', u'body part', u'undertaking', u'touch on', u'speculation', u'commonwealth', u'domain', u'put on the line', u'people', u'run a risk', u'stipulation', u'go', u'undertake', u'ameliorate', u'investment', u'subject', u'scupper', u'risk of exposure', u'proceeding', u'jeopardy', u'disquiet', u'state', u'political entity', u'causa', u'commercial enterprise', u'issue', u'movement', u'premiss', u'be', u'justification', u'business', u'circumstance', u'reason', u'extent', u'consideration', u'geographic region', u'lawsuit', u'improve', u'arena', u'administrative district', u'country', u'region', u'political unit', u'qualify', u'contract', u'geographical region', u'investment funds', u'stimulate', u'grounds', u'origin', u'premise', u'campaign', u'danger', u'legal proceeding', u'instruct', u'teach', u'better', u'guess', u'proceed', u'area', u'create', u'stipulate', u'body politic', u'assumption', u'statement', u'suit', u'mental state', u'threaten', u'meliorate', u'psychological state', u'expose', u'expanse', u'construction', u'effort', u'specify', u'land', u'case', u'causal agency', u'anxiety', u'take a chance', u'amend', u'pretend', u'shampoo', u'project', u'matter', u'territorial division', u'rural area', u'venture', u'learn', u'endanger', u'res publica', u'feeling', u'procedure', u'jeopardise', u'bear on', u'process', u'orbit', u'healthiness', u'bear upon', u'topic', u'sphere', u'crusade', u'exist', u'have', u'seek', u'check', u'lay on the line', u'information', u'develop', u'discipline', u'make', u'jeopardize', u'field', u'peril', u'gamble', u'status', u'physical entity', u'hazard', u'chance', u'adventure', u'causal agent', u'structure', u'task', u'attempt', u'administrative division', u'try', u'drive', u'proceedings', u'train', u'position', u'menace', u'risk of infection']
+2016-08-21 23:32:48,714 INFO     =====END FLAT LIST=====
+2016-08-21 23:32:48,714 INFO     Length of list is:
+2016-08-21 23:32:48,714 INFO     195
+2016-08-21 23:32:48,716 INFO     Length of setlist is:
+2016-08-21 23:32:48,716 INFO     167
+2016-08-21 23:32:48,716 INFO     ***************************
+2016-08-21 23:32:48,717 INFO     127.0.0.1 - - [21/Aug/2016 23:32:48] "POST /corpus/y HTTP/1.1" 200 -
