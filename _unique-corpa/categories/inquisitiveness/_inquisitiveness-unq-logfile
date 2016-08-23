@@ -1,0 +1,84 @@
+2016-08-21 23:31:13,450 INFO      * Restarting with stat
+2016-08-21 23:31:15,543 WARNING   * Debugger is active!
+2016-08-21 23:31:15,545 INFO      * Debugger pin code: 224-221-343
+2016-08-21 23:31:15,559 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-21 23:31:17,996 INFO     ***************************
+2016-08-21 23:31:17,996 INFO     List is in the following mongo collection:
+2016-08-21 23:31:17,997 INFO     inquisitiveness-corpus-only-syn-unq-order-1
+2016-08-21 23:31:18,052 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:18,651 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-21 23:31:18,651 INFO     [u'curiousness', u'curiosity', u'wonder']
+2016-08-21 23:31:18,651 INFO     =====END FLAT LIST=====
+2016-08-21 23:31:18,651 INFO     Length of list is:
+2016-08-21 23:31:18,651 INFO     3
+2016-08-21 23:31:18,653 INFO     Length of setlist is:
+2016-08-21 23:31:18,653 INFO     3
+2016-08-21 23:31:18,653 INFO     ***************************
+2016-08-21 23:31:18,653 INFO     ***************************
+2016-08-21 23:31:18,653 INFO     List is in the following mongo collection:
+2016-08-21 23:31:18,654 INFO     inquisitiveness-corpus-only-syn-unq-order-2
+2016-08-21 23:31:18,657 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:19,398 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:20,252 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:20,717 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-21 23:31:20,719 INFO     [u'respond', u'cognitive state', u'occurrence', u'strangeness', u'oddity', u'think over', u'peculiarity', u'query', u'chew over', u'state of mind', u'quality', u'wonder', u'oddment', u'ponder', u'ruminate', u'inquire', u'mull over', u'question', u'excogitate', u'enquire', u'astonishment', u'wonderment', u'speculate', u'mull', u'inquisitiveness', u'object', u'muse', u'react', u'contemplate', u'meditate', u'occurrent', u'curiosity', u'amazement', u'physical object', u'reflect', u'admiration', u'happening', u'foreignness', u'rarity', u'curio', u'natural event', u'marvel']
+2016-08-21 23:31:20,719 INFO     =====END FLAT LIST=====
+2016-08-21 23:31:20,719 INFO     Length of list is:
+2016-08-21 23:31:20,719 INFO     47
+2016-08-21 23:31:20,719 INFO     Length of setlist is:
+2016-08-21 23:31:20,719 INFO     42
+2016-08-21 23:31:20,720 INFO     ***************************
+2016-08-21 23:31:20,720 INFO     ***************************
+2016-08-21 23:31:20,720 INFO     List is in the following mongo collection:
+2016-08-21 23:31:20,720 INFO     inquisitiveness-corpus-only-syn-unq-order-3
+2016-08-21 23:31:20,723 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:21,313 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:21,717 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:22,138 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:22,542 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:22,904 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:23,312 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:23,663 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:24,063 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:24,520 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:24,905 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:25,323 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:25,790 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:26,194 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:26,663 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:27,092 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:27,565 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:28,019 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:28,437 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:28,834 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:29,322 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:29,734 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:30,086 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:30,513 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:30,950 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:31,318 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:31,732 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:32,230 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:32,681 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:33,154 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:33,572 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:33,999 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:34,500 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:34,904 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:35,390 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:35,868 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:36,295 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:36,707 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:37,137 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:37,596 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:38,141 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:38,515 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:31:38,907 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-21 23:31:38,907 INFO     [u'cognitive state', u'consider', u'infrequency', u'sentence', u'crotchet', u'move', u'anticipate', u'invent', u'piece of cloth', u'reverberate', u'give tongue to', u'query', u'flavor', u'ruminate', u'hypothecate', u'timber', u'oddness', u'physical object', u'queerness', u'density', u'hypothesize', u'character', u'calibre', u'dubiousness', u'source', u'theme', u'theorise', u'astonishment', u'reason', u'enquire', u'cogitate', u'create by mental act', u'probe', u'cerebrate', u'quirk', u'express', u'cognitive content', u'interrogation', u'interview', u'sweeten', u'meditate', u'call into question', u'speculate', u'dulcify', u'individuation', u'level', u'give out', u'give off', u'manifest', u'curiousness', u'investigate', u'hypothesise', u'distinguishing characteristic', u'oppugn', u'specialness', u'respond', u'intercommunicate', u'occurrence', u'formulate', u'interrogative sentence', u'feeling', u'change state', u'look at', u'marriage proposal', u'expect', u'scarcity', u'utter', u'liking', u'state of mind', u'event', u'wonder', u'oddment', u'Greek deity', u'degree', u'think over', u'Muse', u'verbalize', u'content', u'state', u'social status', u'reply', u'promontory', u'social rank', u'be', u'proposal of marriage', u'uncertainness', u'mull', u'lineament', u'communicate', u'mental object', u'contemplate', u'job', u'invest', u'ask', u'amazement', u'remainder', u'individualism', u'shine', u'react', u'frame of mind', u'theorize', u'Mull', u'island', u'study', u'uncertainty', u'interrogate', u'motion', u'turn', u'objective', u'place', u'act', u'commit', u'blessing', u'view', u'quirkiness', u'think', u'tone', u'strangeness', u'presence', u'grade', u'social station', u'rank', u'peculiarity', u'put', u'remnant', u'esteem', u'approval', u'edulcorate', u'quality', u'tenuity', u'verbalise', u'deal', u'certify', u'question', u'germ', u'distinctiveness', u'indicate', u'doubt', u'mental state', u'proposal', u'tell', u'wonderment', u'dulcorate', u'psychological state', u'head', u'attest', u'converse', u'specialty', u'muse', u'disapprove', u'precariousness', u'appreciation', u'doubtfulness', u'forge', u'grammatical constituent', u'eccentricity', u'constituent', u'unusualness', u'eat', u'admiration', u'flavour', u'target', u'characteristic', u'foreignness', u'show', u'examine', u'sound property', u'rarity', u'aim', u'suppose', u'piece of material', u'demonstrate', u'inquiring', u'emit', u'natural event', u'marriage offer', u'individuality', u'chew over', u'speciality', u'oddity', u'devise', u'attribute', u'contrive', u'conjecture', u'distinctive feature', u'topic', u'headland', u'say', u'seed', u'point', u'property', u'rareness', u'ponder', u'end', u'unfamiliarity', u'enquiry', u'mull over', u'denseness', u'scarceness', u'feature', u'excogitate', u'interrogative', u'discourse', u'inquiry', u'take', u'reject', u'answer', u'oppose', u'subject', u'evidence', u'caliber', u'physical entity', u'object', u'foreland', u'questioning', u'occurrent', u'create mentally', u'curiosity', u'approving', u'goal', u'happening', u'timbre', u'temporary state', u'low density', u'inquire', u'reflect', u'challenge', u'curio', u'dimension', u'marvel']
+2016-08-21 23:31:38,907 INFO     =====END FLAT LIST=====
+2016-08-21 23:31:38,907 INFO     Length of list is:
+2016-08-21 23:31:38,907 INFO     527
+2016-08-21 23:31:38,907 INFO     Length of setlist is:
+2016-08-21 23:31:38,907 INFO     230
+2016-08-21 23:31:38,908 INFO     ***************************
+2016-08-21 23:31:38,911 INFO     127.0.0.1 - - [21/Aug/2016 23:31:38] "POST /corpus/y HTTP/1.1" 200 -

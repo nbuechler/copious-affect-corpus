@@ -1,0 +1,45 @@
+2016-08-21 23:34:02,441 INFO      * Restarting with stat
+2016-08-21 23:34:04,430 WARNING   * Debugger is active!
+2016-08-21 23:34:04,430 INFO      * Debugger pin code: 224-221-343
+2016-08-21 23:34:04,444 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-21 23:35:05,571 INFO     ***************************
+2016-08-21 23:35:05,573 INFO     List is in the following mongo collection:
+2016-08-21 23:35:05,575 INFO     insignificance-corpus-only-syn-unq-order-1
+2016-08-21 23:35:05,614 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:35:07,246 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-21 23:35:07,247 INFO     [u'unimportance']
+2016-08-21 23:35:07,247 INFO     =====END FLAT LIST=====
+2016-08-21 23:35:07,249 INFO     Length of list is:
+2016-08-21 23:35:07,249 INFO     1
+2016-08-21 23:35:07,249 INFO     Length of setlist is:
+2016-08-21 23:35:07,250 INFO     1
+2016-08-21 23:35:07,250 INFO     ***************************
+2016-08-21 23:35:07,250 INFO     ***************************
+2016-08-21 23:35:07,250 INFO     List is in the following mongo collection:
+2016-08-21 23:35:07,250 INFO     insignificance-corpus-only-syn-unq-order-2
+2016-08-21 23:35:07,255 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:35:08,009 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-21 23:35:08,009 INFO     [u'humbleness', u'obscureness', u'lowliness', u'value', u'obscurity']
+2016-08-21 23:35:08,009 INFO     =====END FLAT LIST=====
+2016-08-21 23:35:08,010 INFO     Length of list is:
+2016-08-21 23:35:08,010 INFO     5
+2016-08-21 23:35:08,010 INFO     Length of setlist is:
+2016-08-21 23:35:08,010 INFO     5
+2016-08-21 23:35:08,010 INFO     ***************************
+2016-08-21 23:35:08,010 INFO     ***************************
+2016-08-21 23:35:08,012 INFO     List is in the following mongo collection:
+2016-08-21 23:35:08,012 INFO     insignificance-corpus-only-syn-unq-order-3
+2016-08-21 23:35:08,016 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:35:08,755 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:35:09,243 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:35:09,700 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:35:10,203 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-21 23:35:10,631 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-21 23:35:10,632 INFO     [u'unimportance', u'obscurity', u'humility', u'measure', u'assess', u'rate', u'set', u'esteem', u'determine', u'respect', u'duration', u'reconditeness', u'economic value', u'consider', u'standing', u'low status', u'incomprehensibility', u'abstruseness', u'treasure', u'ideal', u'numerical quantity', u'time value', u'lowliness', u'color property', u'evaluate', u'prise', u'worth', u'status', u'humbleness', u'quantity', u'reckon', u'trait', u'regard', u'valuate', u'obscureness', u'note value', u'semidarkness', u'judge', u'continuance', u'lowness', u'prize', u'appreciate', u'see', u'value', u'amount', u'view', u'position', u'feeling', u'pass judgment', u'appraise']
+2016-08-21 23:35:10,634 INFO     =====END FLAT LIST=====
+2016-08-21 23:35:10,634 INFO     Length of list is:
+2016-08-21 23:35:10,634 INFO     63
+2016-08-21 23:35:10,635 INFO     Length of setlist is:
+2016-08-21 23:35:10,635 INFO     50
+2016-08-21 23:35:10,637 INFO     ***************************
+2016-08-21 23:35:10,641 INFO     127.0.0.1 - - [21/Aug/2016 23:35:10] "POST /corpus/y HTTP/1.1" 200 -
