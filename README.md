@@ -50,6 +50,11 @@ See the emotions spreadsheet in _unique_corpra
 *categories are thus the basis for an r-emotion
 *multiple r-emotions correspond to a n-emotion (future scope)
 
+# Future questions
+*how do some emotions (r or n) relate to others (r or n)?
+*if we idenity some sets of emotions, how do they relate to each other?
+*can we find the emtional state of different things (people, articles, etc)?
+
 # Tech notes
 to export the mongo database:
 ```
