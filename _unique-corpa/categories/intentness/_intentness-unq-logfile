@@ -1,0 +1,70 @@
+2016-08-26 22:56:34,868 INFO      * Restarting with stat
+2016-08-26 22:56:36,914 WARNING   * Debugger is active!
+2016-08-26 22:56:36,915 INFO      * Debugger pin code: 224-221-343
+2016-08-26 22:56:37,049 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-26 22:57:33,371 INFO     ***************************
+2016-08-26 22:57:33,372 INFO     List is in the following mongo collection:
+2016-08-26 22:57:33,374 INFO     intentness-corpus-only-syn-unq-order-1
+2016-08-26 22:57:33,536 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:57:36,588 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-26 22:57:36,588 INFO     [u'assiduousness', u'concentration', u'engrossment', u'assiduity']
+2016-08-26 22:57:36,608 INFO     =====END FLAT LIST=====
+2016-08-26 22:57:36,608 INFO     Length of list is:
+2016-08-26 22:57:36,608 INFO     4
+2016-08-26 22:57:36,608 INFO     Length of setlist is:
+2016-08-26 22:57:36,608 INFO     4
+2016-08-26 22:57:36,608 INFO     ***************************
+2016-08-26 22:57:36,609 INFO     ***************************
+2016-08-26 22:57:36,609 INFO     List is in the following mongo collection:
+2016-08-26 22:57:36,609 INFO     intentness-corpus-only-syn-unq-order-2
+2016-08-26 22:57:36,615 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:57:39,365 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:57:40,424 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:57:41,986 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:57:44,469 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-26 22:57:44,470 INFO     [u'gathering', u'strengthening', u'tightness', u'preoccupancy', u'cognitive state', u'concentration', u'state of mind', u'denseness', u'assiduity', u'density', u'absorption', u'spatial arrangement', u'increase', u'preoccupation', u'industriousness', u'assembly', u'diligence', u'immersion', u'attention', u'spacing', u'assiduousness', u'intentness', u'industry', u'engrossment', u'compactness', u'property', u'assemblage']
+2016-08-26 22:57:44,470 INFO     =====END FLAT LIST=====
+2016-08-26 22:57:44,470 INFO     Length of list is:
+2016-08-26 22:57:44,470 INFO     42
+2016-08-26 22:57:44,470 INFO     Length of setlist is:
+2016-08-26 22:57:44,470 INFO     27
+2016-08-26 22:57:44,470 INFO     ***************************
+2016-08-26 22:57:44,470 INFO     ***************************
+2016-08-26 22:57:44,470 INFO     List is in the following mongo collection:
+2016-08-26 22:57:44,470 INFO     intentness-corpus-only-syn-unq-order-3
+2016-08-26 22:57:44,474 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:57:47,849 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:57:52,266 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:57:55,506 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:57:58,186 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:00,703 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:03,604 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:05,891 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:09,450 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:13,028 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:16,724 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:18,825 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:20,469 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:24,749 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:27,006 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:28,559 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:29,819 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:31,724 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:33,884 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:35,868 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:38,177 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:40,440 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:42,115 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:47,999 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:49,214 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:50,346 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:50,971 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-26 22:58:51,750 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-26 22:58:51,752 INFO     [u'ingress', u'assembling', u'cognitive state', u'lack', u'closeness', u'dumbness', u'preoccupancy', u'concept', u'parsimony', u'occupation', u'tending', u'parsimoniousness', u'assiduity', u'density', u'absorption', u'submergence', u'stitchery', u'attraction', u'immovableness', u'transformation', u'immovability', u'organic process', u'sinking', u'spatial arrangement', u'aggregation', u'slow-wittedness', u'business enterprise', u'group action', u'physical object', u'geographical area', u'alteration', u'geographic area', u'magnet', u'activity', u'ducking', u'accumulation', u'assemblage', u'grouping', u'attractive feature', u'feeling', u'idea', u'change of magnitude', u'deficiency', u'biological process', u'growth', u'state of mind', u'geographical region', u'soaking up', u'denseness', u'rate', u'attracter', u'prop', u'increase', u'state', u'sorption', u'wetting', u'commercial enterprise', u'taking possession', u'natural action', u'transmutation', u'solidness', u'attention', u'assembly', u'stance', u'business', u'social group', u'industriousness', u'spacing', u'elbow grease', u'attending', u'group', u'geographic region', u'assiduousness', u'change', u'step-up', u'frame of mind', u'installation', u'intentness', u'forum', u'hookup', u'shift', u'industry', u'amount', u'engrossment', u'sweat', u'action', u'attractor', u'tightness', u'facility', u'construct', u'submerging', u'module', u'indefinite quantity', u'addition', u'niggardliness', u'system', u'occupancy', u'process', u'mental state', u'submersion', u'natural process', u'manufacture', u'psychological state', u'tightfistedness', u'travail', u'diligence', u'immersion', u'painstakingness', u'solidity', u'assimilation', u'construction', u'determination', u'gain', u'conscientiousness', u'stringency', u'effort', u'conception', u'moving in', u'baptism', u'basic cognitive process', u'dousing', u'alter', u'meeting place', u'modify', u'compactness', u'aid', u'property', u'care', u'collecting', u'possession', u'gathering', u'strengthening', u'physical process', u'increment', u'tautness', u'minginess', u'attribute', u'stinginess', u'social process', u'want', u'concentration', u'work', u'constriction', u'meanness', u'disappearance', u'mental faculty', u'arrangement', u'machine', u'application', u'stupidity', u'holding', u'modification', u'place', u'preoccupation', u'exertion', u'sewing', u'collection', u'courtesy', u'purpose', u'niggardness', u'faculty', u'belongings', u'fabrication', u'building', u'placement', u'gather', u'temporary state', u'object', u'thought', u'material possession', u'dimension', u'change magnitude']
+2016-08-26 22:58:51,752 INFO     =====END FLAT LIST=====
+2016-08-26 22:58:51,752 INFO     Length of list is:
+2016-08-26 22:58:51,752 INFO     272
+2016-08-26 22:58:51,753 INFO     Length of setlist is:
+2016-08-26 22:58:51,753 INFO     172
+2016-08-26 22:58:51,753 INFO     ***************************
+2016-08-26 22:58:51,755 INFO     127.0.0.1 - - [26/Aug/2016 22:58:51] "POST /corpus/y HTTP/1.1" 200 -
