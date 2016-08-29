@@ -1,0 +1,69 @@
+2016-08-28 23:09:13,198 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-28 23:09:13,199 INFO      * Restarting with stat
+2016-08-28 23:09:13,453 WARNING   * Debugger is active!
+2016-08-28 23:09:13,458 INFO      * Debugger pin code: 294-815-374
+2016-08-28 23:09:21,350 INFO     ***************************
+2016-08-28 23:09:21,351 INFO     List is in the following mongo collection:
+2016-08-28 23:09:21,351 INFO     jubilance-corpus-only-syn-unq-order-1
+2016-08-28 23:09:21,358 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:21,479 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-28 23:09:21,479 INFO     [u'exultation', u'joyousness', u'joyfulness', u'joy', u'jubilancy', u'jubilation']
+2016-08-28 23:09:21,480 INFO     =====END FLAT LIST=====
+2016-08-28 23:09:21,480 INFO     Length of list is:
+2016-08-28 23:09:21,480 INFO     6
+2016-08-28 23:09:21,480 INFO     Length of setlist is:
+2016-08-28 23:09:21,480 INFO     6
+2016-08-28 23:09:21,480 INFO     ***************************
+2016-08-28 23:09:21,480 INFO     ***************************
+2016-08-28 23:09:21,480 INFO     List is in the following mongo collection:
+2016-08-28 23:09:21,480 INFO     jubilance-corpus-only-syn-unq-order-2
+2016-08-28 23:09:21,482 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:21,611 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:21,743 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:21,865 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:21,987 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:22,121 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:22,251 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-28 23:09:22,251 INFO     [u'emotion', u'affair', u'joyousness', u'feel', u'social function', u'rejoice', u'jubilance', u'jubilancy', u'gladden', u'function', u'rejoicing', u'joy', u'positive stimulus', u'delight', u'jubilation', u'pleasure', u'celebration', u'exultation', u'vocalization', u'joyfulness', u'social occasion', u'experience', u'occasion', u'utterance']
+2016-08-28 23:09:22,251 INFO     =====END FLAT LIST=====
+2016-08-28 23:09:22,251 INFO     Length of list is:
+2016-08-28 23:09:22,251 INFO     46
+2016-08-28 23:09:22,251 INFO     Length of setlist is:
+2016-08-28 23:09:22,251 INFO     24
+2016-08-28 23:09:22,251 INFO     ***************************
+2016-08-28 23:09:22,251 INFO     ***************************
+2016-08-28 23:09:22,251 INFO     List is in the following mongo collection:
+2016-08-28 23:09:22,251 INFO     jubilance-corpus-only-syn-unq-order-3
+2016-08-28 23:09:22,252 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:22,379 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:22,509 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:22,631 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:22,752 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:22,877 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:23,002 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:23,127 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:23,254 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:23,376 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:23,502 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:23,631 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:23,753 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:23,876 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:24,006 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:24,131 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:24,263 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:24,386 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:24,512 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:24,647 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:24,776 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:24,898 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:25,020 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:25,151 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-28 23:09:25,274 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-28 23:09:25,274 INFO     [u'affair', u'atmosphere', u'selection', u'consider', u'consciousness', u'exuberate', u'relation', u'knowingness', u'participate', u'go', u'flavor', u'find', u'happiness', u'ravish', u'sexual practice', u'office', u'jubilance', u'comprehend', u'jubilancy', u'ambience', u'input', u'awareness', u'do', u'exult', u'rejoicing', u'routine', u'perceive', u'choice', u'sexual activity', u'occurrent', u'know', u'subroutine', u'look for', u'look', u'recreation', u'stimulus', u'conceive', u'activity', u'enrapture', u'enchant', u'triumph', u'enjoy', u'satisfy', u'occurrence', u'officiate', u'ambiance', u'sex', u'touch', u'see', u'delight', u'usefulness', u'transport', u'concern', u'appear', u'tactile property', u'please', u'delectation', u'content', u'reason out', u'finger', u'be on cloud nine', u'gladden', u'ground', u'cause', u'jump for joy', u'regain', u'be', u'run', u'joy', u'solemnization', u'mental object', u'chirk up', u'reason', u'mathematical function', u'change', u'celebration', u'festivity', u'wallow', u'search', u'feeling', u'package', u'receive', u'ritual', u'social occasion', u'experience', u'thing', u'liaison', u'natural event', u'cognizance', u'cognisance', u'undergo', u'utterance', u'think', u'software', u'emotion', u'tone', u'conclude', u'feel', u'communication', u'sex activity', u'juncture', u'involvement', u'jubilate', u'utility', u'use', u'rejoice', u'suffice', u'live', u'stimulation', u'enthral', u'vocalisation', u'sexual relationship', u'social gathering', u'social function', u'auditory communication', u'enthrall', u'foreplay', u'take part', u'software program', u'serve', u'jubilation', u'part', u'software system', u'believe', u'spirit', u'cognitive content', u'flavour', u'exultation', u'revel', u'joyfulness', u'work', u'social event', u'duty', u'matter', u'property', u'procedure', u'function', u'joyousness', u'gratify', u'subprogram', u'solemnisation', u'have', u'sense', u'arousal', u'amour', u'seem', u'voice', u'seek', u'chance', u'education', u'software package', u'vox', u'make', u'get', u'role', u'affaire', u'answer', u'go through', u'smell', u'stimulant', u'computer software', u'vocalism', u'pick', u'positive stimulus', u'social affair', u'palpate', u'vocalization', u'diversion', u'purpose', u'cheer up', u'pleasure', u'opportunity', u'happening', u'phonation', u'walk on air', u'cheer', u'pleasance', u'time', u'occasion', u'intimacy', u'operate', u'mathematical relation']
+2016-08-28 23:09:25,274 INFO     =====END FLAT LIST=====
+2016-08-28 23:09:25,274 INFO     Length of list is:
+2016-08-28 23:09:25,274 INFO     276
+2016-08-28 23:09:25,274 INFO     Length of setlist is:
+2016-08-28 23:09:25,274 INFO     182
+2016-08-28 23:09:25,274 INFO     ***************************
+2016-08-28 23:09:25,275 INFO     127.0.0.1 - - [28/Aug/2016 23:09:25] "POST /corpus/y HTTP/1.1" 200 -
