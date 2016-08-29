@@ -69,10 +69,10 @@ to import the mongo database:
 
 ```
 for linux:
-<NOT SURE YET>
+mongorestore --db affect-corpus ./mongo_database_backup/affect-corpus/
 
 for windows:
-mongorestore.exe --db affect-corpus C:\Users\<USER>\<dir_name>\copious-affect-corpus\mongo_database_backup\affect-corpus
+mongorestore.exe --db affect-corpus C:\<root_dir>\copious-affect-corpus\mongo_database_backup\affect-corpus
 ```
 
 # CREDITS
