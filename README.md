@@ -75,6 +75,12 @@ for windows:
 mongorestore.exe --db affect-corpus C:\<root_dir>\copious-affect-corpus\mongo_database_backup\affect-corpus
 ```
 
+## Note on mongorestore from docs
+
+```
+mongorestore can create a new database or add data to an existing database. However, mongorestore performs inserts only and does not perform updates. That is, if restoring documents to an existing database and collection and existing documents have the same value _id field as the to-be-restored documents, mongorestore will not overwrite those documents.
+```
+
 # CREDITS
 ```
 To build a corpus ('Be Excellent to Each Other')
