@@ -1,0 +1,65 @@
+2016-08-29 22:43:55,221 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-29 22:43:55,221 INFO      * Restarting with stat
+2016-08-29 22:43:55,479 WARNING   * Debugger is active!
+2016-08-29 22:43:55,484 INFO      * Debugger pin code: 294-815-374
+2016-08-29 22:43:59,001 INFO     ***************************
+2016-08-29 22:43:59,002 INFO     List is in the following mongo collection:
+2016-08-29 22:43:59,002 INFO     misery-corpus-only-syn-unq-order-1
+2016-08-29 22:43:59,009 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:59,137 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-29 22:43:59,138 INFO     [u'ill-being', u'wretchedness', u'miserableness', u'sadness', u'unhappiness']
+2016-08-29 22:43:59,138 INFO     =====END FLAT LIST=====
+2016-08-29 22:43:59,138 INFO     Length of list is:
+2016-08-29 22:43:59,138 INFO     5
+2016-08-29 22:43:59,138 INFO     Length of setlist is:
+2016-08-29 22:43:59,139 INFO     5
+2016-08-29 22:43:59,139 INFO     ***************************
+2016-08-29 22:43:59,139 INFO     ***************************
+2016-08-29 22:43:59,139 INFO     List is in the following mongo collection:
+2016-08-29 22:43:59,139 INFO     misery-corpus-only-syn-unq-order-2
+2016-08-29 22:43:59,142 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:59,281 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:59,406 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:59,529 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:59,654 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:59,774 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-29 22:43:59,774 INFO     [u'feeling', u'sadness', u'hardship', u'gloominess', u'emotional state', u'hard knocks', u'low quality', u'inferiority', u'lugubriousness', u'sorrowfulness', u'spirit', u'discomfort', u'uncomfortableness', u'miserableness', u'uncheerfulness', u'misery', u'ill-being', u'wretchedness', u'sorrow', u'adversity', u'unhappiness']
+2016-08-29 22:43:59,774 INFO     =====END FLAT LIST=====
+2016-08-29 22:43:59,774 INFO     Length of list is:
+2016-08-29 22:43:59,775 INFO     24
+2016-08-29 22:43:59,775 INFO     Length of setlist is:
+2016-08-29 22:43:59,775 INFO     21
+2016-08-29 22:43:59,775 INFO     ***************************
+2016-08-29 22:43:59,775 INFO     ***************************
+2016-08-29 22:43:59,775 INFO     List is in the following mongo collection:
+2016-08-29 22:43:59,775 INFO     misery-corpus-only-syn-unq-order-3
+2016-08-29 22:43:59,778 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:59,906 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:00,028 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:00,152 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:00,280 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:00,425 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:00,554 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:00,678 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:00,802 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:00,924 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:01,047 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:01,174 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:01,306 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:01,433 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:01,558 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:01,715 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:01,868 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:01,994 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:02,118 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:02,246 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:02,372 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:02,512 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-29 22:44:02,512 INFO     [u'impression', u'atmosphere', u'ill luck', u'brio', u'rigorousness', u'touch', u'flavor', u'suffer', u'fibre', u'character', u'calibre', u'spiritual being', u'ambience', u'disadvantage', u'ruefulness', u'mournfulness', u'severeness', u'invigoration', u'suffering', u'uncheerfulness', u'flavour', u'somberness', u'condition', u'lower status', u'gloom', u'vivification', u'discomfort', u'invigorate', u'uneasiness', u'adversity', u'life principle', u'ruthfulness', u'regret', u'ambiance', u'idea', u'vital principle', u'fiber', u'irritation', u'gloominess', u'asperity', u'belief', u'misfortune', u'glumness', u'cheerlessness', u'liveliness', u'state', u'lowliness', u'self-consciousness', u'import', u'melancholy', u'perception', u'hardship', u'sorrow', u'inferiority', u'rue', u'difficulty', u'lower rank', u'disposition', u'somesthesia', u'tactual sensation', u'feeling', u'embarrassment', u'emotional state', u'tactile sensation', u'somaesthesia', u'misery', u'rigor', u'ill-being', u'emotion', u'intuition', u'tone', u'purport', u'feel', u'low quality', u'sorrowfulness', u'quality', u'intuitive feeling', u'unhappiness', u'enliven', u'soreness', u'attribute', u'grimness', u'somatic sensation', u'life', u'sprightliness', u'liven', u'miserableness', u'hurt', u'grief', u'temperament', u'spirit', u'disembodied spirit', u'wretchedness', u'lowness', u'look', u'touch sensation', u'apprehension', u'grieve', u'sadness', u'somatesthesia', u'bad luck', u'rigour', u'lugubriousness', u'sombreness', u'spiritedness', u'heart', u'hard knocks', u'negative stimulus', u'liven up', u'supernatural being', u'signification', u'animate', u'severity', u'animation', u'significance', u'smell', u'status', u'caliber', u'tough luck', u'spirit up', u'low status', u'meaning', u'uncomfortableness', u'intent', u'inspirit', u'opinion', u'apprehensiveness', u'unfavorable position', u'rigourousness', u'difficultness', u'thought', u'dread', u'notion']
+2016-08-29 22:44:02,512 INFO     =====END FLAT LIST=====
+2016-08-29 22:44:02,512 INFO     Length of list is:
+2016-08-29 22:44:02,513 INFO     195
+2016-08-29 22:44:02,513 INFO     Length of setlist is:
+2016-08-29 22:44:02,513 INFO     133
+2016-08-29 22:44:02,513 INFO     ***************************
+2016-08-29 22:44:02,514 INFO     127.0.0.1 - - [29/Aug/2016 22:44:02] "POST /corpus/y HTTP/1.1" 200 -

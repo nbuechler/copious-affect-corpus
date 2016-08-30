@@ -1,0 +1,99 @@
+2016-08-29 22:44:43,047 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-29 22:44:43,047 INFO      * Restarting with stat
+2016-08-29 22:44:43,297 WARNING   * Debugger is active!
+2016-08-29 22:44:43,302 INFO      * Debugger pin code: 294-815-374
+2016-08-29 22:44:47,237 INFO     ***************************
+2016-08-29 22:44:47,237 INFO     List is in the following mongo collection:
+2016-08-29 22:44:47,237 INFO     negation-corpus-only-syn-unq-order-1
+2016-08-29 22:44:47,246 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:47,371 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-29 22:44:47,372 INFO     [u'proposition', u'disaffirmation', u'denial', u'statement']
+2016-08-29 22:44:47,372 INFO     =====END FLAT LIST=====
+2016-08-29 22:44:47,372 INFO     Length of list is:
+2016-08-29 22:44:47,372 INFO     4
+2016-08-29 22:44:47,372 INFO     Length of setlist is:
+2016-08-29 22:44:47,373 INFO     4
+2016-08-29 22:44:47,373 INFO     ***************************
+2016-08-29 22:44:47,373 INFO     ***************************
+2016-08-29 22:44:47,373 INFO     List is in the following mongo collection:
+2016-08-29 22:44:47,373 INFO     negation-corpus-only-syn-unq-order-2
+2016-08-29 22:44:47,376 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:47,501 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:47,626 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:47,752 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:47,874 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-29 22:44:47,874 INFO     [u'code', u'defence mechanism', u'subject matter', u'argument', u'program line', u'evidence', u'selflessness', u'defense', u'self-denial', u'commercial instrument', u'demurrer', u'self-renunciation', u'message', u'content', u'denial', u'defense reaction', u'substance', u'suggest', u'due process', u'assertion', u'labor', u'forswearing', u'forgoing', u'theme', u'musical theme', u'defence reaction', u'statement', u'proffer', u'advise', u'speech act', u'financial statement', u'defense mechanism', u'offering', u'offer', u'propose', u'melodic theme', u'idea', u'averment', u'renunciation', u'asseveration', u'defence', u'self-abnegation', u'commercial document', u'proposal', u'disaffirmation', u'task', u'computer code', u'undertaking', u'instruction', u'self-sacrifice', u'project', u'abnegation', u'affirmation', u'command', u'suggestion', u'due process of law']
+2016-08-29 22:44:47,874 INFO     =====END FLAT LIST=====
+2016-08-29 22:44:47,874 INFO     Length of list is:
+2016-08-29 22:44:47,874 INFO     62
+2016-08-29 22:44:47,874 INFO     Length of setlist is:
+2016-08-29 22:44:47,875 INFO     56
+2016-08-29 22:44:47,875 INFO     ***************************
+2016-08-29 22:44:47,875 INFO     ***************************
+2016-08-29 22:44:47,875 INFO     List is in the following mongo collection:
+2016-08-29 22:44:47,875 INFO     negation-corpus-only-syn-unq-order-3
+2016-08-29 22:44:47,878 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:48,009 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:48,131 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:48,257 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:48,405 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:48,533 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:48,675 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:48,802 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:48,925 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:49,050 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:49,174 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:49,300 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:49,425 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:49,551 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:49,673 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:49,794 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:49,920 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:50,044 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:50,165 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:50,292 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:50,417 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:50,541 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:50,667 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:50,792 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:50,917 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:51,038 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:51,157 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:51,281 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:51,409 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:51,533 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:51,662 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:51,796 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:51,918 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:52,046 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:52,193 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:52,314 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:52,440 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:52,562 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:52,685 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:52,810 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:52,937 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:53,058 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:53,184 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:53,307 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:53,429 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:53,583 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:53,705 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:53,830 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:53,964 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:54,089 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:54,212 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:54,340 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:54,461 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:54,598 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:54,735 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:54,858 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:54,980 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-29 22:44:54,980 INFO     [u'essay', u'code', u'pass on', u'codification', u'defence mechanism', u'demand', u'proposition', u'computation', u'go', u'impute', u'self-renunciation', u'heart and soul', u'proletariat', u'childbed', u'send', u'program', u'small indefinite quantity', u'avowal', u'teaching', u'defense mechanism', u'written communication', u'Labor Department', u'stick out', u'defending team', u'word form', u'oblation', u'group action', u'small indefinite amount', u'difference', u'exact', u'fag', u'dig', u'try', u'Defense', u'delegate', u'team', u'accumulation', u'assemblage', u'programme', u'intercommunicate', u'force', u'give notice', u'direct', u'approximation', u'imply', u'design', u'do work', u'pass', u'protrude', u'channelize', u'melody', u'impel', u'computer code', u'cast', u'giving', u'sum', u'availability', u'pleading', u'proffer', u'satisfy', u'financial statement', u'justification', u'component', u'military group', u'averment', u'protection', u'jut out', u'substance', u'pop the question', u'cause to be perceived', u'defense team', u'experience', u'controversy', u'suggestion', u'action', u'opinion', u'marriage offer', u'projection', u'written language', u'speech act', u'rede', u'circumscribe', u'depute', u'market', u'subject matter', u'prove', u'prompting', u'calculation', u'encode', u'tell', u'authorization', u'ascribe', u'moil', u'effort', u'cognitive content', u'word', u'work', u'self-sacrifice', u'human action', u'channelise', u'descriptor', u'abnegation', u'pedagogy', u'root', u'control', u'heart', u'figure', u'give', u'process', u'attribute', u'tax', u'topic', u'tag', u'dictation', u'information', u'provide', u'tilt', u'discussion', u'get', u'write', u'self-control', u'answer', u'persuasion', u'resignation', u'dominance', u'express', u'collection', u'produce', u'create mentally', u'marrow', u'attempt', u'DoL', u'defence force', u'DoD', u'assign', u'inform', u'suggest', u'literary argument', u'order', u'furnish', u'essence', u'move', u'trade', u'paper', u'worship', u'envisage', u'renouncement', u'organisation', u'social class', u'labor', u'choose', u'put up', u'contention', u'fling', u'propose', u'renunciation', u'reckoning', u'discuss', u'meat', u'mastery', u'cognition', u'component part', u'bring out', u'externalise', u'authorisation', u'self-denial', u'idea', u'marriage proposal', u'sentiment', u'testify', u'content', u'send word', u'birthing', u'impart', u'overlook', u'dominate', u'parturition', u'proposal of marriage', u'inscribe', u'base', u'struggle', u'imagine', u'estimate', u'working class', u'give-and-take', u'thing', u'written document', u'due process of law', u'undergo', u'think', u'render', u'purport', u'radical', u'fancy', u'lying-in', u'notify', u'bring on', u'message', u'signifier', u'United States Department of Defense', u'military force', u'indicate', u'master', u'statement', u'contestation', u'travail', u'send off', u'part', u'vindication', u'mesmerism', u'Defense Department', u'skillfulness', u'nominate', u'require', u'instruction', u'project', u'matter', u'declare', u'Labour Party', u'enjoin', u'mind', u'argument', u'selflessness', u'say', u'giving birth', u'have', u'cipher', u'lie', u'form', u'apprise', u'labour', u'take', u'transmit', u'command', u'channel', u'apprize', u'arguing', u'judicial decision', u'donation', u'affirmation', u'plan', u'position', u'class', u'encipher', u'potency', u'request', u'drive', u'repudiation', u'higher cognitive process', u'show', u'chore', u'defense force', u'commercial instrument', u'demurrer', u'debate', u'disceptation', u'knowledge', u'proportion', u'assertion', u'theme', u'dispute', u'Department of Defense', u'gratify', u'create by mental act', u'means', u'capital', u'talk over', u'self-abnegation', u'report', u'self-discipline', u'avouchment', u'availableness', u'summary', u'activity', u'view', u'attest', u'see', u'defense', u'tender', u'nub', u'subject', u'visualize', u'capacity', u'ideate', u'label', u'forswearing', u'cooperation', u'limit', u'military unit', u'wage', u'extend', u'visualise', u'job', u'dedication', u'conceive of', u'tug', u'pith', u'demur', u'contribution', u'estimation', u'grounds', u'duty', u'supply', u'human activity', u'program line', u'melodic line', u'labor movement', u'endeavor', u'defense reaction', u'paint a picture', u'acceptance', u'mark', u'threaten', u'proposal', u'direction', u'gist', u'engage', u'bidding', u'declaration', u'commercial document', u'altruism', u'volunteer', u'cypher', u'reform movement', u'air', u'aim', u'receive', u'motif', u'kernel', u'contrive', u'strain', u'whirl', u'denial', u'defence', u'pay', u'externalize', u'figuring', u'musical theme', u'defence reaction', u'indicant', u'party', u'political party', u'document', u'composition', u'conflict', u'status', u'physical entity', u'melodic theme', u'purpose', u'pick out', u'judgment', u'tune', u'suasion', u'task', u'center', u'root word', u'write in code', u'grind', u'thought', u'hash out', u'variable quantity', u'defensive structure', u'toil', u'organization', u'inwardness', u'noesis', u'trade union movement', u'endeavour', u'Labor', u'evince', u'disputation', u'apostasy', u'unconscious process', u'discipline', u'hint', u'due process', u'demurral', u'squad', u'crack', u'designate', u'defection', u'bid', u'aggregation', u'judgement', u'birth', u'psychoanalytic process', u'gift', u'offer up', u'manifest', u'contentedness', u'indication', u'undertaking', u'envision', u'propel', u'nitty-gritty', u'draw', u'authority', u'sum-up', u'convey', u'Labor Party', u'transport', u'trace', u'forgoing', u'select', u'drudge', u'socio-economic class', u'core', u'intimate', u'communicate', u'mental object', u'stem', u'throw', u'craft', u'asseveration', u'declare oneself', u'evoke', u'act', u'mean', u'certify', u'hypnotism', u'communication', u'image', u'commitment', u'variable', u'say-so', u'argumentation', u'Department of Labor', u'transfer', u'coding system', u'fight', u'intention', u'bear witness', u'offering', u'offer', u'volume', u'didactics', u'construction', u'jut', u'line', u'info', u'counsel', u'rejection', u'military action', u'difference of opinion', u'executive department', u'depicted object', u'demonstrate', u'advise', u'educational activity', u'influence', u'accessibility', u'evidence', u'put across', u'education', u'encrypt', u'refutation', u'objection', u'compel', u'defense lawyers', u'defensive measure', u'papers', u'confine', u'picture', u'pass along', u'intend', u'handiness', u'meaning', u'intent', u'melodic phrase', u'structure', u'disaffirmation', u'overtop', u'unselfishness', u'parturiency', u'portion', u'confinement', u'push']
+2016-08-29 22:44:54,981 INFO     =====END FLAT LIST=====
+2016-08-29 22:44:54,981 INFO     Length of list is:
+2016-08-29 22:44:54,981 INFO     807
+2016-08-29 22:44:54,981 INFO     Length of setlist is:
+2016-08-29 22:44:54,981 INFO     477
+2016-08-29 22:44:54,981 INFO     ***************************
+2016-08-29 22:44:54,982 INFO     127.0.0.1 - - [29/Aug/2016 22:44:54] "POST /corpus/y HTTP/1.1" 200 -

@@ -1,0 +1,85 @@
+2016-08-29 22:39:57,625 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-29 22:39:57,626 INFO      * Restarting with stat
+2016-08-29 22:39:57,879 WARNING   * Debugger is active!
+2016-08-29 22:39:57,884 INFO      * Debugger pin code: 294-815-374
+2016-08-29 22:40:00,421 INFO     ***************************
+2016-08-29 22:40:00,421 INFO     List is in the following mongo collection:
+2016-08-29 22:40:00,421 INFO     loathing-corpus-only-syn-unq-order-1
+2016-08-29 22:40:00,431 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:00,562 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-29 22:40:00,563 INFO     [u'odium', u'execration', u'abhorrence', u'abomination', u'disgust', u'detestation', u'hatred', u'hate']
+2016-08-29 22:40:00,563 INFO     =====END FLAT LIST=====
+2016-08-29 22:40:00,563 INFO     Length of list is:
+2016-08-29 22:40:00,563 INFO     8
+2016-08-29 22:40:00,563 INFO     Length of setlist is:
+2016-08-29 22:40:00,563 INFO     8
+2016-08-29 22:40:00,563 INFO     ***************************
+2016-08-29 22:40:00,563 INFO     ***************************
+2016-08-29 22:40:00,563 INFO     List is in the following mongo collection:
+2016-08-29 22:40:00,563 INFO     loathing-corpus-only-syn-unq-order-2
+2016-08-29 22:40:00,565 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:00,700 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:00,825 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:00,955 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:01,078 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:01,204 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:01,343 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:01,477 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:01,603 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-29 22:40:01,604 INFO     [u'emotion', u'repulse', u'disgrace', u'abomination', u'denouncement', u'nauseate', u'shame', u'individual', u'hate', u'evildoing', u'curse', u'sicken', u'loathing', u'transgression', u'disgust', u'detestation', u'dislike', u'stir', u'gross out', u'object', u'somebody', u'repel', u'condemnation', u'excite', u'detest', u'execration', u'odium', u'ignominy', u'abhorrence', u'churn up', u'revolt', u'soul', u'person', u'someone', u'denunciation', u'mortal', u'hatred', u'stimulate']
+2016-08-29 22:40:01,604 INFO     =====END FLAT LIST=====
+2016-08-29 22:40:01,604 INFO     Length of list is:
+2016-08-29 22:40:01,604 INFO     73
+2016-08-29 22:40:01,604 INFO     Length of setlist is:
+2016-08-29 22:40:01,604 INFO     38
+2016-08-29 22:40:01,605 INFO     ***************************
+2016-08-29 22:40:01,605 INFO     ***************************
+2016-08-29 22:40:01,605 INFO     List is in the following mongo collection:
+2016-08-29 22:40:01,605 INFO     loathing-corpus-only-syn-unq-order-3
+2016-08-29 22:40:01,608 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:01,765 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:01,926 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:02,142 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:02,416 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:02,722 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:02,904 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:03,044 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:03,203 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:03,353 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:03,506 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:03,675 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:03,815 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:03,950 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:04,097 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:04,225 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:04,382 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:04,513 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:04,660 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:04,793 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:04,935 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:05,065 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:05,200 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:05,351 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:05,497 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:05,673 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:05,800 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:05,946 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:06,089 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:06,232 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:06,370 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:06,498 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:06,626 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:06,758 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:06,905 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:07,038 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:07,189 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:07,313 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:40:07,446 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-29 22:40:07,446 INFO     [u'unchurch', u'displease', u'force back', u'dishonor', u'move', u'grammatical category', u'psyche', u'disturbance', u'give tongue to', u'surpass', u'shake', u'touch', u'misconduct', u'hate', u'trouble', u'geological phenomenon', u'conjure', u'impact', u'uprising', u'nemesis', u'final decision', u'rouse', u'swearword', u'spirit', u'being', u'shout', u'maledict', u'bear upon', u'disgust', u'wrongful conduct', u'ado', u'dislike', u'black music', u'brace', u'alter', u'hurly burly', u'physical body', u'rise up', u'cuss', u'someone', u'somebody', u'invoke', u'get', u'flesh', u'express', u'displace', u'constituent', u'bane', u'kerfuffle', u'push back', u'bustle', u'belittle', u'affect', u'disturb', u'physical object', u'magic spell', u'put down', u'condition', u'gospel singing', u'African-American music', u'din', u'commove', u'abhorrence', u'outperform', u'wind up', u'call down', u'disapprobation', u'come down', u'have', u'swear', u'touch on', u'outdo', u'disparage', u'perk up', u'beshrew', u'syntactic category', u'exceed', u'force', u'battle', u'soma', u'set up', u'frame', u'affliction', u'denouncement', u'agitate', u'sex', u'freeze off', u'individual', u'blaspheme', u'energize', u'utter', u'hoo-hah', u'drive back', u'loathing', u'evildoing', u'misfortune', u'curse', u'worsen', u'defend', u'physical entity', u'induce', u'verbalize', u'content', u'outgo', u'tendency', u'physique', u'detestation', u'scorn', u'human body', u'cause', u'inclination', u'speech act', u'be', u'shut', u'chassis', u'decline', u'fight back', u'commotion', u'modify', u'mental object', u'whammy', u'shape', u'detest', u'hoo-ha', u'rebel', u'disposition', u'bring up', u'gospel', u'change', u'clapperclaw', u'pity', u'final judgment', u'hasten', u'execration', u'conviction', u'disdain', u'profanity', u'flurry', u'sicken', u'enkindle', u'denunciation', u'oppose', u'evoke', u'rumpus', u'mortal', u'action', u'hatred', u'judgment of conviction', u'fight down', u'stimulate', u'excommunicate', u'emotion', u'magical spell', u'swearing', u'call forth', u'figure', u'sentence', u'attaint', u'expletive', u'curse word', u'harm', u'build', u'nauseate', u'struggle', u'obligate', u'rising', u'sensitize', u'snub', u'mortify', u'anathemize', u'surmount', u'shake up', u'abase', u'imprecate', u'sensitise', u'raise', u'shut out', u'create', u'hex', u'charge', u'disapproval', u'fight', u'splash', u'wrongdoing', u'outmatch', u'strike', u'tumult', u'freak', u'turn on', u'soulfulness', u'jinx', u'insurrection', u'arise', u'turn down', u'form', u'chagrin', u'fire', u'excite', u'disruption', u'degrade', u'grammatical constituent', u'disfavor', u'ignominy', u'blackguard', u'keep out', u'conjure up', u'rebuff', u'humiliate', u'causal agency', u'cognitive content', u'spurn', u'rejection', u'target', u'challenge', u'work', u'material body', u'soul', u'aim', u'transgression', u'bad luck', u'shift', u'kindle', u'charge up', u'feeling', u'oath', u'repulse', u'disgrace', u'bear on', u'freak out', u'agitation', u'upset', u'ruckus', u'abomination', u'disapprove', u"turn one's stomach", u'drive', u'shame', u'elicit', u'pooh-pooh', u'torment', u'outstrip', u'exclude', u'fight off', u'provoke', u'conflict', u'spell', u'put forward', u'end', u'goal', u'make', u'compel', u'rebellion', u'discredit', u'repel', u'bedamn', u'reject', u'objective', u'verbalise', u'stir', u'disfavour', u'status', u'gross out', u'to-do', u'condemnation', u'beat back', u'fuss', u'flutter', u'oblige', u'impress', u'object', u'effect', u'anatomy', u'dishonour', u'abuse', u'charm', u'bod', u'ruction', u'energise', u'embodiment', u'take down', u'panic', u'causal agent', u'hustle', u'effectuate', u'odium', u'arouse', u'actus reus', u'scourge', u'churn up', u'humble', u'revolt', u'pick at', u'anathemise', u'budge', u'person', u'demean', u'rise', u'push', u'organism', u'rush']
+2016-08-29 22:40:07,446 INFO     =====END FLAT LIST=====
+2016-08-29 22:40:07,447 INFO     Length of list is:
+2016-08-29 22:40:07,447 INFO     565
+2016-08-29 22:40:07,447 INFO     Length of setlist is:
+2016-08-29 22:40:07,447 INFO     300
+2016-08-29 22:40:07,447 INFO     ***************************
+2016-08-29 22:40:07,449 INFO     127.0.0.1 - - [29/Aug/2016 22:40:07] "POST /corpus/y HTTP/1.1" 200 -

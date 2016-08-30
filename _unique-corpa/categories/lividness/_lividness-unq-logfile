@@ -1,0 +1,90 @@
+2016-08-29 22:39:13,307 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-29 22:39:13,308 INFO      * Restarting with stat
+2016-08-29 22:39:13,557 WARNING   * Debugger is active!
+2016-08-29 22:39:13,561 INFO      * Debugger pin code: 294-815-374
+2016-08-29 22:39:22,613 INFO     ***************************
+2016-08-29 22:39:22,613 INFO     List is in the following mongo collection:
+2016-08-29 22:39:22,613 INFO     lividness-corpus-only-syn-unq-order-1
+2016-08-29 22:39:22,620 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:22,744 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-29 22:39:22,744 INFO     [u'pallor', u'lividity', u'skin color', u'achromasia', u'skin colour', u'luridness', u'complexion', u'wanness', u'paleness', u'pallidness']
+2016-08-29 22:39:22,744 INFO     =====END FLAT LIST=====
+2016-08-29 22:39:22,744 INFO     Length of list is:
+2016-08-29 22:39:22,744 INFO     10
+2016-08-29 22:39:22,744 INFO     Length of setlist is:
+2016-08-29 22:39:22,744 INFO     10
+2016-08-29 22:39:22,745 INFO     ***************************
+2016-08-29 22:39:22,745 INFO     ***************************
+2016-08-29 22:39:22,745 INFO     List is in the following mongo collection:
+2016-08-29 22:39:22,745 INFO     lividness-corpus-only-syn-unq-order-2
+2016-08-29 22:39:22,746 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:22,871 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:22,997 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:23,124 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:23,250 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:23,378 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:23,501 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:23,648 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:23,776 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:23,901 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:24,028 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-29 22:39:24,029 INFO     [u'lividity', u'madness', u'achromasia', u'fury', u'gruesomeness', u'ghastliness', u'fairness', u'touch', u'paleness', u'pallidness', u'pallor', u'point of view', u'coloring', u'viewpoint', u'journalese', u'color', u'complexion', u'color property', u'wanness', u'grimness', u'lividness', u'sensationalism', u'blondness', u'skin color', u'combination', u'nature', u'tint', u'visual aspect', u'colouring', u'standpoint', u'frightfulness', u'skin condition', u'tinct', u'skin colour', u'pallidity', u'rage', u'colour', u'appearance', u'luridness', u'stand', u'tinge']
+2016-08-29 22:39:24,029 INFO     =====END FLAT LIST=====
+2016-08-29 22:39:24,029 INFO     Length of list is:
+2016-08-29 22:39:24,029 INFO     114
+2016-08-29 22:39:24,029 INFO     Length of setlist is:
+2016-08-29 22:39:24,029 INFO     41
+2016-08-29 22:39:24,029 INFO     ***************************
+2016-08-29 22:39:24,029 INFO     ***************************
+2016-08-29 22:39:24,029 INFO     List is in the following mongo collection:
+2016-08-29 22:39:24,029 INFO     lividness-corpus-only-syn-unq-order-3
+2016-08-29 22:39:24,031 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:24,165 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:24,311 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:24,436 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:24,571 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:24,694 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:24,817 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:24,958 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:25,098 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:25,222 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:25,345 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:25,469 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:25,594 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:25,728 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:25,854 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:25,982 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:26,105 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:26,224 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:26,348 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:26,471 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:26,595 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:26,714 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:26,837 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:26,961 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:27,099 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:27,244 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:27,378 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:27,502 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:27,628 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:27,755 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:27,880 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:28,014 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:28,140 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:28,269 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:28,404 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:28,529 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:28,660 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:28,791 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:28,926 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:29,053 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:29,177 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:39:29,300 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-29 22:39:29,300 INFO     [u'visual property', u'proposition', u'fairness', u'people of colour', u'effort', u'mental representation', u'adjoin', u'stick out', u'distort', u'rabidness', u'mania', u'affect', u'skin condition', u'fad', u'posture', u'disturb', u'pinch', u'deftness', u'race', u'cutaneous senses', u'pass judgment', u'accumulation', u'assemblage', u'speck', u'appearance', u'booth', u'layover', u'paleness', u'defence', u'tactile property', u'touch sensation', u'proffer', u'tie-up', u'pose', u'stance', u'modify', u'let', u'cult', u'change', u'vividness', u'skin colour', u'substance', u'attending', u'foolishness', u'colouration', u'suggestion', u'permit', u'hydrophobia', u'touch modality', u'adroitness', u'vie', u'manage', u'gruesomeness', u'intensiveness', u'unit', u'subject matter', u'attendance', u'gloss', u'rationalise', u'strike', u'furor', u'tactual sensation', u'type', u'lividness', u'sort', u'trait', u'partake', u'impress', u'excuse', u'frenzy', u'food colouring', u'tolerate', u'pretense', u'flora', u'work', u'ebullience', u'coalition', u'change of color', u'remain', u'meet', u'justness', u'craze', u'visual aspect', u'stupidity', u'place', u'stir', u'blondness', u'beauty', u'communicating', u'beauteousness', u'spot', u'collection', u'lay', u'stand firm', u'rationalize', u'Fury', u'shade', u'representation', u'fair-mindedness', u'serve', u'move', u'foodstuff', u'rigorousness', u'existence', u'comeliness', u'suffer', u'spatial relation', u'digest', u'style', u'brook', u'stopover', u'comprehend', u'awfulness', u'take in', u'alter', u'put up', u'halt', u'combination', u'material', u'touching', u'skin problem', u'mode', u'touch on', u'achromasia', u'skin disease', u'combining', u'operation', u'colourize', u'hysteria', u'contend', u'Eumenides', u'defend', u'philosophical doctrine', u'abide', u'content', u'candour', u'small indefinite amount', u'compounding', u'cause', u'perception', u'skin disorder', u'come to', u'difficulty', u'base', u'furore', u'put', u'care', u'colour in', u'small indefinite quantity', u'rack', u'oppose', u'signature', u'change of integrity', u'botany', u'lividity', u'striking', u'feel', u'relate', u'message', u'quality', u'occurrence', u'philosophical theory', u'service', u'Erinyes', u'remain firm', u'attack', u'storm', u'ferocity', u'terribleness', u'stomach', u'apologise', u'embellish', u'expressive style', u'grace', u'kind', u'pallidity', u'grimness', u'folly', u'food product', u'discolor', u'stall', u'endure', u'insaneness', u'feeling', u'fashion', u'mathematical process', u'manner', u'have', u'anger', u'outdoor stage', u'coloring material', u'pallor', u'colorise', u'take', u'wanness', u'vegetation', u'hardship', u'allow', u'trace', u'zoonotic disease', u'reach', u'insanity', u'rigor', u'sensualism', u'rigourousness', u'tinct', u'disease', u'tincture', u'show', u'mythical monster', u'feat', u'impact', u'fend', u'coloring', u'craziness', u'justice', u'journalese', u'fight down', u'color property', u'equity', u'enthusiasm', u'do', u'empiricist philosophy', u'handle', u'viewpoint', u'severeness', u'impinging', u'stop', u'perceive', u'bear', u'pretending', u'horridness', u'stuff', u'rival', u'withstand', u'loveliness', u'set', u'pedestal', u'resist', u'intensity', u'defense', u'asperity', u'concern', u'mathematical operation', u'ornament', u'fierceness', u'beautify', u'complexion', u'social unit', u'ire', u'arrival', u'candor', u'jot', u'colouring material', u'nature', u'countenance', u'alinement', u'pertain', u'ramp', u'equal', u'soupcon', u'delirium', u'tinge', u'madness', u'consume', u'color', u'exploit', u'table', u'skin senses', u'tint', u'platform', u'advert', u'coming into court', u'interest', u'disease of the skin', u'food colour', u'understand', u'sense of touch', u'vantage point', u'pretence', u'rigour', u'natural event', u'discolour', u'bear upon', u'color in', u'ghastliness', u'deed', u'choler', u'severity', u'suggest', u'exuberance', u'zoonosis', u'rabidity', u'occurrent', u'colouring', u'lyssa', u'exteroception', u'vantage', u'timbre', u'colour', u'difficultness', u'contact', u'position', u'justify', u'emblazon', u'rest', u'touch', u'tone', u'pallidness', u'alignment', u'timber', u'point of view', u'hint', u'empiricism', u'allude', u'food coloring', u'match', u'somatosense', u'evaluate', u'aggregation', u'quickness', u'judge', u'world', u'lunacy', u'desire', u'appearing', u'continue', u'deal', u'sequence', u'tiered seat', u'creation', u'furiousness', u'extend to', u'sales booth', u'interestingness', u'behave', u'passion', u'refer', u'be', u'sensationalism', u'act upon', u'dreadfulness', u'fight back', u'hold out', u'angriness', u'macrocosm', u'standpoint', u'mite', u'feigning', u'universe', u'violence', u'tactile sensation', u'ingest', u'simulation', u'colourise', u'stand', u'people of color', u'act', u'impartiality', u'facility', u'communication', u'apologize', u'colorize', u'adeptness', u'support', u'fight', u'standstill', u'vehemence', u'way', u'form', u'internal representation', u'stand up', u'alliance', u'causal agency', u'rage', u'luridness', u'decorate', u'cosmos', u'adorn', u'fury', u'measure', u'influence', u'bear on', u'nonpartisanship', u'manic disorder', u'solicitation', u'variety', u'defensive measure', u'compete', u'bandstand', u'place upright', u'semblance', u'rabies', u'stay', u'frightfulness', u'causal agent', u'coloration', u'ghost', u'undertone', u'happening', u'food color', u'wildness', u'skin color', u'mythical creature']
+2016-08-29 22:39:29,300 INFO     =====END FLAT LIST=====
+2016-08-29 22:39:29,301 INFO     Length of list is:
+2016-08-29 22:39:29,301 INFO     733
+2016-08-29 22:39:29,301 INFO     Length of setlist is:
+2016-08-29 22:39:29,301 INFO     404
+2016-08-29 22:39:29,301 INFO     ***************************
+2016-08-29 22:39:29,303 INFO     127.0.0.1 - - [29/Aug/2016 22:39:29] "POST /corpus/y HTTP/1.1" 200 -

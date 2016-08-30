@@ -1,0 +1,55 @@
+2016-08-29 22:43:19,451 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-29 22:43:19,452 INFO      * Restarting with stat
+2016-08-29 22:43:19,717 WARNING   * Debugger is active!
+2016-08-29 22:43:19,723 INFO      * Debugger pin code: 294-815-374
+2016-08-29 22:43:30,970 INFO     ***************************
+2016-08-29 22:43:30,971 INFO     List is in the following mongo collection:
+2016-08-29 22:43:30,971 INFO     merriness-corpus-only-syn-unq-order-1
+2016-08-29 22:43:30,979 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:31,107 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-29 22:43:31,107 INFO     [u'jocoseness', u'humorousness', u'jocosity', u'levity']
+2016-08-29 22:43:31,107 INFO     =====END FLAT LIST=====
+2016-08-29 22:43:31,107 INFO     Length of list is:
+2016-08-29 22:43:31,107 INFO     4
+2016-08-29 22:43:31,107 INFO     Length of setlist is:
+2016-08-29 22:43:31,107 INFO     4
+2016-08-29 22:43:31,108 INFO     ***************************
+2016-08-29 22:43:31,108 INFO     ***************************
+2016-08-29 22:43:31,108 INFO     List is in the following mongo collection:
+2016-08-29 22:43:31,108 INFO     merriness-corpus-only-syn-unq-order-2
+2016-08-29 22:43:31,109 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:31,237 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:31,360 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:31,493 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:31,617 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-29 22:43:31,618 INFO     [u'jocularity', u'play', u'feeling', u'humorousness', u'jocosity', u'frivolousness', u'frivolity', u'merriness', u'fun', u'sport', u'jocoseness', u'levity']
+2016-08-29 22:43:31,618 INFO     =====END FLAT LIST=====
+2016-08-29 22:43:31,618 INFO     Length of list is:
+2016-08-29 22:43:31,618 INFO     19
+2016-08-29 22:43:31,618 INFO     Length of setlist is:
+2016-08-29 22:43:31,618 INFO     12
+2016-08-29 22:43:31,619 INFO     ***************************
+2016-08-29 22:43:31,619 INFO     ***************************
+2016-08-29 22:43:31,619 INFO     List is in the following mongo collection:
+2016-08-29 22:43:31,619 INFO     merriness-corpus-only-syn-unq-order-3
+2016-08-29 22:43:31,622 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:31,751 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:31,877 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:31,998 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:32,118 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:32,242 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:32,378 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:32,510 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:32,627 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:32,749 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:32,874 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:32,992 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:43:33,115 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-29 22:43:33,116 INFO     [u'represent', u'atmosphere', u'endeavour', u'consider', u'show', u'being', u'move', u'intuition', u'feature', u'bring', u'go', u'tone', u'flavor', u'jock', u'trifle', u'skylark', u'cavort', u'craziness', u'tomfoolery', u'wreak', u'shimmer', u're-create', u'manoeuvre', u'dramatic composition', u'usage', u'mutation', u'do', u'frivolousness', u'hit', u'beat', u'bid', u'displace', u'make for', u'tucker', u'lunacy', u'encounter', u'recreation', u'trivia', u'foolery', u'lark about', u'vacationist', u'plan of action', u'alteration', u'try', u'someone', u'tucker out', u'gamble', u'activity', u'athletics', u'jocoseness', u'free rein', u'somaesthesia', u'folly', u'deal', u'gaming', u'act as', u'ambiance', u'idea', u'sportsman', u'touch', u'individual', u'line of work', u'measure', u'sport', u'employment', u'contend', u'employ', u'humor', u'playfulness', u'vacationer', u'diddle', u'touch sensation', u'behave', u'intuitive feeling', u'lark', u'fiddle', u'occupation', u'movableness', u'exercise', u'movement', u'maneuver', u'perception', u'run', u'belief', u'business', u'state', u'harlequinade', u'movability', u'spiel', u'job', u'vice', u'witticism', u'dally', u'playact', u'change', u'tactual sensation', u'looseness', u'rollick', u'boast', u'joke', u'triviality', u'tactile sensation', u'drama', u'turn', u'amount', u'run around', u'gambol', u'act', u'action', u'wittiness', u'merriness', u'feign', u'impression', u'humour', u'vie', u'feel', u'recreate', u'utilisation', u'gaiety', u'exploit', u'wit', u'apply', u'endeavor', u'wager', u'manipulate', u'prank', u'use', u'toy', u'fluff', u'utilization', u'create', u'bagatelle', u'frisk', u'somatic sensation', u'humorousness', u'small beer', u'trait', u'period of play', u'mutant', u'merriment', u'opinion', u'ambience', u'locomote', u'simulate', u'playing period', u'line', u'summercater', u'effort', u'spirit', u'sound', u'flavour', u'look', u'disport', u'athlete', u'work', u'soul', u'flirt', u'frivolity', u'somatesthesia', u'freedom', u'fun', u'meet', u'somesthesia', u'feeling', u'bet', u'buffoonery', u'indulgence', u'have', u'take on', u'jocundity', u'wash up', u'japery', u'jest', u'somebody', u'swordplay', u'levity', u'motion', u'jocosity', u'perform', u'make', u'utilize', u'activeness', u'take', u'modification', u'gambling', u'frolic', u'smell', u'roleplay', u'sham', u'exhaust', u'play', u'utilise', u'deploy', u'look at', u'variation', u'mortal', u'diversion', u'dramatic work', u'discharge', u'frippery', u'jocularity', u'attempt', u'romp', u'caper', u'assume', u'sportswoman', u'clowning', u'notion', u'thought', u'person', u'compete', u'quantity', u'organism', u"child's play", u'dramatic play', u'travel']
+2016-08-29 22:43:33,116 INFO     =====END FLAT LIST=====
+2016-08-29 22:43:33,116 INFO     Length of list is:
+2016-08-29 22:43:33,116 INFO     268
+2016-08-29 22:43:33,116 INFO     Length of setlist is:
+2016-08-29 22:43:33,117 INFO     216
+2016-08-29 22:43:33,117 INFO     ***************************
+2016-08-29 22:43:33,118 INFO     127.0.0.1 - - [29/Aug/2016 22:43:33] "POST /corpus/y HTTP/1.1" 200 -
