@@ -1,0 +1,55 @@
+2016-08-29 22:44:17,689 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-29 22:44:17,690 INFO      * Restarting with stat
+2016-08-29 22:44:17,934 WARNING   * Debugger is active!
+2016-08-29 22:44:17,940 INFO      * Debugger pin code: 294-815-374
+2016-08-29 22:44:23,947 INFO     ***************************
+2016-08-29 22:44:23,947 INFO     List is in the following mongo collection:
+2016-08-29 22:44:23,947 INFO     mournfulness-corpus-only-syn-unq-order-1
+2016-08-29 22:44:23,959 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:24,083 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-29 22:44:24,083 INFO     [u'sorrow', u'ruthfulness', u'sorrowfulness']
+2016-08-29 22:44:24,083 INFO     =====END FLAT LIST=====
+2016-08-29 22:44:24,084 INFO     Length of list is:
+2016-08-29 22:44:24,084 INFO     3
+2016-08-29 22:44:24,084 INFO     Length of setlist is:
+2016-08-29 22:44:24,084 INFO     3
+2016-08-29 22:44:24,084 INFO     ***************************
+2016-08-29 22:44:24,084 INFO     ***************************
+2016-08-29 22:44:24,084 INFO     List is in the following mongo collection:
+2016-08-29 22:44:24,085 INFO     mournfulness-corpus-only-syn-unq-order-2
+2016-08-29 22:44:24,088 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:24,219 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:24,344 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:24,464 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-29 22:44:24,464 INFO     [u'negative stimulus', u'mournfulness', u'regret', u'ruefulness', u'grieve', u'sorrowfulness', u'rue', u'grief', u'sadness', u'ruthfulness', u'suffer', u'sorrow', u'unhappiness']
+2016-08-29 22:44:24,464 INFO     =====END FLAT LIST=====
+2016-08-29 22:44:24,465 INFO     Length of list is:
+2016-08-29 22:44:24,465 INFO     18
+2016-08-29 22:44:24,465 INFO     Length of setlist is:
+2016-08-29 22:44:24,465 INFO     13
+2016-08-29 22:44:24,465 INFO     ***************************
+2016-08-29 22:44:24,465 INFO     ***************************
+2016-08-29 22:44:24,466 INFO     List is in the following mongo collection:
+2016-08-29 22:44:24,466 INFO     mournfulness-corpus-only-syn-unq-order-3
+2016-08-29 22:44:24,469 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:24,591 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:24,716 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:24,853 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:24,975 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:25,104 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:25,226 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:25,352 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:25,477 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:25,609 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:25,738 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:25,861 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:25,989 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-29 22:44:26,110 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-29 22:44:26,111 INFO     [u'ruthfulness', u'regret', u'afflict', u'undergo', u'feel', u'lean', u'ruefulness', u'uncheerfulness', u'sorrowfulness', u'brokenheartedness', u'street', u'abide', u'have', u'put up', u'gloominess', u'suffer', u'miss', u'herbaceous plant', u'unhappiness', u'heartache', u'decline', u'let', u'worsen', u'grieve', u'support', u'brook', u'repent', u'comprehend', u'stimulation', u'tend', u'run', u'heartbreak', u'sustain', u'digest', u'input', u'go through', u'stimulant', u'stand', u'be', u'negative stimulus', u'mournfulness', u'stomach', u'stick out', u'see', u'get', u'herb', u'sorrow', u'permit', u'emotional state', u'perceive', u'bear', u'rue', u'grief', u'countenance', u'be given', u'aggrieve', u'ache', u'hurt', u'spirit', u'refuse', u'feeling', u'incline', u'stimulus', u'tolerate', u'herb of grace', u'experience', u'inform', u'sadness', u'endure', u'allow', u'lose', u'meet', u'lugubriousness', u'Ruta graveolens', u'receive']
+2016-08-29 22:44:26,111 INFO     =====END FLAT LIST=====
+2016-08-29 22:44:26,111 INFO     Length of list is:
+2016-08-29 22:44:26,111 INFO     115
+2016-08-29 22:44:26,111 INFO     Length of setlist is:
+2016-08-29 22:44:26,111 INFO     75
+2016-08-29 22:44:26,112 INFO     ***************************
+2016-08-29 22:44:26,113 INFO     127.0.0.1 - - [29/Aug/2016 22:44:26] "POST /corpus/y HTTP/1.1" 200 -
