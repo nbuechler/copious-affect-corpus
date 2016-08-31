@@ -1,0 +1,71 @@
+2016-08-30 22:50:08,090 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-30 22:50:08,090 INFO      * Restarting with stat
+2016-08-30 22:50:08,334 WARNING   * Debugger is active!
+2016-08-30 22:50:08,339 INFO      * Debugger pin code: 294-815-374
+2016-08-30 22:50:11,231 INFO     ***************************
+2016-08-30 22:50:11,231 INFO     List is in the following mongo collection:
+2016-08-30 22:50:11,232 INFO     openness-corpus-only-syn-unq-order-1
+2016-08-30 22:50:11,241 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:11,371 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-30 22:50:11,371 INFO     [u'willingness', u'spatial arrangement', u'nakedness', u'spacing', u'sociableness', u'receptiveness', u'receptivity', u'sociability']
+2016-08-30 22:50:11,371 INFO     =====END FLAT LIST=====
+2016-08-30 22:50:11,371 INFO     Length of list is:
+2016-08-30 22:50:11,371 INFO     8
+2016-08-30 22:50:11,371 INFO     Length of setlist is:
+2016-08-30 22:50:11,371 INFO     8
+2016-08-30 22:50:11,371 INFO     ***************************
+2016-08-30 22:50:11,372 INFO     ***************************
+2016-08-30 22:50:11,372 INFO     List is in the following mongo collection:
+2016-08-30 22:50:11,372 INFO     openness-corpus-only-syn-unq-order-2
+2016-08-30 22:50:11,373 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:11,498 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:11,622 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:11,748 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:11,872 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:11,997 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:12,117 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:12,241 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:12,381 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-30 22:50:12,381 INFO     [u'nudeness', u'willingness', u'nudity', u'bleakness', u'sociableness', u'bareness', u'rate', u'receptiveness', u'openness', u'gloominess', u'glumness', u'arrangement', u'sociality', u'status', u'spatial arrangement', u'desolation', u'spacing', u'disposition', u'temperament', u'receptivity', u'sociability', u'condition', u'gloom', u'placement']
+2016-08-30 22:50:12,382 INFO     =====END FLAT LIST=====
+2016-08-30 22:50:12,382 INFO     Length of list is:
+2016-08-30 22:50:12,382 INFO     32
+2016-08-30 22:50:12,382 INFO     Length of setlist is:
+2016-08-30 22:50:12,382 INFO     24
+2016-08-30 22:50:12,382 INFO     ***************************
+2016-08-30 22:50:12,382 INFO     ***************************
+2016-08-30 22:50:12,383 INFO     List is in the following mongo collection:
+2016-08-30 22:50:12,383 INFO     openness-corpus-only-syn-unq-order-3
+2016-08-30 22:50:12,386 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:12,508 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:12,625 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:12,745 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:12,872 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:12,994 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:13,117 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:13,267 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:13,451 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:13,623 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:13,804 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:13,933 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:14,055 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:14,201 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:14,335 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:14,449 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:14,576 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:14,725 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:14,845 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:14,967 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:15,089 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:15,219 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:15,343 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:15,476 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:15,598 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-30 22:50:15,598 INFO     [u'atmosphere', u'musical composition', u'experimental condition', u'precondition', u'sociability', u'bareness', u'attitude', u'planning', u'receptiveness', u'adjustment', u'spatial relation', u'tendency', u'discipline', u'group', u'plainness', u'organisation', u'proportion', u'make grow', u'better', u'charge', u'location', u'ambience', u'instruct', u'sociality', u'spatial arrangement', u'evaluate', u'stipulate', u'uncheerfulness', u'semidarkness', u'judge', u'sociableness', u'provision', u'somberness', u'condition', u'gloom', u'term', u'loneliness', u'readjustment', u'amend', u'activity', u'pass judgment', u'grouping', u'premiss', u'nudeness', u'nakedness', u'registration', u'magnitude relation', u'stipulation', u'rate', u'undertake', u'measure', u'ameliorate', u'gloominess', u'starkness', u'good health', u'glumness', u'feat', u'circumstance', u'emplacement', u'shape', u'state', u'inclination', u'forlornness', u'be', u'melancholy', u'nature', u'spacing', u'agreement', u'qualify', u'disposition', u'consideration', u'moroseness', u'improve', u'sombreness', u'positioning', u'contract', u'range', u'place', u'disposal', u'locating', u'ruin', u'ruination', u'premise', u'grade', u'bleakness', u'rank', u'assess', u'exploit', u'quantitative relation', u'receptivity', u'openness', u'teach', u'unhappiness', u'devastation', u'temporal property', u'system', u'opus', u'assumption', u'statement', u'meliorate', u'moodiness', u'musical arrangement', u'ambiance', u'train', u'charge per unit', u'temperament', u'arranging', u'effort', u'specify', u'apprehension', u'shampoo', u'value', u'preparation', u'pace', u'sadness', u'learn', u'lugubriousness', u'piece', u'procedure', u'appraise', u'willingness', u'process', u'nudity', u'piece of music', u'healthiness', u'deed', u'property', u'check', u'information', u'develop', u'transcription', u'composing', u'arrangement', u'mental attitude', u'impairment', u'composition', u'status', u'valuate', u'desolation', u'organization', u'apprehensiveness', u'structure', u'placement', u'emotionality', u'contact', u'dread', u'deterioration', u'emotionalism', u'position', u'sullenness', u'order']
+2016-08-30 22:50:15,599 INFO     =====END FLAT LIST=====
+2016-08-30 22:50:15,599 INFO     Length of list is:
+2016-08-30 22:50:15,599 INFO     212
+2016-08-30 22:50:15,599 INFO     Length of setlist is:
+2016-08-30 22:50:15,599 INFO     151
+2016-08-30 22:50:15,599 INFO     ***************************
+2016-08-30 22:50:15,601 INFO     127.0.0.1 - - [30/Aug/2016 22:50:15] "POST /corpus/y HTTP/1.1" 200 -

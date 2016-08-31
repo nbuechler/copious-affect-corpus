@@ -1,0 +1,87 @@
+2016-08-30 22:39:17,763 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-30 22:39:17,765 INFO      * Restarting with stat
+2016-08-30 22:39:18,029 WARNING   * Debugger is active!
+2016-08-30 22:39:18,034 INFO      * Debugger pin code: 294-815-374
+2016-08-30 22:40:23,312 INFO     ***************************
+2016-08-30 22:40:23,312 INFO     List is in the following mongo collection:
+2016-08-30 22:40:23,312 INFO     nervous-corpus-only-syn-unq-order-1
+2016-08-30 22:40:23,321 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:40:23,530 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-30 22:40:23,530 INFO     []
+2016-08-30 22:40:23,530 INFO     =====END FLAT LIST=====
+2016-08-30 22:40:23,530 INFO     Length of list is:
+2016-08-30 22:40:23,530 INFO     0
+2016-08-30 22:40:23,531 INFO     Length of setlist is:
+2016-08-30 22:40:23,531 INFO     0
+2016-08-30 22:40:23,531 INFO     ***************************
+2016-08-30 22:40:23,531 INFO     ***************************
+2016-08-30 22:40:23,531 INFO     List is in the following mongo collection:
+2016-08-30 22:40:23,531 INFO     nervous-corpus-only-syn-unq-order-2
+2016-08-30 22:40:23,532 INFO     ***************************
+2016-08-30 22:40:23,532 INFO     List is in the following mongo collection:
+2016-08-30 22:40:23,532 INFO     nervous-corpus-only-syn-unq-order-3
+2016-08-30 22:40:23,533 INFO     127.0.0.1 - - [30/Aug/2016 22:40:23] "POST /corpus/y HTTP/1.1" 200 -
+2016-08-30 22:42:37,836 INFO     ***************************
+2016-08-30 22:42:37,836 INFO     List is in the following mongo collection:
+2016-08-30 22:42:37,836 INFO     neutrality-corpus-only-syn-unq-order-1
+2016-08-30 22:42:37,838 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:37,983 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-30 22:42:37,983 INFO     [u'pH scale', u'disinterest', u'non-engagement', u'non-involvement', u'nonparticipation', u'pH', u'tolerance']
+2016-08-30 22:42:37,983 INFO     =====END FLAT LIST=====
+2016-08-30 22:42:37,983 INFO     Length of list is:
+2016-08-30 22:42:37,983 INFO     7
+2016-08-30 22:42:37,983 INFO     Length of setlist is:
+2016-08-30 22:42:37,984 INFO     7
+2016-08-30 22:42:37,984 INFO     ***************************
+2016-08-30 22:42:37,984 INFO     ***************************
+2016-08-30 22:42:37,984 INFO     List is in the following mongo collection:
+2016-08-30 22:42:37,984 INFO     neutrality-corpus-only-syn-unq-order-2
+2016-08-30 22:42:37,988 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:38,131 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:38,261 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:38,385 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:38,534 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:38,654 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:38,776 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:38,901 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-30 22:42:38,901 INFO     [u'discrepancy', u'hydrogen ion concentration', u'neutrality', u'attitude', u'leeway', u'nonparticipation', u'pH', u'permissiveness', u'endurance', u'non-engagement', u'mental attitude', u'tolerance', u'divergence', u'disagreement', u'group action', u'disposition', u'temperament', u'pH scale', u'non-involvement', u'variance', u'margin', u'allowance']
+2016-08-30 22:42:38,901 INFO     =====END FLAT LIST=====
+2016-08-30 22:42:38,901 INFO     Length of list is:
+2016-08-30 22:42:38,901 INFO     30
+2016-08-30 22:42:38,902 INFO     Length of setlist is:
+2016-08-30 22:42:38,902 INFO     22
+2016-08-30 22:42:38,902 INFO     ***************************
+2016-08-30 22:42:38,902 INFO     ***************************
+2016-08-30 22:42:38,902 INFO     List is in the following mongo collection:
+2016-08-30 22:42:38,902 INFO     neutrality-corpus-only-syn-unq-order-3
+2016-08-30 22:42:38,906 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:39,037 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:39,162 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:39,282 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:39,406 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:39,540 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:39,672 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:39,803 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:39,926 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:40,052 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:40,184 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:40,304 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:40,428 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:40,554 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:40,677 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:40,802 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:40,936 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:41,057 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:41,176 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:41,305 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:41,431 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:41,559 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:42:41,684 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-30 22:42:41,684 INFO     [u'discord', u'non-involvement', u'leeway', u'changeableness', u'adjustment', u'feat', u'tendency', u'knowledge', u'disposal', u'allowance account', u'down payment', u'affectedness', u'division', u'permission', u'survival', u'disagreement', u'variableness', u'difference', u'net', u'posture', u'reserve fund', u'cognition', u'readjustment', u'activity', u'valuation account', u'deviation', u'security deposit', u'series', u'strip', u'valuation reserve', u'affectation', u'event', u'living', u'pH scale', u'space', u'profit', u'attitude', u'noesis', u'boundary', u'blank space', u'tolerance', u'inclination', u'speech act', u'variability', u'nature', u'variant', u'pose', u'divergence', u'divergency', u'net income', u'disposition', u'bodily property', u'license', u'mannerism', u'amount', u'place', u'recompense', u'act', u'variance', u'allowance', u'separation', u'human activity', u'bound', u'hydrogen ion concentration', u'exploit', u'registration', u'nonparticipation', u'pH', u'gross profit margin', u'dissonance', u'disinterest', u'non-engagement', u'percentage', u'life', u'dissension', u'part', u'gross profit', u'temperament', u'effort', u'human action', u'property', u'margin', u'orientation', u'changeability', u'fluctuation', u'share', u'discrepancy', u'reserve account', u'net profit', u'slip', u'dispensation', u'deed', u'border', u'concentration', u'strength', u'grant', u'emotionalism', u'endurance', u'animation', u'earnings', u'mental attitude', u'conflict', u'perimeter', u'lucre', u'permit', u'drift', u'variation', u'moment', u'reimbursement', u'permissiveness', u'emotionality', u'departure', u'portion', u'edge', u'deposit', u'allow', u'position', u'aliveness', u'profits', u'group action']
+2016-08-30 22:42:41,684 INFO     =====END FLAT LIST=====
+2016-08-30 22:42:41,684 INFO     Length of list is:
+2016-08-30 22:42:41,684 INFO     190
+2016-08-30 22:42:41,684 INFO     Length of setlist is:
+2016-08-30 22:42:41,684 INFO     120
+2016-08-30 22:42:41,684 INFO     ***************************
+2016-08-30 22:42:41,684 INFO     127.0.0.1 - - [30/Aug/2016 22:42:41] "POST /corpus/y HTTP/1.1" 200 -

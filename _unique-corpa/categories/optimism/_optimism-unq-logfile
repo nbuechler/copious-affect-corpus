@@ -1,0 +1,87 @@
+2016-08-30 22:50:43,538 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-30 22:50:43,539 INFO      * Restarting with stat
+2016-08-30 22:50:43,790 WARNING   * Debugger is active!
+2016-08-30 22:50:43,795 INFO      * Debugger pin code: 294-815-374
+2016-08-30 22:50:56,718 INFO     ***************************
+2016-08-30 22:50:56,718 INFO     List is in the following mongo collection:
+2016-08-30 22:50:56,718 INFO     optimism-corpus-only-syn-unq-order-1
+2016-08-30 22:50:56,729 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:56,856 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-30 22:50:56,856 INFO     [u'hope', u'disposition', u'temperament']
+2016-08-30 22:50:56,856 INFO     =====END FLAT LIST=====
+2016-08-30 22:50:56,857 INFO     Length of list is:
+2016-08-30 22:50:56,857 INFO     3
+2016-08-30 22:50:56,857 INFO     Length of setlist is:
+2016-08-30 22:50:56,857 INFO     3
+2016-08-30 22:50:56,857 INFO     ***************************
+2016-08-30 22:50:56,857 INFO     ***************************
+2016-08-30 22:50:56,857 INFO     List is in the following mongo collection:
+2016-08-30 22:50:56,858 INFO     optimism-corpus-only-syn-unq-order-2
+2016-08-30 22:50:56,860 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:57,007 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:57,136 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:57,256 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-30 22:50:57,257 INFO     [u'expectancy', u'prospect', u'outlook', u'exploit', u'deed', u'attitude', u'individual', u'promise', u'want', u'registration', u'comic', u'trust', u'feat', u'inclination', u'Hope', u'emotionalism', u'anticipation', u'disposal', u'tendency', u'mental attitude', u'be after', u'Bob Hope', u'readjustment', u'someone', u'somebody', u'nature', u'expectation', u'Leslie Townes Hope', u'plan', u'disposition', u'temperament', u'effort', u'desire', u'property', u'emotionality', u'wish', u'soul', u'adjustment', u'person', u'go for', u'theological virtue', u'mortal', u'supernatural virtue', u'comedian', u'feeling']
+2016-08-30 22:50:57,257 INFO     =====END FLAT LIST=====
+2016-08-30 22:50:57,257 INFO     Length of list is:
+2016-08-30 22:50:57,257 INFO     46
+2016-08-30 22:50:57,257 INFO     Length of setlist is:
+2016-08-30 22:50:57,257 INFO     45
+2016-08-30 22:50:57,257 INFO     ***************************
+2016-08-30 22:50:57,258 INFO     ***************************
+2016-08-30 22:50:57,258 INFO     List is in the following mongo collection:
+2016-08-30 22:50:57,258 INFO     optimism-corpus-only-syn-unq-order-3
+2016-08-30 22:50:57,261 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:57,424 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:57,543 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:57,669 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:57,796 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:57,918 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:58,048 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:58,180 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:58,328 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:58,452 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:58,575 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:58,700 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:58,824 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:58,960 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:59,087 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:59,212 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:59,336 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:59,474 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:59,593 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:59,729 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:59,858 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:50:59,981 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:00,111 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:00,244 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:00,376 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:00,500 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:00,625 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:00,747 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:00,880 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:01,003 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:01,152 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:01,275 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:01,402 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:01,526 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:01,665 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:01,842 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:02,043 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:02,172 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:02,308 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:02,436 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:02,558 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:02,682 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:02,808 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:02,930 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:03,059 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:51:03,183 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-30 22:51:03,183 INFO     [u'concept', u'pass on', u'lack', u'psyche', u'adjustment', u'reasoning', u'anticipation', u'disposal', u'program', u'impoverishment', u'ambience', u'medical diagnosis', u'foretell', u'material possession', u'physical object', u'look for', u'posture', u'list', u'give tongue to', u'try', u'architectural plan', u'refer', u'dip', u'somaesthesia', u'programme', u'thespian', u'pretend', u'trend', u'prediction', u'neediness', u'design', u'pass', u'affectation', u'cartel', u'employ', u'verbalize', u'touch sensation', u'histrion', u'magnetic dip', u'movement', u'body', u'elbow grease', u'explore', u'chassis', u'poverty', u'geographic region', u'change', u'mindset', u'search', u'incoming', u'mannerism', u'verbalise', u'permit', u'opinion', u'bod', u'campaign', u'vie', u'apply', u'kitchen appliance', u'intuitive feeling', u'use', u'figure', u'certificate', u'call', u'intrust', u'tactual sensation', u'type', u'possession', u'entrance', u'trait', u'magnetic inclination', u'hold', u'effort', u'player', u'work', u'soul', u'sound property', u'somatesthesia', u'somesthesia', u'medical prognosis', u'performer', u'tap', u'first moment', u'give', u'predict', u'attribute', u'accept', u'powerfulness', u'want', u'embodiment', u'emotionalism', u'utilize', u'arrangement', u'prognosis', u'electric pig', u'legal instrument', u'credential', u'utilise', u'come to', u'hazard', u'create mentally', u'belongings', u'arithmetic mean', u'attempt', u'emotionality', u'wish well', u'role player', u'try for', u'greet', u'allow', u'tilt', u'order', u'ingress', u'react', u'privation', u'consent', u'move', u'wishing', u'intuition', u'attitude', u'indirect request', u'existence', u'spatial relation', u'tendency', u'visual percept', u'position', u'betterment', u'organisation', u'enrolment', u'labor', u'bespeak', u'affectedness', u'trustfulness', u'lookout', u'someone', u'somebody', u'prevision', u'bank', u'cognition', u'touch on', u'friendship', u'mean', u'expectancy', u'ambiance', u'idea', u'deficiency', u'expect', u'entering', u'mind-set', u'contend', u'geographical region', u'miss', u'official document', u'research', u'looking', u'cause', u'perception', u'belief', u'disposition', u'accommodation', u'care', u'advance', u'deprivation', u'motion', u'place', u'recompense', u'mortal', u'think', u'grammatical category', u'feel', u'relate', u'scene', u'fancy', u'abstract thought', u'comic', u'quality', u'guess', u'management', u'system', u'construct', u'motility', u'travail', u'mentality', u'angle of dip', u'requisite', u'believe', u'compliments', u'require', u'legal document', u'project', u'venture', u'deed of conveyance', u'feeling', u'declare', u'prospect', u'comedian', u'arousal', u'seek', u'sell', u'angle', u'physique', u'consortium', u'reliance', u'geographical area', u'fitting', u'labour', u'build', u'mental attitude', u'be after', u'object', u'reach', u'anatomy', u'turn over', u'plan', u'entry', u'achievement', u'potency', u'request', u'drive', u'drawing', u'organism', u'notion', u'impression', u'atmosphere', u'certification', u'inclination of an orbit', u'African-American music', u'readjustment', u'utter', u'feat', u'knowledge', u'title', u'looking at', u'black music', u'hope', u'organic process', u'create by mental act', u'express', u'expectation', u'alteration', u'geographic area', u'standardisation', u'activity', u'gospel', u'anticipate', u'view', u'respond', u'speech act', u'requirement', u'aspect', u'performing artist', u'frame', u'biological process', u'individual', u'salutation', u'concern', u'state', u'nature', u'countenance', u'dedication', u'cosmos', u'pertain', u'assure', u'go for', u'let', u'adaption', u'allowance', u'inclining', u'tone', u'confide', u'exploit', u'adaptation', u'endeavor', u'trust', u'expected value', u'soulfulness', u'direction', u'friendly relationship', u'demand', u'spirit', u'conception', u'look', u'Bob Hope', u'enrollment', u'material body', u'will', u'theological virtue', u'leaning', u'property', u'orientation', u'contrive', u'need', u'gospel singing', u'Hope', u'angle of inclination', u'administration', u'propensity', u'modification', u'exertion', u'hand', u'Leslie Townes Hope', u'necessity', u'overwork', u'thought', u'person', u'garbage disposal', u'toil', u'organization', u'dimension', u'noesis', u'endeavour', u'flesh', u'being', u'shape', u'potentiality', u'credentials', u'touch', u'prognosticate', u'flavor', u'candidate', u'improvement', u'instrument', u'potential', u'combine', u'cogitate', u'physical body', u'cerebrate', u'bid', u'quest', u'preference', u'world', u'desire', u'logical thinking', u'necessary', u'like', u'standardization', u'greeting', u'corporate trust', u'essential', u'soma', u'creation', u'liking', u'accomplishment', u'lean', u'prop', u'asking', u'human body', u'inclination', u'syntactic category', u'be', u'power', u'pose', u'confidence', u'put to work', u'macrocosm', u'druthers', u'faith', u'universe', u'certainty', u'tactile sensation', u'swear', u'sweat', u'commit', u'outlook', u'commitment', u'trustingness', u'promise', u'registration', u'rely', u'panorama', u'way', u'somatic sensation', u'form', u'regard', u'poorness', u'syndicate', u'cardinal virtue', u'causal agency', u'visual image', u'flavour', u'wish', u'supernatural virtue', u'mean value', u'bodily property', u'recognize', u'crusade', u'bear on', u'hopefulness', u'deed', u'take to', u'call for', u'vista', u'calibration', u'actor', u'forebode', u'holding', u'smell', u'intend', u'chance', u'recognise', u'entrust', u'causal agent', u'pool', u'temperament', u'compete']
+2016-08-30 22:51:03,183 INFO     =====END FLAT LIST=====
+2016-08-30 22:51:03,183 INFO     Length of list is:
+2016-08-30 22:51:03,183 INFO     622
+2016-08-30 22:51:03,183 INFO     Length of setlist is:
+2016-08-30 22:51:03,184 INFO     405
+2016-08-30 22:51:03,184 INFO     ***************************
+2016-08-30 22:51:03,184 INFO     127.0.0.1 - - [30/Aug/2016 22:51:03] "POST /corpus/y HTTP/1.1" 200 -

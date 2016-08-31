@@ -1,0 +1,55 @@
+2016-08-30 22:49:02,194 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-30 22:49:02,195 INFO      * Restarting with stat
+2016-08-30 22:49:02,461 WARNING   * Debugger is active!
+2016-08-30 22:49:02,466 INFO      * Debugger pin code: 294-815-374
+2016-08-30 22:49:12,273 INFO     ***************************
+2016-08-30 22:49:12,273 INFO     List is in the following mongo collection:
+2016-08-30 22:49:12,273 INFO     offensiveness-corpus-only-syn-unq-order-1
+2016-08-30 22:49:12,281 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:49:12,406 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-30 22:49:12,406 INFO     [u'distastefulness', u'unpleasantness', u'odiousness']
+2016-08-30 22:49:12,406 INFO     =====END FLAT LIST=====
+2016-08-30 22:49:12,406 INFO     Length of list is:
+2016-08-30 22:49:12,406 INFO     3
+2016-08-30 22:49:12,406 INFO     Length of setlist is:
+2016-08-30 22:49:12,407 INFO     3
+2016-08-30 22:49:12,407 INFO     ***************************
+2016-08-30 22:49:12,407 INFO     ***************************
+2016-08-30 22:49:12,407 INFO     List is in the following mongo collection:
+2016-08-30 22:49:12,407 INFO     offensiveness-corpus-only-syn-unq-order-2
+2016-08-30 22:49:12,408 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:49:12,535 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:49:12,662 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:49:12,782 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-30 22:49:12,783 INFO     [u'unpalatability', u'pain', u'odiousness', u'unpleasantness', u'disgustingness', u'nauseatingness', u'unpalatableness', u'distastefulness', u'sickeningness', u'unsavoriness', u'quality', u'offensiveness', u'painfulness']
+2016-08-30 22:49:12,783 INFO     =====END FLAT LIST=====
+2016-08-30 22:49:12,783 INFO     Length of list is:
+2016-08-30 22:49:12,783 INFO     15
+2016-08-30 22:49:12,783 INFO     Length of setlist is:
+2016-08-30 22:49:12,783 INFO     13
+2016-08-30 22:49:12,783 INFO     ***************************
+2016-08-30 22:49:12,783 INFO     ***************************
+2016-08-30 22:49:12,784 INFO     List is in the following mongo collection:
+2016-08-30 22:49:12,784 INFO     offensiveness-corpus-only-syn-unq-order-3
+2016-08-30 22:49:12,786 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:49:12,910 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:49:13,032 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:49:13,154 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:49:13,273 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:49:13,394 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:49:13,519 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:49:13,649 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:49:13,785 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:49:13,907 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:49:14,038 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:49:14,163 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:49:14,286 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-30 22:49:14,405 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-30 22:49:14,405 INFO     [u'tone', u'afflict', u'unpalatability', u'grade', u'attribute', u'social station', u'disconcert', u'negative stimulus', u'rank', u'calibre', u'pain in the ass', u'sound property', u'unpleasantness', u'dimension', u'anguish', u'nuisance', u'painfulness', u'painful sensation', u'annoyance', u'discompose', u'unsavoriness', u'quality', u'untune', u'character', u'unpleasant person', u'distressingness', u'social status', u'pain in the neck', u'taste property', u'timber', u'somatic sensation', u'unpalatableness', u'disagreeable person', u'hurting', u'caliber', u'pain', u'disagreeableness', u'degree', u'infliction', u'social rank', u'lineament', u'hurt', u'disgustingness', u'nauseatingness', u'sickeningness', u'trouble', u'symptom', u'discomfit', u'property', u'level', u'timbre', u'bother', u'upset', u'odiousness', u'offensiveness', u'botheration', u'ail', u'somatesthesia', u'distastefulness', u'somesthesia', u'feeling', u'pain sensation', u'somaesthesia']
+2016-08-30 22:49:14,405 INFO     =====END FLAT LIST=====
+2016-08-30 22:49:14,405 INFO     Length of list is:
+2016-08-30 22:49:14,405 INFO     100
+2016-08-30 22:49:14,405 INFO     Length of setlist is:
+2016-08-30 22:49:14,405 INFO     63
+2016-08-30 22:49:14,405 INFO     ***************************
+2016-08-30 22:49:14,406 INFO     127.0.0.1 - - [30/Aug/2016 22:49:14] "POST /corpus/y HTTP/1.1" 200 -
