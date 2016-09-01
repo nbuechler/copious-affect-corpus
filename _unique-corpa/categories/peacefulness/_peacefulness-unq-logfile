@@ -1,0 +1,113 @@
+2016-08-31 22:43:32,940 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-31 22:43:32,940 INFO      * Restarting with stat
+2016-08-31 22:43:33,203 WARNING   * Debugger is active!
+2016-08-31 22:43:33,208 INFO      * Debugger pin code: 294-815-374
+2016-08-31 22:43:39,238 INFO     ***************************
+2016-08-31 22:43:39,238 INFO     List is in the following mongo collection:
+2016-08-31 22:43:39,238 INFO     peacefulness-corpus-only-syn-unq-order-1
+2016-08-31 22:43:39,246 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:39,405 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-31 22:43:39,405 INFO     [u'amity', u'quietude', u'peace of mind', u'quietness', u'tranquility', u'peace', u'ataraxis', u'repose', u'serenity', u'tranquillity', u'heartsease', u'peaceableness']
+2016-08-31 22:43:39,405 INFO     =====END FLAT LIST=====
+2016-08-31 22:43:39,405 INFO     Length of list is:
+2016-08-31 22:43:39,405 INFO     12
+2016-08-31 22:43:39,406 INFO     Length of setlist is:
+2016-08-31 22:43:39,406 INFO     12
+2016-08-31 22:43:39,406 INFO     ***************************
+2016-08-31 22:43:39,406 INFO     ***************************
+2016-08-31 22:43:39,406 INFO     List is in the following mongo collection:
+2016-08-31 22:43:39,406 INFO     peacefulness-corpus-only-syn-unq-order-2
+2016-08-31 22:43:39,410 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:39,570 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:39,726 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:39,857 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:39,997 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:40,140 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:40,278 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:40,417 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:40,556 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:40,703 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:40,839 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:40,988 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:41,133 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-31 22:43:41,133 INFO     [u'reside', u'inhere in', u'set', u'pose', u'concord', u'relaxation', u'two-eyed violet', u'repose', u'wild pansy', u'love-in-idleness', u'rest', u'Viola arvensis', u'Viola ocellata', u'field pansy', u'lie', u'Johnny-jump-up', u'equanimity', u'pink of my John', u'ease', u'peace', u'pacification', u'ataraxis', u'Viola tricolor', u'calm', u'tranquillity', u'place', u'harmony', u'inactivity', u'accord', u'assign', u'viola', u'tranquility', u'peacefulness', u'recline', u'recumb', u'friendliness', u'soundlessness', u'attach to', u'put', u'violet', u'put down', u'pact', u'concordance', u'peace treaty', u'quietude', u'composure', u'peace of mind', u'quietness', u'placidity', u'amity', u'quiet', u'treaty', u'public security', u'calmness', u'serenity', u'heartsease', u'position', u'security', u'cordiality', u'order', u'silence', u'lay']
+2016-08-31 22:43:41,133 INFO     =====END FLAT LIST=====
+2016-08-31 22:43:41,133 INFO     Length of list is:
+2016-08-31 22:43:41,133 INFO     153
+2016-08-31 22:43:41,134 INFO     Length of setlist is:
+2016-08-31 22:43:41,134 INFO     62
+2016-08-31 22:43:41,134 INFO     ***************************
+2016-08-31 22:43:41,134 INFO     ***************************
+2016-08-31 22:43:41,134 INFO     List is in the following mongo collection:
+2016-08-31 22:43:41,134 INFO     peacefulness-corpus-only-syn-unq-order-3
+2016-08-31 22:43:41,137 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:41,305 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:41,465 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:41,597 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:41,732 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:41,864 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:42,003 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:42,141 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:42,280 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:42,414 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:42,546 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:42,687 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:42,826 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:42,979 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:43,143 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:43,280 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:43,420 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:43,561 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:43,698 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:43,852 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:44,000 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:44,152 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:44,305 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:44,438 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:44,570 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:44,703 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:44,850 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:44,982 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:45,132 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:45,264 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:45,395 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:45,546 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:45,686 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:45,840 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:45,981 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:46,118 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:46,251 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:46,395 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:46,525 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:46,672 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:46,831 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:46,971 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:47,108 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:47,256 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:47,396 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:47,547 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:47,708 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:47,840 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:47,967 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:48,111 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:48,243 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:48,387 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:48,529 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:48,670 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:48,810 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:48,942 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:49,072 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:49,206 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:49,359 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:49,491 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:49,623 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:49,756 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:43:49,887 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-31 22:43:49,888 INFO     [u'represent', u'alleviation', u'go under', u'relieve', u'sleep', u'go', u'security department', u'physical exertion', u'commercial document', u'regularize', u'compose', u'good weather', u'assuage', u'vex', u'passage', u'religious sect', u'amaze', u'charge', u'readiness', u'shut up', u'tranquillity', u'safety', u'include', u'informality', u'abode', u'order of magnitude', u'string', u'song', u'dispense', u'nonplus', u'shell out', u'print', u'decide', u'fall', u'affect', u'calm down', u'condition', u'arrange', u'go with', u'descend', u'item', u'adjust', u'delegate', u'relation', u'give voice', u'pass judgment', u'accumulation', u'assemblage', u'hardening', u'neighborhood', u"make up one's mind", u'sit down', u'set up', u'direct', u'battle', u'rate', u'perspective', u'make up', u'stupefy', u'affectation', u'residue', u'employ', u'exponential return', u'dilleniid dicot genus', u'get down', u'section', u'conduct', u'Holy Order', u'order', u'set down', u'social rank', u'exercise', u'fearlessness', u'eternal rest', u'stance', u'herb', u'component', u'residual', u'pause', u'sink', u'relaxation', u'cool off', u'sing', u'geographic region', u'change', u'get up', u'property', u'mannerism', u'base', u'action', u'opinion', u'pillow', u'falsity', u'public square', u'enactment', u'phrase', u'electrical device', u'send', u'mortify', u'apply', u'depute', u'establish', u'select', u'blank space', u'dole out', u'composure', u'shack', u'prescript', u'visit', u'throw', u'live', u'military position', u'music', u'calm', u'affluence', u'tell', u'ballad', u'breathe', u'weakening', u"bird's-foot violet", u'club', u'trait', u'expose', u'sect', u'impress', u'site', u'train', u'stick', u'hold', u'pretense', u'circle', u'town', u'berth', u'gear up', u'word', u'consort', u'befuddle', u'parliamentary procedure', u'sound property', u'human action', u'reproduce', u'remain', u'musical notation', u'arrive', u'conformity', u"catch one's breath", u'Viola pedata', u'Lie', u'bent', u'give', u'attribute', u'religious order', u'death', u'lie down', u'stage set', u'station', u'dress', u'guarantee', u'place down', u'sit', u'tilt', u'travel', u'comfort', u'ataraxis', u'arrangement', u'sic', u'legal instrument', u'slackening', u'countersink', u'simplicity', u'plant', u'abstraction', u'utilise', u'liberalisation', u'mete out', u'spot', u'collection', u'stamp down', u'lay', u'curing', u'compatibility', u'inactivity', u'take a breather', u'organization', u'redact', u'correspond', u'exponential decay', u'mislead', u'allot', u'deceive', u'enter', u'representation', u'make', u'cognitive state', u'help', u'office', u'come with', u'move', u'utilize', u'attitude', u'equip', u'peaceableness', u'still', u'Viola arvensis', u'tendency', u'set on', u'appeasement', u'go down', u'solace', u'fit', u'quiesce', u'fix', u'vicinity', u'inhere in', u'precaution', u'chill out', u'choose', u'bespeak', u'affectedness', u'posture', u'alter', u'eternal sleep', u'put option', u'richness', u'workout', u'Seth', u'purchase order', u'break', u'band', u'conquer', u'stabilise', u'harmoniousness', u'association', u'bedevil', u'stabilize', u'cognition', u'component part', u'drop', u'magnitude', u'write down', u'cordiality', u'side', u'counterinsurgency', u'interruption', u'rest period', u'square', u'formulate', u'concord', u'levy', u'ordain', u'constitute', u'society', u'line of work', u'inflict', u'assumption', u'allay', u'state of mind', u'neighbourhood', u'jell', u'geographical region', u'decree', u'concur', u'space', u'official document', u'increase', u'race', u'settle down', u'easiness', u'intermit', u'bring down', u'correct', u'inaction', u'purpleness', u'assist', u'dumbfound', u'peacefulness', u'untruth', u'struggle', u'disposition', u'put', u'estimate', u'tranquilize', u'remainder', u'coiffure', u'fiat', u'lodge in', u'change state', u'friendliness', u'impose', u'positioning', u'initiate', u'place', u'serenity', u'secretiveness', u'heartsease', u'view', u'facilitate', u'assign', u'organize', u'suspension', u'grade', u'confuse', u'rank', u'procreate', u'consecrate', u'written agreement', u'security system', u'carry', u'quality', u'social club', u'guess', u'occupy', u'ordering', u'attack', u'airs', u'simmer down', u'dwell', u'natural process', u'lay down', u'accompany', u'option', u'discombobulate', u'period of play', u'expend', u'relaxation behavior', u'expanse', u'part', u'security measures', u'specify', u'Set', u'fit in', u'target', u'easement', u'Concord', u'quietness', u'legal document', u'vocal', u'claim', u'mathematical operation', u'sedate', u'feeling', u'exhibit', u'humble', u'enjoin', u'mathematical process', u'say', u'lull', u'increment', u'dictate', u'turn', u'diplomatist', u'lie', u'angle', u'transferred property', u'check', u'arrogate', u'chagrin', u'couch', u'take', u'neaten', u'mental attitude', u'command', u'subject', u'quieten', u'reddish blue', u'play', u'amity', u'index', u'gild', u'taxonomic category', u'assault', u'coif', u'inactiveness', u'position', u'multiply', u'deal out', u'lie in', u'peace of mind', u'steady', u'typeset', u'pink of my John', u'calmness', u'tranquillise', u'ordination', u'perch', u'surface area', u'liking', u'two-eyed violet', u'gauge', u'exercise set', u'commercial instrument', u'range', u'surety', u'herbaceous plant', u'shoes', u'acquit', u'knowledge', u'machinate', u'pacification', u'lean', u'parliamentary law', u'betray', u'lodge', u'inhabit', u'orderliness', u'prevarication', u'do', u'get', u'beat', u'coiffe', u'Lexington', u'bear', u'baffle', u'peace treaty', u'hush up', u'repose', u'pretending', u'guild', u'public security', u'accordance', u'comfortableness', u'geographic area', u'stead', u'activity', u'placidity', u'locating', u'preserve', u'set', u'frame', u'seat', u'naturalness', u'violet', u'come in', u'liberalization', u'situation', u'spatial relation', u'love-in-idleness', u'come out', u'state', u'transferred possession', u'use', u'impute', u'emplacement', u'accord', u'wild pansy', u'personate', u'social group', u'deliver', u'outfit', u'job', u'domiciliate', u'come', u'inertia', u'equanimity', u'call for', u'residence', u'quiet', u'display', u'poem', u'protection', u'artistic style', u'organisation', u'reside', u'placidness', u'bowed stringed instrument', u'neck of the woods', u'point', u'human activity', u'disgrace', u'rescript', u'simpleness', u'bewilder', u'topographic point', u'mark', u'devise', u'genus Viola', u'suppress', u'locomote', u'bidding', u'playing period', u'deport', u'present', u'pact', u'inhibit', u'dictation', u'originate', u'pretence', u'aim', u'cast', u'physical exercise', u'aid', u'balance', u'solidification', u'residuum', u'vest', u'orientation', u'palliate', u'comport', u'confound', u'asking', u'impersonate', u'Viola', u'ready', u'rig', u'placement', u'hone', u'Trygve Halvden Lie', u'regulate', u'descent', u'grant', u'edict', u'field pansy', u'belong', u'electronic equipment', u'Trygve Lie', u'gravel', u'muteness', u'set apart', u'prescribe', u'harmony', u'viola', u'bid', u'conflict', u'status', u'lay out', u'roost', u'recline', u'change posture', u'aggregation', u'pick out', u'lean back', u'Order', u'warrantee', u'concordance', u'piazza', u'locality', u'govern', u'demean', u'relief', u'alleviate', u'easing', u'model', u'spend', u'comprise', u'noesis', u'regularise', u'distribute', u'verse form', u'rest', u'harmonise', u'identify', u'localize', u'curb', u'Johnny-jump-up', u'console', u'take aim', u'ease', u'domicile', u'exercising', u'instrument', u'pitched battle', u'drop off', u'location', u'harmonize', u'role', u'save', u'warrant', u'match', u'designate', u'evaluate', u'grammatical relation', u'displace', u'quest', u'jibe', u'secrecy', u'judge', u'geographical area', u'put down', u'bravery', u'quietude', u'uncommunicativeness', u'monastic order', u'come down', u'Lexington and Concord', u'security', u'rules of order', u'falsehood', u'deal', u'soundlessness', u'hush', u'growth', u'home', u'solidifying', u'purple', u'fox', u'behave', u'social status', u'becalm', u'abase', u'situate', u'natural action', u'inclination', u'locate', u'be', u'run', u'business', u'musical harmony', u'pose', u'agreement', u'recumb', u'respite', u'post', u'bury', u'lead astray', u'stage', u'feigning', u'fructify', u'plaza', u'taxon', u'occupation', u'simulation', u'localise', u'solidify', u'act', u'fuddle', u'commit', u'security measure', u'silence', u'warranty', u'puzzle', u'social station', u'pansy violet', u'articulate', u'administer', u'relaxation method', u'guard', u'determine', u'lieu', u'Viola ocellata', u'take down', u'calming', u'quiet down', u'prepare', u'area', u'transfer', u'state capital', u'support', u'approximate', u'ordinate', u'start', u'lot', u'function', u'gibe', u'perplex', u'tranquility', u'tally', u'Egyptian deity', u'certificate', u'attach to', u'assail', u'line', u'safeguard', u'humiliate', u'mystify', u'misinform', u'consist', u'intermission', u'record', u'limit', u'enthrone', u'bodily property', u'agree', u'taxonomic group', u'tranquillize', u'subdue', u'cool it', u'request', u'mollification', u'soothe', u'modify', u'change intensity', u'exist', u'pipe down', u'treaty', u'operation', u'diplomat', u'parcel out', u'flummox', u'peace', u'tip', u'loosening', u'Viola tricolor', u'idiom', u'congeal', u'lay claim', u'department', u'organise', u'wood violet', u'billet', u'capital of New Hampshire', u'ascribe', u'slant', u'stay', u'quietus', u'discharge', u'fix up', u'appoint', u'temperament', u'land', u'assets', u'unload', u'invest', u'fit out', u'groom', u'rule', u'portion', u'write', u'dish out', u'degrade']
+2016-08-31 22:43:49,888 INFO     =====END FLAT LIST=====
+2016-08-31 22:43:49,888 INFO     Length of list is:
+2016-08-31 22:43:49,888 INFO     1232
+2016-08-31 22:43:49,888 INFO     Length of setlist is:
+2016-08-31 22:43:49,888 INFO     719
+2016-08-31 22:43:49,888 INFO     ***************************
+2016-08-31 22:43:49,889 INFO     127.0.0.1 - - [31/Aug/2016 22:43:49] "POST /corpus/y HTTP/1.1" 200 -

@@ -1,0 +1,64 @@
+2016-08-31 22:44:42,796 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-31 22:44:42,797 INFO      * Restarting with stat
+2016-08-31 22:44:43,051 WARNING   * Debugger is active!
+2016-08-31 22:44:43,056 INFO      * Debugger pin code: 294-815-374
+2016-08-31 22:44:46,559 INFO     ***************************
+2016-08-31 22:44:46,559 INFO     List is in the following mongo collection:
+2016-08-31 22:44:46,559 INFO     pessimism-corpus-only-syn-unq-order-1
+2016-08-31 22:44:46,567 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:46,720 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-31 22:44:46,720 INFO     [u'despair', u'disposition', u'temperament']
+2016-08-31 22:44:46,720 INFO     =====END FLAT LIST=====
+2016-08-31 22:44:46,720 INFO     Length of list is:
+2016-08-31 22:44:46,720 INFO     3
+2016-08-31 22:44:46,721 INFO     Length of setlist is:
+2016-08-31 22:44:46,721 INFO     3
+2016-08-31 22:44:46,721 INFO     ***************************
+2016-08-31 22:44:46,721 INFO     ***************************
+2016-08-31 22:44:46,721 INFO     List is in the following mongo collection:
+2016-08-31 22:44:46,721 INFO     pessimism-corpus-only-syn-unq-order-2
+2016-08-31 22:44:46,724 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:46,880 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:47,028 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:47,177 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-31 22:44:47,177 INFO     [u'readjustment', u'registration', u'deed', u'adjustment', u'feat', u'tendency', u'desperation', u'emotionalism', u'attitude', u'mental attitude', u'inclination', u'status', u'nature', u'disposition', u'temperament', u'effort', u'condition', u'feeling', u'emotionality', u'exploit', u'disposal', u'property']
+2016-08-31 22:44:47,177 INFO     =====END FLAT LIST=====
+2016-08-31 22:44:47,177 INFO     Length of list is:
+2016-08-31 22:44:47,177 INFO     23
+2016-08-31 22:44:47,177 INFO     Length of setlist is:
+2016-08-31 22:44:47,178 INFO     22
+2016-08-31 22:44:47,178 INFO     ***************************
+2016-08-31 22:44:47,178 INFO     ***************************
+2016-08-31 22:44:47,178 INFO     List is in the following mongo collection:
+2016-08-31 22:44:47,178 INFO     pessimism-corpus-only-syn-unq-order-3
+2016-08-31 22:44:47,179 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:47,311 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:47,445 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:47,596 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:47,740 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:47,872 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:48,006 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:48,154 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:48,286 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:48,428 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:48,579 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:48,724 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:48,886 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:49,023 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:49,155 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:49,290 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:49,439 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:49,590 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:49,728 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:49,858 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:49,996 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:50,133 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:44:50,273 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-31 22:44:50,273 INFO     [u'impression', u'ingress', u'concept', u'endeavour', u'certification', u'inclination of an orbit', u'precondition', u'experimental condition', u'readjustment', u'world', u'touch', u'existence', u'flavor', u'adjustment', u'feat', u'tendency', u'discipline', u'knowledge', u'title', u'disposal', u'adaption', u'enrolment', u'improvement', u'better', u'instrument', u'ambience', u'affectedness', u'instruct', u'organic process', u'move', u'stipulate', u'mental attitude', u'material possession', u'credentials', u'physical object', u'betterment', u'condition', u'posture', u'term', u'geographical area', u'standardization', u'cognition', u'list', u'alteration', u'geographic area', u'try', u'good health', u'standardisation', u'activity', u'movement', u'dip', u'somaesthesia', u'kitchen appliance', u'exertion', u'learn', u'trend', u'shampoo', u'creation', u'ambiance', u'idea', u'stipulation', u'biological process', u'entering', u'affectation', u'liking', u'geographical region', u'spatial relation', u'official document', u'lean', u'prop', u'shape', u'attitude', u'cause', u'magnetic dip', u'inclination', u'body', u'perception', u'construct', u'belief', u'power', u'state', u'pose', u'use', u'elbow grease', u'qualify', u'macrocosm', u'put to work', u'disposition', u'consideration', u'teach', u'accommodation', u'change', u'improve', u'advance', u'property', u'incoming', u'universe', u'mannerism', u'contract', u'motion', u'despair', u'place', u'recompense', u'make grow', u'opinion', u'allowance', u'inclining', u'tone', u'premise', u'campaign', u'feel', u'dimension', u'exploit', u'adaptation', u'registration', u'apply', u'endeavor', u'labor', u'quality', u'somesthesia', u'intuitive feeling', u'rashness', u'atmosphere', u'management', u'certificate', u'premiss', u'undertake', u'assumption', u'motility', u'way', u'tactual sensation', u'type', u'meliorate', u'possession', u'direction', u'travail', u'statement', u'trait', u'healthiness', u'train', u'magnetic inclination', u'angle of dip', u'geographic region', u'effort', u'spirit', u'specify', u'causal agency', u'flavour', u'look', u'touch sensation', u'amend', u'conception', u'enrollment', u'accomplishment', u'legal document', u'sound property', u'somatic sensation', u'employ', u'somatesthesia', u'venture', u'leaning', u'deed of conveyance', u'cosmos', u'bodily property', u'nature', u'tap', u'orientation', u'process', u'attribute', u'entrance', u'tactile sensation', u'powerfulness', u'crusade', u'ameliorate', u'deed', u'work', u'angle of inclination', u'check', u'information', u'angle', u'intuition', u'calibration', u'tilt', u'administration', u'utilize', u'propensity', u'fitting', u'labour', u'holding', u'modification', u'electric pig', u'legal instrument', u'overwork', u'smell', u'sweat', u'status', u'credential', u'utilise', u'object', u'entry', u'belongings', u'develop', u'causal agent', u'achievement', u'temperament', u'attempt', u'emotionality', u'drive', u'circumstance', u'recklessness', u'thought', u'garbage disposal', u'procedure', u'emotionalism', u'toil', u'position', u'foolhardiness', u'notion', u'noesis']
+2016-08-31 22:44:50,273 INFO     =====END FLAT LIST=====
+2016-08-31 22:44:50,273 INFO     Length of list is:
+2016-08-31 22:44:50,273 INFO     283
+2016-08-31 22:44:50,273 INFO     Length of setlist is:
+2016-08-31 22:44:50,273 INFO     219
+2016-08-31 22:44:50,273 INFO     ***************************
+2016-08-31 22:44:50,274 INFO     127.0.0.1 - - [31/Aug/2016 22:44:50] "POST /corpus/y HTTP/1.1" 200 -
