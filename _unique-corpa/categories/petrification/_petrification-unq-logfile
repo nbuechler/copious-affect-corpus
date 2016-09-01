@@ -1,0 +1,53 @@
+2016-08-31 22:45:18,161 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-31 22:45:18,161 INFO      * Restarting with stat
+2016-08-31 22:45:18,417 WARNING   * Debugger is active!
+2016-08-31 22:45:18,423 INFO      * Debugger pin code: 294-815-374
+2016-08-31 22:45:35,473 INFO     ***************************
+2016-08-31 22:45:35,473 INFO     List is in the following mongo collection:
+2016-08-31 22:45:35,473 INFO     petrification-corpus-only-syn-unq-order-1
+2016-08-31 22:45:35,480 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:45:35,640 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-31 22:45:35,640 INFO     [u'fossilisation', u'petrifaction', u'fossilization']
+2016-08-31 22:45:35,640 INFO     =====END FLAT LIST=====
+2016-08-31 22:45:35,640 INFO     Length of list is:
+2016-08-31 22:45:35,640 INFO     3
+2016-08-31 22:45:35,641 INFO     Length of setlist is:
+2016-08-31 22:45:35,641 INFO     3
+2016-08-31 22:45:35,641 INFO     ***************************
+2016-08-31 22:45:35,641 INFO     ***************************
+2016-08-31 22:45:35,641 INFO     List is in the following mongo collection:
+2016-08-31 22:45:35,641 INFO     petrification-corpus-only-syn-unq-order-2
+2016-08-31 22:45:35,644 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:45:35,789 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:45:35,924 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:45:36,057 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-31 22:45:36,057 INFO     [u'stone', u'fossilization', u'fossilisation', u'transition', u'rock', u'passage', u'petrification', u'activity', u'action', u'natural action', u'natural process']
+2016-08-31 22:45:36,058 INFO     =====END FLAT LIST=====
+2016-08-31 22:45:36,058 INFO     Length of list is:
+2016-08-31 22:45:36,058 INFO     19
+2016-08-31 22:45:36,058 INFO     Length of setlist is:
+2016-08-31 22:45:36,058 INFO     11
+2016-08-31 22:45:36,058 INFO     ***************************
+2016-08-31 22:45:36,059 INFO     ***************************
+2016-08-31 22:45:36,059 INFO     List is in the following mongo collection:
+2016-08-31 22:45:36,059 INFO     petrification-corpus-only-syn-unq-order-3
+2016-08-31 22:45:36,062 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:45:36,196 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:45:36,337 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:45:36,489 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:45:36,624 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:45:36,760 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:45:36,894 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:45:37,027 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:45:37,165 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:45:37,308 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:45:37,444 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:45:37,572 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-31 22:45:37,572 INFO     [u'musical composition', u'take away', u'move', u'anatomical structure', u'film maker', u'kill', u'mechanism', u'shake', u'move back and forth', u'feminist', u'passage', u'bodily structure', u'carry out', u'sway', u'transformation', u'organic process', u'Lucy Stone', u'John Rock', u'displace', u'modification', u'group action', u'rock music', u'bringing', u'good person', u'gem', u'execute', u'legal expert', u'alteration', u'remove', u'capability', u'rock candy', u'stuff', u'journalist', u'activity', u'rock-and-roll', u'frigidity', u'legislating', u'movie maker', u'fulfil', u'set up', u'fossilisation', u'pitch', u'biological process', u'finish', u'candy', u'complete', u'change of state', u'lapidate', u'material', u'accomplish', u'capacity', u"women's rightist", u'iciness', u'lurch', u'state', u'lawmaking', u'jurist', u'gemstone', u'natural action', u'transmutation', u'movement', u'Stone', u'Harlan Fisk Stone', u'rock', u'effect', u'carry through', u'Rock', u'change', u'reaction', u'convert', u'piece', u'shift', u'transition', u'Edward Durell Stone', u'body process', u'rock and roll', u'careen', u'act', u'action', u'Harlan F. Stone', u"woman's doctor", u'bodily process', u'human activity', u'enactment', u'Harlan Fiske Stone', u'legal proceeding', u'physical process', u'journeying', u'plot', u'opus', u"rock 'n' roll", u'legislation', u'response', u'musical passage', u'libber', u'chilliness', u'pitching', u'piece of music', u'I. F. Stone', u'handing over', u'popular music', u'way', u'human action', u'action mechanism', u'trait', u'pericarp', u'stone', u'filmmaker', u'delivery', u'complex body part', u"rock'n'roll", u'seed vessel', u'chief justice', u'military action', u'action at law', u'petrifaction', u'Oliver Stone', u'work', u'body structure', u'avoirdupois unit', u'crystal', u'architect', u'Harlan Stone', u'fulfill', u'natural process', u'changeover', u'confect', u'frigidness', u'suffragist', u'effectuate', u'process', u'coolness', u"women's liberationist", u'pit', u'litigate', u'motion', u'conversion', u'tilt', u'proceedings', u'natural object', u'activeness', u'take', u'legal action', u'endocarp', u'transit', u'composition', u'designer', u'fossilization', u'modulation', u'film producer', u'popular music genre', u'sue', u'journey', u'passageway', u'bodily function', u'proceeding', u'passing', u'structure', u'Isidor Feinstein Stone', u'subdivision', u'drive', u'gynaecologist', u'switch', u'coldness', u'withdraw', u'gynecologist', u'challenge', u'building material', u'section']
+2016-08-31 22:45:37,573 INFO     =====END FLAT LIST=====
+2016-08-31 22:45:37,573 INFO     Length of list is:
+2016-08-31 22:45:37,573 INFO     212
+2016-08-31 22:45:37,573 INFO     Length of setlist is:
+2016-08-31 22:45:37,574 INFO     169
+2016-08-31 22:45:37,574 INFO     ***************************
+2016-08-31 22:45:37,575 INFO     127.0.0.1 - - [31/Aug/2016 22:45:37] "POST /corpus/y HTTP/1.1" 200 -

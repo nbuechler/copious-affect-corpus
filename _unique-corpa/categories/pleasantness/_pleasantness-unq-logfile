@@ -1,0 +1,96 @@
+2016-08-31 22:47:31,576 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-08-31 22:47:31,577 INFO      * Restarting with stat
+2016-08-31 22:47:31,825 WARNING   * Debugger is active!
+2016-08-31 22:47:31,830 INFO      * Debugger pin code: 294-815-374
+2016-08-31 22:47:35,498 INFO     ***************************
+2016-08-31 22:47:35,498 INFO     List is in the following mongo collection:
+2016-08-31 22:47:35,498 INFO     pleasantness-corpus-only-syn-unq-order-1
+2016-08-31 22:47:35,507 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:35,637 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-31 22:47:35,637 INFO     [u'pleasance', u'sweetness', u'quality', u'pleasure']
+2016-08-31 22:47:35,638 INFO     =====END FLAT LIST=====
+2016-08-31 22:47:35,638 INFO     Length of list is:
+2016-08-31 22:47:35,638 INFO     4
+2016-08-31 22:47:35,638 INFO     Length of setlist is:
+2016-08-31 22:47:35,638 INFO     4
+2016-08-31 22:47:35,638 INFO     ***************************
+2016-08-31 22:47:35,638 INFO     ***************************
+2016-08-31 22:47:35,639 INFO     List is in the following mongo collection:
+2016-08-31 22:47:35,639 INFO     pleasantness-corpus-only-syn-unq-order-2
+2016-08-31 22:47:35,642 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:35,768 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:35,892 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:36,015 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:36,141 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-31 22:47:36,141 INFO     [u'taste sensation', u'selection', u'tone', u'bouquet', u'sweet', u'social station', u'grade', u'aroma', u'sound property', u'scent', u'timber', u'sexual practice', u'sugariness', u'quality', u'fragrancy', u'character', u'calibre', u'taste', u'olfactory property', u'social status', u'gustatory sensation', u'fragrance', u'attribute', u'smell', u'lineament', u'pleasance', u'sex', u'caliber', u'taste property', u'degree', u'social rank', u'joy', u'odor', u'pick', u'positive stimulus', u'gustatory perception', u'delight', u'sexual activity', u'rank', u'sex activity', u'redolence', u'choice', u'pleasantness', u'retreat', u'property', u'level', u'timbre', u'odour', u'taste perception', u'activity', u'pleasure', u'feeling', u'dimension']
+2016-08-31 22:47:36,141 INFO     =====END FLAT LIST=====
+2016-08-31 22:47:36,141 INFO     Length of list is:
+2016-08-31 22:47:36,141 INFO     54
+2016-08-31 22:47:36,141 INFO     Length of setlist is:
+2016-08-31 22:47:36,142 INFO     53
+2016-08-31 22:47:36,142 INFO     ***************************
+2016-08-31 22:47:36,142 INFO     ***************************
+2016-08-31 22:47:36,142 INFO     List is in the following mongo collection:
+2016-08-31 22:47:36,142 INFO     pleasantness-corpus-only-syn-unq-order-3
+2016-08-31 22:47:36,145 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:36,294 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:36,420 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:36,548 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:36,682 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:36,819 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:36,939 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:37,062 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:37,193 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:37,318 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:37,467 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:37,597 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:37,724 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:37,847 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:37,977 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:38,110 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:38,240 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:38,391 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:38,514 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:38,641 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:38,769 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:38,895 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:39,025 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:39,156 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:39,278 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:39,402 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:39,525 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:39,648 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:39,771 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:39,898 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:40,020 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:40,144 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:40,272 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:40,395 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:40,518 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:40,645 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:40,787 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:40,910 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:41,031 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:41,156 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:41,282 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:41,413 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:41,547 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:41,671 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:41,794 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:41,919 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:42,043 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:42,166 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:42,288 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:42,412 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:42,538 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:42,662 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:42,793 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-08-31 22:47:42,928 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-08-31 22:47:42,929 INFO     [u'concept', u'impression', u'scratch', u'rob', u'printed symbol', u'dainty', u'timberland', u'find fault', u'sexual practice', u'passage', u'charge', u'sensory system', u'ambience', u'prop', u'sound', u'grapheme', u'dessert', u'choice', u'sexual activity', u'esthesis', u'physical object', u'odourise', u'level', u'stimulus', u'gender', u'try', u'enrapture', u'pass judgment', u'assemblage', u'enjoy', u'force', u'be', u'sensation', u'sign', u'go', u'rate', u'perception', u'utter', u'even', u'index', u'diam', u'back out', u'verbalize', u'touch sensation', u'somatesthesia', u'construction', u'exercise', u'cull', u'degree', u'honour', u'intuitive feeling', u'elite group', u'geographic region', u'flower arrangement', u'ravish', u'chant', u'odour', u'experience', u'sexual urge', u'verbalise', u'pick', u'action', u'opinion', u'sweetness', u'written symbol', u'diameter', u'call forth', u'family', u'criticise', u'nosegay', u'enactment', u'imaginary being', u'grade', u'graphic symbol', u'belongings', u'joyousness', u'fragrancy', u'change surface', u'live', u'fragrance', u'strike', u'tactual sensation', u'type', u'tell', u'sort', u'solid ground', u'trait', u'inflect', u'ascribe', u'award', u'train', u'adult', u'sound property', u'human action', u'temperature unit', u'lumber', u'musical notation', u'somesthesia', u'rank and file', u'process', u'attribute', u'sample', u'cows', u'plectron', u'provoke', u'secern', u'bugle call', u'savor', u'country', u'travel', u'feature', u'forest', u'pull away', u'stir', u'classify', u'even out', u'tension', u'abstraction', u'delicacy', u'membership', u'sex activity', u'bodily function', u'ablaut', u'criticize', u'Sweet', u'smack', u'assign', u'shade', u'pleasure', u'order', u'wind', u'move', u'course', u'raze', u'pitch', u'kick up', u'kickshaw', u'comprehend', u'feel', u'production', u'choose', u'take in', u'pleasance', u'horizontal surface', u'motley', u'tensity', u'foot', u'pull together', u'Henry Sweet', u'plunk', u'capability', u'filling', u'magnitude', u'laurels', u'predilection', u'arcdegree', u'taste sensation', u'ambiance', u'idea', u'olfaction', u'yield', u'pure tone', u'colourize', u'extract', u'category', u'geographical region', u'gradient', u'quality', u'crawfish out', u'gradation', u'engrave', u'small indefinite amount', u'evaluation', u'gustation', u'fiber', u'belief', u'angular unit', u'social rank', u'withdrawal', u'inscribe', u'pickaxe', u'turn on', u'thread', u'colour in', u'enchant', u'area', u'small indefinite quantity', u'yarn', u'tonicity', u'place', u'somaesthesia', u'stimulate', u'emotion', u'intuition', u'bouquet', u'savour', u'rank', u'tier', u'tenseness', u'scent', u'shake up', u'decision making', u'story', u'fall back', u'pick apart', u'construct', u'stimulation', u'enthral', u'assort', u'natural process', u'break up', u'option', u'tonus', u'direct', u'sense datum', u'appreciation', u'part', u'differentiate', u'peck', u'elite', u'kine', u'discernment', u'discolor', u'musical interval', u'phonetician', u'deciding', u'gathering', u'tautness', u'strengthen', u'miscellanea', u'measure', u'have', u'tell apart', u'draw back', u'enthrall', u'colorise', u'severalize', u'note', u'geographic area', u'take', u'physiological property', u'neaten', u'destroy', u'caliber', u'object', u'positive stimulus', u'gustatory modality', u'mouth', u'device', u'move back', u'class', u'grave', u'material possession', u'gather', u'destruct', u'reputation', u'natural selection', u'talk', u'clean', u'notion', u'signaling', u'slope', u'rating', u'atmosphere', u'selection', u'tincture', u'plectrum', u'retire', u'gauge', u'earth', u'ground', u'fibre', u'indicator', u'coloring', u'proportion', u'woof', u'organic process', u'gratify', u'mixture', u'good word', u'perceive', u'beam', u'sense impression', u'beak', u'remove', u'perfume', u'body part', u'whole tone', u'activity', u'grad', u'satisfy', u'reference', u'shake', u'nibble', u'sex', u'biological process', u'arouse', u'cattle', u'alternative', u'afters', u'capacity', u'exponent', u'pull down', u'crawfish', u'please', u'state', u'score', u'mouthful', u'joy', u'lineament', u'pluck', u'blame', u'mixed bag', u'retirement', u'distinguish', u'picking', u'level off', u'feeling', u'outrank', u'secernment', u'retrograde', u'aesthesis', u'spirit level', u'sense modality', u'tone', u'consume', u'characterization', u'color', u'sweet', u'terra firma', u'height', u'olfactory sensation', u'speak', u'tint', u'sugariness', u'testimonial', u'discrimination', u'mark', u'treat', u'pull back', u'excite', u'tear down', u'locomote', u'try out', u'spirit', u'case', u'pierce', u'conception', u'look', u'joyfulness', u'value', u'aim', u'sexuality', u'cause to be perceived', u'property', u'imaginary creature', u'musical note', u'discolour', u'layer', u'physical process', u'smorgasbord', u'surface', u'color in', u'personation', u'pay', u'woodland', u"pull in one's horns", u'modality', u'speech', u'gustatory sensation', u'edge tool', u'confection', u'status', u'persona', u'hideaway', u'eccentric', u'delight', u'colouring', u'pick out', u'assortment', u'exteroception', u'olfactory modality', u'olfactory perception', u'timbre', u'colour', u'floor', u'honor', u'thought', u'body', u'withdraw', u'miscellany', u'position', u'perceptiveness', u'sensing', u'dimension', u'know', u'rase', u'take away', u'tone up', u'dry land', u'storey', u'aroma', u'judge', u'shape', u'identify', u'surpass', u'touch', u'flavor', u'modulate', u'timber', u'biome', u'penchant', u'take aim', u'point', u'character', u'calibre', u'human activity', u'olfactory property', u'stratum', u'input', u'odorize', u'elevation', u'taste property', u'evaluate', u'survival', u'preference', u'redolence', u'retreat', u'sort out', u'knock', u'geographical area', u'wind up', u'back away', u'taste perception', u'collect', u'nose', u'output', u'signal', u'excerpt', u'revel', u'recommendation', u'auditory sensation', u'bore', u'work out', u'transport', u'character reference', u'survival of the fittest', u'delectation', u'social status', u'select', u'gladden', u'natural action', u'secernate', u'power', u'odor', u'fictional character', u'step', u'posy', u'post', u'sense of taste', u'stage', u'stand out', u'goody', u'tactile sensation', u'ingest', u'body process', u'colourise', u'range', u'evoke', u'act', u'academic degree', u'severalise', u'bodily process', u'social station', u'garner', u'assess', u'portrayal', u'colorize', u'rejoice', u'sense experience', u'tasting', u'altitude', u'manner of speaking', u'intone', u'potpourri', u'excerption', u'theatrical role', u'salmagundi', u'form', u'Bos taurus', u'gustatory perception', u'delivery', u'basketball play', u'whole step', u'line', u'valuation', u'eat', u'Cartesian coordinate', u'pull', u'flavour', u'fictitious character', u'recede', u'corsage', u'tone of voice', u'impute', u'hand tool', u'piece', u'appraise', u'possession', u'weft', u'interval', u'oxen', u'taste', u'flush', u'pickax', u'sense of smell', u'liking', u'cream', u'variety', u'personnel', u'excel', u'activeness', u'role', u'holding', u'repute', u'smell', u'stimulant', u'draw', u'separate', u'valuate', u'dismantle', u'somatic sensation', u'smelling', u'take down', u'structure', u'ground level', u'land', u'groom', u'accolade', u'grownup', u'building material']
+2016-08-31 22:47:42,929 INFO     =====END FLAT LIST=====
+2016-08-31 22:47:42,929 INFO     Length of list is:
+2016-08-31 22:47:42,930 INFO     909
+2016-08-31 22:47:42,930 INFO     Length of setlist is:
+2016-08-31 22:47:42,930 INFO     541
+2016-08-31 22:47:42,930 INFO     ***************************
+2016-08-31 22:47:42,932 INFO     127.0.0.1 - - [31/Aug/2016 22:47:42] "POST /corpus/y HTTP/1.1" 200 -
