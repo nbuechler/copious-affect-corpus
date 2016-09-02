@@ -1,0 +1,73 @@
+2016-09-01 23:35:27,436 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-01 23:35:27,437 INFO      * Restarting with stat
+2016-09-01 23:35:27,693 WARNING   * Debugger is active!
+2016-09-01 23:35:27,699 INFO      * Debugger pin code: 294-815-374
+2016-09-01 23:35:40,014 INFO     ***************************
+2016-09-01 23:35:40,015 INFO     List is in the following mongo collection:
+2016-09-01 23:35:40,015 INFO     rebelliousness-corpus-only-syn-unq-order-1
+2016-09-01 23:35:40,026 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:40,165 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-01 23:35:40,165 INFO     [u'intractability', u'intractableness', u'insubordination', u'resistance', u'defiance']
+2016-09-01 23:35:40,165 INFO     =====END FLAT LIST=====
+2016-09-01 23:35:40,165 INFO     Length of list is:
+2016-09-01 23:35:40,165 INFO     5
+2016-09-01 23:35:40,165 INFO     Length of setlist is:
+2016-09-01 23:35:40,166 INFO     5
+2016-09-01 23:35:40,166 INFO     ***************************
+2016-09-01 23:35:40,166 INFO     ***************************
+2016-09-01 23:35:40,166 INFO     List is in the following mongo collection:
+2016-09-01 23:35:40,166 INFO     rebelliousness-corpus-only-syn-unq-order-2
+2016-09-01 23:35:40,168 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:40,297 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:40,418 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:40,536 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:40,664 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:40,782 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-01 23:35:40,783 INFO     [u'resistivity', u'involuntariness', u'resistance', u'electrical resistance', u'electrical device', u'rebelliousness', u'unresponsiveness', u'intractability', u'revolutionary group', u'electrical phenomenon', u'mechanical phenomenon', u'resistor', u'immunity', u'status', u'ohmic resistance', u'trait', u'underground', u'group action', u'opposition', u'defiance', u'impedance', u'condition', u'military action', u'unwillingness', u'challenge', u'intractableness', u'electric resistance', u'action', u'deadness']
+2016-09-01 23:35:40,783 INFO     =====END FLAT LIST=====
+2016-09-01 23:35:40,783 INFO     Length of list is:
+2016-09-01 23:35:40,783 INFO     34
+2016-09-01 23:35:40,783 INFO     Length of setlist is:
+2016-09-01 23:35:40,783 INFO     29
+2016-09-01 23:35:40,783 INFO     ***************************
+2016-09-01 23:35:40,783 INFO     ***************************
+2016-09-01 23:35:40,783 INFO     List is in the following mongo collection:
+2016-09-01 23:35:40,783 INFO     rebelliousness-corpus-only-syn-unq-order-3
+2016-09-01 23:35:40,786 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:40,921 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:41,046 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:41,175 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:41,302 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:41,430 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:41,549 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:41,686 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:41,820 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:41,949 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:42,077 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:42,210 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:42,339 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:42,466 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:42,588 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:42,712 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:42,843 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:42,973 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:43,096 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:43,222 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:43,362 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:43,498 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:43,621 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:43,756 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:43,884 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:44,006 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:44,128 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:44,261 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:44,386 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:35:44,511 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-01 23:35:44,511 INFO     [u'precondition', u'experimental condition', u'resistance', u'inelasticity', u'take exception', u'shape', u'relation', u'discipline', u'insubordination', u'better', u'antagonist', u'Opposition', u'electrical phenomenon', u'contestant', u'dispute', u'bid', u'legal action', u'execute', u'stipulate', u'complete', u'quest', u'group action', u'railroad', u'legal proceeding', u'gainsay', u'condition', u'premise', u'enemy', u'term', u'natural action', u'good health', u'electric resistance', u'subway', u'activity', u'release', u'state of affairs', u'fulfil', u'premiss', u'set up', u'stipulation', u'rebelliousness', u'undertake', u'physical phenomenon', u'railway system', u'event', u'intractability', u'contend', u'sue', u'accomplish', u'proceeding', u'tube', u'foe', u'state', u'political entity', u'resistor', u'body', u'circumstance', u'action at law', u'qualify', u'carry through', u'confrontation', u'disposition', u'defiance', u'consideration', u'teach', u'adversary', u'improve', u'action mechanism', u'exemption', u'metro', u'unwillingness', u'call for', u'political unit', u'contract', u'act', u'action', u'railway', u'railroad line', u'fulfill', u'opposition', u'human activity', u'speech act', u'repugn', u'electrical device', u'instruct', u'foeman', u'unresponsiveness', u'quality', u'plot', u'opposer', u'subway system', u'assumption', u'make grow', u'granting immunity', u'statement', u'meliorate', u'opponent', u'natural process', u'direction', u'invite', u'trait', u'resister', u'bespeak', u'train', u'temperament', u'impedance', u'specify', u'military action', u'amend', u'challenge', u'work', u'shampoo', u'human action', u'learn', u'situation', u'inquiring', u'carry out', u'procedure', u'deadness', u'resistivity', u'physical process', u'involuntariness', u'effectuate', u'process', u'attribute', u'healthiness', u'electrical resistance', u'ameliorate', u'oppositeness', u'litigate', u'information', u'develop', u'contest', u'objection', u'invulnerability', u'mechanism', u'check', u'activeness', u'unsusceptibility', u'revolutionary group', u'underground', u'party', u'political party', u'immunity', u'status', u'finish', u'ohmic resistance', u'opposite', u'object', u'effect', u'inanimateness', u'questioning', u'lifelessness', u'mechanical phenomenon', u'device', u'discharge', u'railway line', u'demand', u'intractableness', u'request', u'drive', u'proceedings', u'position', u'waiver']
+2016-09-01 23:35:44,511 INFO     =====END FLAT LIST=====
+2016-09-01 23:35:44,511 INFO     Length of list is:
+2016-09-01 23:35:44,512 INFO     231
+2016-09-01 23:35:44,512 INFO     Length of setlist is:
+2016-09-01 23:35:44,512 INFO     164
+2016-09-01 23:35:44,512 INFO     ***************************
+2016-09-01 23:35:44,514 INFO     127.0.0.1 - - [01/Sep/2016 23:35:44] "POST /corpus/y HTTP/1.1" 200 -
