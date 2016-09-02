@@ -1,0 +1,85 @@
+2016-09-01 23:33:15,541 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-01 23:33:15,541 INFO      * Restarting with stat
+2016-09-01 23:33:15,788 WARNING   * Debugger is active!
+2016-09-01 23:33:15,793 INFO      * Debugger pin code: 294-815-374
+2016-09-01 23:33:20,006 INFO     ***************************
+2016-09-01 23:33:20,007 INFO     List is in the following mongo collection:
+2016-09-01 23:33:20,007 INFO     quirkiness-corpus-only-syn-unq-order-1
+2016-09-01 23:33:20,017 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:20,147 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-01 23:33:20,147 INFO     [u'unfamiliarity', u'strangeness', u'quirk', u'crotchet', u'queerness', u'oddity']
+2016-09-01 23:33:20,148 INFO     =====END FLAT LIST=====
+2016-09-01 23:33:20,148 INFO     Length of list is:
+2016-09-01 23:33:20,148 INFO     6
+2016-09-01 23:33:20,148 INFO     Length of setlist is:
+2016-09-01 23:33:20,148 INFO     6
+2016-09-01 23:33:20,148 INFO     ***************************
+2016-09-01 23:33:20,148 INFO     ***************************
+2016-09-01 23:33:20,148 INFO     List is in the following mongo collection:
+2016-09-01 23:33:20,148 INFO     quirkiness-corpus-only-syn-unq-order-2
+2016-09-01 23:33:20,150 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:20,301 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:20,423 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:20,550 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:20,672 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:20,817 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:20,952 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-01 23:33:20,953 INFO     [u'tone', u'strangeness', u'oddity', u'crotchet', u'sex', u'twist', u'hook', u'homosexuality', u'quarter note', u'gayness', u'flavor', u'quality', u'oddment', u'oddness', u'sexual practice', u'unfamiliarity', u'queerness', u'curved shape', u'homoeroticism', u'note', u'channel', u'quirk', u'object', u'homosexualism', u'sexual activity', u'curiosity', u'sex activity', u'eccentricity', u'physical object', u'peculiarity', u'curio', u'flavour', u'quirkiness', u'foreignness', u'curve', u'rarity', u'curiousness', u'unusualness', u'groove', u'musical note']
+2016-09-01 23:33:20,953 INFO     =====END FLAT LIST=====
+2016-09-01 23:33:20,953 INFO     Length of list is:
+2016-09-01 23:33:20,953 INFO     60
+2016-09-01 23:33:20,953 INFO     Length of setlist is:
+2016-09-01 23:33:20,953 INFO     40
+2016-09-01 23:33:20,953 INFO     ***************************
+2016-09-01 23:33:20,953 INFO     ***************************
+2016-09-01 23:33:20,953 INFO     List is in the following mongo collection:
+2016-09-01 23:33:20,953 INFO     quirkiness-corpus-only-syn-unq-order-3
+2016-09-01 23:33:20,955 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:21,080 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:21,208 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:21,331 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:21,456 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:21,583 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:21,709 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:21,833 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:21,956 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:22,080 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:22,209 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:22,349 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:22,468 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:22,595 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:22,725 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:22,854 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:22,978 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:23,101 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:23,225 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:23,351 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:23,476 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:23,602 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:23,723 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:23,845 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:23,970 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:24,096 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:24,220 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:24,348 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:24,476 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:24,600 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:24,727 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:24,852 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:24,981 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:25,107 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:25,232 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:25,359 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:25,482 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:25,607 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:25,733 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:25,857 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:33:25,984 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-01 23:33:25,985 INFO     [u'convolute', u'wrestle', u'dance', u'rob', u'pervert', u'quarter note', u'content', u'sexual practice', u'infrequency', u'curve ball', u'passage', u'cheat', u'solicit', u'bank bill', u'uncommonness', u'lure', u'cognitive content', u'distort', u'sexual activity', u'rotary motion', u'physical object', u'hooking', u'level', u'transmission', u'gender', u'dig', u'secernate', u'trend', u'direct', u'crook', u'canalize', u'scarcity', u'channelize', u'note of hand', u'twine', u'take hold of', u'get down', u'section', u'verbalize', u'wriggle', u'sexuality', u'conduct', u'set down', u'plication', u'exercise', u'movement', u'degree', u'punch', u'conformation', u'water', u'hairdo', u'remark', u'property', u'arc', u'chant', u'promissory note', u'sophisticate', u'sexual urge', u'sapidity', u'verbalise', u'musical note', u'implement', u'secure', u'family', u'duct', u'clout', u'remnant', u'gimmick', u'manoeuver', u'personal letter', u'injure', u'change surface', u'distinctiveness', u'basketball shot', u'bender', u'breaking ball', u'coiffure', u'tell', u'sort', u'inquisitiveness', u'inflect', u'canalise', u'hurt', u'ambience', u'eccentricity', u'fleece', u'distinguishing characteristic', u'chisel', u'worm', u'sound property', u'channelise', u'musical notation', u'speciality', u'stream', u'attribute', u'distinctive feature', u'written record', u'bend', u'secern', u'rareness', u'end', u'goal', u'turn', u'savor', u'thieve', u'scarceness', u'feature', u'reject', u'stir', u'tension', u'TV channel', u'cut into', u'communicating', u'sneak', u'curiosity', u'sex activity', u'bodily function', u'cabbage', u'arch', u'annotation', u'twisting', u'smack', u'low density', u'golf shot', u'wrench', u'shade', u'wind', u'circularity', u'interpretation', u'deform', u'move', u'piece of cloth', u'pitch', u'braid', u'change form', u'queerness', u'fix', u'grade', u'flex', u'mention', u'tensity', u'rotation', u'sweetener', u'trip the light fantastic', u'government note', u'vallecula', u'curiousness', u'write down', u'pinch', u'depression', u'harm', u'ambiance', u'television channel', u'configuration', u'pure tone', u'colourize', u'slew', u'category', u'homoeroticism', u'mechanical device', u'trauma', u'Federal Reserve note', u'maneuver', u'social rank', u'short letter', u'tempt', u'remainder', u'grab', u'turn on', u'colour in', u'hair style', u'motion', u'tonicity', u'change shape', u'swing', u'quirkiness', u'stimulate', u'feel', u'savour', u'passageway', u'rank', u'peculiarity', u'hook', u'tenseness', u'carry', u'eminence', u'quality', u'shake up', u'sheer', u'swipe', u'purloin', u'eddy', u'written account', u'tonus', u'season', u'writhe', u'cognitive state', u'differentiate', u'grammatical constituent', u'constituent', u'kind', u'turn of events', u'fold', u'foreignness', u'kink', u'rarity', u'discolor', u'arouse', u'musical interval', u'enticement', u'feeling', u'steer', u'hairstyle', u'lick', u'tautness', u'strengthen', u'winding', u'say', u'tell apart', u'colorise', u'severalize', u'come-on', u'social dancing', u'note', u'take', u'flexure', u'transmit', u'commentary', u'greenback', u'channel', u'play', u'caliber', u'glom', u'object', u'filch', u'poke', u'mouth', u'addict', u'crochet', u'device', u'delve', u'segment', u'class', u'construction', u'talk', u'curio', u'impression', u'atmosphere', u'bait', u'tincture', u'crotchet', u'bring', u'certificate of indebtedness', u'utter', u'current', u'coloring', u'ratio', u'plume', u'manoeuvre', u'rick', u'crimp', u'hit', u'notation', u'homosexualism', u'relish', u'target', u'body part', u'whole tone', u'activity', u'knock off', u'steal', u'tactical maneuver', u'gazump', u'paper money', u'shake', u'sex', u'intertwine', u'contour', u'wonder', u'oddment', u'temptation', u'state', u'routine', u'notice', u'lineament', u'pluck', u'twist around', u'overcharge', u'folding money', u'body of water', u'distinguish', u'bank note', u'cop', u'banknote', u'veer', u'aura', u'distinction', u'comment', u'tone', u'point', u'color', u'swerve', u'individuation', u'homosexuality', u'wrick', u'speak', u'accustom', u'tint', u'mark', u'abstract', u'TV station', u'excite', u'observe', u'catch', u'spin', u'spirit', u'furrow', u'sound', u'look', u'hook shot', u'tang', u'transmission channel', u'bill', u'epithelial duct', u'air', u'aim', u'plait', u'unusualness', u'guide', u'loop', u'discolour', u'tress', u'disapprove', u'take note', u'surcharge', u'whirl', u'unfamiliarity', u'wound', u'speech', u'gustatory sensation', u'television station', u'development', u'physical entity', u'paper currency', u'colouring', u'nip', u'soak', u'timbre', u'colour', u'tactical manoeuvre', u'rip off', u'dimension', u'tone up', u'color in', u'imprint', u'shape', u'flavor', u'modulate', u'slue', u'timber', u'oddness', u'cut', u'density', u'character', u'calibre', u'communication channel', u'habituate', u'golf stroke', u'physiological property', u'quirk', u'displace', u'objective', u'snarf', u'snare', u'put down', u'wind up', u'taste perception', u'trip the light fantastic toe', u"banker's bill", u'entice', u'claw', u'sprain', u'specialness', u'parity', u'modus operandi', u'accost', u'biff', u'convey', u'auditory sensation', u'work out', u'transport', u'squirm', u'denseness', u'preeminence', u'curved shape', u'tenuity', u'high status', u'social status', u'refer', u'pilfer', u'be', u'marketing', u'mental object', u'step', u'rut', u'individualism', u'twirl', u'body process', u'colourise', u'coif', u'turn over', u'severalise', u'bodily process', u'strangeness', u'communication', u'social station', u'taste sensation', u'colorize', u'canal', u'transfer', u'disk shape', u'manner of speaking', u'intone', u'head', u'form', u'offer', u'specialty', u'gustatory perception', u'delivery', u'whole step', u'line', u'pull', u'injury', u'flavour', u'debt instrument', u'characteristic', u'incise', u'tone of voice', u'groove', u'individuality', u'oddity', u'taste', u'nobble', u'denote', u'twist', u'gayness', u'curl', u'distribution channel', u'state of mind', u'variety', u'smell', u'billet', u'draw', u'separate', u'curvature', u'snitch', u'take down', u'piece of material', u'interval', u'curve', u'crease', u'lift', u'fasten']
+2016-09-01 23:33:25,985 INFO     =====END FLAT LIST=====
+2016-09-01 23:33:25,985 INFO     Length of list is:
+2016-09-01 23:33:25,985 INFO     702
+2016-09-01 23:33:25,986 INFO     Length of setlist is:
+2016-09-01 23:33:25,986 INFO     463
+2016-09-01 23:33:25,986 INFO     ***************************
+2016-09-01 23:33:25,988 INFO     127.0.0.1 - - [01/Sep/2016 23:33:25] "POST /corpus/y HTTP/1.1" 200 -

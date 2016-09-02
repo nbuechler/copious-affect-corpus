@@ -1,0 +1,66 @@
+2016-09-01 23:29:10,314 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-01 23:29:10,314 INFO      * Restarting with stat
+2016-09-01 23:29:10,566 WARNING   * Debugger is active!
+2016-09-01 23:29:10,571 INFO      * Debugger pin code: 294-815-374
+2016-09-01 23:29:16,924 INFO     ***************************
+2016-09-01 23:29:16,924 INFO     List is in the following mongo collection:
+2016-09-01 23:29:16,924 INFO     powerlessness-corpus-only-syn-unq-order-1
+2016-09-01 23:29:16,935 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:17,065 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-01 23:29:17,065 INFO     [u'impotency', u'quality', u'impotence']
+2016-09-01 23:29:17,065 INFO     =====END FLAT LIST=====
+2016-09-01 23:29:17,065 INFO     Length of list is:
+2016-09-01 23:29:17,065 INFO     3
+2016-09-01 23:29:17,065 INFO     Length of setlist is:
+2016-09-01 23:29:17,065 INFO     3
+2016-09-01 23:29:17,065 INFO     ***************************
+2016-09-01 23:29:17,066 INFO     ***************************
+2016-09-01 23:29:17,066 INFO     List is in the following mongo collection:
+2016-09-01 23:29:17,066 INFO     powerlessness-corpus-only-syn-unq-order-2
+2016-09-01 23:29:17,067 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:17,191 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:17,314 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:17,435 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-01 23:29:17,436 INFO     [u'tone', u'grade', u'attribute', u'social station', u'rank', u'quality', u'timber', u'impotency', u'character', u'calibre', u'social status', u'sterility', u'lineament', u'impotence', u'powerlessness', u'caliber', u'degree', u'social rank', u'infertility', u'level', u'timbre', u'sound property', u'property', u'dimension']
+2016-09-01 23:29:17,436 INFO     =====END FLAT LIST=====
+2016-09-01 23:29:17,436 INFO     Length of list is:
+2016-09-01 23:29:17,436 INFO     28
+2016-09-01 23:29:17,436 INFO     Length of setlist is:
+2016-09-01 23:29:17,436 INFO     24
+2016-09-01 23:29:17,436 INFO     ***************************
+2016-09-01 23:29:17,436 INFO     ***************************
+2016-09-01 23:29:17,436 INFO     List is in the following mongo collection:
+2016-09-01 23:29:17,436 INFO     powerlessness-corpus-only-syn-unq-order-3
+2016-09-01 23:29:17,437 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:17,568 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:17,694 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:17,822 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:17,957 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:18,085 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:18,209 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:18,332 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:18,466 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:18,593 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:18,729 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:18,855 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:18,996 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:19,138 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:19,265 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:19,386 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:19,521 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:19,648 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:19,773 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:19,902 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:20,028 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:20,165 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:20,292 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:20,416 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-01 23:29:20,542 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-01 23:29:20,542 INFO     [u'slope', u'rating', u'atmosphere', u'concept', u'solid ground', u'tincture', u'tone up', u'woodland', u'dry land', u'sterileness', u'destroy', u'shape', u'earth', u'surpass', u'pitch', u'timberland', u'utter', u'flavor', u'prop', u'modulate', u'timber', u'biome', u'indicator', u'coloring', u'take aim', u'point', u'character', u'calibre', u'color', u'charge', u'change surface', u'scratch', u'ambience', u'role', u'sterility', u'take', u'sanitariness', u'case', u'horizontal surface', u'elevation', u'grapheme', u'good word', u'evaluate', u'persona', u'beam', u'material possession', u'storey', u'tensity', u'judge', u'conception', u'eccentric', u'physical object', u'sort out', u'geographical area', u'level', u'laurels', u'geographic area', u'grad', u'body part', u'honor', u'recommendation', u'whole tone', u'gauge', u'pass judgment', u'assemblage', u'surface', u'status', u'force', u'reference', u'train', u'ambiance', u'direct', u'rate', u'caliber', u'value', u'aim', u'pure tone', u'auditory sensation', u'bore', u'colourize', u'even', u'index', u'diam', u'character reference', u'pull down', u'gradient', u'magnitude', u'flush', u'gradation', u'verbalize', u'state', u'score', u'social status', u'engrave', u'impute', u'construction', u'ground', u'evaluation', u'lineament', u'exercise', u'body', u'be', u'fiber', u'construct', u'degree', u'fibre', u'angular unit', u'honour', u'social rank', u'inscribe', u'fictional character', u'step', u'impotency', u'arcdegree', u'post', u'cattle', u'stage', u'property', u'stand out', u'colour in', u'chant', u'asepsis', u'colourise', u'tonicity', u'range', u'place', u'geographical region', u'raze', u'assign', u'academic degree', u'diameter', u'tone', u'physiological condition', u'characterization', u'feel', u'proportion', u'enactment', u'social station', u'terra firma', u'imaginary being', u'rank', u'height', u'assess', u'belongings', u'spirit level', u'tenseness', u'portrayal', u'intone', u'quality', u'colorize', u'graphic symbol', u'speak', u'story', u'tint', u'testimonial', u'level off', u'altitude', u'manner of speaking', u'mark', u'assort', u'powerlessness', u'structure', u'grade', u'type', u'impotence', u'sort', u'theatrical role', u'rase', u'tonus', u'trait', u'inflect', u'stratum', u'ascribe', u'award', u'delivery', u'tear down', u'whole step', u'adult', u'printed symbol', u'line', u'valuation', u'spirit', u'sound', u'kine', u'flavour', u'look', u'fictitious character', u'physiological state', u'sound property', u'possession', u'tone of voice', u'discolor', u'lumber', u'musical notation', u'musical interval', u'outrank', u'feeling', u'imaginary creature', u'musical note', u'appraise', u'rank and file', u'discolour', u'gathering', u'oxen', u'tautness', u'strengthen', u'attribute', u'measure', u'power', u'written symbol', u'color in', u'cows', u'exponent', u'personation', u'work out', u'layer', u'form', u'colorise', u'floor', u'personnel', u'excel', u'feature', u'note', u'repute', u'reputation', u'speech', u'forest', u'holding', u'verbalise', u'smell', u'Bos taurus', u'classify', u'geographic region', u'even out', u'tension', u'abstraction', u'separate', u'valuate', u'object', u'dismantle', u'temperature unit', u'membership', u'mouth', u'colouring', u'grownup', u'tier', u'take down', u'Cartesian coordinate', u'class', u'grave', u'ground level', u'ablaut', u'land', u'infertility', u'timbre', u'colour', u'interval', u'destruct', u'dimension', u'accolade', u'part', u'shade', u'position', u'building material', u'order', u'talk', u'antisepsis']
+2016-09-01 23:29:20,543 INFO     =====END FLAT LIST=====
+2016-09-01 23:29:20,543 INFO     Length of list is:
+2016-09-01 23:29:20,543 INFO     390
+2016-09-01 23:29:20,543 INFO     Length of setlist is:
+2016-09-01 23:29:20,543 INFO     267
+2016-09-01 23:29:20,543 INFO     ***************************
+2016-09-01 23:29:20,544 INFO     127.0.0.1 - - [01/Sep/2016 23:29:20] "POST /corpus/y HTTP/1.1" 200 -
