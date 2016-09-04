@@ -1,0 +1,74 @@
+2016-09-03 21:01:46,990 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-03 21:01:46,990 INFO      * Restarting with stat
+2016-09-03 21:01:47,248 WARNING   * Debugger is active!
+2016-09-03 21:01:47,253 INFO      * Debugger pin code: 294-815-374
+2016-09-03 21:01:50,937 INFO     ***************************
+2016-09-03 21:01:50,937 INFO     List is in the following mongo collection:
+2016-09-03 21:01:50,937 INFO     reluctance-corpus-only-syn-unq-order-1
+2016-09-03 21:01:50,948 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:51,083 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-03 21:01:51,083 INFO     [u'hesitation', u'involuntariness', u'disinclination', u'unwillingness', u'indisposition', u'electrical phenomenon', u'hesitancy']
+2016-09-03 21:01:51,083 INFO     =====END FLAT LIST=====
+2016-09-03 21:01:51,083 INFO     Length of list is:
+2016-09-03 21:01:51,083 INFO     7
+2016-09-03 21:01:51,083 INFO     Length of setlist is:
+2016-09-03 21:01:51,084 INFO     7
+2016-09-03 21:01:51,084 INFO     ***************************
+2016-09-03 21:01:51,084 INFO     ***************************
+2016-09-03 21:01:51,084 INFO     List is in the following mongo collection:
+2016-09-03 21:01:51,084 INFO     reluctance-corpus-only-syn-unq-order-2
+2016-09-03 21:01:51,085 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:51,214 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:51,356 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:51,486 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:51,627 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:51,748 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:51,890 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:52,012 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-03 21:01:52,012 INFO     [u'illness', u'self-distrust', u'involuntariness', u'irresolution', u'physical phenomenon', u'diffidence', u'pause', u'hesitation', u'waver', u'faltering', u'reluctance', u'wavering', u'falter', u'dislike', u'indecisiveness', u'self-doubt', u'malady', u'vacillation', u'sickness', u'indecision', u'hesitance', u'disposition', u'temperament', u'hesitancy', u'disinclination', u'unwillingness', u'unwellness', u'indisposition']
+2016-09-03 21:01:52,012 INFO     =====END FLAT LIST=====
+2016-09-03 21:01:52,012 INFO     Length of list is:
+2016-09-03 21:01:52,013 INFO     49
+2016-09-03 21:01:52,013 INFO     Length of setlist is:
+2016-09-03 21:01:52,013 INFO     28
+2016-09-03 21:01:52,013 INFO     ***************************
+2016-09-03 21:01:52,013 INFO     ***************************
+2016-09-03 21:01:52,013 INFO     List is in the following mongo collection:
+2016-09-03 21:01:52,013 INFO     reluctance-corpus-only-syn-unq-order-3
+2016-09-03 21:01:52,015 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:52,141 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:52,271 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:52,408 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:52,538 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:52,661 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:52,784 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:52,909 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:53,031 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:53,158 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:53,283 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:53,405 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:53,525 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:53,648 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:53,771 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:53,895 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:54,017 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:54,140 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:54,267 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:54,390 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:54,521 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:54,668 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:54,804 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:54,934 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:55,065 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:55,189 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:55,311 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:55,431 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:55,561 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-03 21:01:55,562 INFO     [u'time interval', u'attitude', u'dubiety', u'adjustment', u'feat', u'tendency', u'pause', u'move back and forth', u'disposal', u'reluctance', u'dubiousness', u'electrical phenomenon', u'suspension', u'dislike', u'sway', u'move', u'break', u'irresolution', u'interrupt', u'defectiveness', u'condition', u'nausea', u'malady', u'irresoluteness', u'health problem', u'disinclination', u'readjustment', u'inclination', u'disrupt', u'interruption', u'unhealthiness', u'waffle', u'utter', u'diffidence', u'hesitation', u'sickness', u'verbalize', u'intermit', u'timidness', u'movement', u'vacillation', u'unregularity', u'nature', u'indecision', u'incertitude', u'disposition', u'feeling', u'vacillate', u'unwillingness', u'uncertainty', u'flicker', u'verbalise', u'swing', u'timorousness', u'faultiness', u'vocalize', u'walk', u'exploit', u'registration', u'quiver', u'stumble', u'speak', u'faltering', u'quaver', u'disapproval', u'doubt', u'wavering', u'motility', u'break up', u'bumble', u'hesitance', u'trait', u'stutter', u'falter', u'doubtfulness', u'temperament', u'disfavor', u'hesitancy', u'effort', u'symptom', u'sound', u'intermission', u'indecisiveness', u'stammer', u'unwellness', u'indisposition', u'voice', u'motion', u'flitter', u'illness', u'self-distrust', u'involuntariness', u'fluctuation', u'swinging', u'ill health', u'property', u'natural phenomenon', u'deed', u'cut off', u'hesitate', u'emotionalism', u'delay', u'mental attitude', u'self-doubt', u'disfavour', u'status', u'timidity', u'vocalise', u'mouth', u'waver', u'communicator', u'fluctuate', u'flutter', u'weave', u'inactivity', u'emotionality', u'interval', u'irregularity', u'talk']
+2016-09-03 21:01:55,562 INFO     =====END FLAT LIST=====
+2016-09-03 21:01:55,562 INFO     Length of list is:
+2016-09-03 21:01:55,562 INFO     246
+2016-09-03 21:01:55,562 INFO     Length of setlist is:
+2016-09-03 21:01:55,563 INFO     119
+2016-09-03 21:01:55,563 INFO     ***************************
+2016-09-03 21:01:55,564 INFO     127.0.0.1 - - [03/Sep/2016 21:01:55] "POST /corpus/y HTTP/1.1" 200 -
