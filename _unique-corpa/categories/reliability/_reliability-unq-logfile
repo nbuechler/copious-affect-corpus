@@ -1,0 +1,62 @@
+2016-09-03 21:00:15,294 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-03 21:00:15,296 INFO      * Restarting with stat
+2016-09-03 21:00:15,538 WARNING   * Debugger is active!
+2016-09-03 21:00:15,546 INFO      * Debugger pin code: 294-815-374
+2016-09-03 21:01:03,877 INFO     ***************************
+2016-09-03 21:01:03,878 INFO     List is in the following mongo collection:
+2016-09-03 21:01:03,878 INFO     reliability-corpus-only-syn-unq-order-1
+2016-09-03 21:01:03,889 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:04,063 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-03 21:01:04,064 INFO     [u'dependability', u'reliableness', u'responsibility', u'dependableness', u'responsibleness']
+2016-09-03 21:01:04,064 INFO     =====END FLAT LIST=====
+2016-09-03 21:01:04,064 INFO     Length of list is:
+2016-09-03 21:01:04,064 INFO     5
+2016-09-03 21:01:04,064 INFO     Length of setlist is:
+2016-09-03 21:01:04,064 INFO     5
+2016-09-03 21:01:04,064 INFO     ***************************
+2016-09-03 21:01:04,064 INFO     ***************************
+2016-09-03 21:01:04,064 INFO     List is in the following mongo collection:
+2016-09-03 21:01:04,064 INFO     reliability-corpus-only-syn-unq-order-2
+2016-09-03 21:01:04,066 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:04,239 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:04,385 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:04,553 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:04,712 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:04,852 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-03 21:01:04,852 INFO     [u'duty', u'dependability', u'domain', u'province', u'trustiness', u'responsibleness', u'area', u'social control', u'orbit', u'arena', u'reliableness', u'sphere', u'field', u'reliability', u'responsibility', u'dependableness', u'obligation', u'trustworthiness']
+2016-09-03 21:01:04,852 INFO     =====END FLAT LIST=====
+2016-09-03 21:01:04,853 INFO     Length of list is:
+2016-09-03 21:01:04,853 INFO     31
+2016-09-03 21:01:04,853 INFO     Length of setlist is:
+2016-09-03 21:01:04,853 INFO     18
+2016-09-03 21:01:04,853 INFO     ***************************
+2016-09-03 21:01:04,853 INFO     ***************************
+2016-09-03 21:01:04,853 INFO     List is in the following mongo collection:
+2016-09-03 21:01:04,854 INFO     reliability-corpus-only-syn-unq-order-3
+2016-09-03 21:01:04,857 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:04,996 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:05,125 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:05,265 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:05,417 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:05,554 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:05,708 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:05,849 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:05,981 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:06,118 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:06,255 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:06,387 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:06,524 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:06,657 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:06,791 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:06,928 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:07,068 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:07,219 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-03 21:01:07,347 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-03 21:01:07,347 INFO     [u'sector', u'surface area', u'vault of heaven', u'dry land', u'visual image', u'round shape', u'aspect', u'electron orbit', u'earth', u'heavens', u'ground', u'discipline', u'ambit', u'social control', u'social class', u'environment', u'choose', u'circle', u'dependability', u'handle', u'parcel', u'champaign', u'business enterprise', u'group action', u'compass', u'world', u'trustworthiness', u'geographical area', u'empyrean', u'geographic area', u'body part', u'plain', u'knowledge domain', u'study', u'respond', u'battlefield', u'domain', u'set', u'palm', u'cavum', u'playing field', u'physical phenomenon', u'field of operations', u'subject', u'geographical region', u'battleground', u'theatre', u'matter', u'cavity', u'subject field', u'state', u'socio-economic class', u'commercial enterprise', u'visual percept', u'issue', u'line of business', u'welkin', u'business', u'subject area', u'scene of action', u'theatre of operations', u'cranial orbit', u'extent', u'path', u'obligation', u'orb', u'arena', u'installation', u'administrative district', u'country', u'route', u'indirect tax', u'facet', u'range', u'reply', u'duty', u'artefact', u'facility', u'tract', u'terra firma', u'written agreement', u'dependableness', u'airfield', u'geographic region', u'select', u'field of battle', u'province', u'area', u'stadium', u'playing area', u'circulate', u'landing field', u'bailiwick', u'field of operation', u'trait', u'piece of land', u'personal relation', u'artifact', u'expanse', u'flying field', u'construction', u'scope', u'athletic field', u'tariff', u'branch of knowledge', u'responsibleness', u'field of honor', u'force field', u'work', u'sphere of influence', u'orbital cavity', u'territorial division', u'itinerary', u'theater of operations', u'region', u'celestial sphere', u'surface', u'topic', u'sphere', u'reliability', u'eye socket', u'parcel of land', u'knowledge base', u'realm', u'solid ground', u'indebtedness', u'bowl', u'piece of ground', u'field of force', u'field', u'take', u'demesne', u'answer', u'personal relationship', u'firmament', u'play', u'field of study', u'celestial orbit', u'reach', u'field of view', u'pick out', u'bodily cavity', u'revolve', u'class', u'structure', u'trustiness', u'sports stadium', u'land', u'theater', u'administrative division', u'orbit', u'reliableness', u'responsibility']
+2016-09-03 21:01:07,347 INFO     =====END FLAT LIST=====
+2016-09-03 21:01:07,348 INFO     Length of list is:
+2016-09-03 21:01:07,348 INFO     241
+2016-09-03 21:01:07,348 INFO     Length of setlist is:
+2016-09-03 21:01:07,348 INFO     153
+2016-09-03 21:01:07,348 INFO     ***************************
+2016-09-03 21:01:07,349 INFO     127.0.0.1 - - [03/Sep/2016 21:01:07] "POST /corpus/y HTTP/1.1" 200 -
