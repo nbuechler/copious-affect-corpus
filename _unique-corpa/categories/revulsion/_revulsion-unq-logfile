@@ -1,0 +1,71 @@
+2016-09-04 22:24:25,672 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-04 22:24:25,672 INFO      * Restarting with stat
+2016-09-04 22:24:25,915 WARNING   * Debugger is active!
+2016-09-04 22:24:25,920 INFO      * Debugger pin code: 294-815-374
+2016-09-04 22:24:46,286 INFO     ***************************
+2016-09-04 22:24:46,286 INFO     List is in the following mongo collection:
+2016-09-04 22:24:46,286 INFO     revulsion-corpus-only-syn-unq-order-1
+2016-09-04 22:24:46,294 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:46,425 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-04 22:24:46,425 INFO     [u'horror', u'repulsion', u'disgust', u'repugnance']
+2016-09-04 22:24:46,425 INFO     =====END FLAT LIST=====
+2016-09-04 22:24:46,426 INFO     Length of list is:
+2016-09-04 22:24:46,426 INFO     4
+2016-09-04 22:24:46,426 INFO     Length of setlist is:
+2016-09-04 22:24:46,426 INFO     4
+2016-09-04 22:24:46,426 INFO     ***************************
+2016-09-04 22:24:46,426 INFO     ***************************
+2016-09-04 22:24:46,426 INFO     List is in the following mongo collection:
+2016-09-04 22:24:46,426 INFO     revulsion-corpus-only-syn-unq-order-2
+2016-09-04 22:24:46,428 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:46,573 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:46,704 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:46,855 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:47,007 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-04 22:24:47,007 INFO     [u'repulse', u'force', u'fright', u'nauseate', u'fear', u'thing', u'inconsistency', u'disgust', u'incompatibility', u'dislike', u'stir', u'fearfulness', u'contradictoriness', u'gross out', u'repulsive force', u'repugnance', u'horror', u'excite', u'revulsion', u'churn up', u'revolt', u'sicken', u'repel', u'repulsion', u'stand', u'mutual exclusiveness', u'stimulate', u'standoff']
+2016-09-04 22:24:47,007 INFO     =====END FLAT LIST=====
+2016-09-04 22:24:47,008 INFO     Length of list is:
+2016-09-04 22:24:47,008 INFO     35
+2016-09-04 22:24:47,008 INFO     Length of setlist is:
+2016-09-04 22:24:47,008 INFO     28
+2016-09-04 22:24:47,008 INFO     ***************************
+2016-09-04 22:24:47,008 INFO     ***************************
+2016-09-04 22:24:47,008 INFO     List is in the following mongo collection:
+2016-09-04 22:24:47,009 INFO     revulsion-corpus-only-syn-unq-order-3
+2016-09-04 22:24:47,012 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:47,164 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:47,317 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:47,450 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:47,579 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:47,709 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:47,837 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:47,962 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:48,089 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:48,216 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:48,338 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:48,504 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:48,661 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:48,806 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:48,966 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:49,089 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:49,223 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:49,369 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:49,512 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:49,662 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:49,824 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:49,977 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:50,136 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:50,300 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:50,448 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:50,599 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:50,754 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:50,880 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-04 22:24:51,012 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-04 22:24:51,012 INFO     [u'affair', u'vegetation', u'displease', u'force back', u'commotion', u'lay', u'move', u'affright', u'rest', u'entity', u'point of view', u'shake', u'touch', u'fear', u'suffer', u'aggression', u'conjure', u'impact', u'fend', u'uprising', u'disturbance', u'table', u'organisation', u'measure', u'brook', u'stopover', u'stance', u'push back', u'freak out', u'charge', u'stand', u'disgust', u'ado', u'dislike', u'posture', u'layover', u'alter', u'do', u'fight off', u'stick out', u'invoke', u'pull', u'evaluate', u'hostility', u'rise', u'outdoor stage', u'displace', u'bear', u'scorn', u'have', u'spurn', u'hale', u'bustle', u'tie', u'judge', u'penetrate', u'trouble', u'bandstand', u'revulsion', u'sales booth', u'serve', u'din', u'commove', u'standstill', u'prize', u'military unit', u'wind up', u'call down', u'rouse', u'forcefulness', u'conflict', u'affect', u'physiological state', u'touch on', u'mutual exclusiveness', u'hustle', u'state of affairs', u'revere', u'sensitize', u'cowardice', u'withstand', u'harm', u'set', u'force', u'regret', u'tiered seat', u'to-do', u'agitate', u'sex', u'resist', u'battle', u'intensity', u'arouse', u'booth', u'respect', u'set up', u'physical phenomenon', u'oppositeness', u'drive back', u'concern', u'aim', u'veneration', u'repugnance', u'position', u'worsen', u'defend', u'brace', u'induce', u'abide', u'get', u'continue', u'tendency', u'freeze off', u'kerfuffle', u'incompatibility', u'social unit', u'perforate', u'cause', u'inclination', u'opposition', u'be', u'tie-up', u'repulsive force', u'pass judgment', u'power', u'decline', u'fight back', u'hold out', u'social group', u'military group', u'cowardliness', u'pressure', u'support', u'base', u'hoo-ha', u'rebel', u'disposition', u'kindle', u'thrust', u'bring up', u'turn down', u'change', u'care', u'hasten', u'defense', u'service', u'disdain', u'shift', u'violence', u'countenance', u'come down', u'sicken', u'enkindle', u'repel', u'oppose', u'contradictoriness', u'rumpus', u'act', u'action', u'let', u'digest', u'fight down', u'stimulate', u'struggle', u'emotion', u'botany', u'artefact', u'call forth', u'physiological condition', u'pose', u'repulse', u'force out', u'nauseate', u'put', u'obligate', u'rising', u'esteem', u'snub', u'intensiveness', u'stall', u'shake up', u'unit', u'occurrence', u'rise up', u'sensitise', u'raise', u'military force', u'platform', u'create', u'remain firm', u'disapproval', u'fight', u'splash', u'stand firm', u'storm', u'attribute', u'strike', u'tumult', u'turn on', u'pooh-pooh', u'fearfulness', u'ruckus', u'arise', u'statement', u'perk up', u'fire', u'excite', u'validity', u'force play', u'permit', u'disruption', u'stand up', u'disfavor', u'squeeze', u'nonuniformity', u'conjure up', u'rebuff', u'causal agency', u'rush', u'anxiety', u'rejection', u'target', u'characteristic', u'challenge', u'work', u'tolerate', u'venerate', u'value', u'rack', u'impel', u'matter', u'remain', u'force-out', u'modify', u'endure', u'effectuate', u'situation', u'charge up', u'feeling', u'natural event', u'wedge', u'stop', u'freak', u'disturb', u'fright', u'agitation', u'frighten', u'abstract', u'ram', u'influence', u'upset', u"turn one's stomach", u'bear upon', u'put up', u'coerce', u'elicit', u'insurrection', u'bear on', u'hoo-hah', u'stomach', u'pedestal', u'provoke', u'worry', u'halt', u'strength', u'place', u'viewpoint', u'thing', u'personnel', u'make', u'flora', u'compel', u'place upright', u'rebellion', u'finish', u'hurly burly', u'defensive measure', u'reject', u'objective', u'repulsion', u'prise', u'stir', u'horror', u'disfavour', u'evoke', u'gross out', u'draw', u'abstraction', u'beat back', u'fuss', u'physical entity', u'oblige', u'impress', u'object', u'standpoint', u'effect', u'defence', u'stay', u'occurrent', u'flurry', u'put forward', u'artifact', u'reverence', u'ruction', u'energise', u'awe', u'panic', u'causal agent', u'flutter', u'inconsistency', u'putout', u'happening', u'energize', u'churn up', u'validness', u'revolt', u'drive', u'scare', u'budge', u'dread', u'allow', u'push', u'organization', u'standoff']
+2016-09-04 22:24:51,013 INFO     =====END FLAT LIST=====
+2016-09-04 22:24:51,013 INFO     Length of list is:
+2016-09-04 22:24:51,013 INFO     490
+2016-09-04 22:24:51,013 INFO     Length of setlist is:
+2016-09-04 22:24:51,013 INFO     324
+2016-09-04 22:24:51,013 INFO     ***************************
+2016-09-04 22:24:51,014 INFO     127.0.0.1 - - [04/Sep/2016 22:24:51] "POST /corpus/y HTTP/1.1" 200 -
