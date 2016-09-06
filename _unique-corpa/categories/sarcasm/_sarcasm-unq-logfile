@@ -1,0 +1,91 @@
+2016-09-05 20:04:12,728 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-05 20:04:12,728 INFO      * Restarting with stat
+2016-09-05 20:04:12,990 WARNING   * Debugger is active!
+2016-09-05 20:04:12,996 INFO      * Debugger pin code: 294-815-374
+2016-09-05 20:04:17,732 INFO     ***************************
+2016-09-05 20:04:17,732 INFO     List is in the following mongo collection:
+2016-09-05 20:04:17,732 INFO     sarcasm-corpus-only-syn-unq-order-1
+2016-09-05 20:04:17,740 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:17,867 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-05 20:04:17,867 INFO     [u'humor', u'humour', u'irony', u'satire', u'wit', u'witticism', u'wittiness', u'caustic remark']
+2016-09-05 20:04:17,867 INFO     =====END FLAT LIST=====
+2016-09-05 20:04:17,867 INFO     Length of list is:
+2016-09-05 20:04:17,867 INFO     8
+2016-09-05 20:04:17,867 INFO     Length of setlist is:
+2016-09-05 20:04:17,867 INFO     8
+2016-09-05 20:04:17,867 INFO     ***************************
+2016-09-05 20:04:17,867 INFO     ***************************
+2016-09-05 20:04:17,867 INFO     List is in the following mongo collection:
+2016-09-05 20:04:17,868 INFO     sarcasm-corpus-only-syn-unq-order-2
+2016-09-05 20:04:17,869 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:18,000 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:18,123 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:18,260 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:18,397 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:18,522 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:18,655 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:18,786 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:18,908 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-05 20:04:18,908 INFO     [u'humour', u'intelligence', u'image', u'incongruity', u'brain', u'wit', u'message', u'quality', u'pander', u'subject matter', u'humor', u'mood', u'wag', u'sarcasm', u'irony', u'satire', u'content', u'figure', u'caustic remark', u'humorist', u'body substance', u'gratify', u'sense of humour', u'incongruousness', u'mentality', u'brainpower', u'body fluid', u'indulge', u'witticism', u'sense of humor', u'liquid body substance', u'card', u'playfulness', u'bodily fluid', u'substance', u'learning ability', u'humourist', u'mental capacity', u'figure of speech', u'fun', u'wittiness', u'feeling', u'temper', u'trope']
+2016-09-05 20:04:18,909 INFO     =====END FLAT LIST=====
+2016-09-05 20:04:18,909 INFO     Length of list is:
+2016-09-05 20:04:18,909 INFO     112
+2016-09-05 20:04:18,909 INFO     Length of setlist is:
+2016-09-05 20:04:18,909 INFO     44
+2016-09-05 20:04:18,909 INFO     ***************************
+2016-09-05 20:04:18,910 INFO     ***************************
+2016-09-05 20:04:18,910 INFO     List is in the following mongo collection:
+2016-09-05 20:04:18,910 INFO     sarcasm-corpus-only-syn-unq-order-3
+2016-09-05 20:04:18,913 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:19,034 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:19,154 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:19,273 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:19,398 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:19,522 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:19,645 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:19,770 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:19,892 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:20,017 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:20,149 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:20,294 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:20,422 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:20,544 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:20,672 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:20,806 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:20,927 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:21,046 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:21,174 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:21,295 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:21,421 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:21,557 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:21,680 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:21,808 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:21,933 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:22,064 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:22,189 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:22,314 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:22,439 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:22,563 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:22,697 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:22,826 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:22,950 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:23,072 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:23,197 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:23,321 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:23,441 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:23,567 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:23,686 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:23,813 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:23,935 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:24,056 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:24,175 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:24,296 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-05 20:04:24,419 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-05 20:04:24,420 INFO     [u'positive identification', u'pass on', u'organic structure', u'effigy', u'psyche', u'pique', u'heart and soul', u'calculate', u'mental representation', u'ambience', u'digit', u'encephalon', u'administrative body', u'condition', u'recreation', u'moderate', u'level', u'dig', u'adjust', u'sum of money', u'ornamentation', u'pass judgment', u'accumulation', u'assemblage', u'core', u'material body', u'sign', u'design', u'pass', u'toughen', u'pander', u'sum', u'touch sensation', u'capital', u'humorist', u'body', u'circuit board', u'degree', u'mental image', u'cosset', u'perceptual experience', u'chassis', u'illustration', u'witticism', u'epitome', u'cardboard', u'change', u'mindset', u'merriment', u'substance', u'luxuriate', u'figure of speech', u'amount', u'flavour', u'opinion', u'bod', u'toughness', u'humour', u'wit', u'circumscribe', u'peevishness', u'intuitive feeling', u'subject matter', u'percept', u'card', u'posting', u'baby', u'cognitive content', u'word', u'offender', u'soul', u'sound property', u'frivolity', u'somatesthesia', u'modify', u'entertainer', u'somesthesia', u'example', u'panderer', u'control', u'heart', u'figure', u'attribute', u'frivolousness', u'handle', u'weaken', u'normalize', u'information', u'procurer', u'provide', u'mollycoddle', u'grok', u'incongruousness', u'visual aspect', u'influential person', u'collection', u'marrow', u'biliousness', u'physical structure', u'run through', u'nous', u'essence', u'brain', u'attitude', u'paper', u'shake', u'envisage', u'comprehend', u'feel', u'fig', u'waggle', u'alter', u'correspondence', u'someone', u'somebody', u'fancy', u'body fluid', u'indulge', u'chasten', u'name', u'cognition', u'component part', u'look-alike', u'intelligence service', u'mode', u'vexation', u'trope', u'pamper', u'ambiance', u'idea', u'irritation', u'mind-set', u'irritability', u'irony', u'physical entity', u'variety meat', u'content', u'whole number', u'get the picture', u'correct', u'maneuver', u'perception', u'belief', u'social rank', u'activity', u'brainpower', u'reason', u'imagine', u'estimate', u'calling card', u'tactual sensation', u'thing', u'somaesthesia', u'mortal', u'intuition', u'kernel', u'grade', u'number', u'rank', u'deplete', u'message', u'quality', u'sarcasm', u'caustic remark', u'season', u'mentality', u'part', u'visiting card', u'double', u'project', u'matter', u'feeling', u'pettishness', u'mind', u'scorecard', u'organs', u'modality', u'simulacrum', u'physique', u'build', u'mental attitude', u'play', u'caliber', u'roster', u'reckon', u'enter', u'satisfy', u'procure', u'anatomy', u'cipher', u'representation', u'icon', u'notion', u'impression', u'atmosphere', u'ill nature', u'tidings', u'featherbed', u'knowledge', u'eat up', u'menu', u'proportion', u'manoeuvre', u'ikon', u'anneal', u'gratify', u'hit', u'touch', u'means', u'wiggle', u'compass', u'compute', u'intelligence agency', u'bodily fluid', u'humourist', u'pimp', u'snappishness', u'ascertain', u'wipe out', u'set', u'intelligence', u'frame', u'use up', u'add-in', u'see', u'individual', u'salutation', u'sport', u'nub', u'subject', u'visualize', u'capacity', u'playfulness', u'pattern', u'ornament', u'ideate', u'forecast', u'genius', u'state', u'incompatibility', u'limit', u'notice', u'ability', u'visualise', u'component', u'lineament', u'joggle', u'spoil', u'news', u'conceive of', u'climate', u'important person', u'assure', u'tone', u'consume', u'supply', u'gaiety', u'coddle', u'acceptance', u'satire', u'treat', u'prototype', u'body substance', u'gist', u'snap', u'intelligence activity', u'spirit', u'cypher', u'look', u'bill', u'intelligence operation', u'harden', u'fun', u'property', u'batting order', u'agitation', u'apprehend', u'decoration', u'count on', u'pith', u'composition board', u'check', u'see to it', u'status', u'exhaust', u'persona', u'intelligence information', u'effect', u'neural structure', u'diversion', u'amount of money', u'sense of humor', u'liquid body substance', u'insure', u'center', u'timbre', u'mental capacity', u'thought', u'person', u'savvy', u'model', u'paradigm', u'inwardness', u'dimension', u'noesis', u'flesh', u'incongruity', u'shape', u'kill', u'plug-in', u'information gathering', u'flavor', u'timber', u'fancy man', u'character', u'calibre', u'surliness', u'board', u'do by', u'wrongdoer', u'rhetorical device', u'physical body', u'evaluate', u'grammatical relation', u'aggregation', u'judge', u'integer', u'public figure', u'meat', u'smell', u'greeting', u'contentedness', u'appearance', u'identity card', u'envision', u'soma', u'work out', u'intellect', u'administrative unit', u'humor', u'mood', u'jiggle', u'social status', u'human body', u'carte', u'printed circuit', u'be', u'power', u'communicate', u'mental object', u'ply', u'chafe', u'placard', u'record book', u'tease', u'tactile sensation', u'simulation', u'ensure', u'wittiness', u'outlook', u'communication', u'image', u'social station', u'elasticity', u'intellectual', u'cocker', u'sense of humour', u'annoyance', u'bill of fare', u'wag', u'personage', u'ponce', u'nitty-gritty', u'mollify', u'somatic sensation', u'circuit card', u'head', u'form', u'poster', u'volume', u'internal representation', u'eat', u'info', u'learning ability', u'record', u'depicted object', u'Einstein', u'grasp', u'temper', u'put across', u'levity', u'book', u'confine', u'pandar', u'roll', u'picture', u'pass along', u'separate', u'meaning', u'cater', u'mastermind', u'carte du jour', u'brainiac', u'portion', u'lineup']
+2016-09-05 20:04:24,420 INFO     =====END FLAT LIST=====
+2016-09-05 20:04:24,420 INFO     Length of list is:
+2016-09-05 20:04:24,420 INFO     650
+2016-09-05 20:04:24,421 INFO     Length of setlist is:
+2016-09-05 20:04:24,421 INFO     405
+2016-09-05 20:04:24,421 INFO     ***************************
+2016-09-05 20:04:24,422 INFO     127.0.0.1 - - [05/Sep/2016 20:04:24] "POST /corpus/y HTTP/1.1" 200 -
