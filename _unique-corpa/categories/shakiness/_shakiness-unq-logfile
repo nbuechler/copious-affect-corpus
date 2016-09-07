@@ -1,0 +1,117 @@
+2016-09-06 23:04:14,816 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-06 23:04:14,816 INFO      * Restarting with stat
+2016-09-06 23:04:15,063 WARNING   * Debugger is active!
+2016-09-06 23:04:15,068 INFO      * Debugger pin code: 294-815-374
+2016-09-06 23:04:27,804 INFO     ***************************
+2016-09-06 23:04:27,804 INFO     List is in the following mongo collection:
+2016-09-06 23:04:27,804 INFO     shakiness-corpus-only-syn-unq-order-1
+2016-09-06 23:04:27,814 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:27,954 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-06 23:04:27,954 INFO     [u'quiver', u'vibration', u'unstableness', u'quivering', u'trembling', u'motion', u'palpitation', u'instability', u'shaking']
+2016-09-06 23:04:27,954 INFO     =====END FLAT LIST=====
+2016-09-06 23:04:27,954 INFO     Length of list is:
+2016-09-06 23:04:27,954 INFO     9
+2016-09-06 23:04:27,954 INFO     Length of setlist is:
+2016-09-06 23:04:27,954 INFO     9
+2016-09-06 23:04:27,954 INFO     ***************************
+2016-09-06 23:04:27,954 INFO     ***************************
+2016-09-06 23:04:27,955 INFO     List is in the following mongo collection:
+2016-09-06 23:04:27,955 INFO     shakiness-corpus-only-syn-unq-order-2
+2016-09-06 23:04:27,956 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:28,105 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:28,242 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:28,377 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:28,510 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:28,645 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:28,779 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:28,911 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:29,043 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:29,171 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-06 23:04:29,172 INFO     [u'flitter', u'atmosphere', u'quiver', u'occurrence', u'fright', u'quivering', u'gesture', u'move', u'ambiance', u'undependableness', u'unreliableness', u'quake', u'optical illusion', u'gesticulate', u'fear', u'air', u'tremble', u'agitation', u'symptom', u'move back and forth', u'vibration', u'vibe', u'apparent motion', u'apparent movement', u'question', u'unsteadiness', u'shudder', u'palpitation', u'tingle', u'motility', u'ambience', u'proposal', u'imbalance', u'fearfulness', u'movement', u'disorder', u'flicker', u'state', u'beat', u'visual communication', u'communicate', u'undependability', u'happening', u'wave', u'occurrent', u'unbalance', u'frisson', u'waver', u'shiver', u'unreliability', u'flutter', u'change', u'chill', u'case', u'undulation', u'palpitate', u'disequilibrium', u'thrill', u'intercommunicate', u'pulsate', u'trembling', u'motion', u'shakiness', u'aura', u'unstableness', u'instability', u'shaking', u'natural event', u'oscillation']
+2016-09-06 23:04:29,172 INFO     =====END FLAT LIST=====
+2016-09-06 23:04:29,172 INFO     Length of list is:
+2016-09-06 23:04:29,172 INFO     115
+2016-09-06 23:04:29,172 INFO     Length of setlist is:
+2016-09-06 23:04:29,172 INFO     69
+2016-09-06 23:04:29,173 INFO     ***************************
+2016-09-06 23:04:29,173 INFO     ***************************
+2016-09-06 23:04:29,173 INFO     List is in the following mongo collection:
+2016-09-06 23:04:29,173 INFO     shakiness-corpus-only-syn-unq-order-3
+2016-09-06 23:04:29,175 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:29,323 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:29,452 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:29,582 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:29,716 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:29,847 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:29,987 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:30,129 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:30,262 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:30,391 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:30,522 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:30,652 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:30,787 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:30,918 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:31,064 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:31,198 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:31,359 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:31,491 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:31,630 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:31,762 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:31,893 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:32,022 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:32,156 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:32,288 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:32,424 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:32,557 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:32,697 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:32,836 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:32,967 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:33,104 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:33,236 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:33,367 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:33,501 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:33,644 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:33,774 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:33,903 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:34,036 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:34,173 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:34,309 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:34,443 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:34,575 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:34,710 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:34,843 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:34,975 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:35,103 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:35,247 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:35,378 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:35,512 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:35,647 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:35,779 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:35,910 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:36,042 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:36,181 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:36,327 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:36,471 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:36,600 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:36,735 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:36,868 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:37,001 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:37,155 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:37,290 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:37,419 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:37,551 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:37,680 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:37,815 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:37,943 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:38,073 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:38,207 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:38,343 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:04:38,480 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-06 23:04:38,480 INFO     [u'State Department', u'pass on', u'dispirit', u'undulate', u'unrest', u'proposition', u'deepen', u'go', u'query', u'ruminate', u'uncertainness', u'ventilate', u'raise up', u'flash', u'send', u'dubiousness', u'environment', u'amaze', u'outwit', u'rhythm', u'ambience', u'gravel', u'sway', u'sound', u'woman', u'gloriole', u'nonplus', u'rise', u'wave', u'affect', u'trouble', u'difference', u'fag', u'condition', u'arrange', u'disturb', u'frisson', u'prize', u'fag out', u'issue', u'apprehension', u'commute', u'shut in', u'outdo', u'inclination', u'round', u'undependableness', u'vanquish', u'flick', u'intercommunicate', u'unreliableness', u'regret', u'oscillation', u'trend', u'interrogative sentence', u'agitate', u'State', u'traveling', u'stupefy', u'wear out', u'beat up', u'melody', u'hesitation', u'outsmart', u'get down', u'verbalize', u'crush', u'dry out', u'geological phenomenon', u'political entity', u'natural covering', u'movement', u'speech act', u'turmoil', u'inspect', u'unregularity', u'mull', u'exchange', u'social group', u'United States Department of State', u'cowardliness', u'contemplate', u'asymmetry', u'hard currency', u'tremor', u'earthquake', u'change', u'dry', u'undulation', u'environs', u'substance', u'administrative district', u'shift', u'metre', u'example', u'verbalise', u'defeat', u'action', u'wear down', u'bunk', u'campaign', u'mobility', u'wafture', u'visual communication', u'replace', u'thrum', u'beckon', u'gesticulate', u'circumvent', u'subject matter', u'proceed', u'zip', u'deject', u'motivate', u'charge', u'suit', u'live', u'doubt', u'music', u'strike', u'air travel', u'coiffure', u'type', u'tell', u'unconditioned reflex', u'dismay', u'flap', u'nimbus', u'expose', u'impress', u'muse', u'disruption', u'frame of mind', u'stick', u'vacillate', u'hurry', u'effort', u'unhinge', u'befuddle', u'challenge', u'work', u'chisel', u'soul', u'physiological reaction', u'exhilaration', u'somatesthesia', u'res publica', u'somesthesia', u'scramble', u'marriage offer', u'prompt', u'air out', u'attribute', u'piece of music', u'topic', u'stroke', u'hullabaloo', u'slip', u'optical illusion', u'freshen', u'woodpecker', u'dress', u'publicise', u'craze', u'hesitate', u'interconnect', u'thing', u'enquiry', u'clothing', u'travel', u'vex', u'Wave', u'interrogative', u'cast down', u'interview', u'stir', u'cadence', u'mould', u'mortal', u'questioning', u'reflect', u'produce', u'fatigue', u'waver', u'communicator', u'mold', u'flutter', u'palpitate', u'administrative division', u'pulsate', u'stimulate', u'wink', u'switch', u'dread', u'suggest', u'DoS', u'irregularity', u'wind', u'adult', u'gentle wind', u'move', u'vary', u'pillowcase', u'meter', u'legal proceeding', u'enclose', u'quake', u'shake', u'cold', u'standard atmosphere', u'tendency', u'presence', u'innate reflex', u'interlink', u'shudder', u'thump', u'inquiry', u'travelling', u'imbalance', u'alter', u'overcome', u'faltering', u'someone', u'somebody', u'propose', u'cover', u'nation', u'tucker', u'framework', u'bang', u'chemical phenomenon', u'front', u'speculate', u'halo', u'bedevil', u'thrill', u'tickle', u'fluctuate', u'refresh', u'get the better of', u'tucker out', u'standard pressure', u'outperform', u'instability', u'shaking', u'revere', u'commonwealth', u'covenant', u'commune', u'quiver', u'ambiance', u'marriage proposal', u'measure', u'state of mind', u'event', u'depress', u'veneration', u'article of clothing', u'prickling', u'disarray', u'disquiet', u'content', u'complect', u'tingle', u'causa', u'cause', u'housing', u'proposal of marriage', u'pressure unit', u'dumbfound', u'circumstance', u'movability', u'bed linen', u'cark', u'disposition', u'ask', u'ricketiness', u'care', u'change state', u'emotional state', u'hair style', u'route', u'atm', u'motion', u'turn', u'somaesthesia', u'swing', u'consequence', u'heartbeat', u'scare', u'emotion', u'grammatical category', u'perturb', u'question', u'confuse', u'recusant', u'blink', u'vitrine', u'message', u'quality', u'shake up', u'occurrence', u'tingling', u'interchange', u'flourish', u'interact', u'body politic', u'palpitation', u'shiver', u'motility', u'statement', u'upshot', u'cycle', u'pillow slip', u'frame', u'natural process', u'shell', u'aerate', u'discombobulate', u'derangement', u'broadcast', u'doubtfulness', u'part', u'pulse', u'disequilibrium', u'anxiety', u'sailing', u'rate', u'somatic sensation', u'encase', u'venture', u'light', u'posit', u'winkle', u'feeling', u'pulsation', u'fermentation', u'frigidness', u'flitter', u'hairstyle', u'low temperature', u'chew over', u'get dressed', u'pass', u'argument', u'say', u'container', u'tempestuousness', u'outstrip', u'elate', u'element', u'sell', u'ponder', u'put forward', u'form', u'offer', u'commotion', u'prosody', u'reservist', u'instance', u'coldness', u'transmit', u'concern', u'province', u'play', u'outcome', u'insanity', u'coif', u'reverence', u'awe', u'coin', u'musical rhythm', u'incase', u'showcase', u'upset', u'drive', u'prickle', u'proceedings', u'gesture', u'instinctive reflex', u'fact', u'intoxicate', u'atmosphere', u'air current', u'atmospheric state', u'flicker', u'give tongue to', u'relation', u'utter', u'fear', u'be active', u'pause', u'move back and forth', u'tire', u'surroundings', u'theme', u'symptom', u'outwear', u'do', u'get', u'beat', u'beatnik', u'coiffe', u'express', u'arrhythmia', u'mental unsoundness', u'baffle', u'beam', u'meditate', u'framing', u'cheat', u'dissymmetry', u'bat', u'covering', u'optical phenomenon', u'alteration', u'activity', u'airwave', u'frigidity', u'set', u'jade', u'poetic rhythm', u'venerate', u'individual', u'bare', u'result', u'subject', u'incite', u'sail', u'think over', u'wearable', u'inebriate', u'state', u'movableness', u'beatify', u'peckerwood', u'modify', u'weary', u'hoo-ha', u'wear', u'aureole', u'trembling', u'spark', u'lawsuit', u'action mechanism', u'inquiring', u'drum', u'country', u'region', u'uncertainty', u'adult female', u'interrogate', u'aura', u'tire out', u'ticktock', u'grounds', u'vent', u'laxation', u'wonder', u'nonconformist', u'travel rapidly', u'melodic line', u'path', u'respect', u'bewilder', u'lightness', u'create', u'irresponsibility', u'quaver', u'guinea pig', u'weather condition', u'reflex', u'psychological state', u'hairdo', u'cardiac arrhythmia', u'derange', u'excite', u'convert', u'precariousness', u'casing', u'locomote', u'close in', u'current of air', u'aviation', u'denote', u'pecker', u'spirit', u'chill', u'case', u'grammatical case', u'beat out', u'cash', u'value', u'air', u'pace', u'territorial division', u'demoralize', u'itinerary', u'unstableness', u'vibrate', u'fleet', u'voice', u'natural event', u'pound', u'rhythmic pattern', u'agitation', u'nictitate', u'wash up', u'confound', u'strain', u'move reflexively', u'demoralise', u'uplift', u'worry', u'mull over', u'make', u'excogitate', u'discourse', u'bowel movement', u'indicant', u'modification', u'advise', u'composition', u'status', u'exhaust', u'itch', u'eccentric', u'vocalise', u'effect', u'occurrent', u'work over', u'disorderliness', u'dart', u'tune', u'weave', u'make a motion', u'curved shape', u'undependability', u'variety', u'person', u'shakiness', u'breeze', u'moving ridge', u'rip off', u'publicize', u'gelidity', u'musical composition', u'sentence', u'shivering', u'affright', u'call into question', u'shape', u'surpass', u'speed', u'brandish', u'wear upon', u'disturbance', u'temblor', u'vibration', u'character', u'spatiality', u'exalt', u'exhilarate', u'move involuntarily', u'falter', u'lift up', u'kick', u'government', u'situation', u'zephyr', u'displace', u'irresponsibleness', u'interrogation', u'forge', u'unbalance', u'turbulence', u'state of matter', u'tick', u'commove', u'cool', u'roll', u'indication', u'rush', u'defecation', u'disorder', u'cowardice', u'exceed', u'glare', u'propel', u'to-do', u'pall', u'convey', u'surmount', u'hoo-hah', u'proceeding', u'twinkle', u'decision', u'iciness', u'fox', u'pick up', u'outgo', u'kerfuffle', u'natural action', u'refer', u'syntactic category', u'be', u'run', u'throb', u'bm', u'pose', u'communicate', u'musical time', u'cool down', u'throw', u'shine', u'unsteadiness', u'quivering', u'state of affairs', u'political unit', u'surround', u'oppugn', u'vesture', u'act', u'fuddle', u'fluttering', u'hard cash', u'recurrent event', u'trounce', u'apparent movement', u'communication', u'puzzle', u'actuate', u'authorities', u'weather', u'esteem', u'apprehensiveness', u'apparent motion', u'transfer', u'caseful', u'relocation', u'madden', u'submit', u'opus', u'unreliability', u'outmatch', u'fearfulness', u'head', u'medium', u'seism', u'perplex', u'offering', u'Sturm und Drang', u'converse', u'inclose', u'mental state', u'nictate', u'outfox', u'line', u'social movement', u'proposal', u'mystify', u'containerful', u'ticktack', u'glory', u'flit', u'executive department', u'distract', u'excitement', u'periodic event', u'problem', u'piece', u'vibe', u'habiliment', u'fright', u'frighten', u'flush', u'evidence', u'twist', u'crusade', u'put across', u'sheath', u'curl', u'tremble', u'regime', u'upheaval', u'flummox', u'glint', u'boot', u'hurly burly', u'ferment', u'prise', u'Department of State', u'display case', u'conclusion', u'pass along', u'excitation', u'gas', u'drift', u'waving', u'overreach', u'atmospheric condition', u'grownup', u'melodic phrase', u'vocalize', u'waffle', u'land', u'happening', u'curve', u'stir up', u'spatial property', u'inborn reflex', u'determination', u'flapping']
+2016-09-06 23:04:38,481 INFO     =====END FLAT LIST=====
+2016-09-06 23:04:38,481 INFO     Length of list is:
+2016-09-06 23:04:38,482 INFO     1160
+2016-09-06 23:04:38,482 INFO     Length of setlist is:
+2016-09-06 23:04:38,482 INFO     713
+2016-09-06 23:04:38,482 INFO     ***************************
+2016-09-06 23:04:38,485 INFO     127.0.0.1 - - [06/Sep/2016 23:04:38] "POST /corpus/y HTTP/1.1" 200 -

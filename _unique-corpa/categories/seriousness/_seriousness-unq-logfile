@@ -1,0 +1,101 @@
+2016-09-06 23:02:54,058 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-06 23:02:54,060 INFO      * Restarting with stat
+2016-09-06 23:02:54,323 WARNING   * Debugger is active!
+2016-09-06 23:02:54,326 INFO      * Debugger pin code: 294-815-374
+2016-09-06 23:03:39,931 INFO     ***************************
+2016-09-06 23:03:39,931 INFO     List is in the following mongo collection:
+2016-09-06 23:03:39,931 INFO     seriousness-corpus-only-syn-unq-order-1
+2016-09-06 23:03:39,944 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:40,095 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-06 23:03:40,095 INFO     [u'solemnity', u'distressfulness', u'severity', u'severeness', u'earnestness', u'trait', u'serious-mindedness', u'gravity', u'sincerity', u'badness']
+2016-09-06 23:03:40,095 INFO     =====END FLAT LIST=====
+2016-09-06 23:03:40,096 INFO     Length of list is:
+2016-09-06 23:03:40,096 INFO     10
+2016-09-06 23:03:40,096 INFO     Length of setlist is:
+2016-09-06 23:03:40,096 INFO     10
+2016-09-06 23:03:40,096 INFO     ***************************
+2016-09-06 23:03:40,096 INFO     ***************************
+2016-09-06 23:03:40,096 INFO     List is in the following mongo collection:
+2016-09-06 23:03:40,096 INFO     seriousness-corpus-only-syn-unq-order-2
+2016-09-06 23:03:40,097 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:40,235 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:40,375 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:40,512 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:40,646 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:40,798 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:40,940 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:41,087 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:41,224 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:41,353 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:41,482 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-06 23:03:41,482 INFO     [u'solemness', u'truthfulness', u'earnestness', u'inclemency', u'serious-mindedness', u'gravitational attraction', u'austereness', u'intensity', u'disobedience', u'rigorousness', u'intensiveness', u'asperity', u'quality', u'gravitational force', u'sobriety', u'unassumingness', u'gravitation', u'severity', u'sternness', u'naturalness', u'attribute', u'gravity', u'attraction', u'trait', u'badness', u'grimness', u'graveness', u'strictness', u'hardship', u'mischievousness', u'severeness', u'staidness', u'seriousness', u'difficulty', u'rigor', u'plainness', u'somberness', u'hardness', u'rigourousness', u'harshness', u'stiffness', u'sombreness', u'attractive force', u'naughtiness', u'solemnity', u'difficultness', u'soberness', u'bad', u'sedateness', u'rigour', u'feeling', u'sincerity']
+2016-09-06 23:03:41,482 INFO     =====END FLAT LIST=====
+2016-09-06 23:03:41,483 INFO     Length of list is:
+2016-09-06 23:03:41,483 INFO     100
+2016-09-06 23:03:41,483 INFO     Length of setlist is:
+2016-09-06 23:03:41,483 INFO     52
+2016-09-06 23:03:41,483 INFO     ***************************
+2016-09-06 23:03:41,483 INFO     ***************************
+2016-09-06 23:03:41,484 INFO     List is in the following mongo collection:
+2016-09-06 23:03:41,484 INFO     seriousness-corpus-only-syn-unq-order-3
+2016-09-06 23:03:41,487 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:41,619 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:41,763 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:41,902 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:42,030 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:42,170 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:42,308 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:42,441 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:42,573 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:42,702 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:42,834 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:42,970 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:43,102 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:43,240 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:43,371 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:43,503 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:43,633 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:43,777 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:43,909 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:44,037 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:44,166 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:44,296 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:44,426 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:44,558 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:44,687 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:44,817 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:44,950 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:45,078 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:45,213 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:45,346 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:45,478 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:45,611 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:45,743 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:45,887 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:46,017 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:46,150 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:46,279 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:46,410 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:46,551 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:46,681 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:46,814 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:46,945 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:47,078 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:47,209 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:47,351 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:47,478 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:47,606 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:47,734 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:47,867 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:48,000 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:48,129 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:48,258 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:03:48,389 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-06 23:03:48,389 INFO     [u'impression', u'atmosphere', u'concept', u'show', u'ill nature', u'inclementness', u'ill luck', u'gravitational attraction', u'feature', u'rigorousness', u'lucidity', u'touch', u'misbehavior', u'flavor', u'roughness', u'timber', u'raggedness', u'cruelness', u'character', u'calibre', u'attraction', u'color property', u'ambience', u'artlessness', u'unassumingness', u'pellucidity', u'saturation', u'social station', u'severeness', u'staidness', u'insensibility', u'deviltry', u'clumsiness', u'inelasticity', u'semidarkness', u'judge', u'distressfulness', u'trouble', u'homeliness', u'plainness', u'somberness', u'condition', u'gruesomeness', u'resolve', u'likeness', u'misbehaviour', u'level', u'devilment', u'magnet', u'abrasiveness', u'bad', u'magnitude', u'scratchiness', u'gloom', u'gracelessness', u'pass judgment', u'noncompliance', u'adversity', u'resoluteness', u'exertion', u'temperance', u'honesty', u'trend', u'feeling', u'ambiance', u'cognitive factor', u'feel', u'naturalness', u'intensity', u'rebelliousness', u'luridness', u'change of location', u'insensitiveness', u'callousness', u'gloominess', u'asperity', u'intractability', u'misfortune', u'gravitation', u'playfulness', u'attracter', u'roguery', u'touch sensation', u'social status', u'ingenuousness', u'bad luck', u'shenanigan', u'naiveness', u'lineament', u'intensity level', u'movement', u'body', u'fun', u'melancholy', u'perception', u'disobedience', u'hardship', u'degree', u'state', u'purity', u'social rank', u'elbow grease', u'difficulty', u'intuitive feeling', u'firmness', u'innocence', u'tactual sensation', u'vividness', u'property', u'abstinence', u'puckishness', u'roguishness', u'abstraction', u'sweat', u'stiffness', u'flavour', u'loudness', u'assign', u'solemness', u'attractor', u'intuition', u'tone', u'restrictiveness', u'grade', u'graveness', u'sharpness', u'rank', u'insubordination', u'alikeness', u'weather', u'cogency', u'intensiveness', u'unpleasantness', u'clarity', u'quality', u'bad weather', u'idea', u'mischief-making', u'sternness', u'firmness of purpose', u'chroma', u'construct', u'inclemency', u'weather condition', u'badness', u'grimness', u'somatic sensation', u'similitude', u'insensitivity', u'mischief', u'sobriety', u'mischievousness', u'trait', u'limpidity', u'ascribe', u'cruelty', u'validity', u'malice', u'volume', u'moderation', u'misdeed', u'conscientiousness', u'ruggedness', u'effort', u'spirit', u'hardness', u'harshness', u'inelegance', u'conception', u'look', u'naughtiness', u'austereness', u'apprehension', u'characteristic', u'attractive feature', u'appearance', u'sound property', u'believability', u'somatesthesia', u'impute', u'rigour', u'entertainer', u'somesthesia', u'sombreness', u'drawing card', u'impishness', u'force', u'consistence', u'callosity', u'earnestness', u'attribute', u'serious-mindedness', u'credibleness', u'honestness', u'tactile sensation', u'ghastliness', u'sincerity', u'somaesthesia', u'travail', u'gravitational force', u'unfeelingness', u'visual aspect', u'strength', u'severity', u'attractive force', u'awkwardness', u'malevolence', u'naivete', u'travel', u'gravity', u'painstakingness', u'dryness', u'belief', u'malevolency', u'naivety', u'evaluate', u'lucidness', u'smell', u'perspicuousness', u'clearness', u'hard knocks', u'draw', u'caliber', u'strictness', u'tough luck', u'pureness', u'attractiveness', u'consistency', u'drift', u'seriousness', u'whimsicality', u'rigor', u'atmospheric condition', u'opinion', u'frightfulness', u'rigourousness', u'unpermissiveness', u'rascality', u'stringency', u'solemnity', u'timbre', u'intractableness', u'temporary state', u'difficultness', u'notion', u'thought', u'soberness', u'apprehensiveness', u'sedateness', u'status', u'dread', u'perspicuity', u'credibility', u'resolution', u'dimension', u'devilry', u'truthfulness']
+2016-09-06 23:03:48,389 INFO     =====END FLAT LIST=====
+2016-09-06 23:03:48,389 INFO     Length of list is:
+2016-09-06 23:03:48,390 INFO     592
+2016-09-06 23:03:48,390 INFO     Length of setlist is:
+2016-09-06 23:03:48,390 INFO     257
+2016-09-06 23:03:48,390 INFO     ***************************
+2016-09-06 23:03:48,392 INFO     127.0.0.1 - - [06/Sep/2016 23:03:48] "POST /corpus/y HTTP/1.1" 200 -

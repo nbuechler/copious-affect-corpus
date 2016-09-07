@@ -1,0 +1,48 @@
+2016-09-06 23:05:02,845 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-06 23:05:02,846 INFO      * Restarting with stat
+2016-09-06 23:05:03,108 WARNING   * Debugger is active!
+2016-09-06 23:05:03,113 INFO      * Debugger pin code: 294-815-374
+2016-09-06 23:05:09,595 INFO     ***************************
+2016-09-06 23:05:09,595 INFO     List is in the following mongo collection:
+2016-09-06 23:05:09,595 INFO     shyness-corpus-only-syn-unq-order-1
+2016-09-06 23:05:09,603 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:09,747 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-06 23:05:09,747 INFO     [u'timorousness', u'timidness', u'timidity']
+2016-09-06 23:05:09,747 INFO     =====END FLAT LIST=====
+2016-09-06 23:05:09,747 INFO     Length of list is:
+2016-09-06 23:05:09,747 INFO     3
+2016-09-06 23:05:09,747 INFO     Length of setlist is:
+2016-09-06 23:05:09,747 INFO     3
+2016-09-06 23:05:09,747 INFO     ***************************
+2016-09-06 23:05:09,748 INFO     ***************************
+2016-09-06 23:05:09,748 INFO     List is in the following mongo collection:
+2016-09-06 23:05:09,748 INFO     shyness-corpus-only-syn-unq-order-2
+2016-09-06 23:05:09,750 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:09,888 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:10,016 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:10,144 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-06 23:05:10,144 INFO     [u'fearfulness', u'fright', u'timidity', u'timidness', u'fear', u'timorousness']
+2016-09-06 23:05:10,145 INFO     =====END FLAT LIST=====
+2016-09-06 23:05:10,145 INFO     Length of list is:
+2016-09-06 23:05:10,145 INFO     15
+2016-09-06 23:05:10,145 INFO     Length of setlist is:
+2016-09-06 23:05:10,145 INFO     6
+2016-09-06 23:05:10,145 INFO     ***************************
+2016-09-06 23:05:10,145 INFO     ***************************
+2016-09-06 23:05:10,146 INFO     List is in the following mongo collection:
+2016-09-06 23:05:10,146 INFO     shyness-corpus-only-syn-unq-order-3
+2016-09-06 23:05:10,149 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:10,285 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:10,415 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:10,560 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:10,692 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:10,823 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:10,951 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-06 23:05:10,951 INFO     [u'cowardice', u'emotion', u'scare', u'regret', u'fright', u'frighten', u'affright', u'venerate', u'esteem', u'shake', u'respect', u'fear', u'shake up', u'worry', u'concern', u'veneration', u'prise', u'stir', u'fearfulness', u'timidity', u'excite', u'cowardliness', u'timorousness', u'reverence', u'awe', u'care', u'anxiety', u'prize', u'value', u'timidness', u'dread', u'stimulate', u'revere']
+2016-09-06 23:05:10,951 INFO     =====END FLAT LIST=====
+2016-09-06 23:05:10,951 INFO     Length of list is:
+2016-09-06 23:05:10,951 INFO     51
+2016-09-06 23:05:10,951 INFO     Length of setlist is:
+2016-09-06 23:05:10,951 INFO     33
+2016-09-06 23:05:10,951 INFO     ***************************
+2016-09-06 23:05:10,952 INFO     127.0.0.1 - - [06/Sep/2016 23:05:10] "POST /corpus/y HTTP/1.1" 200 -

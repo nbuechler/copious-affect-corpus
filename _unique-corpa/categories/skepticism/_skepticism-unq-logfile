@@ -1,0 +1,79 @@
+2016-09-06 23:05:46,450 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-06 23:05:46,451 INFO      * Restarting with stat
+2016-09-06 23:05:46,705 WARNING   * Debugger is active!
+2016-09-06 23:05:46,710 INFO      * Debugger pin code: 294-815-374
+2016-09-06 23:05:51,331 INFO     ***************************
+2016-09-06 23:05:51,331 INFO     List is in the following mongo collection:
+2016-09-06 23:05:51,331 INFO     skepticism-corpus-only-syn-unq-order-1
+2016-09-06 23:05:51,341 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:51,479 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-06 23:05:51,479 INFO     [u'scepticism', u'incredulity', u'disbelief', u'unbelief', u'uncertainty', u'mental rejection', u'dubiousness', u'agnosticism', u'doubt', u'dubiety', u'incertitude', u'doubtfulness']
+2016-09-06 23:05:51,479 INFO     =====END FLAT LIST=====
+2016-09-06 23:05:51,479 INFO     Length of list is:
+2016-09-06 23:05:51,479 INFO     12
+2016-09-06 23:05:51,480 INFO     Length of setlist is:
+2016-09-06 23:05:51,480 INFO     12
+2016-09-06 23:05:51,480 INFO     ***************************
+2016-09-06 23:05:51,480 INFO     ***************************
+2016-09-06 23:05:51,480 INFO     List is in the following mongo collection:
+2016-09-06 23:05:51,480 INFO     skepticism-corpus-only-syn-unq-order-2
+2016-09-06 23:05:51,481 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:51,615 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:51,747 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:51,884 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:52,015 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:52,150 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:52,283 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:52,414 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:52,547 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:52,677 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:52,807 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:52,941 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:53,075 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-06 23:05:53,075 INFO     [u'cognitive state', u'religious orientation', u'disbelieve', u'mental rejection', u'dubiety', u'state of mind', u'quality', u'disbelief', u'unbelief', u'question', u'discredit', u'dubiousness', u'content', u'agnosticism', u'doubt', u'suspect', u'scepticism', u'uncertainness', u'mental object', u'incertitude', u'precariousness', u'doubtfulness', u'cognitive content', u'incredulity', u'uncertainty', u'mistrust', u'distrust', u'skepticism']
+2016-09-06 23:05:53,075 INFO     =====END FLAT LIST=====
+2016-09-06 23:05:53,075 INFO     Length of list is:
+2016-09-06 23:05:53,075 INFO     103
+2016-09-06 23:05:53,075 INFO     Length of setlist is:
+2016-09-06 23:05:53,076 INFO     28
+2016-09-06 23:05:53,076 INFO     ***************************
+2016-09-06 23:05:53,076 INFO     ***************************
+2016-09-06 23:05:53,076 INFO     List is in the following mongo collection:
+2016-09-06 23:05:53,076 INFO     skepticism-corpus-only-syn-unq-order-3
+2016-09-06 23:05:53,079 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:53,223 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:53,374 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:53,506 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:53,635 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:53,770 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:53,905 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:54,037 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:54,167 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:54,312 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:54,446 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:54,577 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:54,710 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:54,839 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:54,966 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:55,097 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:55,233 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:55,363 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:55,495 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:55,626 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:55,768 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:55,911 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:56,043 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:56,179 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:56,315 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:56,447 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:56,579 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:56,714 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-06 23:05:56,846 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-06 23:05:56,846 INFO     [u'cognitive state', u'sentence', u'disrepute', u'query', u'ruminate', u'timber', u'dangerousness', u'knowledge', u'agnosticism', u'character', u'calibre', u'dubiousness', u'theme', u'suspicion', u'suspect', u'gratify', u'someone', u'somebody', u'aggregation', u'interrogation', u'meditate', u'belittle', u'call into question', u'speculate', u'mental rejection', u'confine', u'level', u'cognition', u'mistrust', u'ignore', u'distrust', u'proportion', u'disregard', u'disparage', u'oppugn', u'assemblage', u'interrogative sentence', u'marriage proposal', u'individual', u'dubiety', u'state of mind', u'litigant', u'wonder', u'contentedness', u'capacity', u'degree', u'disbelief', u'unbelief', u'think over', u'content', u'state', u'brush aside', u'social status', u'limit', u'circumscribe', u'lineament', u'satisfy', u'scepticism', u'proposal of marriage', u'uncertainness', u'mull', u'social rank', u'mental object', u'misgiving', u'incertitude', u'contemplate', u'hazard', u'imagine', u'ask', u'frame of mind', u'discount', u'uncertainty', u'interrogate', u'accumulation', u'motion', u'thing', u'mortal', u'skepticism', u'think', u'tone', u'religious orientation', u'grade', u'communication', u'social station', u'rank', u'disgrace', u'message', u'quality', u'subject matter', u'guess', u'acceptance', u'question', u'doubt', u'mental state', u'proposal', u'defendant', u'psychological state', u'head', u'trait', u'converse', u'muse', u'precariousness', u'doubtfulness', u'substance', u'cognitive content', u'challenge', u'pretend', u'soul', u'sound property', u'dismiss', u'venture', u'inquiring', u'marriage offer', u'chew over', u'orientation', u'attribute', u'pick at', u'topic', u'disbelieve', u'litigator', u'depicted object', u'property', u'brush off', u'surmise', u'discredit', u'ponder', u'enquiry', u'mull over', u'dishonor', u'excogitate', u'interrogative', u'discourse', u'inquiry', u'reject', u'interview', u'subject', u'opine', u'caliber', u'reckon', u'suppose', u'collection', u'questioning', u'reflect', u'dishonour', u'distrustfulness', u'volume', u'incredulity', u'timbre', u'temporary state', u'push aside', u'person', u'dimension', u'noesis']
+2016-09-06 23:05:56,846 INFO     =====END FLAT LIST=====
+2016-09-06 23:05:56,846 INFO     Length of list is:
+2016-09-06 23:05:56,847 INFO     302
+2016-09-06 23:05:56,847 INFO     Length of setlist is:
+2016-09-06 23:05:56,847 INFO     153
+2016-09-06 23:05:56,847 INFO     ***************************
+2016-09-06 23:05:56,847 INFO     127.0.0.1 - - [06/Sep/2016 23:05:56] "POST /corpus/y HTTP/1.1" 200 -
