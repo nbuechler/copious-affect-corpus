@@ -1,0 +1,82 @@
+2016-09-08 21:36:13,475 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-08 21:36:13,476 INFO      * Restarting with stat
+2016-09-08 21:36:13,731 WARNING   * Debugger is active!
+2016-09-08 21:36:13,736 INFO      * Debugger pin code: 294-815-374
+2016-09-08 21:36:18,770 INFO     ***************************
+2016-09-08 21:36:18,770 INFO     List is in the following mongo collection:
+2016-09-08 21:36:18,770 INFO     sullenness-corpus-only-syn-unq-order-1
+2016-09-08 21:36:18,779 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:18,906 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-08 21:36:18,906 INFO     [u'glumness', u'sourness', u'ill nature', u'sulkiness', u'moroseness', u'moodiness']
+2016-09-08 21:36:18,906 INFO     =====END FLAT LIST=====
+2016-09-08 21:36:18,906 INFO     Length of list is:
+2016-09-08 21:36:18,906 INFO     6
+2016-09-08 21:36:18,906 INFO     Length of setlist is:
+2016-09-08 21:36:18,906 INFO     6
+2016-09-08 21:36:18,906 INFO     ***************************
+2016-09-08 21:36:18,906 INFO     ***************************
+2016-09-08 21:36:18,906 INFO     List is in the following mongo collection:
+2016-09-08 21:36:18,906 INFO     sullenness-corpus-only-syn-unq-order-2
+2016-09-08 21:36:18,907 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:19,043 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:19,170 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:19,300 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:19,425 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:19,554 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:19,680 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-08 21:36:19,680 INFO     [u'atmosphere', u'ill humor', u'acidity', u'ill nature', u'ambiance', u'taste sensation', u'rancor', u'sulkiness', u'sulk', u'gall', u'gloominess', u'humor', u'sourness', u'glumness', u'distemper', u'taste', u'ill humour', u'gustatory sensation', u'taste property', u'ambience', u'rancour', u'moodiness', u'gustatory perception', u'disposition', u'temperament', u'moroseness', u'resentment', u'mood', u'gloom', u'humour', u'tartness', u'bitterness', u'taste perception', u'sour', u'huffishness', u'sullenness', u'temper']
+2016-09-08 21:36:19,680 INFO     =====END FLAT LIST=====
+2016-09-08 21:36:19,680 INFO     Length of list is:
+2016-09-08 21:36:19,681 INFO     49
+2016-09-08 21:36:19,681 INFO     Length of setlist is:
+2016-09-08 21:36:19,681 INFO     37
+2016-09-08 21:36:19,681 INFO     ***************************
+2016-09-08 21:36:19,681 INFO     ***************************
+2016-09-08 21:36:19,681 INFO     List is in the following mongo collection:
+2016-09-08 21:36:19,681 INFO     sullenness-corpus-only-syn-unq-order-3
+2016-09-08 21:36:19,683 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:19,817 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:19,958 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:20,083 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:20,213 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:20,347 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:20,473 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:20,604 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:20,733 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:20,863 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:20,989 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:21,143 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:21,269 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:21,401 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:21,530 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:21,659 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:21,786 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:21,914 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:22,041 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:22,165 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:22,297 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:22,426 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:22,552 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:22,676 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:22,801 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:22,929 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:23,084 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:23,211 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:23,340 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:23,471 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:23,598 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:23,728 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:23,858 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:23,997 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:24,127 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:24,256 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:24,385 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:36:24,507 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-08 21:36:24,508 INFO     [u'atmosphere', u'adjust', u'body fluid', u'sourness', u'ill nature', u'atmospheric state', u'temperament', u'pique', u'attitude', u'identify', u'adjustment', u'feat', u'annoyance', u'tendency', u'acidulate', u'brood', u'toughness', u'disposal', u'comprehend', u'environment', u'surroundings', u'surliness', u'sensory system', u'ambience', u'take in', u'anneal', u'alter', u'take', u'gratify', u'sense of humour', u'bodily fluid', u'hostility', u'perceive', u'ferment', u'smack', u'ill will', u'esthesis', u'sense impression', u'uncheerfulness', u'indulge', u'standard atmosphere', u'somberness', u'condition', u'rancour', u'plant tissue', u'gloom', u'acidulousness', u'chasten', u'freshness', u'readjustment', u'taste perception', u'gustation', u'try', u'apprehension', u'wit', u'standard pressure', u'predilection', u'mode', u'vexation', u'insolence', u'acetify', u'correct', u'taste sensation', u'set', u'ambiance', u'sensation', u'sulkiness', u'semidarkness', u'irritation', u'gloominess', u'discernment', u'message', u'disagreeableness', u'pander', u'humor', u'mood', u'pH scale', u'substance', u'crust', u'content', u'irk', u'small indefinite amount', u'mouthful', u'jaundice', u'impudence', u'inclination', u'digestive fluid', u'melancholy', u'perception', u'pressure unit', u'impertinence', u'nature', u'modify', u'cheekiness', u'secernment', u'penchant', u'disposition', u'witticism', u'moroseness', u'sense of taste', u'fret', u'chafe', u'ingest', u'environs', u'feeling', u'ill humor', u'enmity', u'change taste', u'tartness', u'atm', u'small indefinite quantity', u'surround', u'temper', u'turn', u'animal disease', u'aura', u'aesthesis', u'huffishness', u'sense modality', u'consume', u'humour', u'savour', u'elasticity', u'resentment', u'exploit', u'weather', u'registration', u'pH', u'quality', u'peevishness', u'subject matter', u'sense experience', u'tasting', u'discrimination', u'preference', u'moderate', u'discourtesy', u'irritate', u'paint', u'live', u'change', u'pettishness', u'mollify', u'weather condition', u'bitter', u'saddle sore', u'moodiness', u'body substance', u'snap', u'season', u'gas', u'climate', u'gustatory perception', u'sense datum', u'sore', u'part', u'rudeness', u'try out', u'effort', u'bile', u'pout', u'snappishness', u'work', u'acidify', u'bitterness', u'air', u'harden', u'sadness', u'sour', u'thorniness', u'fun', u'lugubriousness', u'sombreness', u'region', u'acidity', u'taste', u'digestive juice', u'rancor', u'sample', u'gall', u'experience', u'have', u'sulk', u'anger', u'deed', u'property', u'liking', u'weaken', u'normalize', u'toughen', u'biliousness', u'savor', u'emotionalism', u'distemper', u'modality', u'acerbity', u'gustatory sensation', u'taste property', u'change state', u'mental attitude', u'grammatical relation', u'status', u'picture', u'cocktail', u'gustatory modality', u'atmospheric condition', u'wittiness', u'apprehensiveness', u'sense of humor', u'liquid body substance', u'perceptiveness', u'exteroception', u'playfulness', u'glumness', u'irritability', u'appreciation', u'emotionality', u'sensing', u'acrimony', u'dread', u'ill humour', u'sullenness', u'painting', u'know']
+2016-09-08 21:36:24,508 INFO     =====END FLAT LIST=====
+2016-09-08 21:36:24,508 INFO     Length of list is:
+2016-09-08 21:36:24,508 INFO     461
+2016-09-08 21:36:24,508 INFO     Length of setlist is:
+2016-09-08 21:36:24,508 INFO     224
+2016-09-08 21:36:24,508 INFO     ***************************
+2016-09-08 21:36:24,509 INFO     127.0.0.1 - - [08/Sep/2016 21:36:24] "POST /corpus/y HTTP/1.1" 200 -
