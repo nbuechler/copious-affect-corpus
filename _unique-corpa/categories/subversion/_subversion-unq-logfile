@@ -1,0 +1,85 @@
+2016-09-08 21:31:38,463 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-08 21:31:38,464 INFO      * Restarting with stat
+2016-09-08 21:31:38,722 WARNING   * Debugger is active!
+2016-09-08 21:31:38,727 INFO      * Debugger pin code: 294-815-374
+2016-09-08 21:31:45,390 INFO     ***************************
+2016-09-08 21:31:45,390 INFO     List is in the following mongo collection:
+2016-09-08 21:31:45,390 INFO     subversion-corpus-only-syn-unq-order-1
+2016-09-08 21:31:45,400 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:45,533 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-08 21:31:45,533 INFO     [u'debasement', u'overthrow', u'corruption', u'subversive activity', u'degradation']
+2016-09-08 21:31:45,533 INFO     =====END FLAT LIST=====
+2016-09-08 21:31:45,533 INFO     Length of list is:
+2016-09-08 21:31:45,533 INFO     5
+2016-09-08 21:31:45,533 INFO     Length of setlist is:
+2016-09-08 21:31:45,533 INFO     5
+2016-09-08 21:31:45,533 INFO     ***************************
+2016-09-08 21:31:45,533 INFO     ***************************
+2016-09-08 21:31:45,533 INFO     List is in the following mongo collection:
+2016-09-08 21:31:45,533 INFO     subversion-corpus-only-syn-unq-order-2
+2016-09-08 21:31:45,534 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:45,664 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:45,793 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:45,924 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:46,061 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:46,190 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-08 21:31:46,190 INFO     [u'humiliation', u'rottenness', u'force out', u'inducing', u'rot', u'ending', u'debasement', u'putrescence', u'change of state', u'dishonesty', u'decree', u'disturbance', u'impurity', u'decay', u'subvert', u'depravity', u'immorality', u'corruptness', u'subversion', u'depose', u'derangement', u'override', u'bring down', u'overrule', u'inducement', u'conclusion', u'impureness', u'putridness', u'degradation', u'adulteration', u'overturn', u'abasement', u'reverse', u'overthrow', u'putrefaction', u'upset', u'rule', u'depravation', u'termination', u'abjection', u'degeneracy']
+2016-09-08 21:31:46,190 INFO     =====END FLAT LIST=====
+2016-09-08 21:31:46,190 INFO     Length of list is:
+2016-09-08 21:31:46,190 INFO     45
+2016-09-08 21:31:46,190 INFO     Length of setlist is:
+2016-09-08 21:31:46,190 INFO     41
+2016-09-08 21:31:46,190 INFO     ***************************
+2016-09-08 21:31:46,190 INFO     ***************************
+2016-09-08 21:31:46,191 INFO     List is in the following mongo collection:
+2016-09-08 21:31:46,191 INFO     subversion-corpus-only-syn-unq-order-3
+2016-09-08 21:31:46,192 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:46,322 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:46,450 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:46,580 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:46,705 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:46,835 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:46,965 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:47,095 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:47,239 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:47,370 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:47,500 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:47,627 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:47,757 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:47,892 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:48,017 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:48,169 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:48,299 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:48,426 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:48,553 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:48,680 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:48,811 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:48,942 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:49,071 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:49,200 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:49,335 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:49,468 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:49,598 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:49,729 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:49,864 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:49,994 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:50,147 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:50,278 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:50,405 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:50,545 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:50,672 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:50,807 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:50,953 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:51,085 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:51,211 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:51,339 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:51,476 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:31:51,603 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-08 21:31:51,603 INFO     [u'pervert', u'revoke', u'debauch', u'proposition', u'knock over', u'settlement', u'rot', u'turnabout', u'degeneration', u'choice', u'decide', u'govern', u'affect', u'trouble', u'cut down', u'condition', u'change of direction', u'disturb', u'go with', u'iniquity', u'turpitude', u'enthuse', u'degeneracy', u'intercommunicate', u'decadency', u'force', u'occurrence', u'revolutionise', u'give notice', u'decadence', u'expiration', u'get down', u'disintegration', u'section', u'revolutionize', u'turnaround', u'squeeze out', u'nullification', u'inducement', u'movement', u'cut back', u'ruffle', u'modify', u'rescript', u'closing', u'change', u'unwholesomeness', u'point in time', u'procedure', u'defeat', u'action', u'delapidate', u'knavery', u'countervail', u'inducing', u'enactment', u'decrease', u'decrement', u'rational motive', u'subvert', u'unrighteousness', u'visit', u'waste material', u'strike', u'breathe', u'fiat', u'impureness', u'buncombe', u'finis', u'moulder', u'impress', u'reign', u'force play', u'disruption', u'adulteration', u'endpoint', u'psychological disorder', u'ride', u'work', u'elicit', u'force-out', u'can', u'running game', u'mental disorder', u'arrive', u'example', u'control', u'process', u'degenerate', u'exclude', u'provoke', u'weaken', u'concept', u'end', u'sit', u'bunk', u'chuck out', u'deteriorate', u'mould', u'mar', u'countermand', u'debasement', u'law', u"make up one's mind", u'flutter', u'fray', u'actus reus', u'order', u'turnover', u'rottenness', u'come with', u'move', u'setback', u'kick out', u'misconduct', u'change integrity', u'wickedness', u'decay', u'dross', u'restrain', u'wrongful conduct', u'alter', u'demoralize', u'practice', u'turf out', u'rescind', u'inversion', u'linguistic rule', u'trim down', u'drop', u'dominance', u'get the better of', u'strike down', u'side', u'reduce', u'inflict', u'measure', u'assumption', u'oppositeness', u'organic phenomenon', u'give the sack', u'decree', u'impurity', u'interference', u'ratiocination', u'dominion', u'vitiate', u'formula', u'bring down', u'dominate', u'mutilate', u'morbidness', u'impose', u'drivel', u'motion', u'turn', u'enkindle', u'devolve', u'predominate', u'force out', u'sack', u'restrict', u'quality', u'waste matter', u'discompose', u'perturbation', u'debase', u'send away', u'expel', u'construct', u'regulation', u'molder', u'motility', u'convention', u'final result', u'drive out', u'measuring stick', u'natural process', u'morpheme', u'accompany', u'gear', u'chagrin', u'tool', u'putridness', u'morbidity', u'ascendance', u'throttle', u'instruction', u'transgression', u'contrary', u'kindle', u'outcome', u'declare', u'decompose', u'bowl over', u'generality', u'neutralize', u'mind', u'generalization', u'affray', u'rout out', u'measuring rod', u'option', u'resultant', u'commotion', u'incentive', u'instance', u'causing', u'deprave', u'destroy', u'to-do', u'combat', u'opposite', u'ascendency', u'insanity', u'turn over', u'ascendence', u'counterbalance', u'device', u'putout', u'annul', u'eject', u'upset', u'principle', u'selection', u'putrescence', u'terminate', u'supposition', u'ending', u'find', u'ruin', u'override', u'edict', u'supposal', u'get', u'mental unsoundness', u'degradation', u'running play', u'reversal', u'turn back', u'overrule', u'remove', u'trammel', u'activity', u'rein', u'humiliation', u'misdirect', u'black eye', u'arouse', u'result', u'tip over', u'corrupt', u'close', u'change of state', u'pattern', u'scrap', u'label', u'sabotage', u'corruption', u'embarrassment', u'disturbance', u'hoo-ha', u'bunkum', u'come', u'undermine', u'oust', u'abasement', u'ignominy', u'reverse', u'ascendancy', u'give the axe', u'evict', u'generalisation', u'opposition', u'point', u'unsoundness', u'cancel', u'mortification', u'decline', u'raise', u'disintegrate', u'invert', u'waste', u'direction', u'minify', u'fire', u'depravity', u'lift', u'determination', u'last', u'overturn', u'case', u'conception', u'profane', u'lessen', u'overcome', u'waste product', u'natural event', u'agitation', u'shame', u'swage', u'demoralise', u'mold', u'dishonor', u'tump over', u'status', u'finish', u'reversion', u'pick', u'evil', u'occurrent', u'running', u'judgment', u'lower', u'fighting', u'command', u'termination', u'nuclear reaction', u'disconcert', u'shape', u'end point', u'touch', u'dishonesty', u'blow', u'cut', u'law of nature', u'overthrow', u'verso', u'disobey', u'ruler', u'displace', u'judgement', u'unbalance', u'judge', u'change by reversal', u'put down', u'success', u'boot out', u'abjection', u'putrefaction', u'pronounce', u'vacate', u'hoo-hah', u'evildoing', u'untune', u'decision', u'normal', u'throw out', u'decomposition', u'squirt', u'natural action', u'noise', u'run', u'communicate', u'expiry', u'guff', u'hogwash', u'disorder', u'trim back', u'pass off', u'swear', u'radioactive decay', u'evoke', u'act', u'prescript', u'crumble', u'garbage', u'depose', u'causation', u'bound', u'harness', u'determine', u'gouge', u'countermine', u'fight', u'let down', u'wrongdoing', u'derangement', u'form', u'immorality', u'attach to', u'rouse', u'stopping point', u'continuance', u'discomfit', u'terminus', u'limit', u'turn out', u'emit', u'trim', u'disgrace', u'gear mechanism', u'depone', u'duration', u'upending', u'drum out', u'prevail', u'counteract', u'subversive activity', u'folie', u'mental disturbance', u'hurly burly', u'forge', u'confine', u'conclusion', u'motivator', u'draw', u'dismiss', u'kerfuffle', u'reorientation', u'finale', u'dishonour', u'discharge', u'take down', u'repeal', u'land', u'subdivision', u'happening', u'rotting', u'rule', u'depravation']
+2016-09-08 21:31:51,603 INFO     =====END FLAT LIST=====
+2016-09-08 21:31:51,604 INFO     Length of list is:
+2016-09-08 21:31:51,604 INFO     628
+2016-09-08 21:31:51,604 INFO     Length of setlist is:
+2016-09-08 21:31:51,604 INFO     421
+2016-09-08 21:31:51,604 INFO     ***************************
+2016-09-08 21:31:51,605 INFO     127.0.0.1 - - [08/Sep/2016 21:31:51] "POST /corpus/y HTTP/1.1" 200 -

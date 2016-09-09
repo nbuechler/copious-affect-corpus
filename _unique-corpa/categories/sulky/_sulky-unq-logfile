@@ -1,0 +1,41 @@
+2016-09-08 21:33:35,220 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-08 21:33:35,220 INFO      * Restarting with stat
+2016-09-08 21:33:35,477 WARNING   * Debugger is active!
+2016-09-08 21:33:35,480 INFO      * Debugger pin code: 294-815-374
+2016-09-08 21:33:39,222 INFO     ***************************
+2016-09-08 21:33:39,222 INFO     List is in the following mongo collection:
+2016-09-08 21:33:39,222 INFO     sulky-corpus-only-syn-unq-order-1
+2016-09-08 21:33:39,231 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:33:39,389 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-08 21:33:39,389 INFO     [u'horse-drawn vehicle']
+2016-09-08 21:33:39,389 INFO     =====END FLAT LIST=====
+2016-09-08 21:33:39,389 INFO     Length of list is:
+2016-09-08 21:33:39,389 INFO     1
+2016-09-08 21:33:39,389 INFO     Length of setlist is:
+2016-09-08 21:33:39,389 INFO     1
+2016-09-08 21:33:39,389 INFO     ***************************
+2016-09-08 21:33:39,389 INFO     ***************************
+2016-09-08 21:33:39,389 INFO     List is in the following mongo collection:
+2016-09-08 21:33:39,389 INFO     sulky-corpus-only-syn-unq-order-2
+2016-09-08 21:33:39,390 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:33:39,548 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-08 21:33:39,548 INFO     [u'wheeled vehicle']
+2016-09-08 21:33:39,548 INFO     =====END FLAT LIST=====
+2016-09-08 21:33:39,548 INFO     Length of list is:
+2016-09-08 21:33:39,549 INFO     1
+2016-09-08 21:33:39,549 INFO     Length of setlist is:
+2016-09-08 21:33:39,549 INFO     1
+2016-09-08 21:33:39,549 INFO     ***************************
+2016-09-08 21:33:39,549 INFO     ***************************
+2016-09-08 21:33:39,550 INFO     List is in the following mongo collection:
+2016-09-08 21:33:39,550 INFO     sulky-corpus-only-syn-unq-order-3
+2016-09-08 21:33:39,554 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-08 21:33:39,706 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-08 21:33:39,706 INFO     [u'container', u'vehicle']
+2016-09-08 21:33:39,706 INFO     =====END FLAT LIST=====
+2016-09-08 21:33:39,706 INFO     Length of list is:
+2016-09-08 21:33:39,706 INFO     2
+2016-09-08 21:33:39,706 INFO     Length of setlist is:
+2016-09-08 21:33:39,706 INFO     2
+2016-09-08 21:33:39,706 INFO     ***************************
+2016-09-08 21:33:39,707 INFO     127.0.0.1 - - [08/Sep/2016 21:33:39] "POST /corpus/y HTTP/1.1" 200 -
