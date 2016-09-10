@@ -1,0 +1,51 @@
+2016-09-10 16:14:31,511 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-10 16:14:31,511 INFO      * Restarting with stat
+2016-09-10 16:14:31,770 WARNING   * Debugger is active!
+2016-09-10 16:14:31,775 INFO      * Debugger pin code: 294-815-374
+2016-09-10 16:14:37,610 INFO     ***************************
+2016-09-10 16:14:37,611 INFO     List is in the following mongo collection:
+2016-09-10 16:14:37,611 INFO     terribleness-corpus-only-syn-unq-order-1
+2016-09-10 16:14:37,618 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-10 16:14:38,101 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-10 16:14:38,101 INFO     [u'dreadfulness', u'awfulness', u'unpleasantness', u'horridness']
+2016-09-10 16:14:38,101 INFO     =====END FLAT LIST=====
+2016-09-10 16:14:38,101 INFO     Length of list is:
+2016-09-10 16:14:38,101 INFO     4
+2016-09-10 16:14:38,101 INFO     Length of setlist is:
+2016-09-10 16:14:38,101 INFO     4
+2016-09-10 16:14:38,101 INFO     ***************************
+2016-09-10 16:14:38,101 INFO     ***************************
+2016-09-10 16:14:38,101 INFO     List is in the following mongo collection:
+2016-09-10 16:14:38,102 INFO     terribleness-corpus-only-syn-unq-order-2
+2016-09-10 16:14:38,103 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-10 16:14:38,572 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-10 16:14:39,056 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-10 16:14:39,490 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-10 16:14:39,949 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-10 16:14:39,949 INFO     [u'horridness', u'pain', u'dreadfulness', u'quality', u'awfulness', u'unpleasantness', u'terribleness', u'painfulness']
+2016-09-10 16:14:39,949 INFO     =====END FLAT LIST=====
+2016-09-10 16:14:39,949 INFO     Length of list is:
+2016-09-10 16:14:39,949 INFO     15
+2016-09-10 16:14:39,949 INFO     Length of setlist is:
+2016-09-10 16:14:39,949 INFO     8
+2016-09-10 16:14:39,949 INFO     ***************************
+2016-09-10 16:14:39,950 INFO     ***************************
+2016-09-10 16:14:39,950 INFO     List is in the following mongo collection:
+2016-09-10 16:14:39,950 INFO     terribleness-corpus-only-syn-unq-order-3
+2016-09-10 16:14:39,951 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-10 16:14:40,431 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-10 16:14:40,650 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-10 16:14:40,803 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-10 16:14:40,950 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-10 16:14:41,109 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-10 16:14:41,272 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-10 16:14:41,486 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-10 16:14:41,926 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-10 16:14:41,926 INFO     [u'social rank', u'tone', u'afflict', u'grade', u'attribute', u'social station', u'disconcert', u'negative stimulus', u'rank', u'calibre', u'pain in the ass', u'unpleasantness', u'property', u'anguish', u'trouble', u'painfulness', u'painful sensation', u'annoyance', u'discompose', u'quality', u'untune', u'character', u'unpleasant person', u'distressingness', u'awfulness', u'social status', u'pain in the neck', u'timber', u'terribleness', u'somatic sensation', u'disagreeable person', u'hurting', u'caliber', u'pain', u'degree', u'infliction', u'dreadfulness', u'lineament', u'hurt', u'nuisance', u'symptom', u'discomfit', u'horridness', u'level', u'timbre', u'bother', u'upset', u'sound property', u'dimension', u'botheration', u'ail', u'somatesthesia', u'somesthesia', u'feeling', u'pain sensation', u'somaesthesia']
+2016-09-10 16:14:41,926 INFO     =====END FLAT LIST=====
+2016-09-10 16:14:41,926 INFO     Length of list is:
+2016-09-10 16:14:41,926 INFO     71
+2016-09-10 16:14:41,926 INFO     Length of setlist is:
+2016-09-10 16:14:41,926 INFO     56
+2016-09-10 16:14:41,926 INFO     ***************************
+2016-09-10 16:14:41,927 INFO     127.0.0.1 - - [10/Sep/2016 16:14:41] "POST /corpus/y HTTP/1.1" 200 -
