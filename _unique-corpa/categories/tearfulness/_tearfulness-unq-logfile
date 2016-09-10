@@ -1,0 +1,53 @@
+2016-09-09 23:35:07,675 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-09 23:35:07,676 INFO      * Restarting with stat
+2016-09-09 23:35:07,942 WARNING   * Debugger is active!
+2016-09-09 23:35:07,947 INFO      * Debugger pin code: 294-815-374
+2016-09-09 23:35:12,949 INFO     ***************************
+2016-09-09 23:35:12,949 INFO     List is in the following mongo collection:
+2016-09-09 23:35:12,949 INFO     tearfulness-corpus-only-syn-unq-order-1
+2016-09-09 23:35:12,956 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-09 23:35:13,083 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-09 23:35:13,083 INFO     [u'sadness', u'weepiness', u'unhappiness']
+2016-09-09 23:35:13,083 INFO     =====END FLAT LIST=====
+2016-09-09 23:35:13,083 INFO     Length of list is:
+2016-09-09 23:35:13,083 INFO     3
+2016-09-09 23:35:13,084 INFO     Length of setlist is:
+2016-09-09 23:35:13,084 INFO     3
+2016-09-09 23:35:13,084 INFO     ***************************
+2016-09-09 23:35:13,084 INFO     ***************************
+2016-09-09 23:35:13,084 INFO     List is in the following mongo collection:
+2016-09-09 23:35:13,084 INFO     tearfulness-corpus-only-syn-unq-order-2
+2016-09-09 23:35:13,088 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-09 23:35:13,223 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-09 23:35:13,373 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-09 23:35:13,500 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-09 23:35:13,500 INFO     [u'emotional state', u'sorrow', u'tearfulness', u'sorrowfulness', u'spirit', u'sadness', u'uncheerfulness', u'lugubriousness', u'feeling', u'gloominess', u'unhappiness']
+2016-09-09 23:35:13,500 INFO     =====END FLAT LIST=====
+2016-09-09 23:35:13,500 INFO     Length of list is:
+2016-09-09 23:35:13,500 INFO     14
+2016-09-09 23:35:13,500 INFO     Length of setlist is:
+2016-09-09 23:35:13,500 INFO     11
+2016-09-09 23:35:13,501 INFO     ***************************
+2016-09-09 23:35:13,501 INFO     ***************************
+2016-09-09 23:35:13,501 INFO     List is in the following mongo collection:
+2016-09-09 23:35:13,501 INFO     tearfulness-corpus-only-syn-unq-order-3
+2016-09-09 23:35:13,503 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-09 23:35:13,635 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-09 23:35:13,764 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-09 23:35:13,886 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-09 23:35:14,014 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-09 23:35:14,143 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-09 23:35:14,271 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-09 23:35:14,405 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-09 23:35:14,533 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-09 23:35:14,664 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-09 23:35:14,794 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-09 23:35:14,919 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-09 23:35:14,919 INFO     [u'impression', u'atmosphere', u'brio', u'touch', u'flavor', u'suffer', u'fibre', u'character', u'touch sensation', u'spiritual being', u'ambience', u'mournfulness', u'invigoration', u'uncheerfulness', u'somberness', u'gloom', u'vivification', u'apprehension', u'somaesthesia', u'life principle', u'ruthfulness', u'weepiness', u'regret', u'ambiance', u'idea', u'vital principle', u'fiber', u'animate', u'glumness', u'cheerlessness', u'liveliness', u'state', u'import', u'melancholy', u'perception', u'belief', u'sorrow', u'rue', u'disposition', u'lugubriousness', u'tactual sensation', u'feeling', u'emotional state', u'tactile sensation', u'opinion', u'emotion', u'intuition', u'tone', u'purport', u'feel', u'ruefulness', u'sorrowfulness', u'intuitive feeling', u'unhappiness', u'enliven', u'somatic sensation', u'life', u'sprightliness', u'liven', u'grief', u'temperament', u'spirit', u'disembodied spirit', u'flavour', u'look', u'invigorate', u'grieve', u'sadness', u'somatesthesia', u'somesthesia', u'sombreness', u'spiritedness', u'heart', u'attribute', u'negative stimulus', u'liven up', u'supernatural being', u'signification', u'gloominess', u'animation', u'significance', u'smell', u'spirit up', u'meaning', u'intent', u'inspirit', u'apprehensiveness', u'thought', u'dread', u'notion']
+2016-09-09 23:35:14,919 INFO     =====END FLAT LIST=====
+2016-09-09 23:35:14,919 INFO     Length of list is:
+2016-09-09 23:35:14,919 INFO     124
+2016-09-09 23:35:14,919 INFO     Length of setlist is:
+2016-09-09 23:35:14,919 INFO     90
+2016-09-09 23:35:14,919 INFO     ***************************
+2016-09-09 23:35:14,920 INFO     127.0.0.1 - - [09/Sep/2016 23:35:14] "POST /corpus/y HTTP/1.1" 200 -
