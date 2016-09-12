@@ -1,0 +1,84 @@
+2016-09-11 23:29:57,894 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-11 23:29:57,895 INFO      * Restarting with stat
+2016-09-11 23:29:58,145 WARNING   * Debugger is active!
+2016-09-11 23:29:58,149 INFO      * Debugger pin code: 294-815-374
+2016-09-11 23:30:10,267 INFO     ***************************
+2016-09-11 23:30:10,268 INFO     List is in the following mongo collection:
+2016-09-11 23:30:10,268 INFO     tragedy-corpus-only-syn-unq-order-1
+2016-09-11 23:30:10,282 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:10,418 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-11 23:30:10,419 INFO     [u'misfortune', u'catastrophe', u'drama', u'calamity', u'bad luck', u'cataclysm', u'disaster']
+2016-09-11 23:30:10,419 INFO     =====END FLAT LIST=====
+2016-09-11 23:30:10,419 INFO     Length of list is:
+2016-09-11 23:30:10,419 INFO     7
+2016-09-11 23:30:10,419 INFO     Length of setlist is:
+2016-09-11 23:30:10,419 INFO     7
+2016-09-11 23:30:10,419 INFO     ***************************
+2016-09-11 23:30:10,419 INFO     ***************************
+2016-09-11 23:30:10,419 INFO     List is in the following mongo collection:
+2016-09-11 23:30:10,419 INFO     tragedy-corpus-only-syn-unq-order-2
+2016-09-11 23:30:10,420 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:10,552 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:10,683 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:10,808 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:10,933 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:11,058 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:11,184 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:11,305 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-11 23:30:11,305 INFO     [u'disaster', u'hard knocks', u'ill luck', u'writing style', u'mishap', u'geological phenomenon', u'devastation', u'misfortune', u'destiny', u'tough luck', u'emotionalism', u'literary genre', u'portion', u'dramatic composition', u'lot', u'destruction', u'play', u'hardship', u'fate', u'catastrophe', u'mischance', u'chance', u'cataclysm', u'dramatic event', u'dramatic work', u'genre', u'episode', u'trouble', u'tragedy', u'circumstances', u'fortune', u'emotionality', u'calamity', u'bad luck', u'adversity', u'hazard', u'dramatic play', u'luck']
+2016-09-11 23:30:11,306 INFO     =====END FLAT LIST=====
+2016-09-11 23:30:11,306 INFO     Length of list is:
+2016-09-11 23:30:11,306 INFO     71
+2016-09-11 23:30:11,306 INFO     Length of setlist is:
+2016-09-11 23:30:11,306 INFO     38
+2016-09-11 23:30:11,306 INFO     ***************************
+2016-09-11 23:30:11,306 INFO     ***************************
+2016-09-11 23:30:11,307 INFO     List is in the following mongo collection:
+2016-09-11 23:30:11,307 INFO     tragedy-corpus-only-syn-unq-order-3
+2016-09-11 23:30:11,310 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:11,431 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:11,559 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:11,680 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:11,803 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:11,934 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:12,062 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:12,184 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:12,314 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:12,432 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:12,555 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:12,682 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:12,811 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:12,941 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:13,067 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:13,190 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:13,310 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:13,447 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:13,569 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:13,691 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:13,814 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:13,940 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:14,075 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:14,197 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:14,322 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:14,444 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:14,568 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:14,695 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:14,819 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:14,939 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:15,068 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:15,193 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:15,316 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:15,442 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:15,565 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:15,689 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:15,812 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:15,934 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-11 23:30:16,056 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-11 23:30:16,056 INFO     [u'essay', u'represent', u'consider', u'large indefinite quantity', u'go', u'disoblige', u'catastrophe', u'program', u'bear upon', u'assay', u'parcel', u'dispense', u'gestation', u'spate', u'affect', u'trouble', u'physical object', u'encounter', u'recreation', u'try', u'accumulation', u'assemblage', u'programme', u'pretend', u'occurrence', u'mishap', u'pillaging', u'pass', u'possibleness', u'section', u'exercise', u'movement', u'impact', u'social group', u'elbow grease', u'piece of land', u'witticism', u'tragedy', u'change', u'cark', u'ravaging', u'parcel of land', u'amount', u'action', u'divide', u'humour', u'danger', u'utilisation', u'wit', u'apply', u'manipulate', u'devastation', u'use', u'apportionment', u'music', u'hard knocks', u'strike', u'raft', u'sort', u'hatful', u'trait', u'impress', u'inconvenience oneself', u'hurt', u'doom', u'effort', u'unhinge', u'circumstances', u'work', u'meet', u'give', u'share', u'take a chance', u'trouble oneself', u'swordplay', u'occur', u'risk', u'drama', u'end', u'emotionalism', u'travel', u'utilize', u'gamble', u'sweat', u'gaming', u'utilise', u'mess', u'collection', u'quite a little', u'adventure', u'attempt', u'emotionality', u'allot', u'deterioration', u'Hebrew', u'make', u'serving', u'misadventure', u'move', u'rigorousness', u'written material', u'bunch', u'trifle', u'style', u'writing', u'condition', u'fall out', u'disturb', u'make for', u'tucker', u'band', u'speculate', u'strive', u'installment', u'component part', u'endangerment', u'fiddle', u'touch on', u'luck', u'put on the line', u'Destiny', u'bump', u'caboodle', u'ordain', u'measure', u'flock', u'slew', u'contend', u'misfortune', u'disquiet', u'muckle', u'small indefinite amount', u'cause', u'maneuver', u'take place', u'movability', u'possibility', u'spiel', u'difficulty', u'perturbation', u'hazard', u'occurrent', u'looseness', u'whole lot', u'small indefinite quantity', u'motion', u'turn', u'mete out', u'assign', u'ruination', u'feign', u'probability', u'perturb', u'wager', u'guess', u'toy', u'utilization', u'percentage', u'grimness', u'dissever', u'travail', u'period of play', u'broadcast', u'part', u'simulate', u'expressive style', u'peck', u'piece of writing', u'kind', u'peril', u'dower', u'calamity', u'venture', u'feeling', u'bet', u'prospect', u'seek', u'Israelite', u'asperity', u'jeopardize', u'potential', u'take', u'musical genre', u'mickle', u'impairment', u'play', u'go on', u'deploy', u'pillage', u'look at', u'reach', u'rigor', u'plenty', u'tract', u'deal out', u'rigourousness', u'potency', u'episode', u'upset', u'jeopardy', u'dramatic play', u'quantity', u'phenomenon', u'show', u'ending', u'bring', u'relation', u'find', u'geological phenomenon', u'caper', u'ruin', u'treasure', u'wreak', u'shimmer', u're-create', u'manoeuvre', u'dramatic composition', u'circle', u'do', u'writing style', u'hit', u'severeness', u'beat', u'apportioning', u'anxiety', u'assignation', u'hoarded wealth', u'plan of action', u'alteration', u'dowery', u'activity', u'bother', u'set', u'art', u'disaster', u'act as', u'run a risk', u'fine art', u'sport', u'destiny', u'diddle', u'put out', u'state', u'destine', u'movableness', u'hardship', u'component', u'disturbance', u'genre', u'dally', u'gambol', u'wipeout', u'wealthiness', u'musical style', u'pot', u'exploit', u'Lot', u'pregnancy', u'endeavor', u'create', u'instalment', u'playact', u'photographic film', u'hap', u'locomote', u'playing period', u'sound', u'batch', u'inconvenience', u'employ', u'ail', u'bad luck', u'rigour', u'fun', u'natural event', u'tidy sum', u'wash up', u'strain', u'obstacle', u'demolition', u'worry', u'severity', u'perform', u'mint', u"child's play", u'literary genre', u'piece of ground', u'split', u'modification', u'sham', u'exertion', u'exhaust', u'finish', u'fuss', u'tough luck', u'displace', u'allocation', u'discommode', u'diversion', u'dramatic work', u'opportunity', u'stack', u'destruction', u'romp', u'carve up', u'variety', u'difficultness', u'termination', u'whole slew', u'endeavour', u'distribute', u'ill luck', u'maternity', u'potentiality', u'touch', u'take chances', u'Jew', u'death', u'vie', u'pile', u'usage', u'designate', u'lay on the line', u'fate', u'bid', u'aggregation', u'mischance', u'cataclysm', u'plundering', u'fortune', u'come about', u'gift', u'music genre', u'disorder', u'free rein', u'adversity', u'parceling', u'deal', u'sequence', u'large indefinite amount', u'hassle', u'sight', u'split up', u'pain', u'employment', u'humor', u'behave', u'tucker out', u'object', u'run', u'dole out', u'great deal', u'wealth', u'freedom', u'pass off', u'allotment', u'act', u'wittiness', u'recreate', u'administer', u'parcelling', u'mass', u'afflict', u'wad', u'good deal', u'lot', u'form', u'heap', u'assets', u'causal agency', u'dowry', u'distract', u'flirt', u'problem', u'possession', u'take on', u'bear on', u'natural phenomenon', u'happen', u'film', u'parcel out', u'Fate', u'shell out', u'stake', u'activeness', u'gambling', u'frolic', u'roleplay', u'conclusion', u'draw', u'separate', u'desolation', u'helping', u'chance', u'discharge', u'causal agent', u'subdivision', u'happening', u'vice', u'assume', u'portion', u'compete', u'dish out', u'incommode']
+2016-09-11 23:30:16,056 INFO     =====END FLAT LIST=====
+2016-09-11 23:30:16,057 INFO     Length of list is:
+2016-09-11 23:30:16,057 INFO     644
+2016-09-11 23:30:16,057 INFO     Length of setlist is:
+2016-09-11 23:30:16,057 INFO     404
+2016-09-11 23:30:16,057 INFO     ***************************
+2016-09-11 23:30:16,058 INFO     127.0.0.1 - - [11/Sep/2016 23:30:16] "POST /corpus/y HTTP/1.1" 200 -
