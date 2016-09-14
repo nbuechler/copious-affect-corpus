@@ -1,0 +1,64 @@
+2016-09-13 23:28:13,804 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-13 23:28:13,806 INFO      * Restarting with stat
+2016-09-13 23:28:14,063 WARNING   * Debugger is active!
+2016-09-13 23:28:14,068 INFO      * Debugger pin code: 294-815-374
+2016-09-13 23:28:20,384 INFO     ***************************
+2016-09-13 23:28:20,385 INFO     List is in the following mongo collection:
+2016-09-13 23:28:20,385 INFO     uniqueness-corpus-only-syn-unq-order-1
+2016-09-13 23:28:20,395 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:20,532 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-13 23:28:20,532 INFO     [u'individuation', u'singularity', u'individuality', u'individualism']
+2016-09-13 23:28:20,532 INFO     =====END FLAT LIST=====
+2016-09-13 23:28:20,532 INFO     Length of list is:
+2016-09-13 23:28:20,532 INFO     4
+2016-09-13 23:28:20,532 INFO     Length of setlist is:
+2016-09-13 23:28:20,533 INFO     4
+2016-09-13 23:28:20,533 INFO     ***************************
+2016-09-13 23:28:20,533 INFO     ***************************
+2016-09-13 23:28:20,533 INFO     List is in the following mongo collection:
+2016-09-13 23:28:20,533 INFO     uniqueness-corpus-only-syn-unq-order-2
+2016-09-13 23:28:20,535 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:20,695 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:20,830 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:20,997 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:21,151 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-13 23:28:21,152 INFO     [u'school of thought', u'individuality', u'unfamiliarity', u'strangeness', u'personal identity', u'discrimination', u'philosophy', u'individualisation', u'secernment', u'individuation', u'ism', u'uniqueness', u'laissez faire', u'doctrine', u'trait', u'belief', u'individualization', u'personality', u'philosophical system', u'identity', u'individualism']
+2016-09-13 23:28:21,152 INFO     =====END FLAT LIST=====
+2016-09-13 23:28:21,152 INFO     Length of list is:
+2016-09-13 23:28:21,152 INFO     29
+2016-09-13 23:28:21,152 INFO     Length of setlist is:
+2016-09-13 23:28:21,152 INFO     21
+2016-09-13 23:28:21,152 INFO     ***************************
+2016-09-13 23:28:21,153 INFO     ***************************
+2016-09-13 23:28:21,153 INFO     List is in the following mongo collection:
+2016-09-13 23:28:21,153 INFO     uniqueness-corpus-only-syn-unq-order-3
+2016-09-13 23:28:21,156 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:21,295 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:21,458 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:21,581 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:21,720 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:21,847 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:21,969 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:22,089 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:22,216 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:22,338 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:22,481 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:22,605 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:22,733 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:22,856 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:22,980 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:23,112 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:23,244 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:23,378 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:23,504 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:23,635 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:23,761 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:28:23,881 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-13 23:28:23,881 INFO     [u'impression', u'individuality', u'identity operator', u'strangeness', u'personal identity', u'attribute', u'idea', u'individuation', u'basic cognitive process', u'laissez faire', u'doctrine', u'operator', u'favouritism', u'quality', u'flavor', u'recognition', u'sameness', u'thought', u'arts', u'unfamiliarity', u'humanities', u'social control', u'discrimination', u'famous person', u'individualisation', u'indistinguishability', u'content', u'identification', u'secretion', u'individualization', u'celebrity', u'personality', u'organic process', u'belief', u'favoritism', u'trait', u'philosophy', u'mental object', u'singularity', u'humanistic discipline', u'identity', u'individualism', u'cognitive content', u'feeling', u'flavour', u'philosophical system', u'identicalness', u'foreignness', u'biological process', u'secernment', u'curiousness', u'school of thought', u'liberal arts', u'ism', u'opinion', u'unusualness', u'notion', u'identity element']
+2016-09-13 23:28:23,881 INFO     =====END FLAT LIST=====
+2016-09-13 23:28:23,881 INFO     Length of list is:
+2016-09-13 23:28:23,881 INFO     116
+2016-09-13 23:28:23,881 INFO     Length of setlist is:
+2016-09-13 23:28:23,882 INFO     58
+2016-09-13 23:28:23,882 INFO     ***************************
+2016-09-13 23:28:23,883 INFO     127.0.0.1 - - [13/Sep/2016 23:28:23] "POST /corpus/y HTTP/1.1" 200 -

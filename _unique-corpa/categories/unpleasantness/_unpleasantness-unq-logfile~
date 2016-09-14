@@ -1,0 +1,97 @@
+2016-09-13 23:29:08,603 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-13 23:29:08,604 INFO      * Restarting with stat
+2016-09-13 23:29:08,844 WARNING   * Debugger is active!
+2016-09-13 23:29:08,850 INFO      * Debugger pin code: 294-815-374
+2016-09-13 23:29:12,732 INFO     ***************************
+2016-09-13 23:29:12,733 INFO     List is in the following mongo collection:
+2016-09-13 23:29:12,733 INFO     unpleasantness-corpus-only-syn-unq-order-1
+2016-09-13 23:29:12,744 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:12,879 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-13 23:29:12,880 INFO     [u'quality', u'pain', u'painfulness']
+2016-09-13 23:29:12,880 INFO     =====END FLAT LIST=====
+2016-09-13 23:29:12,880 INFO     Length of list is:
+2016-09-13 23:29:12,880 INFO     3
+2016-09-13 23:29:12,880 INFO     Length of setlist is:
+2016-09-13 23:29:12,880 INFO     3
+2016-09-13 23:29:12,880 INFO     ***************************
+2016-09-13 23:29:12,880 INFO     ***************************
+2016-09-13 23:29:12,880 INFO     List is in the following mongo collection:
+2016-09-13 23:29:12,880 INFO     unpleasantness-corpus-only-syn-unq-order-2
+2016-09-13 23:29:12,882 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:13,008 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:13,132 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:13,250 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-13 23:29:13,250 INFO     [u'tone', u'afflict', u'grade', u'attribute', u'social station', u'disconcert', u'negative stimulus', u'rank', u'unpleasant person', u'pain in the ass', u'anguish', u'nuisance', u'timber', u'painful sensation', u'annoyance', u'discompose', u'quality', u'untune', u'character', u'calibre', u'distressingness', u'social status', u'pain in the neck', u'painfulness', u'social rank', u'disagreeable person', u'hurting', u'caliber', u'pain', u'degree', u'infliction', u'lineament', u'bother', u'hurt', u'trouble', u'symptom', u'discomfit', u'feeling', u'level', u'timbre', u'pain sensation', u'upset', u'sound property', u'somatic sensation', u'botheration', u'ail', u'somatesthesia', u'somesthesia', u'property', u'dimension', u'somaesthesia']
+2016-09-13 23:29:13,250 INFO     =====END FLAT LIST=====
+2016-09-13 23:29:13,250 INFO     Length of list is:
+2016-09-13 23:29:13,250 INFO     52
+2016-09-13 23:29:13,250 INFO     Length of setlist is:
+2016-09-13 23:29:13,251 INFO     51
+2016-09-13 23:29:13,251 INFO     ***************************
+2016-09-13 23:29:13,251 INFO     ***************************
+2016-09-13 23:29:13,251 INFO     List is in the following mongo collection:
+2016-09-13 23:29:13,251 INFO     unpleasantness-corpus-only-syn-unq-order-3
+2016-09-13 23:29:13,253 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:13,380 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:13,501 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:13,625 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:13,750 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:13,874 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:13,998 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:14,122 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:14,248 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:14,376 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:14,502 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:14,624 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:14,744 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:14,869 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:14,993 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:15,115 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:15,234 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:15,357 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:15,480 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:15,600 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:15,727 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:15,861 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:15,988 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:16,112 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:16,241 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:16,363 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:16,483 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:16,610 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:16,746 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:16,868 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:17,000 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:17,124 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:17,252 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:17,377 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:17,506 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:17,631 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:17,765 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:17,888 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:18,020 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:18,154 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:18,276 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:18,401 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:18,527 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:18,650 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:18,767 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:18,895 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:19,020 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:19,146 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:19,272 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:19,399 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:19,524 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:29:19,648 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-13 23:29:19,648 INFO     [u'concept', u'impression', u'scratch', u'timberland', u'disoblige', u'vex', u'unhinge', u'charge', u'ambience', u'gravel', u'sound', u'trouble oneself', u'torture', u'grapheme', u'gestation', u'material possession', u'affect', u'trouble', u'physical object', u'condition', u'disturb', u'level', u'stimulus', u'laurels', u'somaesthesis', u'pass judgment', u'assemblage', u'force', u'occurrence', u'unhealthiness', u'direct', u'agitate', u'knock over', u'rate', u'perception', u'somatic sensory system', u'utter', u'even', u'index', u'diam', u'verbalize', u'touch sensation', u'lumber', u'construction', u'ground', u'exercise', u'body', u'degree', u'honour', u'modify', u'elbow grease', u'rase', u'geographic region', u'change', u'flavourer', u'difficulty', u'cause to be perceived', u'pain sensation', u'verbalise', u'natural event', u'defeat', u'opinion', u'raze', u'honor', u'diameter', u'enactment', u'imaginary being', u'abash', u'graphic symbol', u'injure', u'indispose', u'irritate', u'change surface', u'mental state', u'injury', u'type', u'sort', u'negative stimulus', u'solid ground', u'trait', u'inflect', u'ascribe', u'inconvenience oneself', u'award', u'hurt', u'train', u'adult', u'effort', u'get at', u'annoy', u'somesthesis', u'work', u'color in', u'sound property', u'botheration', u'temperature unit', u'somatesthesia', u'musical notation', u'somesthesia', u'rank and file', u'attribute', u'cows', u'provoke', u'flavorer', u'feature', u'forest', u'nark', u'classify', u'sweat', u'even out', u'tension', u'abstraction', u'membership', u'tier', u'ablaut', u'actus reus', u'change of integrity', u'shade', u'offend', u'order', u'talk', u'turnover', u'displease', u'wound', u'move', u'damage', u'pitch', u'misconduct', u'suffer', u'comprehend', u'grade', u'pain in the neck', u'wrongful conduct', u'alter', u'overcome', u'hurting', u'horizontal surface', u'tensity', u'strive', u'mould', u'inversion', u'get the better of', u'magnitude', u'touch on', u'arcdegree', u'vexation', u'exertion', u'harm', u'ambiance', u'idea', u'irritation', u'colourize', u'disagreeable person', u'geographical region', u'gradient', u'disquiet', u'gradation', u'trauma', u'engrave', u'persona non grata', u'evaluation', u'fiber', u'belief', u'angular unit', u'social rank', u'story', u'inscribe', u'cark', u'embarrass', u'turn on', u'colour in', u'tonicity', u'enkindle', u'place', u'somaesthesia', u'assign', u'intuition', u'perturb', u'feel', u'confuse', u'rank', u'belongings', u'tenseness', u'quality', u'discompose', u'perturbation', u'construct', u'stimulation', u'seasoning', u'assort', u'enforcement', u'travail', u'tonus', u'tool', u'part', u'put off', u'symptom', u'kine', u'bother', u'discolor', u'musical interval', u'kindle', u'charge up', u'feeling', u'bowl over', u'rag', u'gathering', u'tautness', u'strengthen', u'tip over', u'measure', u'torment', u'anger', u'colorise', u'unpleasant person', u'note', u'take', u'destroy', u'impairment', u'caliber', u'pain', u'infliction', u'inconvenience', u'reach', u'swage', u'mouth', u'nuisance', u'class', u'grave', u'exponent', u'upset', u'destruct', u'somataesthesis', u'nettle', u'reputation', u'detriment', u'notion', u'slope', u'rating', u'atmosphere', u'tincture', u'pain in the ass', u'gauge', u'aggravator', u'earth', u'painfulness', u'impact', u'fibre', u'indicator', u'coloring', u'spite', u'proportion', u'good word', u'bruise', u'perceive', u'beam', u'anxiety', u'geographic area', u'body part', u'whole tone', u'grad', u'reference', u'arouse', u'cattle', u'overturn', u'imposition', u'pull down', u'put out', u'state', u'score', u'irrupt', u'ire', u'biome', u'lineament', u'level off', u'problem', u'outrank', u'discommode', u'spirit level', u'grounds', u'tone', u'distress', u'point', u'color', u'terra firma', u'height', u'pregnancy', u'speak', u'painful sensation', u'intrude', u'devil', u'raise', u'testimonial', u'mark', u'somatosensory system', u'psychological state', u'fire', u'overthrow', u'excite', u'tear down', u'incommode', u'printed symbol', u'ill health', u'interoception', u'spirit', u'case', u'conception', u'look', u'value', u'aim', u'ail', u'chant', u'property', u'imaginary creature', u'musical note', u'discolour', u'layer', u'agitation', u'surface', u'bear upon', u'strain', u'elicit', u'anguish', u'worry', u'personation', u'choler', u'somatic sense', u'woodland', u'speech', u'indicant', u'tump over', u'status', u'persona', u'fuss', u'eccentric', u'occurrent', u'flurry', u'garlic', u'colouring', u'timbre', u'colour', u'written symbol', u'thought', u'position', u'dimension', u'tone up', u'dry land', u'disconcert', u'storey', u'shape', u'maternity', u'surpass', u'touch', u'flavor', u'modulate', u'timber', u'smite', u'disturbance', u'take aim', u'characterization', u'character', u'calibre', u'stratum', u'input', u'smart', u'tactual sensation', u'elevation', u'evaluate', u'displace', u'suffering', u'judge', u'flavoring', u'sort out', u'commove', u'geographical area', u'health problem', u'success', u'indication', u'disorder', u'afflict', u'scathe', u'rile', u'hassle', u'recommendation', u'auditory sensation', u'bore', u'work out', u'character reference', u'untune', u'flush', u'prop', u'social status', u'intuitive feeling', u'impress', u'be', u'object', u'power', u'seasoner', u'fictional character', u'step', u'tint', u'get to', u'ache', u'post', u'stage', u'chafe', u'stand out', u'flavouring', u'tactile sensation', u'colourise', u'range', u'evoke', u'turn over', u'academic degree', u'social station', u'assess', u'portrayal', u'colorize', u'annoyance', u'altitude', u'manner of speaking', u'intone', u'wrongdoing', u'derangement', u'somatic sensation', u'theatrical role', u'form', u'Bos taurus', u'mistreatment', u'delivery', u'strike', u'whole step', u'line', u'rouse', u'valuation', u'Cartesian coordinate', u'discomfit', u'flavour', u'fictitious character', u'distract', u'tone of voice', u'impute', u'unwelcome person', u'appraise', u'possession', u'oxen', u'pure tone', u'evidence', u'upending', u'bear on', u'annoying', u'mold', u'distressingness', u'floor', u'personnel', u'excel', u'role', u'holding', u'forge', u'repute', u'smell', u'stimulant', u'separate', u'valuate', u'dismantle', u'take down', u'structure', u'ground level', u'land', u'happening', u'interval', u'accolade', u'grownup', u'building material']
+2016-09-13 23:29:19,649 INFO     =====END FLAT LIST=====
+2016-09-13 23:29:19,649 INFO     Length of list is:
+2016-09-13 23:29:19,649 INFO     862
+2016-09-13 23:29:19,649 INFO     Length of setlist is:
+2016-09-13 23:29:19,649 INFO     474
+2016-09-13 23:29:19,649 INFO     ***************************
+2016-09-13 23:29:19,651 INFO     127.0.0.1 - - [13/Sep/2016 23:29:19] "POST /corpus/y HTTP/1.1" 200 -
+2016-09-13 23:29:25,422 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-13 23:29:25,422 INFO      * Restarting with stat
+2016-09-13 23:29:25,676 WARNING   * Debugger is active!
+2016-09-13 23:29:25,681 INFO      * Debugger pin code: 294-815-374
