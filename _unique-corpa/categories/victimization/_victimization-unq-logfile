@@ -1,0 +1,77 @@
+2016-09-13 23:32:11,929 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-13 23:32:11,930 INFO      * Restarting with stat
+2016-09-13 23:32:12,179 WARNING   * Debugger is active!
+2016-09-13 23:32:12,184 INFO      * Debugger pin code: 294-815-374
+2016-09-13 23:32:15,805 INFO     ***************************
+2016-09-13 23:32:15,805 INFO     List is in the following mongo collection:
+2016-09-13 23:32:15,805 INFO     victimization-corpus-only-syn-unq-order-1
+2016-09-13 23:32:15,816 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:15,948 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-13 23:32:15,948 INFO     [u'hardship', u'hard knocks', u'victimisation', u'mistreatment', u'exploitation', u'using', u'adversity']
+2016-09-13 23:32:15,948 INFO     =====END FLAT LIST=====
+2016-09-13 23:32:15,948 INFO     Length of list is:
+2016-09-13 23:32:15,948 INFO     7
+2016-09-13 23:32:15,948 INFO     Length of setlist is:
+2016-09-13 23:32:15,949 INFO     7
+2016-09-13 23:32:15,949 INFO     ***************************
+2016-09-13 23:32:15,949 INFO     ***************************
+2016-09-13 23:32:15,949 INFO     List is in the following mongo collection:
+2016-09-13 23:32:15,949 INFO     victimization-corpus-only-syn-unq-order-2
+2016-09-13 23:32:15,952 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:16,099 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:16,221 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:16,344 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:16,465 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:16,588 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:16,713 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:16,836 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-13 23:32:16,836 INFO     [u'hard knocks', u'ill luck', u'utilisation', u'rigorousness', u'asperity', u'employment', u'misfortune', u'victimization', u'utilization', u'pattern', u'usage', u'rigourousness', u'grimness', u'exercise', u'development', u'practice', u'hardship', u'tough luck', u'severeness', u'mistreatment', u'use', u'difficulty', u'rigor', u'using', u'severity', u'victimisation', u'difficultness', u'exploitation', u'bad luck', u'rigour', u'adversity']
+2016-09-13 23:32:16,836 INFO     =====END FLAT LIST=====
+2016-09-13 23:32:16,836 INFO     Length of list is:
+2016-09-13 23:32:16,837 INFO     49
+2016-09-13 23:32:16,837 INFO     Length of setlist is:
+2016-09-13 23:32:16,837 INFO     31
+2016-09-13 23:32:16,837 INFO     ***************************
+2016-09-13 23:32:16,837 INFO     ***************************
+2016-09-13 23:32:16,837 INFO     List is in the following mongo collection:
+2016-09-13 23:32:16,838 INFO     victimization-corpus-only-syn-unq-order-3
+2016-09-13 23:32:16,841 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:16,973 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:17,095 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:17,225 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:17,347 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:17,468 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:17,592 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:17,719 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:17,840 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:17,961 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:18,088 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:18,224 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:18,348 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:18,474 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:18,600 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:18,724 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:18,849 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:18,975 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:19,098 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:19,223 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:19,344 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:19,472 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:19,599 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:19,721 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:19,847 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:19,971 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:20,105 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:20,236 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:20,357 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:20,482 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:20,611 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:32:20,735 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-13 23:32:20,736 INFO     [u'itinerary', u'ill nature', u'move', u'ill luck', u'shape', u'rigorousness', u'physical exertion', u'occupation', u'good example', u'knowledge', u'fit', u'implementation', u'graph', u'exercising', u'improvement', u'maturation', u'program', u'usage', u'take in', u'practise', u'match', u'organic process', u'do', u'consumption', u'fate', u'severeness', u'read', u'survival', u'practice', u'execute', u'mischance', u'jibe', u'graphical record', u'using', u'trouble', u'plainness', u'condition', u'wont', u'gruesomeness', u'evolution', u'fortune', u'cognition', u'alteration', u'ornamentation', u'activity', u'study', u'ceremonial', u'adversity', u'luck', u'victimization', u'status', u'observance', u'habit', u'imitate', u'legal right', u'cognitive factor', u'mishap', u'melioration', u'biological process', u'growth', u'line of work', u'usefulness', u'intensiveness', u'asperity', u'employment', u'preparation', u'misfortune', u'destiny', u'pattern', u'section', u'rehearse', u'ornament', u'believability', u'state', u'formula', u'exercise', u'usance', u'hardship', u'business', u'processing', u'put to work', u'difficulty', u'job', u'elbow grease', u'path', u'change', u'drill', u'training', u'district', u'route', u'recitation', u'ingest', u'agree', u'exploitation', u'sweat', u'stiffness', u'act', u'action', u'grooming', u'programme', u'praxis', u'consume', u'practice session', u'radiation pattern', u'sharpness', u'utilisation', u'exploit', u'cogency', u'apply', u'lesson', u'quality', u'utility', u'use', u'sternness', u'utilization', u'engagement', u'custom', u'development', u'lot', u'hard knocks', u'territory', u'grimness', u'blueprint', u'gibe', u'travail', u'form', u'utilise', u'bad luck', u'tally', u'validity', u'habituate', u'simulate', u'manipulation', u'line', u'copy', u'effort', u'hardness', u'circumstances', u'harshness', u'badness', u'developing', u'victimisation', u'work', u'intensity', u'luridness', u'employ', u'physical exercise', u'exemplar', u'rigour', u'learn', u'growing', u'design', u'territorial dominion', u'example', u'function', u'physical process', u'figure', u'exert', u'process', u'inclemency', u'influence', u'credibleness', u'decoration', u'ontogeny', u'ghastliness', u'difficultness', u'have', u'effectuation', u'check', u'traffic pattern', u'ceremony', u'work out', u'severity', u'perform', u'credibility', u'purpose', u'utilize', u'economic consumption', u'ceremonial occasion', u'role', u'take', u'modification', u'workout', u'dominion', u'exertion', u'approach pattern', u'mistreatment', u'strictness', u'tough luck', u'normal', u'enjoyment', u'radiation diagram', u'hazard', u'convention', u'chance', u'rigor', u'plan', u'frightfulness', u'demand', u'structure', u'rigourousness', u'expend', u'subdivision', u'austereness', u'ontogenesis', u'correspond', u'rule', u'portion', u'model', u'use of goods and services', u'noesis']
+2016-09-13 23:32:20,736 INFO     =====END FLAT LIST=====
+2016-09-13 23:32:20,736 INFO     Length of list is:
+2016-09-13 23:32:20,736 INFO     487
+2016-09-13 23:32:20,736 INFO     Length of setlist is:
+2016-09-13 23:32:20,736 INFO     211
+2016-09-13 23:32:20,736 INFO     ***************************
+2016-09-13 23:32:20,737 INFO     127.0.0.1 - - [13/Sep/2016 23:32:20] "POST /corpus/y HTTP/1.1" 200 -

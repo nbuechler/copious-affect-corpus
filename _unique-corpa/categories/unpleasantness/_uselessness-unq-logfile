@@ -1,0 +1,64 @@
+2016-09-13 23:29:35,562 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-13 23:29:35,563 INFO      * Restarting with stat
+2016-09-13 23:29:35,816 WARNING   * Debugger is active!
+2016-09-13 23:29:35,821 INFO      * Debugger pin code: 294-815-374
+2016-09-13 23:30:24,067 INFO     ***************************
+2016-09-13 23:30:24,068 INFO     List is in the following mongo collection:
+2016-09-13 23:30:24,068 INFO     uselessness-corpus-only-syn-unq-order-1
+2016-09-13 23:30:24,078 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:24,239 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-13 23:30:24,239 INFO     [u'unusefulness', u'quality', u'inutility']
+2016-09-13 23:30:24,239 INFO     =====END FLAT LIST=====
+2016-09-13 23:30:24,239 INFO     Length of list is:
+2016-09-13 23:30:24,239 INFO     3
+2016-09-13 23:30:24,239 INFO     Length of setlist is:
+2016-09-13 23:30:24,239 INFO     3
+2016-09-13 23:30:24,239 INFO     ***************************
+2016-09-13 23:30:24,239 INFO     ***************************
+2016-09-13 23:30:24,239 INFO     List is in the following mongo collection:
+2016-09-13 23:30:24,239 INFO     uselessness-corpus-only-syn-unq-order-2
+2016-09-13 23:30:24,241 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:24,368 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:24,510 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:24,643 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-13 23:30:24,643 INFO     [u'tone', u'grade', u'attribute', u'social station', u'rank', u'quality', u'timber', u'character', u'calibre', u'social status', u'social rank', u'unusefulness', u'caliber', u'uselessness', u'degree', u'lineament', u'level', u'timbre', u'sound property', u'inutility', u'property', u'dimension']
+2016-09-13 23:30:24,643 INFO     =====END FLAT LIST=====
+2016-09-13 23:30:24,643 INFO     Length of list is:
+2016-09-13 23:30:24,644 INFO     24
+2016-09-13 23:30:24,644 INFO     Length of setlist is:
+2016-09-13 23:30:24,644 INFO     22
+2016-09-13 23:30:24,644 INFO     ***************************
+2016-09-13 23:30:24,645 INFO     ***************************
+2016-09-13 23:30:24,645 INFO     List is in the following mongo collection:
+2016-09-13 23:30:24,645 INFO     uselessness-corpus-only-syn-unq-order-3
+2016-09-13 23:30:24,649 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:24,775 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:24,898 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:25,021 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:25,140 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:25,267 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:25,392 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:25,515 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:25,635 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:25,758 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:25,880 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:25,998 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:26,119 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:26,247 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:26,386 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:26,520 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:26,643 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:26,788 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:26,921 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:27,047 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:27,175 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:27,299 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:30:27,425 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-13 23:30:27,426 INFO     [u'slope', u'rating', u'atmosphere', u'concept', u'solid ground', u'tincture', u'tone up', u'woodland', u'dry land', u'storey', u'destroy', u'shape', u'earth', u'surpass', u'pitch', u'timberland', u'utter', u'flavor', u'prop', u'modulate', u'timber', u'biome', u'indicator', u'coloring', u'take aim', u'point', u'character', u'calibre', u'color', u'charge', u'change surface', u'scratch', u'ambience', u'role', u'take', u'case', u'horizontal surface', u'elevation', u'grapheme', u'good word', u'evaluate', u'persona', u'beam', u'material possession', u'tensity', u'judge', u'conception', u'eccentric', u'physical object', u'sort out', u'geographical area', u'level', u'laurels', u'geographic area', u'grad', u'body part', u'honor', u'recommendation', u'whole tone', u'inutility', u'gauge', u'pass judgment', u'assemblage', u'surface', u'status', u'force', u'reference', u'train', u'ambiance', u'direct', u'rate', u'caliber', u'value', u'aim', u'pure tone', u'auditory sensation', u'bore', u'colourize', u'even', u'index', u'diam', u'character reference', u'pull down', u'gradient', u'magnitude', u'flush', u'gradation', u'verbalize', u'state', u'score', u'social status', u'engrave', u'impute', u'construction', u'ground', u'evaluation', u'lineament', u'exercise', u'body', u'be', u'unusefulness', u'fiber', u'construct', u'degree', u'fibre', u'angular unit', u'honour', u'social rank', u'inscribe', u'fictional character', u'step', u'rase', u'arcdegree', u'post', u'cattle', u'stage', u'property', u'stand out', u'colour in', u'chant', u'colourise', u'tonicity', u'range', u'place', u'geographical region', u'raze', u'assign', u'academic degree', u'diameter', u'tone', u'characterization', u'feel', u'proportion', u'enactment', u'social station', u'terra firma', u'imaginary being', u'rank', u'height', u'assess', u'belongings', u'spirit level', u'tenseness', u'portrayal', u'intone', u'quality', u'colorize', u'graphic symbol', u'speak', u'story', u'tint', u'testimonial', u'level off', u'altitude', u'manner of speaking', u'mark', u'assort', u'structure', u'grade', u'type', u'sort', u'theatrical role', u'tonus', u'trait', u'inflect', u'stratum', u'ascribe', u'award', u'delivery', u'tear down', u'whole step', u'adult', u'printed symbol', u'line', u'valuation', u'spirit', u'sound', u'kine', u'flavour', u'look', u'fictitious character', u'sound property', u'possession', u'tone of voice', u'discolor', u'lumber', u'musical notation', u'musical interval', u'outrank', u'feeling', u'imaginary creature', u'musical note', u'appraise', u'rank and file', u'discolour', u'gathering', u'oxen', u'tautness', u'strengthen', u'attribute', u'measure', u'power', u'written symbol', u'color in', u'cows', u'exponent', u'personation', u'work out', u'layer', u'form', u'colorise', u'floor', u'personnel', u'excel', u'feature', u'note', u'repute', u'reputation', u'speech', u'forest', u'holding', u'verbalise', u'smell', u'Bos taurus', u'classify', u'geographic region', u'even out', u'tension', u'abstraction', u'uselessness', u'separate', u'valuate', u'object', u'dismantle', u'temperature unit', u'membership', u'mouth', u'colouring', u'grownup', u'tier', u'take down', u'Cartesian coordinate', u'class', u'grave', u'ground level', u'ablaut', u'land', u'timbre', u'colour', u'interval', u'destruct', u'dimension', u'accolade', u'part', u'shade', u'position', u'building material', u'order', u'talk']
+2016-09-13 23:30:27,426 INFO     =====END FLAT LIST=====
+2016-09-13 23:30:27,426 INFO     Length of list is:
+2016-09-13 23:30:27,426 INFO     376
+2016-09-13 23:30:27,426 INFO     Length of setlist is:
+2016-09-13 23:30:27,427 INFO     259
+2016-09-13 23:30:27,427 INFO     ***************************
+2016-09-13 23:30:27,428 INFO     127.0.0.1 - - [13/Sep/2016 23:30:27] "POST /corpus/y HTTP/1.1" 200 -

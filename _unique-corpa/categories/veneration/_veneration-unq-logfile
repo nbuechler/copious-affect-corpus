@@ -1,0 +1,97 @@
+2016-09-13 23:30:57,063 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-13 23:30:57,064 INFO      * Restarting with stat
+2016-09-13 23:30:57,319 WARNING   * Debugger is active!
+2016-09-13 23:30:57,325 INFO      * Debugger pin code: 294-815-374
+2016-09-13 23:31:01,908 INFO     ***************************
+2016-09-13 23:31:01,908 INFO     List is in the following mongo collection:
+2016-09-13 23:31:01,908 INFO     veneration-corpus-only-syn-unq-order-1
+2016-09-13 23:31:01,918 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:02,042 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-13 23:31:02,042 INFO     [u'emotion', u'cultism', u'worship', u'idolatry', u'reverence', u'fear', u'awe', u'devotion']
+2016-09-13 23:31:02,043 INFO     =====END FLAT LIST=====
+2016-09-13 23:31:02,043 INFO     Length of list is:
+2016-09-13 23:31:02,043 INFO     8
+2016-09-13 23:31:02,043 INFO     Length of setlist is:
+2016-09-13 23:31:02,043 INFO     8
+2016-09-13 23:31:02,043 INFO     ***************************
+2016-09-13 23:31:02,044 INFO     ***************************
+2016-09-13 23:31:02,044 INFO     List is in the following mongo collection:
+2016-09-13 23:31:02,044 INFO     veneration-corpus-only-syn-unq-order-2
+2016-09-13 23:31:02,047 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:02,171 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:02,297 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:02,431 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:02,558 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:02,684 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:02,824 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:02,957 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:03,083 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-13 23:31:03,083 INFO     [u'emotion', u'scare', u'love', u'regret', u'fright', u'frighten', u'affright', u'venerate', u'esteem', u'prayer', u'respect', u'fear', u'idolatry', u'worry', u'concern', u'adoration', u'veneration', u'cultism', u'worship', u'mental attitude', u'prise', u'wonder', u'commitment', u'fearfulness', u'wonderment', u'hero-worship', u'attend', u'loyalty', u'allegiance', u'go to', u'reverence', u'dedication', u'awe', u'care', u'idol worship', u'idolise', u'admiration', u'anxiety', u'prize', u'devotedness', u'attitude', u'value', u'idolize', u'supplication', u'adore', u'dread', u'activity', u'feeling', u'revere', u'devotion']
+2016-09-13 23:31:03,083 INFO     =====END FLAT LIST=====
+2016-09-13 23:31:03,084 INFO     Length of list is:
+2016-09-13 23:31:03,084 INFO     80
+2016-09-13 23:31:03,084 INFO     Length of setlist is:
+2016-09-13 23:31:03,084 INFO     50
+2016-09-13 23:31:03,084 INFO     ***************************
+2016-09-13 23:31:03,084 INFO     ***************************
+2016-09-13 23:31:03,084 INFO     List is in the following mongo collection:
+2016-09-13 23:31:03,084 INFO     veneration-corpus-only-syn-unq-order-3
+2016-09-13 23:31:03,085 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:03,219 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:03,341 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:03,468 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:03,605 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:03,729 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:03,851 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:03,974 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:04,103 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:04,230 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:04,364 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:04,494 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:04,619 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:04,740 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:04,869 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:04,992 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:05,116 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:05,239 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:05,364 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:05,491 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:05,614 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:05,741 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:05,865 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:05,996 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:06,120 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:06,252 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:06,374 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:06,498 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:06,624 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:06,749 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:06,871 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:06,994 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:07,117 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:07,238 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:07,362 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:07,487 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:07,618 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:07,744 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:07,876 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:08,008 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:08,132 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:08,256 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:08,386 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:08,520 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:08,646 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:08,770 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:08,898 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:09,023 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:09,148 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:09,276 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:09,399 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-13 23:31:09,399 INFO     [u'good manners', u'consider', u'dispel', u'lie with', u'American Revolutionary leader', u'upkeep', u'query', u'idolatry', u'ruminate', u'sexual practice', u'hump', u'vex', u'have it off', u'charge', u'terror', u'worth', u'sexual activity', u'trouble', u'posture', u'go with', u'laurels', u'conceive', u'compassionate', u'item', u'lever', u'pass judgment', u'somaesthesia', u'enjoy', u'booty', u'regret', u'sexual love', u'rate', u'involution', u'affectation', u'human action', u'be intimate', u'scare off', u'religious writing', u'touch sensation', u'business organisation', u'appeal', u'mull', u'honour', u'swag', u'cowardliness', u'contemplate', u'protection', u'Revere', u'substance', u'mannerism', u'experience', u'amount', u'action', u'opinion', u'honor', u'wonderment', u'numerical quantity', u'love', u'heart', u'manage', u'make love', u'tutelage', u'intuitive feeling', u'subject matter', u'idolization', u'Paul Revere', u'process', u'mental state', u'tactual sensation', u'negative stimulus', u'wring from', u'muse', u'approving', u'invocation', u'sacred writing', u'unhinge', u'work', u'stolen property', u'filial duty', u'somatesthesia', u'somesthesia', u'control', u'inscription', u'earnestness', u'accept', u'tactile sensation', u'honey', u'caution', u'sleep with', u'want', u'body process', u'ceremony', u'idolisation', u'enquire', u'panic', u'attend', u'come to', u'loyalty', u'reflect', u'natural process', u'curiosity', u'sex activity', u'bodily function', u'refuse', u'appreciate', u'scare', u'inform', u'supplication', u'dread', u'cognitive state', u'help', u'come with', u'take to be', u'attitude', u'dearest', u'shake', u'bodily process', u'fidelity', u'worship', u'eros', u'tending', u'fealty', u'supplicant', u'making love', u'get it on', u'frighten away', u'restrain', u'respectfulness', u'affectedness', u'petition', u'idolise', u'affectionateness', u'bang', u'speculate', u'religious text', u'prize', u'cognition', u'revers', u'bonk', u'concupiscence', u'touch on', u'vexation', u'revere', u'observance', u'fixture', u'idea', u'measure', u'state of mind', u'veneration', u'tenderness', u'miss', u'disquiet', u'content', u'mate', u'perception', u'belief', u'biological process', u'feel for', u'get laid', u'philia', u'cark', u'silver-worker', u'plea', u'amazement', u'care', u'give care', u'think', u'emotion', u'intuition', u'perturb', u'feel', u'relate', u'sympathy', u'sacred text', u'message', u'open', u'shake up', u'occurrence', u'engagement', u'scare away', u'obedience', u'religious person', u'daunt', u'drive out', u'listen', u'loved one', u'accompany', u'serve', u'forethought', u'appreciation', u'believe', u'anxiety', u'venerate', u'bed', u'love life', u'judiciousness', u'lover', u'headache', u'devotion', u'chew over', u'reparation', u'mind', u'dash', u'sincerity', u'pry', u'screw', u'ponder', u'silversmith', u'condole with', u'ceremonial occasion', u'ideal', u'mental attitude', u'concern', u'eff', u'reckon', u'pillage', u'object', u'react', u'plunder', u'courtesy', u'consignment', u'reverence', u'pair', u'awe', u'confinement', u'request', u'business concern', u'enterprise', u'notion', u'marvel', u'impression', u'atmosphere', u'fear', u'adoration', u'knowledge', u'treasure', u'time value', u'color property', u'mend', u'organic process', u'mending', u'handle', u'jazz', u'go to', u'have sex', u'meditate', u'apprehension', u'idol worship', u'turn back', u'activity', u'precaution', u'view', u'respond', u'set', u'silverworker', u'sex', u'see', u'flavor', u'wonder', u'capacity', u'somatic sensation', u'think over', u'state', u'score', u'cooperation', u'sorrow', u'attention', u'dedication', u'approval', u'pity', u'feeling', u'warmness', u'pertain', u'fix', u'tone', u'point', u'human activity', u'sexual desire', u'allegiance', u'sympathize with', u'unhappiness', u'decline', u'advert', u'interest', u'psychological state', u'blessing', u'excite', u'fellow feeling', u'ambience', u'spirit', u'predicament', u'look', u'intimidate', u'civility', u'value', u'devotedness', u'aid', u'loot', u'natural event', u'guardianship', u'physical process', u'orientation', u'give ear', u'attend to', u'wait on', u'worry', u'inquire', u'mull over', u'excogitate', u'deference', u'drive away', u'assist', u'hang', u'occurrent', u'note value', u'latria', u'thought', u'command', u'committedness', u'position', u'noesis', u'do it', u'have a go at it', u'think of', u'warmheartedness', u'affright', u'touch', u'plight', u'astonishment', u'beloved', u'roll in the hay', u'committal', u'evaluate', u'couple', u'open up', u'know', u'drive off', u'judge', u'trueness', u'desire', u'like', u'gift', u'orison', u'dirty money', u'disorder', u'ceremonial', u'cowardice', u'stimulate', u'deal', u'lapel', u'business organization', u'pall', u'respect', u'dear', u'liking', u'stir', u'panic attack', u'capability', u'cultism', u'asking', u'passion', u'natural action', u'participation', u'refer', u'be', u'business', u'rub', u'pose', u'rue', u'pay heed', u'fondness', u'trophy', u'have it away', u'idolize', u'physical attraction', u'act', u'entreaty', u'repair', u'jimmy', u'faithfulness', u'anxiousness', u'erotic love', u'ruefulness', u'commitment', u'look upon', u'assess', u'involvement', u'esteem', u'determine', u'question', u'have intercourse', u'occupy', u'politeness', u'fearfulness', u'maintenance', u'ambiance', u'regard', u'attach to', u'look on', u'continuance', u'admiration', u'flavour', u'regard as', u'wish', u'distract', u'incise', u'take care', u'sadness', u'adore', u'chase away', u'bodily property', u'affection', u'appraise', u'run off', u'fright', u'frighten', u'serious-mindedness', u'duration', u'bear on', u'prayer', u'economic value', u'copulate', u'fixing', u'detail', u'repent', u'activeness', u'abide by', u'frighten off', u'trait', u'repute', u'prise', u'smell', u'hero-worship', u'valuate', u'seriousness', u'award', u'apprehensiveness', u'extort', u'happening', u'quandary', u'make out', u'accolade', u'observe', u'lovemaking', u'quantity']
+2016-09-13 23:31:09,400 INFO     =====END FLAT LIST=====
+2016-09-13 23:31:09,400 INFO     Length of list is:
+2016-09-13 23:31:09,400 INFO     730
+2016-09-13 23:31:09,400 INFO     Length of setlist is:
+2016-09-13 23:31:09,400 INFO     445
+2016-09-13 23:31:09,400 INFO     ***************************
+2016-09-13 23:31:09,402 INFO     127.0.0.1 - - [13/Sep/2016 23:31:09] "POST /corpus/y HTTP/1.1" 200 -

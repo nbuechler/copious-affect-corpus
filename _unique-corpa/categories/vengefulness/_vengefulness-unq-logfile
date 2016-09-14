@@ -1,0 +1,53 @@
+2016-09-13 23:31:26,452 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-13 23:31:26,453 INFO      * Restarting with stat
+2016-09-13 23:31:26,717 WARNING   * Debugger is active!
+2016-09-13 23:31:26,722 INFO      * Debugger pin code: 294-815-374
+2016-09-13 23:31:31,568 INFO     ***************************
+2016-09-13 23:31:31,568 INFO     List is in the following mongo collection:
+2016-09-13 23:31:31,568 INFO     vengefulness-corpus-only-syn-unq-order-1
+2016-09-13 23:31:31,577 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:31,696 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-13 23:31:31,696 INFO     [u'vindictiveness', u'malevolence', u'malignity']
+2016-09-13 23:31:31,696 INFO     =====END FLAT LIST=====
+2016-09-13 23:31:31,697 INFO     Length of list is:
+2016-09-13 23:31:31,697 INFO     3
+2016-09-13 23:31:31,697 INFO     Length of setlist is:
+2016-09-13 23:31:31,697 INFO     3
+2016-09-13 23:31:31,697 INFO     ***************************
+2016-09-13 23:31:31,697 INFO     ***************************
+2016-09-13 23:31:31,698 INFO     List is in the following mongo collection:
+2016-09-13 23:31:31,698 INFO     vengefulness-corpus-only-syn-unq-order-2
+2016-09-13 23:31:31,701 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:31,830 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:31,952 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:32,084 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-13 23:31:32,084 INFO     [u'malevolence', u'malignancy', u'vengefulness', u'evil', u'malice', u'malignity', u'malevolency', u'malignance', u'hatred', u'hate', u'evilness']
+2016-09-13 23:31:32,084 INFO     =====END FLAT LIST=====
+2016-09-13 23:31:32,084 INFO     Length of list is:
+2016-09-13 23:31:32,084 INFO     17
+2016-09-13 23:31:32,085 INFO     Length of setlist is:
+2016-09-13 23:31:32,085 INFO     11
+2016-09-13 23:31:32,085 INFO     ***************************
+2016-09-13 23:31:32,085 INFO     ***************************
+2016-09-13 23:31:32,085 INFO     List is in the following mongo collection:
+2016-09-13 23:31:32,085 INFO     vengefulness-corpus-only-syn-unq-order-3
+2016-09-13 23:31:32,088 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:32,212 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:32,336 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:32,473 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:32,592 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:32,718 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:32,842 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:32,970 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:33,094 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:33,216 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:33,336 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-13 23:31:33,462 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-13 23:31:33,462 INFO     [u'emotion', u'malice', u'hate', u'evildoing', u'spite', u'malevolence', u'venom', u'maliciousness', u'malevolency', u'wickedness', u'dislike', u'badness', u'evilness', u'immorality', u'evil', u'malignity', u'detest', u'vindictiveness', u'iniquity', u'malignancy', u'disease', u'spitefulness', u'bad', u'transgression', u'malignance', u'hatred']
+2016-09-13 23:31:33,462 INFO     =====END FLAT LIST=====
+2016-09-13 23:31:33,463 INFO     Length of list is:
+2016-09-13 23:31:33,463 INFO     56
+2016-09-13 23:31:33,463 INFO     Length of setlist is:
+2016-09-13 23:31:33,463 INFO     26
+2016-09-13 23:31:33,463 INFO     ***************************
+2016-09-13 23:31:33,464 INFO     127.0.0.1 - - [13/Sep/2016 23:31:33] "POST /corpus/y HTTP/1.1" 200 -
