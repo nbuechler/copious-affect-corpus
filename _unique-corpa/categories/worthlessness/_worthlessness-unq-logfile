@@ -1,0 +1,73 @@
+2016-09-14 23:38:22,004 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-14 23:38:22,005 INFO      * Restarting with stat
+2016-09-14 23:38:22,248 WARNING   * Debugger is active!
+2016-09-14 23:38:22,254 INFO      * Debugger pin code: 294-815-374
+2016-09-14 23:38:32,769 INFO     ***************************
+2016-09-14 23:38:32,769 INFO     List is in the following mongo collection:
+2016-09-14 23:38:32,769 INFO     worthlessness-corpus-only-syn-unq-order-1
+2016-09-14 23:38:32,780 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:32,907 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-14 23:38:32,907 INFO     [u'ineptitude', u'unusefulness', u'quality', u'uselessness', u'inutility']
+2016-09-14 23:38:32,907 INFO     =====END FLAT LIST=====
+2016-09-14 23:38:32,907 INFO     Length of list is:
+2016-09-14 23:38:32,908 INFO     5
+2016-09-14 23:38:32,908 INFO     Length of setlist is:
+2016-09-14 23:38:32,908 INFO     5
+2016-09-14 23:38:32,908 INFO     ***************************
+2016-09-14 23:38:32,908 INFO     ***************************
+2016-09-14 23:38:32,908 INFO     List is in the following mongo collection:
+2016-09-14 23:38:32,909 INFO     worthlessness-corpus-only-syn-unq-order-2
+2016-09-14 23:38:32,912 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:33,041 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:33,163 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:33,292 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:33,413 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:33,534 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-14 23:38:33,534 INFO     [u'tone', u'grade', u'attribute', u'social station', u'rank', u'quality', u'timber', u'awkwardness', u'character', u'calibre', u'social status', u'worthlessness', u'lineament', u'unusefulness', u'caliber', u'uselessness', u'slowness', u'degree', u'social rank', u'unskillfulness', u'clumsiness', u'ineptness', u'level', u'timbre', u'sound property', u'maladroitness', u'inutility', u'property', u'dimension']
+2016-09-14 23:38:33,534 INFO     =====END FLAT LIST=====
+2016-09-14 23:38:33,534 INFO     Length of list is:
+2016-09-14 23:38:33,534 INFO     35
+2016-09-14 23:38:33,534 INFO     Length of setlist is:
+2016-09-14 23:38:33,535 INFO     29
+2016-09-14 23:38:33,535 INFO     ***************************
+2016-09-14 23:38:33,535 INFO     ***************************
+2016-09-14 23:38:33,535 INFO     List is in the following mongo collection:
+2016-09-14 23:38:33,535 INFO     worthlessness-corpus-only-syn-unq-order-3
+2016-09-14 23:38:33,537 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:33,658 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:33,801 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:33,923 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:34,045 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:34,172 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:34,292 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:34,428 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:34,549 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:34,681 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:34,806 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:34,928 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:35,049 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:35,176 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:35,299 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:35,415 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:35,538 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:35,664 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:35,785 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:35,923 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:36,047 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:36,172 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:36,293 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:36,417 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:36,540 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:36,676 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:36,799 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:36,923 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:37,047 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:38:37,171 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-14 23:38:37,171 INFO     [u'slope', u'rating', u'atmosphere', u'concept', u'solid ground', u'tincture', u'object', u'tone up', u'woodland', u'dry land', u'storey', u'destroy', u'shape', u'earth', u'surpass', u'pitch', u'timberland', u'utter', u'flavor', u'prop', u'modulate', u'timber', u'biome', u'indicator', u'coloring', u'deliberateness', u'take aim', u'troublesomeness', u'character', u'calibre', u'backwardness', u'color', u'charge', u'change surface', u'scratch', u'ambience', u'role', u'posture', u'take', u'characterization', u'case', u'horizontal surface', u'elevation', u'grapheme', u'good word', u'evaluate', u'unskillfulness', u'persona', u'beam', u'clumsiness', u'tensity', u'judge', u'conception', u'eccentric', u'physical object', u'disadvantage', u'sort out', u'geographical area', u'level', u'laurels', u'unwieldiness', u'geographic area', u'grad', u'body part', u'maladroitness', u'recommendation', u'whole tone', u'inutility', u'gauge', u'pass judgment', u'assemblage', u'surface', u'status', u'force', u'reference', u'train', u'ambiance', u'direct', u'character reference', u'rate', u'caliber', u'value', u'aim', u'pure tone', u'auditory sensation', u'bore', u'colourize', u'even', u'index', u'diam', u'inelegance', u'pull down', u'pace', u'gradient', u'magnitude', u'nuisance value', u'flush', u'gradation', u'verbalize', u'state', u'score', u'social status', u'engrave', u'impute', u'construction', u'ground', u'evaluation', u'lineament', u'exercise', u'body', u'be', u'unusefulness', u'fiber', u'construct', u'degree', u'fibre', u'angular unit', u'honour', u'social rank', u'inscribe', u'fictional character', u'step', u'rase', u'unsuitability', u'arcdegree', u'post', u'cattle', u'stage', u'property', u'stand out', u'colour in', u'chant', u'colourise', u'tonicity', u'range', u'place', u'stiffness', u'geographical region', u'floor', u'raze', u'assign', u'academic degree', u'diameter', u'tone', u'bearing', u'feel', u'proportion', u'enactment', u'social station', u'terra firma', u'imaginary being', u'rank', u'height', u'assess', u'belongings', u'spirit level', u'tenseness', u'cumbersomeness', u'portrayal', u'intone', u'quality', u'colorize', u'graphic symbol', u'speak', u'story', u'tint', u'testimonial', u'unsuitableness', u'level off', u'altitude', u'manner of speaking', u'mark', u'subnormality', u'assort', u'structure', u'grade', u'type', u'unhurriedness', u'sort', u'worriment', u'theatrical role', u'tonus', u'ineptitude', u'inflect', u'stratum', u'ascribe', u'award', u'delivery', u'tear down', u'whole step', u'adult', u'printed symbol', u'line', u'valuation', u'spirit', u'sound', u'ineptness', u'kine', u'flavour', u'look', u'fictitious character', u'sound property', u'possession', u'tone of voice', u'discolor', u'carriage', u'lumber', u'musical notation', u'musical interval', u'slowness', u'outrank', u'feeling', u'imaginary creature', u'musical note', u'appraise', u'rank and file', u'discolour', u'gathering', u'oxen', u'deliberation', u'tautness', u'strengthen', u'attribute', u'measure', u'power', u'written symbol', u'color in', u'point', u'cows', u'geographic region', u'exponent', u'personation', u'work out', u'layer', u'form', u'colorise', u'awkwardness', u'personnel', u'excel', u'feature', u'note', u'repute', u'stupidity', u'reputation', u'speech', u'forest', u'holding', u'trait', u'verbalise', u'smell', u'Bos taurus', u'classify', u'gracelessness', u'even out', u'tension', u'abstraction', u'uselessness', u'mental retardation', u'separate', u'valuate', u'inconvenience', u'dismantle', u'temperature unit', u'inability', u'membership', u'mouth', u'colouring', u'honor', u'grownup', u'tier', u'take down', u'Cartesian coordinate', u'class', u'grave', u'ground level', u'material possession', u'ablaut', u'land', u'timbre', u'colour', u'interval', u'destruct', u'dimension', u'accolade', u'part', u'shade', u'retardation', u'position', u'building material', u'order', u'talk']
+2016-09-14 23:38:37,171 INFO     =====END FLAT LIST=====
+2016-09-14 23:38:37,171 INFO     Length of list is:
+2016-09-14 23:38:37,172 INFO     444
+2016-09-14 23:38:37,172 INFO     Length of setlist is:
+2016-09-14 23:38:37,172 INFO     291
+2016-09-14 23:38:37,172 INFO     ***************************
+2016-09-14 23:38:37,173 INFO     127.0.0.1 - - [14/Sep/2016 23:38:37] "POST /corpus/y HTTP/1.1" 200 -

@@ -1,0 +1,56 @@
+2016-09-14 23:35:12,394 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-14 23:35:12,395 INFO      * Restarting with stat
+2016-09-14 23:35:12,642 WARNING   * Debugger is active!
+2016-09-14 23:35:12,647 INFO      * Debugger pin code: 294-815-374
+2016-09-14 23:35:18,800 INFO     ***************************
+2016-09-14 23:35:18,800 INFO     List is in the following mongo collection:
+2016-09-14 23:35:18,800 INFO     withdrawnness-corpus-only-syn-unq-order-1
+2016-09-14 23:35:18,808 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:35:18,949 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-14 23:35:18,949 INFO     [u'aloofness', u'unsociability', u'unsociableness', u'remoteness', u'standoffishness']
+2016-09-14 23:35:18,949 INFO     =====END FLAT LIST=====
+2016-09-14 23:35:18,949 INFO     Length of list is:
+2016-09-14 23:35:18,949 INFO     5
+2016-09-14 23:35:18,949 INFO     Length of setlist is:
+2016-09-14 23:35:18,949 INFO     5
+2016-09-14 23:35:18,949 INFO     ***************************
+2016-09-14 23:35:18,950 INFO     ***************************
+2016-09-14 23:35:18,950 INFO     List is in the following mongo collection:
+2016-09-14 23:35:18,950 INFO     withdrawnness-corpus-only-syn-unq-order-2
+2016-09-14 23:35:18,952 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:35:19,092 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:35:19,216 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:35:19,340 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:35:19,463 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:35:19,592 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-14 23:35:19,592 INFO     [u'withdrawnness', u'distance', u'unsociability', u'standoffishness', u'farawayness', u'aloofness', u'unsociableness', u'remoteness', u'disposition', u'temperament', u'indifference', u'farness']
+2016-09-14 23:35:19,592 INFO     =====END FLAT LIST=====
+2016-09-14 23:35:19,592 INFO     Length of list is:
+2016-09-14 23:35:19,592 INFO     26
+2016-09-14 23:35:19,593 INFO     Length of setlist is:
+2016-09-14 23:35:19,593 INFO     12
+2016-09-14 23:35:19,593 INFO     ***************************
+2016-09-14 23:35:19,593 INFO     ***************************
+2016-09-14 23:35:19,593 INFO     List is in the following mongo collection:
+2016-09-14 23:35:19,593 INFO     withdrawnness-corpus-only-syn-unq-order-3
+2016-09-14 23:35:19,594 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:35:19,713 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:35:19,834 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:35:19,985 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:35:20,108 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:35:20,234 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:35:20,355 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:35:20,477 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:35:20,601 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:35:20,729 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:35:20,861 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:35:20,982 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:35:21,116 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-14 23:35:21,117 INFO     [u'apathy', u'impassiveness', u'point', u'time interval', u'attitude', u'outstrip', u'leave behind', u'deed', u'keep', u'feat', u'unconcern', u'tendency', u'size', u'carefreeness', u'adjustment', u'stolidity', u'space', u'readjustment', u'disposal', u'spatial arrangement', u'registration', u'nonchalance', u'unsociableness', u'farness', u'impassivity', u'mental attitude', u'indifference', u'emotionlessness', u'inclination', u'unsociability', u'farawayness', u'passiveness', u'standoffishness', u'spiritlessness', u'spacing', u'part', u'disposition', u'temperament', u'hold', u'effort', u'outdistance', u'numbness', u'withdrawnness', u'distance', u'unemotionality', u'emotionality', u'passivity', u'region', u'interval', u'exploit', u'point in time', u'aloofness', u'length', u'maintain', u'remoteness', u'emotionalism', u'property', u'nature', u'phlegm']
+2016-09-14 23:35:21,117 INFO     =====END FLAT LIST=====
+2016-09-14 23:35:21,117 INFO     Length of list is:
+2016-09-14 23:35:21,117 INFO     89
+2016-09-14 23:35:21,117 INFO     Length of setlist is:
+2016-09-14 23:35:21,117 INFO     59
+2016-09-14 23:35:21,118 INFO     ***************************
+2016-09-14 23:35:21,119 INFO     127.0.0.1 - - [14/Sep/2016 23:35:21] "POST /corpus/y HTTP/1.1" 200 -
