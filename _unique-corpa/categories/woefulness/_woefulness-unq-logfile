@@ -1,0 +1,54 @@
+2016-09-14 23:37:36,426 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2016-09-14 23:37:36,427 INFO      * Restarting with stat
+2016-09-14 23:37:36,671 WARNING   * Debugger is active!
+2016-09-14 23:37:36,675 INFO      * Debugger pin code: 294-815-374
+2016-09-14 23:37:40,618 INFO     ***************************
+2016-09-14 23:37:40,619 INFO     List is in the following mongo collection:
+2016-09-14 23:37:40,619 INFO     woefulness-corpus-only-syn-unq-order-1
+2016-09-14 23:37:40,629 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:37:40,758 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-14 23:37:40,758 INFO     [u'woe', u'ruthfulness', u'mournfulness', u'sorrowfulness']
+2016-09-14 23:37:40,758 INFO     =====END FLAT LIST=====
+2016-09-14 23:37:40,759 INFO     Length of list is:
+2016-09-14 23:37:40,759 INFO     4
+2016-09-14 23:37:40,759 INFO     Length of setlist is:
+2016-09-14 23:37:40,759 INFO     4
+2016-09-14 23:37:40,759 INFO     ***************************
+2016-09-14 23:37:40,760 INFO     ***************************
+2016-09-14 23:37:40,760 INFO     List is in the following mongo collection:
+2016-09-14 23:37:40,760 INFO     woefulness-corpus-only-syn-unq-order-2
+2016-09-14 23:37:40,762 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:37:40,893 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:37:41,018 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:37:41,139 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:37:41,256 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-14 23:37:41,256 INFO     [u'ruthfulness', u'mournfulness', u'sorrow', u'sorrowfulness', u'woefulness', u'suffering', u'miserableness', u'misery', u'wretchedness', u'sadness', u'unhappiness']
+2016-09-14 23:37:41,256 INFO     =====END FLAT LIST=====
+2016-09-14 23:37:41,256 INFO     Length of list is:
+2016-09-14 23:37:41,257 INFO     19
+2016-09-14 23:37:41,257 INFO     Length of setlist is:
+2016-09-14 23:37:41,257 INFO     11
+2016-09-14 23:37:41,257 INFO     ***************************
+2016-09-14 23:37:41,257 INFO     ***************************
+2016-09-14 23:37:41,257 INFO     List is in the following mongo collection:
+2016-09-14 23:37:41,257 INFO     woefulness-corpus-only-syn-unq-order-3
+2016-09-14 23:37:41,261 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:37:41,383 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:37:41,504 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:37:41,626 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:37:41,745 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:37:41,870 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:37:41,993 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:37:42,110 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:37:42,230 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:37:42,354 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:37:42,471 INFO     Starting new HTTP connection (1): words.bighugelabs.com
+2016-09-14 23:37:42,603 INFO     =====NEW !!UNIQUE!! FLAT LIST=====
+2016-09-14 23:37:42,603 INFO     [u'ruthfulness', u'distress', u'ruefulness', u'negative stimulus', u'sorrowfulness', u'miserableness', u'gloominess', u'suffer', u'regret', u'excruciation', u'agony', u'spirit', u'woe', u'unhappiness', u'low quality', u'hurting', u'mournfulness', u'pain', u'painfulness', u'sorrow', u'inferiority', u'rue', u'grief', u'discomfort', u'uncomfortableness', u'uncheerfulness', u'hurt', u'lugubriousness', u'wretchedness', u'emotional state', u'grieve', u'sadness', u'misery', u'ill-being', u'feeling']
+2016-09-14 23:37:42,603 INFO     =====END FLAT LIST=====
+2016-09-14 23:37:42,603 INFO     Length of list is:
+2016-09-14 23:37:42,603 INFO     62
+2016-09-14 23:37:42,604 INFO     Length of setlist is:
+2016-09-14 23:37:42,604 INFO     35
+2016-09-14 23:37:42,604 INFO     ***************************
+2016-09-14 23:37:42,605 INFO     127.0.0.1 - - [14/Sep/2016 23:37:42] "POST /corpus/y HTTP/1.1" 200 -
