@@ -1,6 +1,18 @@
 # copious-affect-corpus -- Goals
 copious-affect-corpus is meant to maintain a growing corpus of human affects, right now its only semantic information
 
+# High level documentation for using the api
+
+* Use corpus_buidler to build the raw corpora (affect-corpus).
+
+* Then, use corpus_storage to build the processed corpora (affect-synopsis), like so:
+
+```
+<root>/corpus_storage/save_complete_object/all/
+```
+
+# More details
+
 * Appoximately 400 (IN PROGRESS) representational emotions are categorized, these do not absolutely map to the neurological emotion of a human
 * One human maps the neurological emotion - the one that they experience chemically/electrically - to a representation. This is what we call it via an english word.
 * Humans will often map one neurological emotion to their defined preset of many representational emotions. This might be why we confuse and sometimes argue with each other about emotions. Remember that a word is only a represetnation of an idea. Anger - the word - is not a neurological emotion. The set of neurological impulses is actually the neurological emotion and it might be represented by something like a set of words; e.g. Anger, Sadness, Fear, etc.
