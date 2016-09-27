@@ -13,9 +13,16 @@ copious-affect-corpus is meant to maintain a growing corpus of human affects, ri
 
 # More details
 
-* Appoximately 400 (IN PROGRESS) representational emotions are categorized, these do not absolutely map to the neurological emotion of a human
-* One human maps the neurological emotion - the one that they experience chemically/electrically - to a representation. This is what we call it via an english word.
-* Humans will often map one neurological emotion to their defined preset of many representational emotions. This might be why we confuse and sometimes argue with each other about emotions. Remember that a word is only a represetnation of an idea. Anger - the word - is not a neurological emotion. The set of neurological impulses is actually the neurological emotion and it might be represented by something like a set of words; e.g. Anger, Sadness, Fear, etc.
+
+```
+Affect is the measurable symptom of an emotion that we observe. Affect allows us to use our linguistics to define an emotion, hence those language based emotions are called a 'Representational' Emotions (R-EMOTION). Affects usually are defined by the observed reality of a person, such as a facial expression, sentence, tone, body temperature and/or another aspect of their person. Affects can be recorded as a set of multiple R-EMOTION s. R-EMOTION s are symbolic and are not the same as 'Inferential' Emotions (I-EMOTION). I-EMOTION s are an inference to a the emotional qualia in humans which can be represented as a vector of multiple R-EMOTION s.
+```
+*Appoximately 400 representational emotions are categorized, these do not absolutely map to the inferential emotion of a human, which will be described later
+*A representation of an emotion is a label like 'Love' which reminds us humans of a certain qualia
+*Usually, one human maps their qualia to a representation, but this project introduces the newer concept of an 'Inferential Emotion'
+*The emotion that humans experience via qualia do not have labels - and to best understand the meaning we ought to rely more on a scienctific process rather than a simple label that acts as a representation.
+*Humans will often map one 'Inferential Emotion' to their defined preset of many representational emotions. This might be why we confuse and sometimes argue with each other about emotions. Remember that a word is only a representation of an idea. 'Anger' - the word/label - is not an inferential emotion. The set of impulses in ones brain creates a quality and we can better refer to that qualia as the inferential emotion and it might be represented by something like a set of words; e.g. A combination of n-set of labels (Anger, Sadness, Fear, etc.)
+
 
 # First set of scope is to make the corpus
 We shall see if it goes to a second round of scope. But for now, the first set of scope includes a corpus of ~400 r-emotions only mapping to semantic data.
