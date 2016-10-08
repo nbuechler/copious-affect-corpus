@@ -53,8 +53,11 @@ I-EMOTION s are an interpretation of how culture (as an emergent quality of huma
 * One-to-one relationships of 'Inferential Emotion' to 'Representational Emotions' are not common with culture due to the 'Complexity of Culture'. Humans might sometimes confuse and argue with each other about emotions due to this complexity, and their lack of understanding of emergence (see complexity theory). Remember, a label/word is only a representation (sign) of an idea. 'Anger' - the word/label - is not an inferential emotion (in all but a one case, where culture is homogeneously angry). The inferential emotion therefore might be represented by something like a set of words; e.g. A combination of n-set of labels (Anger, Sadness, Fear, etc.)
 
 
-# First set of scope is to make the corpus
-We shall see if it goes to a second round of scope. But for now, the first set of scope includes a corpus of ~400 r-emotions only mapping to semantic data.
+# Scope
+The scope includes a corpus of ~400 r-emotions only mapping to semantic data.
+
+# Future Scope
+* Find other forms of affect to tie to r-emotions; i.e. other forms of affect include, facial expressions and sound/tone
 
 # Tech stack
 It will use Flask to do the api. It will probably also be structured in a way that it can be used in other projects, otherwise this wouldn't be MIT Licensed.
@@ -94,14 +97,13 @@ See the emotions spreadsheet in _unique_corpra
 ```
 
 # Also notes...
-*dimensions are known as a special kind of category
-*categories are thus the basis for an r-emotion
-*multiple r-emotions correspond to a n-emotion (future scope)
+* categories are thus the basis for grouping sets of r-emotion s
+* multiple r-emotions correspond to a i-emotion (inferential emotion)
 
 # Future questions
-*how do some emotions (r or n) relate to others (r or n)?
-*if we idenity some sets of emotions, how do they relate to each other?
-*can we find the emtional state of different things (people, articles, etc)?
+* how do some emotions (r or i) relate to others (r or i)?
+* if we idenity some sets of emotions, how do they relate to each other?
+* can we find the emtional state of different things (people, articles, etc)?
 
 # Tech notes
 to export the mongo database:
