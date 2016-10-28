@@ -1,0 +1,9 @@
+10.27.12
+
+I read a StackOverflow article:
+
+http://stackoverflow.com/questions/25567744/backup-neo4j-community-edition-offline-in-unix-mac-or-linux
+
+====
+
+It details how to backup/restore a local copy of neo4j.

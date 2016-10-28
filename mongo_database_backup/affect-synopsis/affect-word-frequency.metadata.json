@@ -1,0 +1,1 @@
+{ "options" : { "create" : "affect-word-frequency" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "affect-synopsis.affect-word-frequency", "name" : "_id_" } ] }

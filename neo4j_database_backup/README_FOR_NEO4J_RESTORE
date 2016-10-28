@@ -1,0 +1,31 @@
+I also ran into this issue and wrote following two codes:
+
+Make backup of momentary state
+
+
+service neo4j stop && now=$(date +"%m_%d_%Y") && cd /var/lib/neo4j/data/databases/ && tar -cvzf /var/backups/neo4j/$now.gb.tar.gz graph.db && service neo4j start
+
+service neo4j stop = stop the neo4j service
+now=$(date +"%m_%d_%Y") = declare the current date as variable
+cd /var/lib/neo4j/data/databases/ = change directories to your neo4j dir where the graph.db is located
+tar -cvzf /var/backups/neo4j/$now.gb.tar.gz graph.db = make a compressed copy of the graph.db and save it to /var/backups/neo4j/$now.gb.tar.gz
+service neo4j start = restart neo4j
+Restore neo4j database from a backup
+
+
+service neo4j stop && cd /var/lib/neo4j/data/databases/ && rm -r graph.db && tar xf /var/backups/neo4j/10_25_2016.gb.tar.gz -C /var/lib/neo4j/data/databases/ && service neo4j start
+
+service neo4j stop = stop the neo4j service
+cd /var/lib/neo4j/data/databases/ = change directories to your neo4j dir where the graph.db is located
+rm -r graph.db = remove the current graph.db and all its contents
+tar xf /var/backups/neo4j/10_25_2016.gb.tar.gz -C /var/lib/neo4j/data/databases/ = Extract the backup to the directory where the old graph.db was located. Be sure to adjust the filename 10_25_2016.gb.tar.gz to what you called your file
+service neo4j start = restart neo4j
+Info: This seems to work for me but as I do not have alot of experience with bash scripting I doubt this is the optimal way. But I think it is understandable and easy to customize :)
+
+Cheers
+
+shareimprove this answer
+answered 2 days ago
+
+Joran
+11511
