@@ -7,9 +7,11 @@ copious-affect-corpus is meant to maintain a growing corpus of human affects, ri
 
 * Then, use corpus_storage to build the processed corpora (affect-synopsis), like so:
 
-```
-<root>/corpus_storage/save_complete_object/all/
-```
+<pre>
+  <code>
+    (root)/corpus_storage/save_complete_object/all/
+  </code>
+</pre>
 
 # About the project
 #### Affect
