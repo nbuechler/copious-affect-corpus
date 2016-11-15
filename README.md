@@ -97,7 +97,7 @@ python app/runserver.py 5000
 
 
 # List of affects for this to data
-See the emotions spreadsheet in _unique_corpra
+See the pne of the 'emotion_list' spreadsheets in the directory at the root of this project: _unique_corpra
 
 # Also notes...
 * categories are thus the basis for grouping sets of r-emotion s
@@ -129,7 +129,7 @@ _for linux:_
 mongorestore --db affect-corpus ./mongo_database_backup/affect-corpus/
 ```
 
-for windows:
+_for windows:_
 ```
 mongorestore.exe --db affect-corpus C:\<root_dir>\copious-affect-corpus\mongo_database_backup\affect-corpus
 ```
@@ -151,5 +151,4 @@ Thesaurus service provided by words.bighugelabs.com:
 https://words.bighugelabs.com/api.php
 
 # License
-
 MIT
