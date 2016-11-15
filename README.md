@@ -1,17 +1,5 @@
-# copious-affect-corpus -- Goals
-copious-affect-corpus is meant to maintain a growing corpus of human affects, right now its only semantic information
-
-# High level documentation for using the api
-
-* Use corpus_buidler to build the raw corpora (affect-corpus).
-
-* Then, use corpus_storage to build the processed corpora (affect-synopsis), like so:
-
-<pre>
-  <code>
-    (root)/corpus_storage/save_complete_object/all/
-  </code>
-</pre>
+# copious-affect-corpus
+A growing corpora of affects, where an affect is a word, sound, or another sensation that indicates affect.
 
 # About the project
 #### Affect
@@ -61,6 +49,9 @@ The scope includes a corpus of ~400 r-emotions only mapping to semantic data.
 # Future Scope
 * Find other forms of affect to tie to r-emotions; i.e. other forms of affect include, facial expressions and sound/tone
 
+# Goals
+This project aims to maintain a growing corpus of human affects, right now its only semantic information but it could include physical, visual, or other information as this grows.
+
 # Tech stack
 It will use Flask to do the api. It will probably also be structured in a way that it can be used in other projects, otherwise this wouldn't be MIT Licensed.
 
@@ -76,6 +67,18 @@ It will use Flask to do the api. It will probably also be structured in a way th
 ```
 python app/runserver.py 5000
 ```
+
+# High level documentation for using the api
+
+* Use corpus_buidler to build the raw corpora (affect-corpus).
+
+* Then, use corpus_storage to build the processed corpora (affect-synopsis), like so:
+
+<pre>
+  <code>
+    (root)/corpus_storage/save_complete_object/all/
+  </code>
+</pre>
 
 # Requirements
 
@@ -94,9 +97,7 @@ python app/runserver.py 5000
 
 
 # List of affects for this to data
-```
 See the emotions spreadsheet in _unique_corpra
-```
 
 # Also notes...
 * categories are thus the basis for grouping sets of r-emotion s
@@ -109,31 +110,34 @@ See the emotions spreadsheet in _unique_corpra
 
 # Tech notes
 to export the mongo database:
+
+_for linux:_
 ```
-for linux:
 mongodump -d affect-corpus -o ./<dir name>
+```
 
 for windows:
-in my case...
+*(in my case...)*
+```
 mongodump.exe -d affect-corpus -o ..\..\..\..\..\Users\<USER>\<dir_name>
 ```
+
 to import the mongo database:
 
+_for linux:_
 ```
-for linux:
 mongorestore --db affect-corpus ./mongo_database_backup/affect-corpus/
+```
 
 for windows:
+```
 mongorestore.exe --db affect-corpus C:\<root_dir>\copious-affect-corpus\mongo_database_backup\affect-corpus
 ```
 
-## Note on mongorestore from docs
-
-```
+# Note on mongorestore from docs
 mongorestore can create a new database or add data to an existing database. However, mongorestore performs inserts only and does not perform updates. That is, if restoring documents to an existing database and collection and existing documents have the same value _id field as the to-be-restored documents, mongorestore will not overwrite those documents.
-```
 
-## Not on neo4j restore
+# Not on neo4j restore
 I added a tar compressed file on (10.27.16) and instructions for restoring the neo4j database to a state where the R-Emotions are linked to their respective affect-words (saves about 2 hours in the energetic-etl project)
 
 Source:
@@ -141,11 +145,10 @@ http://stackoverflow.com/questions/25567744/backup-neo4j-community-edition-offli
 
 
 # CREDITS
-```
-To build a corpus ('Be Excellent to Each Other')
-```
+_To build a corpus ('Be Excellent to Each Other')_
 
-_Thesaurus service provided by words.bighugelabs.com (https://words.bighugelabs.com/api.php)_
+Thesaurus service provided by words.bighugelabs.com:
+https://words.bighugelabs.com/api.php
 
 # License
 
