@@ -1,5 +1,5 @@
 # copious-affect-corpus
-A growing corpora of affects, where an affect is a word, sound, or another sensation that indicates affect.
+A growing corpora of affects, where an affect is a word, sound, or another sensation that indicates the presence of an emotion, specifically what I call an R-EMOTION (see below).
 
 # About the project
 #### Affect
