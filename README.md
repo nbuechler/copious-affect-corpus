@@ -137,7 +137,7 @@ mongorestore.exe --db affect-corpus C:\<root_dir>\copious-affect-corpus\mongo_da
 # Note on mongorestore from docs
 mongorestore can create a new database or add data to an existing database. However, mongorestore performs inserts only and does not perform updates. That is, if restoring documents to an existing database and collection and existing documents have the same value _id field as the to-be-restored documents, mongorestore will not overwrite those documents.
 
-# Not on neo4j restore
+# Note on neo4j restore
 I added a tar compressed file on (10.27.16) and instructions for restoring the neo4j database to a state where the R-Emotions are linked to their respective affect-words (saves about 2 hours in the energetic-etl project)
 
 Source:
